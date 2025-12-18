@@ -1,0 +1,11 @@
+filename,schedule_id,arm_name,intervention_type,screening,1_month,3_months,6_months,9_months,12_months,cycle_length_days,visit_pattern
+synthetic_schedule_01_complex_two.pdf,01,Arm A (Abemaciclib + Fulvestrant),intervention,2,4,10,16,23,28,28,"Cycles 1-3: Days 1, 8, 15; Cycles 4-12: Days 1, 15."
+synthetic_schedule_01_complex_two.pdf,01,Arm B (Fulvestrant),control,2,3,7,10,13,16,28,"Cycles 1-3: Days 1, 15; Cycles 4-12: Day 1 only."
+synthetic_schedule_02_moderate_two.pdf,02,Arm A (Nivolumab + Ipilimumab),intervention,2,4,9,16,18,19,21,Days 1 and 8 of each 21-day cycle (8 cycles total)
+synthetic_schedule_02_moderate_two.pdf,02,Arm B (Pemetrexed + Cisplatin),control,2,2,5,8,10,11,21,Day 1 of each 21-day cycle (8 cycles total)
+synthetic_schedule_03_moderate_two.pdf,03,Arm A (Durvalumab + Tremelimumab),intervention,2,3,7,13,20,21,28,Visits on Days 1 and 15 of each 28-day cycle for 9 months (Cycles 1-9).
+synthetic_schedule_03_moderate_two.pdf,03,Arm B (Sorafenib),control,2,2,4,7,11,12,28,Visits on Day 1 of each 28-day cycle for 9 months (Cycles 1-9).
+synthetic_schedule_04_simple_two.pdf,04,Arm A (Total Neoadjuvant Therapy (TNT) + Surgery),intervention,2,2,4,7,8,9,28,"Day 1 of each 28-day cycle (C1-C6), plus an End of Treatment (EOT) visit and follow-up visits at Months 9 and 12."
+synthetic_schedule_04_simple_two.pdf,04,Arm B (Chemoradiation + Surgery),control,2,2,4,7,8,9,28,"Day 1 of each 28-day cycle (C1-C6), plus an End of Treatment (EOT) visit and follow-up visits at Months 9 and 12."
+synthetic_schedule_05_moderate_two.pdf,05,Arm A (Olaparib + Abiraterone),intervention,2,3,7,12,14,15,28,Days 1 and 15 of each 28-day cycle for 6 months (Cycles 1-6).
+synthetic_schedule_05_moderate_two.pdf,05,Arm B (Abiraterone),control,2,2,4,6,8,9,28,Day 1 of each 28-day cycle for 6 months (Cycles 1-6).

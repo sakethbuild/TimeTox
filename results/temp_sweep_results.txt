@@ -1,0 +1,36 @@
+======================================================================
+TEMPERATURE SWEEP TEST
+======================================================================
+
+Uploading synthetic_schedules/synthetic_schedule_01_complex_two.pdf...
+Uploaded: https://generativelanguage.googleapis.com/v1beta/files/ysg8io8ydo9y
+
+Testing temp=0.1... OK  A_12mo=41, B_12mo=28
+Testing temp=0.2... OK  A_12mo=39, B_12mo=27
+Testing temp=0.3... OK  A_12mo=39, B_12mo=26
+Testing temp=0.4... OK  A_12mo=41, B_12mo=28
+Testing temp=0.5... OK  A_12mo=39, B_12mo=27
+
+================================================================================
+RESULTS: Median, IQR, Range
+================================================================================
+
+Arm A (Abemaciclib + Fulvestrant):
+  Window        Median    Q1    Q3   IQR      Range    GT   Err  Samples
+-------------------------------------------------------------------------------------
+  screening          1     1     1     0        1-1     2    -1  [1, 1, 1, 1, 1]
+  1_month            4     4     4     0        4-4     4    +0  [4, 4, 4, 4, 4]
+  3_months          10    10    10     0      10-10    11    -1  [10, 10, 10, 10, 10]
+  6_months          20    20    20     0      20-20    22    -2  [20, 20, 20, 20, 20]
+  9_months          31    31    31     0      30-31    33    -2  [31, 31, 30, 31, 31]
+  12_months         39    39    41     2      39-41    43    -4  [41, 39, 39, 41, 39]
+
+Arm B (Fulvestrant):
+  Window        Median    Q1    Q3   IQR      Range    GT   Err  Samples
+-------------------------------------------------------------------------------------
+  screening          1     1     1     0        1-1     2    -1  [1, 1, 1, 1, 1]
+  1_month            3     3     3     0        3-3     3    +0  [3, 3, 3, 3, 3]
+  3_months           7     7     7     0        7-7     8    -1  [7, 7, 7, 7, 7]
+  6_months          13    13    13     0      13-13    15    -2  [13, 13, 13, 13, 13]
+  9_months          21    21    21     0      20-21    23    -2  [21, 21, 20, 21, 21]
+  12_months         27    27    28     1      26-28    30    -3  [28, 27, 26, 28, 27]

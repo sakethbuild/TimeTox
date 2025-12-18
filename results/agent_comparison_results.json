@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-12-17T23:34:32.878106",
+  "num_pdfs": 5,
+  "results": {
+    "Baseline": {
+      "metrics": {
+        "exact_accuracy": 0.43333333333333335,
+        "clinical_accuracy": 0.8833333333333333,
+        "mae": 1.6666666666666667,
+        "total": 60,
+        "correct": 26,
+        "within_3": 53
+      },
+      "api_calls": 5
+    },
+    "Split Windows": {
+      "metrics": {
+        "exact_accuracy": 0.5166666666666667,
+        "clinical_accuracy": 0.9,
+        "mae": 1.2333333333333334,
+        "total": 60,
+        "correct": 31,
+        "within_3": 54
+      },
+      "api_calls": 10
+    },
+    "Probabilistic": {
+      "metrics": {
+        "exact_accuracy": 0.25,
+        "clinical_accuracy": 0.9,
+        "mae": 1.7333333333333334,
+        "total": 60,
+        "correct": 15,
+        "within_3": 54
+      },
+      "api_calls": 25
+    },
+    "Chain-of-Thought": {
+      "metrics": {
+        "exact_accuracy": 0.21666666666666667,
+        "clinical_accuracy": 0.7166666666666667,
+        "mae": 3.683333333333333,
+        "total": 60,
+        "correct": 13,
+        "within_3": 43
+      },
+      "api_calls": 5
+    },
+    "Bidirectional": {
+      "metrics": {
+        "exact_accuracy": 0.25,
+        "clinical_accuracy": 0.9,
+        "mae": 1.4666666666666666,
+        "total": 60,
+        "correct": 15,
+        "within_3": 54
+      },
+      "api_calls": 10
+    }
+  }
+}

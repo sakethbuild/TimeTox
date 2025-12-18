@@ -1,0 +1,6160 @@
+{
+  "temperatures": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "n_schedules": 5,
+  "overall_metrics": {
+    "exact_accuracy": 0.2611111111111111,
+    "clinical_accuracy": 0.9944444444444445,
+    "mae": 0.9388888888888889,
+    "total": 360,
+    "correct": 94,
+    "per_schedule": {
+      "01": {
+        "correct": 12,
+        "total": 72,
+        "details": [
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 20,
+            "ground_truth": 22,
+            "diff": 2
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 31,
+            "ground_truth": 33,
+            "diff": 2
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 39,
+            "ground_truth": 43,
+            "diff": 4
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 13,
+            "ground_truth": 15,
+            "diff": 2
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 21,
+            "ground_truth": 23,
+            "diff": 2
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 27,
+            "ground_truth": 30,
+            "diff": 3
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 20,
+            "ground_truth": 22,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 31,
+            "ground_truth": 33,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 42,
+            "ground_truth": 43,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 13,
+            "ground_truth": 15,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 21,
+            "ground_truth": 23,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 29,
+            "ground_truth": 30,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 11,
+            "ground_truth": 11,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 21,
+            "ground_truth": 22,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 32,
+            "ground_truth": 33,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 42,
+            "ground_truth": 43,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 3,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 8,
+            "ground_truth": 8,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 14,
+            "ground_truth": 15,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 22,
+            "ground_truth": 23,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 29,
+            "ground_truth": 30,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 20,
+            "ground_truth": 22,
+            "diff": 2
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 31,
+            "ground_truth": 33,
+            "diff": 2
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 39,
+            "ground_truth": 43,
+            "diff": 4
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 13,
+            "ground_truth": 15,
+            "diff": 2
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 21,
+            "ground_truth": 23,
+            "diff": 2
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 27,
+            "ground_truth": 30,
+            "diff": 3
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 11,
+            "ground_truth": 11,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 21,
+            "ground_truth": 22,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 32,
+            "ground_truth": 33,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 40,
+            "ground_truth": 43,
+            "diff": 3
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 3,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 8,
+            "ground_truth": 8,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 14,
+            "ground_truth": 15,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 22,
+            "ground_truth": 23,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 28,
+            "ground_truth": 30,
+            "diff": 2
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 11,
+            "ground_truth": 11,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 21,
+            "ground_truth": 22,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 32,
+            "ground_truth": 33,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 42,
+            "ground_truth": 43,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 3,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 8,
+            "ground_truth": 8,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 14,
+            "ground_truth": 15,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 22,
+            "ground_truth": 23,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 29,
+            "ground_truth": 30,
+            "diff": 1
+          }
+        ]
+      },
+      "02": {
+        "correct": 21,
+        "total": 72,
+        "details": [
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 9,
+            "ground_truth": 9,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 16,
+            "ground_truth": 19,
+            "diff": 3
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 18,
+            "ground_truth": 20,
+            "diff": 2
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 19,
+            "ground_truth": 21,
+            "diff": 2
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 11,
+            "ground_truth": 12,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 9,
+            "ground_truth": 9,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 16,
+            "ground_truth": 19,
+            "diff": 3
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 18,
+            "ground_truth": 20,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 19,
+            "ground_truth": 21,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 10,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 11,
+            "ground_truth": 12,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 9,
+            "ground_truth": 9,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 16,
+            "ground_truth": 19,
+            "diff": 3
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 18,
+            "ground_truth": 20,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 19,
+            "ground_truth": 21,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 11,
+            "ground_truth": 12,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 10,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 17,
+            "ground_truth": 19,
+            "diff": 2
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 19,
+            "ground_truth": 20,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 20,
+            "ground_truth": 21,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 6,
+            "ground_truth": 5,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 10,
+            "ground_truth": 10,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 11,
+            "ground_truth": 11,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 12,
+            "ground_truth": 12,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 10,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 17,
+            "ground_truth": 19,
+            "diff": 2
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 19,
+            "ground_truth": 20,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 20,
+            "ground_truth": 21,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 6,
+            "ground_truth": 5,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 11,
+            "ground_truth": 11,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 12,
+            "ground_truth": 12,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 9,
+            "ground_truth": 9,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 16,
+            "ground_truth": 19,
+            "diff": 3
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 18,
+            "ground_truth": 20,
+            "diff": 2
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 19,
+            "ground_truth": 21,
+            "diff": 2
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 11,
+            "ground_truth": 12,
+            "diff": 1
+          }
+        ]
+      },
+      "03": {
+        "correct": 24,
+        "total": 72,
+        "details": [
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 3,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 8,
+            "ground_truth": 7,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 14,
+            "ground_truth": 14,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 21,
+            "ground_truth": 22,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 22,
+            "ground_truth": 23,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 8,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 12,
+            "ground_truth": 12,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 13,
+            "ground_truth": 13,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 3,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 8,
+            "ground_truth": 7,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 14,
+            "ground_truth": 14,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 21,
+            "ground_truth": 22,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 22,
+            "ground_truth": 23,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 8,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 12,
+            "ground_truth": 12,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 13,
+            "ground_truth": 13,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 7,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 13,
+            "ground_truth": 14,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 20,
+            "ground_truth": 22,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 21,
+            "ground_truth": 23,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 11,
+            "ground_truth": 12,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 12,
+            "ground_truth": 13,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 3,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 8,
+            "ground_truth": 7,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 14,
+            "ground_truth": 14,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 21,
+            "ground_truth": 22,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 22,
+            "ground_truth": 23,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 8,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 12,
+            "ground_truth": 12,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 13,
+            "ground_truth": 13,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 3,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 8,
+            "ground_truth": 7,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 14,
+            "ground_truth": 14,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 21,
+            "ground_truth": 22,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 22,
+            "ground_truth": 23,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 8,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 12,
+            "ground_truth": 12,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 13,
+            "ground_truth": 13,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 7,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 13,
+            "ground_truth": 14,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 20,
+            "ground_truth": 22,
+            "diff": 2
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 21,
+            "ground_truth": 23,
+            "diff": 2
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 11,
+            "ground_truth": 12,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 12,
+            "ground_truth": 13,
+            "diff": 1
+          }
+        ]
+      },
+      "04": {
+        "correct": 12,
+        "total": 72,
+        "details": [
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 5,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 9,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 10,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 11,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 5,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 9,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 10,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 11,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 5,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 9,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 10,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 11,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 5,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 9,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 10,
+            "diff": 2
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 11,
+            "diff": 2
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 5,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 9,
+            "diff": 2
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 10,
+            "diff": 2
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 11,
+            "diff": 2
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 5,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 9,
+            "diff": 2
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 10,
+            "diff": 2
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 11,
+            "diff": 2
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 5,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 10,
+            "ground_truth": 11,
+            "diff": 1
+          }
+        ]
+      },
+      "05": {
+        "correct": 25,
+        "total": 72,
+        "details": [
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 7,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 12,
+            "ground_truth": 14,
+            "diff": 2
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 14,
+            "ground_truth": 15,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 15,
+            "ground_truth": 16,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.0,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 7,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 12,
+            "ground_truth": 14,
+            "diff": 2
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 14,
+            "ground_truth": 15,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 15,
+            "ground_truth": 16,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.1,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 4,
+            "ground_truth": 3,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 8,
+            "ground_truth": 7,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 13,
+            "ground_truth": 14,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 15,
+            "ground_truth": 15,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 16,
+            "ground_truth": 16,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 5,
+            "ground_truth": 4,
+            "diff": 1
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 8,
+            "ground_truth": 8,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 9,
+            "ground_truth": 9,
+            "diff": 0
+          },
+          {
+            "temp": 0.2,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 10,
+            "ground_truth": 10,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 7,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 12,
+            "ground_truth": 14,
+            "diff": 2
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 14,
+            "ground_truth": 15,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 15,
+            "ground_truth": 16,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.3,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 7,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 12,
+            "ground_truth": 14,
+            "diff": 2
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 14,
+            "ground_truth": 15,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 15,
+            "ground_truth": 16,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 7,
+            "ground_truth": 8,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.4,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "1_month",
+            "extracted": 3,
+            "ground_truth": 3,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "3_months",
+            "extracted": 7,
+            "ground_truth": 7,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "6_months",
+            "extracted": 12,
+            "ground_truth": 14,
+            "diff": 2
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "9_months",
+            "extracted": 14,
+            "ground_truth": 15,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "A",
+            "window": "12_months",
+            "extracted": 15,
+            "ground_truth": 16,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "screening",
+            "extracted": 1,
+            "ground_truth": 2,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "1_month",
+            "extracted": 2,
+            "ground_truth": 2,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "3_months",
+            "extracted": 4,
+            "ground_truth": 4,
+            "diff": 0
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "6_months",
+            "extracted": 6,
+            "ground_truth": 8,
+            "diff": 2
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "9_months",
+            "extracted": 8,
+            "ground_truth": 9,
+            "diff": 1
+          },
+          {
+            "temp": 0.5,
+            "arm": "B",
+            "window": "12_months",
+            "extracted": 9,
+            "ground_truth": 10,
+            "diff": 1
+          }
+        ]
+      }
+    }
+  },
+  "overall_stats": {
+    "A": {
+      "screening": {
+        "median": 1.0,
+        "q1": 1,
+        "q3": 1,
+        "iqr": 0,
+        "min": 1,
+        "max": 1,
+        "n_samples": 30
+      },
+      "1_month": {
+        "median": 4.0,
+        "q1": 3,
+        "q3": 4,
+        "iqr": 1,
+        "min": 2,
+        "max": 5,
+        "n_samples": 30
+      },
+      "3_months": {
+        "median": 8.0,
+        "q1": 7,
+        "q3": 10,
+        "iqr": 3,
+        "min": 4,
+        "max": 11,
+        "n_samples": 30
+      },
+      "6_months": {
+        "median": 14.0,
+        "q1": 12,
+        "q3": 17,
+        "iqr": 5,
+        "min": 7,
+        "max": 21,
+        "n_samples": 30
+      },
+      "9_months": {
+        "median": 18.0,
+        "q1": 14,
+        "q3": 21,
+        "iqr": 7,
+        "min": 8,
+        "max": 32,
+        "n_samples": 30
+      },
+      "12_months": {
+        "median": 19.0,
+        "q1": 15,
+        "q3": 22,
+        "iqr": 7,
+        "min": 9,
+        "max": 42,
+        "n_samples": 30
+      }
+    },
+    "B": {
+      "screening": {
+        "median": 1.0,
+        "q1": 1,
+        "q3": 1,
+        "iqr": 0,
+        "min": 1,
+        "max": 1,
+        "n_samples": 30
+      },
+      "1_month": {
+        "median": 3.0,
+        "q1": 2,
+        "q3": 3,
+        "iqr": 1,
+        "min": 2,
+        "max": 4,
+        "n_samples": 30
+      },
+      "3_months": {
+        "median": 5.0,
+        "q1": 4,
+        "q3": 6,
+        "iqr": 2,
+        "min": 4,
+        "max": 8,
+        "n_samples": 30
+      },
+      "6_months": {
+        "median": 8.0,
+        "q1": 7,
+        "q3": 9,
+        "iqr": 2,
+        "min": 6,
+        "max": 14,
+        "n_samples": 30
+      },
+      "9_months": {
+        "median": 10.0,
+        "q1": 8,
+        "q3": 12,
+        "iqr": 4,
+        "min": 8,
+        "max": 22,
+        "n_samples": 30
+      },
+      "12_months": {
+        "median": 11.0,
+        "q1": 9,
+        "q3": 13,
+        "iqr": 4,
+        "min": 9,
+        "max": 29,
+        "n_samples": 30
+      }
+    }
+  },
+  "per_temperature": {
+    "0.0": {
+      "exact_accuracy": 0.26666666666666666,
+      "clinical_accuracy": 0.9833333333333333,
+      "mae": 0.9666666666666667,
+      "total": 60,
+      "correct": 16,
+      "per_schedule": {
+        "01": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 20,
+              "ground_truth": 22,
+              "diff": 2
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 31,
+              "ground_truth": 33,
+              "diff": 2
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 39,
+              "ground_truth": 43,
+              "diff": 4
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 13,
+              "ground_truth": 15,
+              "diff": 2
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 21,
+              "ground_truth": 23,
+              "diff": 2
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 27,
+              "ground_truth": 30,
+              "diff": 3
+            }
+          ]
+        },
+        "02": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 9,
+              "ground_truth": 9,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 16,
+              "ground_truth": 19,
+              "diff": 3
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 18,
+              "ground_truth": 20,
+              "diff": 2
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 19,
+              "ground_truth": 21,
+              "diff": 2
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 11,
+              "ground_truth": 12,
+              "diff": 1
+            }
+          ]
+        },
+        "03": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 3,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 8,
+              "ground_truth": 7,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 14,
+              "ground_truth": 14,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 21,
+              "ground_truth": 22,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 22,
+              "ground_truth": 23,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 8,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 12,
+              "ground_truth": 12,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 13,
+              "ground_truth": 13,
+              "diff": 0
+            }
+          ]
+        },
+        "04": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            }
+          ]
+        },
+        "05": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 7,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 12,
+              "ground_truth": 14,
+              "diff": 2
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 14,
+              "ground_truth": 15,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 15,
+              "ground_truth": 16,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.0,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            }
+          ]
+        }
+      }
+    },
+    "0.1": {
+      "exact_accuracy": 0.26666666666666666,
+      "clinical_accuracy": 1.0,
+      "mae": 1.0,
+      "total": 60,
+      "correct": 16,
+      "per_schedule": {
+        "01": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 20,
+              "ground_truth": 22,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 31,
+              "ground_truth": 33,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 42,
+              "ground_truth": 43,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 13,
+              "ground_truth": 15,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 21,
+              "ground_truth": 23,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 29,
+              "ground_truth": 30,
+              "diff": 1
+            }
+          ]
+        },
+        "02": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 9,
+              "ground_truth": 9,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 16,
+              "ground_truth": 19,
+              "diff": 3
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 18,
+              "ground_truth": 20,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 19,
+              "ground_truth": 21,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 10,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 11,
+              "ground_truth": 12,
+              "diff": 1
+            }
+          ]
+        },
+        "03": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 3,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 8,
+              "ground_truth": 7,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 14,
+              "ground_truth": 14,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 21,
+              "ground_truth": 22,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 22,
+              "ground_truth": 23,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 8,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 12,
+              "ground_truth": 12,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 13,
+              "ground_truth": 13,
+              "diff": 0
+            }
+          ]
+        },
+        "04": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 5,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 9,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 10,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 11,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 5,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 9,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 10,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 11,
+              "diff": 2
+            }
+          ]
+        },
+        "05": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 7,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 12,
+              "ground_truth": 14,
+              "diff": 2
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 14,
+              "ground_truth": 15,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 15,
+              "ground_truth": 16,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.1,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            }
+          ]
+        }
+      }
+    },
+    "0.2": {
+      "exact_accuracy": 0.2833333333333333,
+      "clinical_accuracy": 1.0,
+      "mae": 0.9166666666666666,
+      "total": 60,
+      "correct": 17,
+      "per_schedule": {
+        "01": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 11,
+              "ground_truth": 11,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 21,
+              "ground_truth": 22,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 32,
+              "ground_truth": 33,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 42,
+              "ground_truth": 43,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 3,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 8,
+              "ground_truth": 8,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 14,
+              "ground_truth": 15,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 22,
+              "ground_truth": 23,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 29,
+              "ground_truth": 30,
+              "diff": 1
+            }
+          ]
+        },
+        "02": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 9,
+              "ground_truth": 9,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 16,
+              "ground_truth": 19,
+              "diff": 3
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 18,
+              "ground_truth": 20,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 19,
+              "ground_truth": 21,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 11,
+              "ground_truth": 12,
+              "diff": 1
+            }
+          ]
+        },
+        "03": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 7,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 13,
+              "ground_truth": 14,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 20,
+              "ground_truth": 22,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 21,
+              "ground_truth": 23,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 11,
+              "ground_truth": 12,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 12,
+              "ground_truth": 13,
+              "diff": 1
+            }
+          ]
+        },
+        "04": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 5,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 9,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 10,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 11,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 5,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 9,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 10,
+              "diff": 2
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 11,
+              "diff": 2
+            }
+          ]
+        },
+        "05": {
+          "correct": 5,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 3,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 8,
+              "ground_truth": 7,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 13,
+              "ground_truth": 14,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 15,
+              "ground_truth": 15,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 16,
+              "ground_truth": 16,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 8,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 9,
+              "ground_truth": 9,
+              "diff": 0
+            },
+            {
+              "temp": 0.2,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 10,
+              "ground_truth": 10,
+              "diff": 0
+            }
+          ]
+        }
+      }
+    },
+    "0.3": {
+      "exact_accuracy": 0.25,
+      "clinical_accuracy": 0.9833333333333333,
+      "mae": 0.9333333333333333,
+      "total": 60,
+      "correct": 15,
+      "per_schedule": {
+        "01": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 20,
+              "ground_truth": 22,
+              "diff": 2
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 31,
+              "ground_truth": 33,
+              "diff": 2
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 39,
+              "ground_truth": 43,
+              "diff": 4
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 13,
+              "ground_truth": 15,
+              "diff": 2
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 21,
+              "ground_truth": 23,
+              "diff": 2
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 27,
+              "ground_truth": 30,
+              "diff": 3
+            }
+          ]
+        },
+        "02": {
+          "correct": 3,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 10,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 17,
+              "ground_truth": 19,
+              "diff": 2
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 19,
+              "ground_truth": 20,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 20,
+              "ground_truth": 21,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 6,
+              "ground_truth": 5,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 10,
+              "ground_truth": 10,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 11,
+              "ground_truth": 11,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 12,
+              "ground_truth": 12,
+              "diff": 0
+            }
+          ]
+        },
+        "03": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 3,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 8,
+              "ground_truth": 7,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 14,
+              "ground_truth": 14,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 21,
+              "ground_truth": 22,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 22,
+              "ground_truth": 23,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 8,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 12,
+              "ground_truth": 12,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 13,
+              "ground_truth": 13,
+              "diff": 0
+            }
+          ]
+        },
+        "04": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            }
+          ]
+        },
+        "05": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 7,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 12,
+              "ground_truth": 14,
+              "diff": 2
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 14,
+              "ground_truth": 15,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 15,
+              "ground_truth": 16,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.3,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            }
+          ]
+        }
+      }
+    },
+    "0.4": {
+      "exact_accuracy": 0.23333333333333334,
+      "clinical_accuracy": 1.0,
+      "mae": 0.95,
+      "total": 60,
+      "correct": 14,
+      "per_schedule": {
+        "01": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 11,
+              "ground_truth": 11,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 21,
+              "ground_truth": 22,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 32,
+              "ground_truth": 33,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 40,
+              "ground_truth": 43,
+              "diff": 3
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 3,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 8,
+              "ground_truth": 8,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 14,
+              "ground_truth": 15,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 22,
+              "ground_truth": 23,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 28,
+              "ground_truth": 30,
+              "diff": 2
+            }
+          ]
+        },
+        "02": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 10,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 17,
+              "ground_truth": 19,
+              "diff": 2
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 19,
+              "ground_truth": 20,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 20,
+              "ground_truth": 21,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 6,
+              "ground_truth": 5,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 11,
+              "ground_truth": 11,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 12,
+              "ground_truth": 12,
+              "diff": 0
+            }
+          ]
+        },
+        "03": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 3,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 8,
+              "ground_truth": 7,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 14,
+              "ground_truth": 14,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 21,
+              "ground_truth": 22,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 22,
+              "ground_truth": 23,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 8,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 12,
+              "ground_truth": 12,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 13,
+              "ground_truth": 13,
+              "diff": 0
+            }
+          ]
+        },
+        "04": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 5,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 9,
+              "diff": 2
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 10,
+              "diff": 2
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 11,
+              "diff": 2
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 5,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 9,
+              "diff": 2
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 10,
+              "diff": 2
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 11,
+              "diff": 2
+            }
+          ]
+        },
+        "05": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 7,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 12,
+              "ground_truth": 14,
+              "diff": 2
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 14,
+              "ground_truth": 15,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 15,
+              "ground_truth": 16,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.4,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            }
+          ]
+        }
+      }
+    },
+    "0.5": {
+      "exact_accuracy": 0.26666666666666666,
+      "clinical_accuracy": 1.0,
+      "mae": 0.8666666666666667,
+      "total": 60,
+      "correct": 16,
+      "per_schedule": {
+        "01": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 5,
+              "ground_truth": 4,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 11,
+              "ground_truth": 11,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 21,
+              "ground_truth": 22,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 32,
+              "ground_truth": 33,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 42,
+              "ground_truth": 43,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 3,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 8,
+              "ground_truth": 8,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 14,
+              "ground_truth": 15,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 22,
+              "ground_truth": 23,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 29,
+              "ground_truth": 30,
+              "diff": 1
+            }
+          ]
+        },
+        "02": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 9,
+              "ground_truth": 9,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 16,
+              "ground_truth": 19,
+              "diff": 3
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 18,
+              "ground_truth": 20,
+              "diff": 2
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 19,
+              "ground_truth": 21,
+              "diff": 2
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 11,
+              "ground_truth": 12,
+              "diff": 1
+            }
+          ]
+        },
+        "03": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 7,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 13,
+              "ground_truth": 14,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 20,
+              "ground_truth": 22,
+              "diff": 2
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 21,
+              "ground_truth": 23,
+              "diff": 2
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 7,
+              "ground_truth": 8,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 11,
+              "ground_truth": 12,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 12,
+              "ground_truth": 13,
+              "diff": 1
+            }
+          ]
+        },
+        "04": {
+          "correct": 2,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 5,
+              "ground_truth": 5,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 10,
+              "ground_truth": 11,
+              "diff": 1
+            }
+          ]
+        },
+        "05": {
+          "correct": 4,
+          "total": 12,
+          "details": [
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "1_month",
+              "extracted": 3,
+              "ground_truth": 3,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "3_months",
+              "extracted": 7,
+              "ground_truth": 7,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "6_months",
+              "extracted": 12,
+              "ground_truth": 14,
+              "diff": 2
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "9_months",
+              "extracted": 14,
+              "ground_truth": 15,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "A",
+              "window": "12_months",
+              "extracted": 15,
+              "ground_truth": 16,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "screening",
+              "extracted": 1,
+              "ground_truth": 2,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "1_month",
+              "extracted": 2,
+              "ground_truth": 2,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "3_months",
+              "extracted": 4,
+              "ground_truth": 4,
+              "diff": 0
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "6_months",
+              "extracted": 6,
+              "ground_truth": 8,
+              "diff": 2
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "9_months",
+              "extracted": 8,
+              "ground_truth": 9,
+              "diff": 1
+            },
+            {
+              "temp": 0.5,
+              "arm": "B",
+              "window": "12_months",
+              "extracted": 9,
+              "ground_truth": 10,
+              "diff": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

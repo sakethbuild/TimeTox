@@ -1,0 +1,41 @@
+schedule_id,complexity,arms,arm,category,disease,cycle_days,treatment_months,visit_days,has_radiation,has_surgery,screening_days,month1_days,month3_days,month6_days,month9_days,month12_days,notes
+01,complex,two,A,breast,HR+/HER2- Breast Cancer,28,12,"1,8,15",False,False,2,4,11,22,33,43,Abemaciclib + Fulvestrant; 28-day cycles; Systemic
+01,complex,two,B,breast,HR+/HER2- Breast Cancer,28,12,"1,15",False,False,2,3,8,15,23,30,Fulvestrant; 28-day cycles; Systemic
+02,moderate,two,A,thoracic,Malignant Pleural Mesothelioma,21,6,"1,8",False,False,2,4,9,19,20,21,Nivolumab + Ipilimumab; 21-day cycles; Systemic
+02,moderate,two,B,thoracic,Malignant Pleural Mesothelioma,21,6,1,False,False,2,2,5,10,11,12,Pemetrexed + Cisplatin; 21-day cycles; Systemic
+03,moderate,two,A,gi,Hepatocellular Carcinoma (HCC),28,9,"1,15",False,False,2,3,7,14,22,23,Durvalumab + Tremelimumab; 28-day cycles; Systemic
+03,moderate,two,B,gi,Hepatocellular Carcinoma (HCC),28,9,1,False,False,2,2,4,8,12,13,Sorafenib; 28-day cycles; Systemic
+04,simple,two,A,gi,Locally Advanced Rectal Cancer,28,6,1,False,True,2,2,5,9,10,11,Total Neoadjuvant Therapy (TNT) + Surgery; 28-day cycles; Surgery
+04,simple,two,B,gi,Locally Advanced Rectal Cancer,28,6,1,False,True,2,2,5,9,10,11,Chemoradiation + Surgery; 28-day cycles; Surgery
+05,moderate,two,A,gu,Metastatic Castration-Resistant Prostate Cancer (mCRPC),28,6,"1,15",False,False,2,3,7,14,15,16,Olaparib + Abiraterone; 28-day cycles; Systemic
+05,moderate,two,B,gu,Metastatic Castration-Resistant Prostate Cancer (mCRPC),28,6,1,False,False,2,2,4,8,9,10,Abiraterone; 28-day cycles; Systemic
+06,moderate,two,A,head_neck,Head and Neck Squamous Cell Carcinoma (HNSCC),7,6,1,True,False,2,5,14,28,29,30,Definitive Chemoradiation + Pembrolizumab; 7-day cycles; RT
+06,moderate,two,B,head_neck,Head and Neck Squamous Cell Carcinoma (HNSCC),7,6,1,True,False,2,5,14,28,29,30,Definitive Chemoradiation; 7-day cycles; RT
+07,complex,two,A,melanoma,Resected Stage III Melanoma,28,12,"1,8,15",False,False,2,4,11,22,33,43,Adjuvant Pembrolizumab; 28-day cycles; Systemic
+07,complex,two,B,melanoma,Resected Stage III Melanoma,28,12,"1,15",False,False,2,3,8,15,23,30,Observation; 28-day cycles; Systemic
+08,complex,two,A,gyn,Advanced Ovarian Cancer,21,12,"1,8,15",False,False,2,5,14,28,42,56,Niraparib Maintenance; 21-day cycles; Systemic
+08,complex,two,B,gyn,Advanced Ovarian Cancer,21,12,"1,8",False,False,2,4,10,20,29,39,Observation; 21-day cycles; Systemic
+09,moderate,two,A,sarcoma,Soft Tissue Sarcoma,7,6,1,True,True,2,5,14,28,29,30,Neoadjuvant RT + Surgery; 7-day cycles; RT+Surgery
+09,moderate,two,B,sarcoma,Soft Tissue Sarcoma,7,6,1,True,True,2,5,14,28,29,30,Surgery + Adjuvant RT; 7-day cycles; RT+Surgery
+10,moderate,two,A,thoracic,Non-Small Cell Lung Cancer (NSCLC),7,2,1,True,False,2,5,10,10,11,12,Durvalumab + Chemoradiation; 7-day cycles; RT
+10,moderate,two,B,thoracic,Non-Small Cell Lung Cancer (NSCLC),7,2,1,True,False,2,5,10,10,11,12,Chemoradiation Alone; 7-day cycles; RT
+11,complex,two,A,gi,Metastatic Colorectal Cancer (mCRC),28,9,"1,8,15",False,False,2,4,11,22,33,34,Pembrolizumab; 28-day cycles; Systemic
+11,complex,two,B,gi,Metastatic Colorectal Cancer (mCRC),28,9,"1,15",False,False,2,3,8,15,23,24,Investigator's Choice Chemotherapy; 28-day cycles; Systemic
+12,moderate,two,A,gu,Metastatic Castration-Resistant Prostate Cancer (mCRPC),21,12,"1,8",False,False,2,4,9,19,27,37,Olaparib + Abiraterone; 21-day cycles; Systemic
+12,moderate,two,B,gu,Metastatic Castration-Resistant Prostate Cancer (mCRPC),21,12,1,False,False,2,2,5,10,14,20,Abiraterone; 21-day cycles; Systemic
+13,simple,two,A,breast,Triple-Negative Breast Cancer,28,6,1,False,False,2,2,4,8,9,10,Pembrolizumab + Chemotherapy; 28-day cycles; Systemic
+13,simple,two,B,breast,Triple-Negative Breast Cancer,28,6,1,False,False,2,2,4,8,9,10,Chemotherapy; 28-day cycles; Systemic
+14,moderate,two,A,thoracic,Small Cell Lung Cancer (SCLC),28,9,"1,15",False,False,2,3,7,14,22,23,Atezolizumab + Carboplatin + Etoposide; 28-day cycles; Systemic
+14,moderate,two,B,thoracic,Small Cell Lung Cancer (SCLC),28,9,1,False,False,2,2,4,8,12,13,Carboplatin + Etoposide; 28-day cycles; Systemic
+15,simple,two,A,gi,Hepatocellular Carcinoma (HCC),35,6,1,False,False,2,1,3,7,8,9,Atezolizumab + Bevacizumab; 35-day cycles; Systemic
+15,simple,two,B,gi,Hepatocellular Carcinoma (HCC),35,6,1,False,False,2,1,3,7,8,9,Sorafenib; 35-day cycles; Systemic
+16,complex,two,A,melanoma,Unresectable/Metastatic Melanoma,28,12,"1,8,15",False,False,2,4,11,22,33,43,Nivolumab + Relatlimab; 28-day cycles; Systemic
+16,complex,two,B,melanoma,Unresectable/Metastatic Melanoma,28,12,"1,15",False,False,2,3,8,15,23,30,Nivolumab; 28-day cycles; Systemic
+17,moderate,two,A,gyn,Cervical Cancer,7,6,1,True,False,2,5,14,28,29,30,Pembrolizumab + Chemoradiation; 7-day cycles; RT
+17,moderate,two,B,gyn,Cervical Cancer,7,6,1,True,False,2,5,14,28,29,30,Chemoradiation; 7-day cycles; RT
+18,moderate,two,A,gi,Gastric/GEJ Adenocarcinoma,28,6,"1,15",False,False,2,3,7,14,15,16,Nivolumab + FOLFOX; 28-day cycles; Systemic
+18,moderate,two,B,gi,Gastric/GEJ Adenocarcinoma,28,6,1,False,False,2,2,4,8,9,10,FOLFOX; 28-day cycles; Systemic
+19,simple,two,A,thoracic,Small Cell Lung Cancer (SCLC),28,6,1,False,False,2,2,4,8,9,10,Atezolizumab + Carboplatin + Etoposide; 28-day cycles; Systemic
+19,simple,two,B,thoracic,Small Cell Lung Cancer (SCLC),28,6,1,False,False,2,2,4,8,9,10,Carboplatin + Etoposide; 28-day cycles; Systemic
+20,simple,two,A,gu,Localized Prostate Cancer,7,2,1,True,False,2,5,10,10,11,12,SBRT (5 fractions); 7-day cycles; RT
+20,simple,two,B,gu,Localized Prostate Cancer,7,2,1,True,False,2,5,10,10,11,12,Conventional RT (39 fractions); 7-day cycles; RT

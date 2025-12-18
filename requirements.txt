@@ -1,0 +1,5 @@
+weasyprint>=60.0
+
+# TimeTox validation script dependencies
+google-genai>=1.0.0
+python-dotenv>=1.0.0

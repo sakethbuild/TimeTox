@@ -1,0 +1,2335 @@
+{
+  "timestamp": "2025-12-18T13:02:21.641989",
+  "model": "gemini-2.0-flash",
+  "metrics": {
+    "total": 240,
+    "exact_match": 0,
+    "within_3": 99,
+    "exact_accuracy": 0.0,
+    "clinical_accuracy": 0.4125,
+    "mae": 9.341666666666667,
+    "window_stats": {
+      "screening": {
+        "total": 40,
+        "exact": 0,
+        "within_3": 36,
+        "errors": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          8,
+          8,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          7,
+          7,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "1_month": {
+        "total": 40,
+        "exact": 0,
+        "within_3": 33,
+        "errors": [
+          3,
+          2,
+          4,
+          2,
+          3,
+          1,
+          3,
+          2,
+          1,
+          1,
+          1,
+          1,
+          3,
+          1,
+          4,
+          2,
+          1,
+          1,
+          6,
+          6,
+          2,
+          2,
+          6,
+          3,
+          2,
+          2,
+          2,
+          1,
+          3,
+          2,
+          6,
+          4,
+          1,
+          1,
+          3,
+          2,
+          2,
+          2,
+          1,
+          1
+        ]
+      },
+      "3_months": {
+        "total": 40,
+        "exact": 0,
+        "within_3": 12,
+        "errors": [
+          8,
+          5,
+          12,
+          4,
+          11,
+          5,
+          9,
+          8,
+          3,
+          3,
+          1,
+          1,
+          8,
+          2,
+          13,
+          8,
+          1,
+          1,
+          1,
+          1,
+          7,
+          7,
+          17,
+          8,
+          8,
+          8,
+          4,
+          3,
+          9,
+          6,
+          16,
+          11,
+          1,
+          1,
+          10,
+          6,
+          6,
+          6,
+          6,
+          6
+        ]
+      },
+      "6_months": {
+        "total": 40,
+        "exact": 0,
+        "within_3": 6,
+        "errors": [
+          15,
+          10,
+          23,
+          8,
+          22,
+          10,
+          17,
+          16,
+          6,
+          5,
+          2,
+          2,
+          15,
+          4,
+          26,
+          16,
+          2,
+          2,
+          10,
+          10,
+          14,
+          15,
+          33,
+          15,
+          16,
+          16,
+          6,
+          5,
+          17,
+          11,
+          32,
+          22,
+          2,
+          2,
+          21,
+          12,
+          8,
+          8,
+          6,
+          6
+        ]
+      },
+      "9_months": {
+        "total": 40,
+        "exact": 0,
+        "within_3": 6,
+        "errors": [
+          22,
+          14,
+          23,
+          8,
+          32,
+          15,
+          17,
+          17,
+          6,
+          5,
+          2,
+          2,
+          22,
+          5,
+          39,
+          25,
+          2,
+          2,
+          10,
+          10,
+          21,
+          22,
+          51,
+          23,
+          16,
+          16,
+          7,
+          7,
+          17,
+          11,
+          48,
+          32,
+          2,
+          2,
+          21,
+          12,
+          8,
+          8,
+          6,
+          6
+        ]
+      },
+      "12_months": {
+        "total": 40,
+        "exact": 0,
+        "within_3": 6,
+        "errors": [
+          30,
+          19,
+          23,
+          8,
+          33,
+          16,
+          17,
+          17,
+          6,
+          5,
+          2,
+          2,
+          30,
+          6,
+          53,
+          42,
+          2,
+          2,
+          11,
+          11,
+          22,
+          23,
+          67,
+          29,
+          16,
+          16,
+          8,
+          8,
+          17,
+          11,
+          66,
+          44,
+          2,
+          2,
+          21,
+          12,
+          8,
+          8,
+          6,
+          6
+        ]
+      }
+    },
+    "complexity_stats": {
+      "simple": {
+        "total": 60,
+        "exact": 0,
+        "within_3": 18
+      },
+      "moderate": {
+        "total": 120,
+        "exact": 0,
+        "within_3": 65
+      },
+      "complex": {
+        "total": 60,
+        "exact": 0,
+        "within_3": 16
+      }
+    }
+  },
+  "per_schedule": [
+    {
+      "schedule_id": "01",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 7,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 11,
+              "ext": 19,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 22,
+              "ext": 37,
+              "diff": 15,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 33,
+              "ext": 55,
+              "diff": 22,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 43,
+              "ext": 73,
+              "diff": 30,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "HR+/HER2- Breast Cancer"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 5,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 8,
+              "ext": 13,
+              "diff": 5,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 15,
+              "ext": 25,
+              "diff": 10,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 23,
+              "ext": 37,
+              "diff": 14,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 49,
+              "diff": 19,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "HR+/HER2- Breast Cancer"
+        }
+      }
+    },
+    {
+      "schedule_id": "02",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 8,
+              "diff": 4,
+              "match": false,
+              "within_3": false
+            },
+            "3_months": {
+              "gt": 9,
+              "ext": 21,
+              "diff": 12,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 19,
+              "ext": 42,
+              "diff": 23,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 20,
+              "ext": 43,
+              "diff": 23,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 21,
+              "ext": 44,
+              "diff": 23,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Malignant Pleural Mesothelioma"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 4,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 5,
+              "ext": 9,
+              "diff": 4,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 10,
+              "ext": 18,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 11,
+              "ext": 19,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 12,
+              "ext": 20,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Malignant Pleural Mesothelioma"
+        }
+      }
+    },
+    {
+      "schedule_id": "03",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 6,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 7,
+              "ext": 18,
+              "diff": 11,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 14,
+              "ext": 36,
+              "diff": 22,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 22,
+              "ext": 54,
+              "diff": 32,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 23,
+              "ext": 56,
+              "diff": 33,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Hepatocellular Carcinoma (HCC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 3,
+              "diff": 1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 9,
+              "diff": 5,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 18,
+              "diff": 10,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 12,
+              "ext": 27,
+              "diff": 15,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 13,
+              "ext": 29,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Hepatocellular Carcinoma (HCC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "04",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 10,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 5,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 5,
+              "ext": 14,
+              "diff": 9,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 9,
+              "ext": 26,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 10,
+              "ext": 27,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 11,
+              "ext": 28,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Locally Advanced Rectal Cancer"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 10,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 4,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 5,
+              "ext": 13,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 9,
+              "ext": 25,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 10,
+              "ext": 27,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 11,
+              "ext": 28,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Locally Advanced Rectal Cancer"
+        }
+      }
+    },
+    {
+      "schedule_id": "05",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 4,
+              "diff": 1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 7,
+              "ext": 10,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 14,
+              "ext": 20,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 15,
+              "ext": 21,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 16,
+              "ext": 22,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Metastatic Castration-Resistant Prostate Cancer (mCRPC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 3,
+              "diff": 1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 7,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 13,
+              "diff": 5,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 9,
+              "ext": 14,
+              "diff": 5,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 10,
+              "ext": 15,
+              "diff": 5,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Metastatic Castration-Resistant Prostate Cancer (mCRPC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "06",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 14,
+              "ext": 13,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 28,
+              "ext": 26,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 29,
+              "ext": 27,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 28,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Head and Neck Squamous Cell Carcinoma (HNSCC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 14,
+              "ext": 13,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 28,
+              "ext": 26,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 29,
+              "ext": 27,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 28,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Head and Neck Squamous Cell Carcinoma (HNSCC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "07",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 7,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 11,
+              "ext": 19,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 22,
+              "ext": 37,
+              "diff": 15,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 33,
+              "ext": 55,
+              "diff": 22,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 43,
+              "ext": 73,
+              "diff": 30,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "Resected Stage III Melanoma"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 4,
+              "diff": 1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 8,
+              "ext": 10,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 15,
+              "ext": 19,
+              "diff": 4,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 23,
+              "ext": 28,
+              "diff": 5,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 36,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "Resected Stage III Melanoma"
+        }
+      }
+    },
+    {
+      "schedule_id": "08",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 9,
+              "diff": 7,
+              "match": false,
+              "within_3": false
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 9,
+              "diff": 4,
+              "match": false,
+              "within_3": false
+            },
+            "3_months": {
+              "gt": 14,
+              "ext": 27,
+              "diff": 13,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 28,
+              "ext": 54,
+              "diff": 26,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 42,
+              "ext": 81,
+              "diff": 39,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 56,
+              "ext": 109,
+              "diff": 53,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "Advanced Ovarian Cancer"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 9,
+              "diff": 7,
+              "match": false,
+              "within_3": false
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 6,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 10,
+              "ext": 18,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 20,
+              "ext": 36,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 29,
+              "ext": 54,
+              "diff": 25,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 39,
+              "ext": 81,
+              "diff": 42,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "Advanced Ovarian Cancer"
+        }
+      }
+    },
+    {
+      "schedule_id": "09",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 14,
+              "ext": 13,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 28,
+              "ext": 26,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 29,
+              "ext": 27,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 28,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Soft Tissue Sarcoma"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 14,
+              "ext": 13,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 28,
+              "ext": 26,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 29,
+              "ext": 27,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 28,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Soft Tissue Sarcoma"
+        }
+      }
+    },
+    {
+      "schedule_id": "10",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 11,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "3_months": {
+              "gt": 10,
+              "ext": 11,
+              "diff": 1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 10,
+              "ext": 0,
+              "diff": -10,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 11,
+              "ext": 1,
+              "diff": -10,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 12,
+              "ext": 1,
+              "diff": -11,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Non-Small Cell Lung Cancer (NSCLC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 11,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "3_months": {
+              "gt": 10,
+              "ext": 11,
+              "diff": 1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 10,
+              "ext": 0,
+              "diff": -10,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 11,
+              "ext": 1,
+              "diff": -10,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 12,
+              "ext": 1,
+              "diff": -11,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Non-Small Cell Lung Cancer (NSCLC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "11",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 6,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 11,
+              "ext": 18,
+              "diff": 7,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 22,
+              "ext": 36,
+              "diff": 14,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 33,
+              "ext": 54,
+              "diff": 21,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 34,
+              "ext": 56,
+              "diff": 22,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "Metastatic Colorectal Cancer (mCRC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 5,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 8,
+              "ext": 15,
+              "diff": 7,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 15,
+              "ext": 30,
+              "diff": 15,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 23,
+              "ext": 45,
+              "diff": 22,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 24,
+              "ext": 47,
+              "diff": 23,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "Metastatic Colorectal Cancer (mCRC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "12",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 10,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "3_months": {
+              "gt": 9,
+              "ext": 26,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 19,
+              "ext": 52,
+              "diff": 33,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 27,
+              "ext": 78,
+              "diff": 51,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 37,
+              "ext": 104,
+              "diff": 67,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Metastatic Castration-Resistant Prostate Cancer (mCRPC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 5,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 5,
+              "ext": 13,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 10,
+              "ext": 25,
+              "diff": 15,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 14,
+              "ext": 37,
+              "diff": 23,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 20,
+              "ext": 49,
+              "diff": 29,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Metastatic Castration-Resistant Prostate Cancer (mCRPC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "13",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 4,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 12,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 24,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 9,
+              "ext": 25,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 10,
+              "ext": 26,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Triple-Negative Breast Cancer"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 4,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 12,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 24,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 9,
+              "ext": 25,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 10,
+              "ext": 26,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Triple-Negative Breast Cancer"
+        }
+      }
+    },
+    {
+      "schedule_id": "14",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 5,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 7,
+              "ext": 11,
+              "diff": 4,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 14,
+              "ext": 20,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 22,
+              "ext": 29,
+              "diff": 7,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 23,
+              "ext": 31,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Small Cell Lung Cancer (SCLC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 3,
+              "diff": 1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 7,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 13,
+              "diff": 5,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 12,
+              "ext": 19,
+              "diff": 7,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 13,
+              "ext": 21,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Small Cell Lung Cancer (SCLC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "15",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 1,
+              "ext": 4,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 3,
+              "ext": 12,
+              "diff": 9,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 7,
+              "ext": 24,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 8,
+              "ext": 25,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 9,
+              "ext": 26,
+              "diff": 17,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Hepatocellular Carcinoma (HCC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 1,
+              "ext": 3,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 3,
+              "ext": 9,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 7,
+              "ext": 18,
+              "diff": 11,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 8,
+              "ext": 19,
+              "diff": 11,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 9,
+              "ext": 20,
+              "diff": 11,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Hepatocellular Carcinoma (HCC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "16",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 10,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "3_months": {
+              "gt": 11,
+              "ext": 27,
+              "diff": 16,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 22,
+              "ext": 54,
+              "diff": 32,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 33,
+              "ext": 81,
+              "diff": 48,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 43,
+              "ext": 109,
+              "diff": 66,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "Unresectable/Metastatic Melanoma"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 7,
+              "diff": 4,
+              "match": false,
+              "within_3": false
+            },
+            "3_months": {
+              "gt": 8,
+              "ext": 19,
+              "diff": 11,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 15,
+              "ext": 37,
+              "diff": 22,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 23,
+              "ext": 55,
+              "diff": 32,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 74,
+              "diff": 44,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "Unresectable/Metastatic Melanoma"
+        }
+      }
+    },
+    {
+      "schedule_id": "17",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 14,
+              "ext": 13,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 28,
+              "ext": 26,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 29,
+              "ext": 27,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 28,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Cervical Cancer"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 14,
+              "ext": 13,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 28,
+              "ext": 26,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 29,
+              "ext": 27,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 28,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Cervical Cancer"
+        }
+      }
+    },
+    {
+      "schedule_id": "18",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 6,
+              "diff": 3,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 7,
+              "ext": 17,
+              "diff": 10,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 14,
+              "ext": 35,
+              "diff": 21,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 15,
+              "ext": 36,
+              "diff": 21,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 16,
+              "ext": 37,
+              "diff": 21,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Gastric/GEJ Adenocarcinoma"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 4,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 10,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 20,
+              "diff": 12,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 9,
+              "ext": 21,
+              "diff": 12,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 10,
+              "ext": 22,
+              "diff": 12,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Gastric/GEJ Adenocarcinoma"
+        }
+      }
+    },
+    {
+      "schedule_id": "19",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 4,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 10,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 16,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 9,
+              "ext": 17,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 10,
+              "ext": 18,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Small Cell Lung Cancer (SCLC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 4,
+              "diff": 2,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 10,
+              "diff": 6,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 16,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 9,
+              "ext": 17,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 10,
+              "ext": 18,
+              "diff": 8,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Small Cell Lung Cancer (SCLC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "20",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 10,
+              "ext": 4,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 10,
+              "ext": 4,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 11,
+              "ext": 5,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 12,
+              "ext": 6,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Localized Prostate Cancer"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 10,
+              "ext": 4,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            },
+            "6_months": {
+              "gt": 10,
+              "ext": 4,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 11,
+              "ext": 5,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 12,
+              "ext": 6,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "simple",
+          "disease": "Localized Prostate Cancer"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "experiment": "two_stage_pipeline",
+  "timestamp": "20251218_151742",
+  "num_schedules": 2,
+  "model": "gemini-3-flash-preview",
+  "summary_metrics": {
+    "exact_accuracy": 0.16666666666666666,
+    "clinical_accuracy": 1.0,
+    "mae": 1.0,
+    "total_comparisons": 24,
+    "exact_matches": 4,
+    "within_3": 24
+  },
+  "per_schedule_results": [
+    {
+      "schedule_id": "01",
+      "pdf_path": "/Users/rkouzy/Protocol_TimeTox/experiments/two_stage/../../synthetic_schedules/synthetic_schedule_01_complex_two.pdf",
+      "complexity": "complex",
+      "disease": "HR+/HER2- Breast Cancer",
+      "structure": {
+        "protocol_info": {
+          "disease": "HR+/HER2- Breast Cancer",
+          "treatment_duration_months": 12
+        },
+        "arms": [
+          {
+            "arm_name": "Arm A (Abemaciclib + Fulvestrant)",
+            "intervention_type": "intervention",
+            "cycle_length_days": 28,
+            "visit_days_per_cycle": [
+              1,
+              8,
+              15
+            ],
+            "visits_per_cycle": 3,
+            "legend_text": "Arm A (Abemaciclib + Fulvestrant): Visits on Days 1, 8, 15 of each 28-day cycle for 12 months"
+          },
+          {
+            "arm_name": "Arm B (Fulvestrant)",
+            "intervention_type": "control",
+            "cycle_length_days": 28,
+            "visit_days_per_cycle": [
+              1,
+              15
+            ],
+            "visits_per_cycle": 2,
+            "legend_text": "Arm B (Fulvestrant): Visits on Days 1, 15 of each 28-day cycle for 12 months"
+          }
+        ],
+        "special_visits": {
+          "screening_days": 28,
+          "eot_visit": true,
+          "m9_followup": true,
+          "m12_followup": true
+        }
+      },
+      "cycle_length": 28,
+      "arm_a_visits_per_cycle": 3,
+      "arm_b_visits_per_cycle": 2,
+      "treatment_months": 12,
+      "extracted": {
+        "A": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 11,
+          "6_months": 21,
+          "9_months": 32,
+          "12_months": 40
+        },
+        "B": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 14,
+          "9_months": 22,
+          "12_months": 28
+        }
+      },
+      "metrics_A": {
+        "windows": {
+          "screening": {
+            "gt": 2,
+            "extracted": 1,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "1_month": {
+            "gt": 4,
+            "extracted": 5,
+            "diff": 1,
+            "match": false,
+            "within_3": true
+          },
+          "3_months": {
+            "gt": 11,
+            "extracted": 11,
+            "diff": 0,
+            "match": true,
+            "within_3": true
+          },
+          "6_months": {
+            "gt": 22,
+            "extracted": 21,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "9_months": {
+            "gt": 33,
+            "extracted": 32,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "12_months": {
+            "gt": 43,
+            "extracted": 40,
+            "diff": -3,
+            "match": false,
+            "within_3": true
+          }
+        },
+        "exact_matches": 1,
+        "within_3": 6,
+        "total_error": 7,
+        "exact_accuracy": 0.16666666666666666,
+        "clinical_accuracy": 1.0,
+        "mae": 1.1666666666666667
+      },
+      "metrics_B": {
+        "windows": {
+          "screening": {
+            "gt": 2,
+            "extracted": 1,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "1_month": {
+            "gt": 3,
+            "extracted": 4,
+            "diff": 1,
+            "match": false,
+            "within_3": true
+          },
+          "3_months": {
+            "gt": 8,
+            "extracted": 8,
+            "diff": 0,
+            "match": true,
+            "within_3": true
+          },
+          "6_months": {
+            "gt": 15,
+            "extracted": 14,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "9_months": {
+            "gt": 23,
+            "extracted": 22,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "12_months": {
+            "gt": 30,
+            "extracted": 28,
+            "diff": -2,
+            "match": false,
+            "within_3": true
+          }
+        },
+        "exact_matches": 1,
+        "within_3": 6,
+        "total_error": 6,
+        "exact_accuracy": 0.16666666666666666,
+        "clinical_accuracy": 1.0,
+        "mae": 1.0
+      },
+      "breakdown_A": {
+        "total_cycles": 12,
+        "treatment_visits": 36,
+        "screening_visits": 1,
+        "eot_visits": 1,
+        "followup_visits": 2,
+        "total_visits": 40
+      },
+      "breakdown_B": {
+        "total_cycles": 12,
+        "treatment_visits": 24,
+        "screening_visits": 1,
+        "eot_visits": 1,
+        "followup_visits": 2,
+        "total_visits": 28
+      }
+    },
+    {
+      "schedule_id": "02",
+      "pdf_path": "/Users/rkouzy/Protocol_TimeTox/experiments/two_stage/../../synthetic_schedules/synthetic_schedule_02_moderate_two.pdf",
+      "complexity": "moderate",
+      "disease": "Malignant Pleural Mesothelioma",
+      "structure": {
+        "protocol_info": {
+          "disease": "Malignant Pleural Mesothelioma",
+          "treatment_duration_months": 6
+        },
+        "arms": [
+          {
+            "arm_name": "Arm A (Nivolumab + Ipilimumab)",
+            "intervention_type": "intervention",
+            "cycle_length_days": 21,
+            "visit_days_per_cycle": [
+              1,
+              8
+            ],
+            "visits_per_cycle": 2,
+            "legend_text": "Arm A (Nivolumab + Ipilimumab): Visits on Days 1, 8 of each 21-day cycle for 6 months"
+          },
+          {
+            "arm_name": "Arm B (Pemetrexed + Cisplatin)",
+            "intervention_type": "control",
+            "cycle_length_days": 21,
+            "visit_days_per_cycle": [
+              1
+            ],
+            "visits_per_cycle": 1,
+            "legend_text": "Arm B (Pemetrexed + Cisplatin): Visits on Days 1 of each 21-day cycle for 6 months"
+          }
+        ],
+        "special_visits": {
+          "screening_days": 21,
+          "eot_visit": true,
+          "m9_followup": true,
+          "m12_followup": true
+        }
+      },
+      "cycle_length": 21,
+      "arm_a_visits_per_cycle": 2,
+      "arm_b_visits_per_cycle": 1,
+      "treatment_months": 6,
+      "extracted": {
+        "A": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 10,
+          "6_months": 17,
+          "9_months": 19,
+          "12_months": 20
+        },
+        "B": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 6,
+          "6_months": 9,
+          "9_months": 11,
+          "12_months": 12
+        }
+      },
+      "metrics_A": {
+        "windows": {
+          "screening": {
+            "gt": 2,
+            "extracted": 1,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "1_month": {
+            "gt": 4,
+            "extracted": 5,
+            "diff": 1,
+            "match": false,
+            "within_3": true
+          },
+          "3_months": {
+            "gt": 9,
+            "extracted": 10,
+            "diff": 1,
+            "match": false,
+            "within_3": true
+          },
+          "6_months": {
+            "gt": 19,
+            "extracted": 17,
+            "diff": -2,
+            "match": false,
+            "within_3": true
+          },
+          "9_months": {
+            "gt": 20,
+            "extracted": 19,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "12_months": {
+            "gt": 21,
+            "extracted": 20,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          }
+        },
+        "exact_matches": 0,
+        "within_3": 6,
+        "total_error": 7,
+        "exact_accuracy": 0.0,
+        "clinical_accuracy": 1.0,
+        "mae": 1.1666666666666667
+      },
+      "metrics_B": {
+        "windows": {
+          "screening": {
+            "gt": 2,
+            "extracted": 1,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "1_month": {
+            "gt": 2,
+            "extracted": 3,
+            "diff": 1,
+            "match": false,
+            "within_3": true
+          },
+          "3_months": {
+            "gt": 5,
+            "extracted": 6,
+            "diff": 1,
+            "match": false,
+            "within_3": true
+          },
+          "6_months": {
+            "gt": 10,
+            "extracted": 9,
+            "diff": -1,
+            "match": false,
+            "within_3": true
+          },
+          "9_months": {
+            "gt": 11,
+            "extracted": 11,
+            "diff": 0,
+            "match": true,
+            "within_3": true
+          },
+          "12_months": {
+            "gt": 12,
+            "extracted": 12,
+            "diff": 0,
+            "match": true,
+            "within_3": true
+          }
+        },
+        "exact_matches": 2,
+        "within_3": 6,
+        "total_error": 4,
+        "exact_accuracy": 0.3333333333333333,
+        "clinical_accuracy": 1.0,
+        "mae": 0.6666666666666666
+      },
+      "breakdown_A": {
+        "total_cycles": 8,
+        "treatment_visits": 16,
+        "screening_visits": 1,
+        "eot_visits": 1,
+        "followup_visits": 2,
+        "total_visits": 20
+      },
+      "breakdown_B": {
+        "total_cycles": 8,
+        "treatment_visits": 8,
+        "screening_visits": 1,
+        "eot_visits": 1,
+        "followup_visits": 2,
+        "total_visits": 12
+      }
+    }
+  ]
+}

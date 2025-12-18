@@ -1,0 +1,176 @@
+{
+  "schedule_20": {
+    "schedule_id": "20",
+    "pdf_path": "synthetic_schedules/synthetic_schedule_20_simple_two.pdf",
+    "complexity": "simple",
+    "disease": "Localized Prostate Cancer",
+    "structure": {
+      "protocol_info": {
+        "disease": "Localized Prostate Cancer",
+        "treatment_duration_months": 2
+      },
+      "arms": [
+        {
+          "arm_name": "Arm A (SBRT (5 fractions))",
+          "intervention_type": "intervention",
+          "cycle_length_days": 7,
+          "visit_days_per_cycle": [
+            1
+          ],
+          "visits_per_cycle": 1,
+          "legend_text": "Arm A (SBRT (5 fractions)): Visits on Days 1 of each 7-day cycle for 2 months"
+        },
+        {
+          "arm_name": "Arm B (Conventional RT (39 fractions))",
+          "intervention_type": "control",
+          "cycle_length_days": 7,
+          "visit_days_per_cycle": [
+            1
+          ],
+          "visits_per_cycle": 1,
+          "legend_text": "Arm B (Conventional RT (39 fractions)): Visits on Days 1 of each 7-day cycle for 2 months"
+        }
+      ],
+      "special_visits": {
+        "screening_days": 7,
+        "eot_visit": true,
+        "m9_followup": true,
+        "m12_followup": true
+      }
+    },
+    "cycle_length": 7,
+    "arm_a_visits_per_cycle": 1,
+    "arm_b_visits_per_cycle": 1,
+    "treatment_months": 2,
+    "extracted": {
+      "A": {
+        "screening": 7,
+        "1_month": 12,
+        "3_months": 16,
+        "6_months": 16,
+        "9_months": 17,
+        "12_months": 18
+      },
+      "B": {
+        "screening": 7,
+        "1_month": 12,
+        "3_months": 16,
+        "6_months": 16,
+        "9_months": 17,
+        "12_months": 18
+      }
+    },
+    "metrics_A": {
+      "windows": {
+        "screening": {
+          "gt": 2,
+          "extracted": 7,
+          "diff": 5,
+          "match": false,
+          "within_3": false
+        },
+        "1_month": {
+          "gt": 5,
+          "extracted": 12,
+          "diff": 7,
+          "match": false,
+          "within_3": false
+        },
+        "3_months": {
+          "gt": 10,
+          "extracted": 16,
+          "diff": 6,
+          "match": false,
+          "within_3": false
+        },
+        "6_months": {
+          "gt": 10,
+          "extracted": 16,
+          "diff": 6,
+          "match": false,
+          "within_3": false
+        },
+        "9_months": {
+          "gt": 11,
+          "extracted": 17,
+          "diff": 6,
+          "match": false,
+          "within_3": false
+        },
+        "12_months": {
+          "gt": 12,
+          "extracted": 18,
+          "diff": 6,
+          "match": false,
+          "within_3": false
+        }
+      },
+      "exact_matches": 0,
+      "within_3": 0,
+      "total_error": 36,
+      "exact_accuracy": 0.0,
+      "clinical_accuracy": 0.0,
+      "mae": 6.0
+    },
+    "metrics_B": {
+      "windows": {
+        "screening": {
+          "gt": 2,
+          "extracted": 7,
+          "diff": 5,
+          "match": false,
+          "within_3": false
+        },
+        "1_month": {
+          "gt": 5,
+          "extracted": 12,
+          "diff": 7,
+          "match": false,
+          "within_3": false
+        },
+        "3_months": {
+          "gt": 10,
+          "extracted": 16,
+          "diff": 6,
+          "match": false,
+          "within_3": false
+        },
+        "6_months": {
+          "gt": 10,
+          "extracted": 16,
+          "diff": 6,
+          "match": false,
+          "within_3": false
+        },
+        "9_months": {
+          "gt": 11,
+          "extracted": 17,
+          "diff": 6,
+          "match": false,
+          "within_3": false
+        },
+        "12_months": {
+          "gt": 12,
+          "extracted": 18,
+          "diff": 6,
+          "match": false,
+          "within_3": false
+        }
+      },
+      "exact_matches": 0,
+      "within_3": 0,
+      "total_error": 36,
+      "exact_accuracy": 0.0,
+      "clinical_accuracy": 0.0,
+      "mae": 6.0
+    },
+    "breakdown_B": {
+      "total_cycles": 8,
+      "treatment_visits": 8,
+      "screening_visits": 7,
+      "eot_visits": 1,
+      "followup_visits": 2,
+      "total_visits": 18
+    }
+  }
+}

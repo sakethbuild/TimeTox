@@ -1,0 +1,1079 @@
+{
+  "experiment": "chained_split_window",
+  "timestamp": "2025-12-18T13:28:43.991232",
+  "model": "gemini-3-flash-preview",
+  "temperature": 0.1,
+  "description": "Two-stage extraction: First window (up to 3 months), Second window (rest with context)",
+  "metrics": {
+    "total": 60,
+    "exact_match": 20,
+    "within_3": 54,
+    "exact_accuracy": 0.3333333333333333,
+    "clinical_accuracy": 0.9,
+    "mae": 1.6666666666666667,
+    "window_stats": {
+      "screening": {
+        "total": 10,
+        "exact": 4,
+        "within_3": 10,
+        "errors": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "1_month": {
+        "total": 10,
+        "exact": 10,
+        "within_3": 10,
+        "errors": []
+      },
+      "3_months": {
+        "total": 10,
+        "exact": 6,
+        "within_3": 10,
+        "errors": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "6_months": {
+        "total": 10,
+        "exact": 0,
+        "within_3": 8,
+        "errors": [
+          6,
+          5,
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2
+        ]
+      },
+      "9_months": {
+        "total": 10,
+        "exact": 0,
+        "within_3": 8,
+        "errors": [
+          10,
+          10,
+          2,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "12_months": {
+        "total": 10,
+        "exact": 0,
+        "within_3": 8,
+        "errors": [
+          14,
+          13,
+          2,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    "complexity_stats": {
+      "simple": {
+        "total": 12,
+        "exact": 2,
+        "within_3": 12
+      },
+      "moderate": {
+        "total": 36,
+        "exact": 14,
+        "within_3": 36
+      },
+      "complex": {
+        "total": 12,
+        "exact": 4,
+        "within_3": 6
+      }
+    }
+  },
+  "per_schedule": [
+    {
+      "schedule_id": "01",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 4,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 11,
+              "ext": 10,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 22,
+              "ext": 16,
+              "diff": -6,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 33,
+              "ext": 23,
+              "diff": -10,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 43,
+              "ext": 29,
+              "diff": -14,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "HR+/HER2- Breast Cancer"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 3,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 8,
+              "ext": 7,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 15,
+              "ext": 10,
+              "diff": -5,
+              "match": false,
+              "within_3": false
+            },
+            "9_months": {
+              "gt": 23,
+              "ext": 13,
+              "diff": -10,
+              "match": false,
+              "within_3": false
+            },
+            "12_months": {
+              "gt": 30,
+              "ext": 17,
+              "diff": -13,
+              "match": false,
+              "within_3": false
+            }
+          },
+          "complexity": "complex",
+          "disease": "HR+/HER2- Breast Cancer"
+        }
+      }
+    },
+    {
+      "schedule_id": "02",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 4,
+              "ext": 4,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 9,
+              "ext": 9,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 19,
+              "ext": 16,
+              "diff": -3,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 20,
+              "ext": 18,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 21,
+              "ext": 19,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Malignant Pleural Mesothelioma"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 5,
+              "ext": 5,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 10,
+              "ext": 9,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 11,
+              "ext": 10,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 12,
+              "ext": 11,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Malignant Pleural Mesothelioma"
+        }
+      }
+    },
+    {
+      "schedule_id": "03",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 3,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 7,
+              "ext": 7,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 14,
+              "ext": 13,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 22,
+              "ext": 20,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 23,
+              "ext": 21,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Hepatocellular Carcinoma (HCC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 4,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 7,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 12,
+              "ext": 11,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 13,
+              "ext": 12,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Hepatocellular Carcinoma (HCC)"
+        }
+      }
+    },
+    {
+      "schedule_id": "04",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 9,
+              "ext": 8,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 10,
+              "ext": 9,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 11,
+              "ext": 10,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "simple",
+          "disease": "Locally Advanced Rectal Cancer"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 5,
+              "ext": 4,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 9,
+              "ext": 8,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 10,
+              "ext": 9,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 11,
+              "ext": 10,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "simple",
+          "disease": "Locally Advanced Rectal Cancer"
+        }
+      }
+    },
+    {
+      "schedule_id": "05",
+      "arms": {
+        "A": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 3,
+              "ext": 3,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 7,
+              "ext": 7,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 14,
+              "ext": 12,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 15,
+              "ext": 14,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 16,
+              "ext": 15,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Metastatic Castration-Resistant Prostate Cancer (mCRPC)"
+        },
+        "B": {
+          "windows": {
+            "screening": {
+              "gt": 2,
+              "ext": 1,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "1_month": {
+              "gt": 2,
+              "ext": 2,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "3_months": {
+              "gt": 4,
+              "ext": 4,
+              "diff": 0,
+              "match": true,
+              "within_3": true
+            },
+            "6_months": {
+              "gt": 8,
+              "ext": 6,
+              "diff": -2,
+              "match": false,
+              "within_3": true
+            },
+            "9_months": {
+              "gt": 9,
+              "ext": 8,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            },
+            "12_months": {
+              "gt": 10,
+              "ext": 9,
+              "diff": -1,
+              "match": false,
+              "within_3": true
+            }
+          },
+          "complexity": "moderate",
+          "disease": "Metastatic Castration-Resistant Prostate Cancer (mCRPC)"
+        }
+      }
+    }
+  ],
+  "raw_extractions": [
+    {
+      "filename": "synthetic_schedule_01_complex_two.pdf",
+      "schedule_id": "01",
+      "arms": [
+        {
+          "arm_name": "Arm A (Abemaciclib + Fulvestrant)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 4,
+            "3_months": 10,
+            "6_months": 16,
+            "9_months": 23,
+            "12_months": 29
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 12,
+            "visit_pattern": "Arm A: Days 1, 8, and 15 for cycles 1-3; Days 1 and 15 for cycles 4-12. Screening count (2) based on footnote 'a' stating 1-2 visits are required."
+          }
+        },
+        {
+          "arm_name": "Arm B (Fulvestrant)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 3,
+            "3_months": 7,
+            "6_months": 10,
+            "9_months": 13,
+            "12_months": 17
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 12,
+            "visit_pattern": "Arm B: Days 1 and 15 for cycles 1-3; Day 1 only for cycles 4-12. Screening count (2) based on footnote 'a' stating 1-2 visits are required."
+          }
+        }
+      ],
+      "first_window_raw": [
+        {
+          "arm_name": "Arm A (Abemaciclib + Fulvestrant)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 4,
+            "3_months": 10
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 12,
+            "visit_pattern": "Arm A: Days 1, 8, and 15 for cycles 1-3; Days 1 and 15 for cycles 4-12. Screening count (2) based on footnote 'a' stating 1-2 visits are required."
+          }
+        },
+        {
+          "arm_name": "Arm B (Fulvestrant)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 3,
+            "3_months": 7
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 12,
+            "visit_pattern": "Arm B: Days 1 and 15 for cycles 1-3; Day 1 only for cycles 4-12. Screening count (2) based on footnote 'a' stating 1-2 visits are required."
+          }
+        }
+      ],
+      "second_window_raw": [
+        {
+          "arm_name": "Arm A (Abemaciclib + Fulvestrant)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "6_months": 16,
+            "9_months": 23,
+            "12_months": 29
+          }
+        },
+        {
+          "arm_name": "Arm B (Fulvestrant)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "6_months": 10,
+            "9_months": 13,
+            "12_months": 17
+          }
+        }
+      ],
+      "api_calls": 2
+    },
+    {
+      "filename": "synthetic_schedule_02_moderate_two.pdf",
+      "schedule_id": "02",
+      "arms": [
+        {
+          "arm_name": "Arm A (Nivolumab + Ipilimumab)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 4,
+            "3_months": 9,
+            "6_months": 16,
+            "9_months": 18,
+            "12_months": 19
+          },
+          "extraction_notes": {
+            "cycle_length_days": 21,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Visits occur on Days 1 and 8 of each 21-day cycle. Within 1 month (Day 30), visits occur on Day 1, 8, 22, and 29. Within 3 months (Day 90), visits occur on Day 1, 8, 22, 29, 43, 50, 64, 71, and 85."
+          }
+        },
+        {
+          "arm_name": "Arm B (Pemetrexed + Cisplatin)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 5,
+            "6_months": 9,
+            "9_months": 10,
+            "12_months": 11
+          },
+          "extraction_notes": {
+            "cycle_length_days": 21,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Visits occur on Day 1 of each 21-day cycle. Within 1 month (Day 30), visits occur on Day 1 and 22. Within 3 months (Day 90), visits occur on Day 1, 22, 43, 64, and 85."
+          }
+        }
+      ],
+      "first_window_raw": [
+        {
+          "arm_name": "Arm A (Nivolumab + Ipilimumab)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 4,
+            "3_months": 9
+          },
+          "extraction_notes": {
+            "cycle_length_days": 21,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Visits occur on Days 1 and 8 of each 21-day cycle. Within 1 month (Day 30), visits occur on Day 1, 8, 22, and 29. Within 3 months (Day 90), visits occur on Day 1, 8, 22, 29, 43, 50, 64, 71, and 85."
+          }
+        },
+        {
+          "arm_name": "Arm B (Pemetrexed + Cisplatin)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 5
+          },
+          "extraction_notes": {
+            "cycle_length_days": 21,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Visits occur on Day 1 of each 21-day cycle. Within 1 month (Day 30), visits occur on Day 1 and 22. Within 3 months (Day 90), visits occur on Day 1, 22, 43, 64, and 85."
+          }
+        }
+      ],
+      "second_window_raw": [
+        {
+          "arm_name": "Arm A (Nivolumab + Ipilimumab)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "6_months": 16,
+            "9_months": 18,
+            "12_months": 19
+          }
+        },
+        {
+          "arm_name": "Arm B (Pemetrexed + Cisplatin)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "6_months": 9,
+            "9_months": 10,
+            "12_months": 11
+          }
+        }
+      ],
+      "api_calls": 2
+    },
+    {
+      "filename": "synthetic_schedule_03_moderate_two.pdf",
+      "schedule_id": "03",
+      "arms": [
+        {
+          "arm_name": "Arm A (Durvalumab + Tremelimumab)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 3,
+            "3_months": 7,
+            "6_months": 13,
+            "9_months": 20,
+            "12_months": 21
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 9,
+            "visit_pattern": "Days 1 and 15 of each 28-day cycle"
+          }
+        },
+        {
+          "arm_name": "Arm B (Sorafenib)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 2,
+            "3_months": 4,
+            "6_months": 7,
+            "9_months": 11,
+            "12_months": 12
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 9,
+            "visit_pattern": "Day 1 of each 28-day cycle"
+          }
+        }
+      ],
+      "first_window_raw": [
+        {
+          "arm_name": "Arm A (Durvalumab + Tremelimumab)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 3,
+            "3_months": 7
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 9,
+            "visit_pattern": "Days 1 and 15 of each 28-day cycle"
+          }
+        },
+        {
+          "arm_name": "Arm B (Sorafenib)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 2,
+            "3_months": 4
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 9,
+            "visit_pattern": "Day 1 of each 28-day cycle"
+          }
+        }
+      ],
+      "second_window_raw": [
+        {
+          "arm_name": "Arm A (Durvalumab + Tremelimumab)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "6_months": 13,
+            "9_months": 20,
+            "12_months": 21
+          }
+        },
+        {
+          "arm_name": "Arm B (Sorafenib)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "6_months": 7,
+            "9_months": 11,
+            "12_months": 12
+          }
+        }
+      ],
+      "api_calls": 2
+    },
+    {
+      "filename": "synthetic_schedule_04_simple_two.pdf",
+      "schedule_id": "04",
+      "arms": [
+        {
+          "arm_name": "Arm A (Total Neoadjuvant Therapy (TNT) + Surgery)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 4,
+            "6_months": 8,
+            "9_months": 9,
+            "12_months": 10
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Day 1 of each 28-day cycle (C1D1, C2D1, C3D1, C4D1, C5D1, C6D1)"
+          }
+        },
+        {
+          "arm_name": "Arm B (Chemoradiation + Surgery)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 4,
+            "6_months": 8,
+            "9_months": 9,
+            "12_months": 10
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Day 1 of each 28-day cycle (C1D1, C2D1, C3D1, C4D1, C5D1, C6D1)"
+          }
+        }
+      ],
+      "first_window_raw": [
+        {
+          "arm_name": "Arm A (Total Neoadjuvant Therapy (TNT) + Surgery)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 4
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Day 1 of each 28-day cycle (C1D1, C2D1, C3D1, C4D1, C5D1, C6D1)"
+          }
+        },
+        {
+          "arm_name": "Arm B (Chemoradiation + Surgery)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 4
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Day 1 of each 28-day cycle (C1D1, C2D1, C3D1, C4D1, C5D1, C6D1)"
+          }
+        }
+      ],
+      "second_window_raw": [
+        {
+          "arm_name": "Arm A (Total Neoadjuvant Therapy (TNT) + Surgery)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "6_months": 8,
+            "9_months": 9,
+            "12_months": 10
+          }
+        },
+        {
+          "arm_name": "Arm B (Chemoradiation + Surgery)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "6_months": 8,
+            "9_months": 9,
+            "12_months": 10
+          }
+        }
+      ],
+      "api_calls": 2
+    },
+    {
+      "filename": "synthetic_schedule_05_moderate_two.pdf",
+      "schedule_id": "05",
+      "arms": [
+        {
+          "arm_name": "Arm A (Olaparib + Abiraterone)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 3,
+            "3_months": 7,
+            "6_months": 12,
+            "9_months": 14,
+            "12_months": 15
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Days 1 and 15 of each 28-day cycle"
+          }
+        },
+        {
+          "arm_name": "Arm B (Abiraterone)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 4,
+            "6_months": 6,
+            "9_months": 8,
+            "12_months": 9
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Day 1 of each 28-day cycle"
+          }
+        }
+      ],
+      "first_window_raw": [
+        {
+          "arm_name": "Arm A (Olaparib + Abiraterone)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 3,
+            "3_months": 7
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Days 1 and 15 of each 28-day cycle"
+          }
+        },
+        {
+          "arm_name": "Arm B (Abiraterone)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 4
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 6,
+            "visit_pattern": "Day 1 of each 28-day cycle"
+          }
+        }
+      ],
+      "second_window_raw": [
+        {
+          "arm_name": "Arm A (Olaparib + Abiraterone)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "6_months": 12,
+            "9_months": 14,
+            "12_months": 15
+          }
+        },
+        {
+          "arm_name": "Arm B (Abiraterone)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "6_months": 6,
+            "9_months": 8,
+            "12_months": 9
+          }
+        }
+      ],
+      "api_calls": 2
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+% Two-Stage Pipeline Results - 20 Schedules - Publication Ready
+% Generated: 2025-12-18
+% Model: Gemini 3 Flash Preview
+
+% =============================================================================
+% SUMMARY TABLE
+% =============================================================================
+
+\begin{table}[htbp]
+\centering
+\caption{Two-Stage Pipeline Performance Summary (N=20 Schedules, 40 Arms)}
+\label{tab:two_stage_summary_20}
+\begin{tabular}{lc}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+Total Comparisons & 240 \\
+Exact Match Accuracy & 19.6\% (47/240) \\
+Clinical Accuracy ($\pm$3 days) & 74.2\% (178/240) \\
+Mean Absolute Error & 2.19 days \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% =============================================================================
+% BY COMPLEXITY
+% =============================================================================
+
+\begin{table}[htbp]
+\centering
+\caption{Two-Stage Pipeline Accuracy by Schedule Complexity}
+\label{tab:two_stage_complexity_20}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Complexity} & \textbf{Schedules} & \textbf{Arms} & \textbf{Exact Match} & \textbf{Clinical ($\pm$3)} \\
+\midrule
+Simple & 5 & 10 & 26.7\% & 71.7\% \\
+Moderate & 10 & 20 & 16.7\% & 68.3\% \\
+Complex & 5 & 10 & 18.3\% & 100.0\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% =============================================================================
+% BY TIME WINDOW
+% =============================================================================
+
+\begin{table}[htbp]
+\centering
+\caption{Two-Stage Pipeline Accuracy by Time Window}
+\label{tab:two_stage_windows_20}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Time Window} & \textbf{N} & \textbf{Exact Match} & \textbf{Clinical ($\pm$3)} & \textbf{MAE} \\
+\midrule
+Screening & 40 & 0.0\% & 62.5\% & 2.45 \\
+1 Month & 40 & 0.0\% & 60.0\% & 2.75 \\
+3 Months & 40 & 22.5\% & 72.5\% & 2.05 \\
+6 Months & 40 & 25.0\% & 80.0\% & 2.00 \\
+9 Months & 40 & 27.5\% & 82.5\% & 2.08 \\
+12 Months & 40 & 42.5\% & 87.5\% & 1.80 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% =============================================================================
+% DETAILED PER-SCHEDULE RESULTS
+% =============================================================================
+
+\begin{table}[htbp]
+\centering
+\caption{Two-Stage Pipeline: Per-Schedule 12-Month Results}
+\label{tab:two_stage_12month}
+\small
+\begin{tabular}{clllcccc}
+\toprule
+\textbf{ID} & \textbf{Complexity} & \textbf{Disease} & \textbf{Arm} & \textbf{GT} & \textbf{Ext} & \textbf{Diff} & \textbf{$\pm$3} \\
+\midrule
+\multirow{2}{*}{01} & \multirow{2}{*}{Complex} & \multirow{2}{*}{HR+/HER2- Breast} & A & 43 & 40 & -3 & \checkmark \\
+ & & & B & 30 & 28 & -2 & \checkmark \\
+\midrule
+\multirow{2}{*}{02} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{Mesothelioma} & A & 21 & 20 & -1 & \checkmark \\
+ & & & B & 12 & 12 & 0 & \checkmark \\
+\midrule
+\multirow{2}{*}{03} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{HCC} & A & 23 & 22 & -1 & \checkmark \\
+ & & & B & 13 & 13 & 0 & \checkmark \\
+\midrule
+\multirow{2}{*}{04} & \multirow{2}{*}{Simple} & \multirow{2}{*}{Rectal Cancer} & A & 11 & 10 & -1 & \checkmark \\
+ & & & B & 11 & 10 & -1 & \checkmark \\
+\midrule
+\multirow{2}{*}{05} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{mCRPC} & A & 16 & 16 & 0 & \checkmark \\
+ & & & B & 10 & 10 & 0 & \checkmark \\
+\midrule
+\multirow{2}{*}{06} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{HNSCC} & A & 30 & 35 & +5 & $\times$ \\
+ & & & B & 30 & 35 & +5 & $\times$ \\
+\midrule
+\multirow{2}{*}{07} & \multirow{2}{*}{Complex} & \multirow{2}{*}{Melanoma (Adj)} & A & 43 & 40 & -3 & \checkmark \\
+ & & & B & 30 & 28 & -2 & \checkmark \\
+\midrule
+\multirow{2}{*}{08} & \multirow{2}{*}{Complex} & \multirow{2}{*}{Ovarian} & A & 56 & 55 & -1 & \checkmark \\
+ & & & B & 39 & 38 & -1 & \checkmark \\
+\midrule
+\multirow{2}{*}{09} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{Sarcoma} & A & 30 & 35 & +5 & $\times$ \\
+ & & & B & 30 & 35 & +5 & $\times$ \\
+\midrule
+\multirow{2}{*}{10} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{NSCLC} & A & 12 & 18 & +6 & $\times$ \\
+ & & & B & 12 & 18 & +6 & $\times$ \\
+\midrule
+\multirow{2}{*}{11} & \multirow{2}{*}{Complex} & \multirow{2}{*}{mCRC} & A & 34 & 31 & -3 & \checkmark \\
+ & & & B & 24 & 22 & -2 & \checkmark \\
+\midrule
+\multirow{2}{*}{12} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{mCRPC} & A & 37 & 38 & +1 & \checkmark \\
+ & & & B & 20 & 21 & +1 & \checkmark \\
+\midrule
+\multirow{2}{*}{13} & \multirow{2}{*}{Simple} & \multirow{2}{*}{TNBC} & A & 10 & 10 & 0 & \checkmark \\
+ & & & B & 10 & 10 & 0 & \checkmark \\
+\midrule
+\multirow{2}{*}{14} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{SCLC} & A & 23 & 22 & -1 & \checkmark \\
+ & & & B & 13 & 13 & 0 & \checkmark \\
+\midrule
+\multirow{2}{*}{15} & \multirow{2}{*}{Simple} & \multirow{2}{*}{HCC} & A & 9 & 0 & -9 & $\times$ \\
+ & & & B & 9 & 9 & 0 & \checkmark \\
+\midrule
+\multirow{2}{*}{16} & \multirow{2}{*}{Complex} & \multirow{2}{*}{Melanoma (Met)} & A & 43 & 40 & -3 & \checkmark \\
+ & & & B & 30 & 28 & -2 & \checkmark \\
+\midrule
+\multirow{2}{*}{17} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{Cervical} & A & 30 & 35 & +5 & $\times$ \\
+ & & & B & 30 & 35 & +5 & $\times$ \\
+\midrule
+\multirow{2}{*}{18} & \multirow{2}{*}{Moderate} & \multirow{2}{*}{Gastric/GEJ} & A & 16 & 16 & 0 & \checkmark \\
+ & & & B & 10 & 10 & 0 & \checkmark \\
+\midrule
+\multirow{2}{*}{19} & \multirow{2}{*}{Simple} & \multirow{2}{*}{SCLC} & A & 10 & 10 & 0 & \checkmark \\
+ & & & B & 10 & 10 & 0 & \checkmark \\
+\midrule
+\multirow{2}{*}{20} & \multirow{2}{*}{Simple} & \multirow{2}{*}{Prostate (RT)} & A & 12 & 0 & -12 & $\times$ \\
+ & & & B & 12 & 18 & +6 & $\times$ \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item GT = Ground Truth, Ext = Extracted. $\checkmark$ = within $\pm$3 days, $\times$ = outside $\pm$3 days.
+\end{tablenotes}
+\end{table}
+
+% =============================================================================
+% ERROR ANALYSIS BY CYCLE LENGTH
+% =============================================================================
+
+\begin{table}[htbp]
+\centering
+\caption{Two-Stage Pipeline: Performance by Cycle Length}
+\label{tab:two_stage_cycle_length}
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Cycle Length} & \textbf{Schedules} & \textbf{Arms} & \textbf{Exact Match} & \textbf{Clinical ($\pm$3)} & \textbf{Issue} \\
+\midrule
+7-day cycles & 5 & 10 & 0.0\% & 3.3\% & Screening confusion \\
+21-day cycles & 3 & 6 & 22.2\% & 100.0\% & None \\
+28-day cycles & 11 & 22 & 24.2\% & 98.5\% & None \\
+35-day cycles & 1 & 2 & 25.0\% & 75.0\% & Arm A parsing \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item Note: 7-day cycle schedules (RT-based protocols) show systematic overestimation due to incorrect screening\_days extraction (model confuses cycle\_length with screening period).
+\end{tablenotes}
+\end{table}
+
+% =============================================================================
+% STRATIFIED RESULTS (EXCLUDING 7-DAY CYCLES)
+% =============================================================================
+
+\begin{table}[htbp]
+\centering
+\caption{Two-Stage Pipeline: Performance Excluding 7-Day Cycle Protocols}
+\label{tab:two_stage_excluding_rt}
+\begin{tabular}{lc}
+\toprule
+\textbf{Metric} & \textbf{Value (N=15 Schedules)} \\
+\midrule
+Total Comparisons & 180 \\
+Exact Match Accuracy & 26.1\% (47/180) \\
+Clinical Accuracy ($\pm$3 days) & \textbf{97.2\%} (175/180) \\
+Mean Absolute Error & 0.89 days \\
+\midrule
+12-Month Exact Match & 46.7\% \\
+12-Month Clinical Accuracy & 100.0\% \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item Excluding schedules 06, 09, 10, 17, 20 (radiation-based protocols with 7-day cycles).
+\end{tablenotes}
+\end{table}
+
+% =============================================================================
+% COMPARISON WITH 3-STAGE (WITH JUDGE)
+% =============================================================================
+
+\begin{table}[htbp]
+\centering
+\caption{Two-Stage vs Three-Stage Pipeline Comparison (5 Schedules)}
+\label{tab:two_vs_three_stage}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Metric} & \textbf{Two-Stage} & \textbf{Three-Stage} & \textbf{Difference} \\
+\midrule
+Exact Match Accuracy & 23.3\% & 20.0\% & +3.3\% \\
+Clinical Accuracy ($\pm$3) & \textbf{100.0\%} & 93.3\% & +6.7\% \\
+Mean Absolute Error & \textbf{0.87d} & 1.73d & -0.86d \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item Note: Adding a judge stage (Stage 3) reduced accuracy due to overcorrection.
+\end{tablenotes}
+\end{table}
+

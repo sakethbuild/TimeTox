@@ -1,0 +1,244 @@
+{
+  "extraction_info": {
+    "model": "gemini-3-flash-preview",
+    "method": "vanilla_single_pass",
+    "timestamp": "2025-12-18T20:12:07.258831",
+    "num_pdfs": 2
+  },
+  "results": [
+    {
+      "pmid": "23358972",
+      "pdf_path": "/Users/rkouzy/Protocol_TimeTox/SoA_PDFs/PMID 23358972_Summary_SoE.pdf",
+      "filename": "PMID 23358972_Summary_SoE.pdf",
+      "extraction_timestamp": "2025-12-18T20:00:35.924235",
+      "method": "vanilla_single_pass",
+      "arms": [
+        {
+          "arm_label": "A",
+          "arm_name": "Arm A (FOLFIRI + sunitinib)",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 5,
+            "3_months": 9,
+            "6_months": 15,
+            "9_months": 22,
+            "12_months": 29
+          },
+          "category_breakdown": {
+            "core_treatment": {
+              "screening": 0,
+              "1_month": 3,
+              "3_months": 7,
+              "6_months": 13,
+              "9_months": 20,
+              "12_months": 27
+            },
+            "imaging_diagnostics": {
+              "screening": 1,
+              "1_month": 1,
+              "3_months": 4,
+              "6_months": 7,
+              "9_months": 9,
+              "12_months": 11
+            },
+            "labs": {
+              "screening": 1,
+              "1_month": 5,
+              "3_months": 9,
+              "6_months": 15,
+              "9_months": 22,
+              "12_months": 29
+            },
+            "clinic_visits": {
+              "screening": 1,
+              "1_month": 3,
+              "3_months": 7,
+              "6_months": 13,
+              "9_months": 20,
+              "12_months": 27
+            }
+          },
+          "extraction_notes": {
+            "cycle_length_days": 42,
+            "treatment_duration_months": 30,
+            "visit_pattern": "Cycle 1: Days 1, 8, 15, 22, 29. Cycle 2+: Days 1, 15, 29 (every 14 days).",
+            "disease": "Metastatic Colorectal Cancer"
+          }
+        },
+        {
+          "arm_label": "B",
+          "arm_name": "Arm B (FOLFIRI + placebo)",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 5,
+            "3_months": 9,
+            "6_months": 15,
+            "9_months": 22,
+            "12_months": 29
+          },
+          "category_breakdown": {
+            "core_treatment": {
+              "screening": 0,
+              "1_month": 3,
+              "3_months": 7,
+              "6_months": 13,
+              "9_months": 20,
+              "12_months": 27
+            },
+            "imaging_diagnostics": {
+              "screening": 1,
+              "1_month": 1,
+              "3_months": 4,
+              "6_months": 7,
+              "9_months": 9,
+              "12_months": 11
+            },
+            "labs": {
+              "screening": 1,
+              "1_month": 5,
+              "3_months": 9,
+              "6_months": 15,
+              "9_months": 22,
+              "12_months": 29
+            },
+            "clinic_visits": {
+              "screening": 1,
+              "1_month": 3,
+              "3_months": 7,
+              "6_months": 13,
+              "9_months": 20,
+              "12_months": 27
+            }
+          },
+          "extraction_notes": {
+            "cycle_length_days": 42,
+            "treatment_duration_months": 30,
+            "visit_pattern": "Cycle 1: Days 1, 8, 15, 22, 29. Cycle 2+: Days 1, 15, 29 (every 14 days).",
+            "disease": "Metastatic Colorectal Cancer"
+          }
+        }
+      ],
+      "num_arms": 2,
+      "disease": "Metastatic Colorectal Cancer"
+    },
+    {
+      "pmid": "35728048",
+      "pdf_path": "/Users/rkouzy/Protocol_TimeTox/SoA_PDFs/PMID 35728048 CT_Summary_SoE (1).pdf",
+      "filename": "PMID 35728048 CT_Summary_SoE (1).pdf",
+      "extraction_timestamp": "2025-12-18T20:06:34.276035",
+      "method": "vanilla_single_pass",
+      "arms": [
+        {
+          "arm_label": "A",
+          "arm_name": "Pevonedistat + Azacitidine",
+          "intervention_type": "intervention",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 11,
+            "3_months": 30,
+            "6_months": 56,
+            "9_months": 80,
+            "12_months": 106
+          },
+          "category_breakdown": {
+            "core_treatment": {
+              "screening": 0,
+              "1_month": 9,
+              "3_months": 26,
+              "6_months": 49,
+              "9_months": 70,
+              "12_months": 92
+            },
+            "imaging_diagnostics": {
+              "screening": 1,
+              "1_month": 5,
+              "3_months": 7,
+              "6_months": 10,
+              "9_months": 13,
+              "12_months": 17
+            },
+            "labs": {
+              "screening": 1,
+              "1_month": 7,
+              "3_months": 17,
+              "6_months": 29,
+              "9_months": 41,
+              "12_months": 55
+            },
+            "clinic_visits": {
+              "screening": 1,
+              "1_month": 5,
+              "3_months": 13,
+              "6_months": 22,
+              "9_months": 31,
+              "12_months": 41
+            }
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 72,
+            "visit_pattern": "Cycle 1: Days 1, 2, 3, 4, 5, 8, 9, 15, 21. Cycle 2+: Days 1, 2, 3, 4, 5, 8, 9, 22.",
+            "disease": "Higher-risk myelodysplastic syndromes, chronic myelomonocytic leukemia, or low-blast acute myelogenous leukemia"
+          }
+        },
+        {
+          "arm_label": "B",
+          "arm_name": "Single-agent Azacitidine",
+          "intervention_type": "control",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 11,
+            "3_months": 30,
+            "6_months": 56,
+            "9_months": 80,
+            "12_months": 106
+          },
+          "category_breakdown": {
+            "core_treatment": {
+              "screening": 0,
+              "1_month": 9,
+              "3_months": 26,
+              "6_months": 49,
+              "9_months": 70,
+              "12_months": 92
+            },
+            "imaging_diagnostics": {
+              "screening": 1,
+              "1_month": 5,
+              "3_months": 7,
+              "6_months": 10,
+              "9_months": 13,
+              "12_months": 17
+            },
+            "labs": {
+              "screening": 1,
+              "1_month": 7,
+              "3_months": 17,
+              "6_months": 29,
+              "9_months": 41,
+              "12_months": 55
+            },
+            "clinic_visits": {
+              "screening": 1,
+              "1_month": 5,
+              "3_months": 13,
+              "6_months": 22,
+              "9_months": 31,
+              "12_months": 41
+            }
+          },
+          "extraction_notes": {
+            "cycle_length_days": 28,
+            "treatment_duration_months": 72,
+            "visit_pattern": "Cycle 1: Days 1, 2, 3, 4, 5, 8, 9, 15, 21. Cycle 2+: Days 1, 2, 3, 4, 5, 8, 9, 22.",
+            "disease": "Higher-risk myelodysplastic syndromes, chronic myelomonocytic leukemia, or low-blast acute myelogenous leukemia"
+          }
+        }
+      ],
+      "num_arms": 2,
+      "disease": "Higher-risk myelodysplastic syndromes, chronic myelomonocytic leukemia, or low-blast acute myelogenous leukemia"
+    }
+  ]
+}

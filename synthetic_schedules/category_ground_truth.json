@@ -1,0 +1,462 @@
+{
+  "01": {
+    "cycle_length": 28,
+    "treatment_months": 12,
+    "A": {
+      "total": {
+        "screening": 1,
+        "1_month": 5,
+        "3_months": 11,
+        "6_months": 17,
+        "9_months": 25,
+        "12_months": 30
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 11,
+          "6_months": 17,
+          "9_months": 24,
+          "12_months": 28
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 11,
+          "9_months": 14,
+          "12_months": 17
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 11,
+          "6_months": 17,
+          "9_months": 24,
+          "12_months": 28
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 11,
+          "6_months": 17,
+          "9_months": 25,
+          "12_months": 30
+        }
+      }
+    },
+    "B": {
+      "total": {
+        "screening": 1,
+        "1_month": 4,
+        "3_months": 8,
+        "6_months": 11,
+        "9_months": 15,
+        "12_months": 18
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 11,
+          "9_months": 14,
+          "12_months": 16
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 11,
+          "9_months": 14,
+          "12_months": 17
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 11,
+          "9_months": 14,
+          "12_months": 16
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 11,
+          "9_months": 15,
+          "12_months": 18
+        }
+      }
+    }
+  },
+  "02": {
+    "cycle_length": 21,
+    "treatment_months": 6,
+    "A": {
+      "total": {
+        "screening": 1,
+        "1_month": 5,
+        "3_months": 10,
+        "6_months": 17,
+        "9_months": 18,
+        "12_months": 19
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 10,
+          "6_months": 17,
+          "9_months": 17,
+          "12_months": 17
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 6,
+          "6_months": 9,
+          "9_months": 9,
+          "12_months": 10
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 10,
+          "6_months": 17,
+          "9_months": 17,
+          "12_months": 17
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 10,
+          "6_months": 17,
+          "9_months": 18,
+          "12_months": 19
+        }
+      }
+    },
+    "B": {
+      "total": {
+        "screening": 1,
+        "1_month": 3,
+        "3_months": 6,
+        "6_months": 9,
+        "9_months": 10,
+        "12_months": 11
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 6,
+          "6_months": 9,
+          "9_months": 9,
+          "12_months": 9
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 6,
+          "6_months": 9,
+          "9_months": 9,
+          "12_months": 10
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 6,
+          "6_months": 9,
+          "9_months": 9,
+          "12_months": 9
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 6,
+          "6_months": 9,
+          "9_months": 10,
+          "12_months": 11
+        }
+      }
+    }
+  },
+  "03": {
+    "cycle_length": 28,
+    "treatment_months": 9,
+    "A": {
+      "total": {
+        "screening": 1,
+        "1_month": 4,
+        "3_months": 8,
+        "6_months": 14,
+        "9_months": 20,
+        "12_months": 21
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 14,
+          "9_months": 19,
+          "12_months": 19
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 11,
+          "9_months": 13,
+          "12_months": 14
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 14,
+          "9_months": 19,
+          "12_months": 19
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 14,
+          "9_months": 20,
+          "12_months": 21
+        }
+      }
+    },
+    "B": {
+      "total": {
+        "screening": 1,
+        "1_month": 3,
+        "3_months": 5,
+        "6_months": 8,
+        "9_months": 11,
+        "12_months": 12
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 8,
+          "9_months": 10,
+          "12_months": 10
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 8,
+          "9_months": 10,
+          "12_months": 11
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 8,
+          "9_months": 10,
+          "12_months": 10
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 8,
+          "9_months": 11,
+          "12_months": 12
+        }
+      }
+    }
+  },
+  "04": {
+    "cycle_length": 28,
+    "treatment_months": 6,
+    "A": {
+      "total": {
+        "screening": 1,
+        "1_month": 3,
+        "3_months": 5,
+        "6_months": 7,
+        "9_months": 8,
+        "12_months": 9
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 7
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 8
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 7
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 8,
+          "12_months": 9
+        }
+      }
+    },
+    "B": {
+      "total": {
+        "screening": 1,
+        "1_month": 3,
+        "3_months": 5,
+        "6_months": 7,
+        "9_months": 8,
+        "12_months": 9
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 7
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 8
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 7
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 8,
+          "12_months": 9
+        }
+      }
+    }
+  },
+  "05": {
+    "cycle_length": 28,
+    "treatment_months": 6,
+    "A": {
+      "total": {
+        "screening": 1,
+        "1_month": 4,
+        "3_months": 8,
+        "6_months": 13,
+        "9_months": 14,
+        "12_months": 15
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 13,
+          "9_months": 13,
+          "12_months": 13
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 10,
+          "9_months": 10,
+          "12_months": 11
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 13,
+          "9_months": 13,
+          "12_months": 13
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 4,
+          "3_months": 8,
+          "6_months": 13,
+          "9_months": 14,
+          "12_months": 15
+        }
+      }
+    },
+    "B": {
+      "total": {
+        "screening": 1,
+        "1_month": 3,
+        "3_months": 5,
+        "6_months": 7,
+        "9_months": 8,
+        "12_months": 9
+      },
+      "category_breakdown": {
+        "core_treatment": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 7
+        },
+        "imaging_diagnostics": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 8
+        },
+        "labs": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 7,
+          "12_months": 7
+        },
+        "clinic_visits": {
+          "screening": 1,
+          "1_month": 3,
+          "3_months": 5,
+          "6_months": 7,
+          "9_months": 8,
+          "12_months": 9
+        }
+      }
+    }
+  }
+}

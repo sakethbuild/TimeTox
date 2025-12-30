@@ -1,0 +1,339 @@
+{
+  "extraction_info": {
+    "model": "gemini-3-flash-preview",
+    "timestamp": "2025-12-18T19:50:08.258998",
+    "num_pdfs": 2
+  },
+  "results": [
+    {
+      "pmid": "23358972",
+      "pdf_path": "/Users/rkouzy/Protocol_TimeTox/SoA_PDFs/PMID 23358972_Summary_SoE.pdf",
+      "filename": "PMID 23358972_Summary_SoE.pdf",
+      "extraction_timestamp": "2025-12-18T19:41:55.297949",
+      "structure": {
+        "protocol_info": {
+          "disease": "Metastatic Colorectal Cancer",
+          "treatment_duration_months": 30
+        },
+        "arms": [
+          {
+            "arm_name": "Arm A (FOLFIRI + sunitinib)",
+            "intervention_type": "intervention",
+            "cycle_length_days": 42,
+            "visit_days_per_cycle": [
+              1,
+              8,
+              15,
+              22,
+              29
+            ],
+            "visits_per_cycle": 5,
+            "legend_text": "1 DURING TREATMENT: ALL ASSESSMENTS SHOULD BE PERFORMED PRIOR TO DOSING unless otherwise indicated. Acceptable time windows for performing each assessment are described below each scheduled treatment day. Cycle lengths may be extended by longer rest periods."
+          },
+          {
+            "arm_name": "Arm B (FOLFIRI + placebo)",
+            "intervention_type": "control",
+            "cycle_length_days": 42,
+            "visit_days_per_cycle": [
+              1,
+              8,
+              15,
+              22,
+              29
+            ],
+            "visits_per_cycle": 5,
+            "legend_text": "1 DURING TREATMENT: ALL ASSESSMENTS SHOULD BE PERFORMED PRIOR TO DOSING unless otherwise indicated. Acceptable time windows for performing each assessment are described below each scheduled treatment day. Cycle lengths may be extended by longer rest periods."
+          }
+        ],
+        "special_visits": {
+          "screening_days": 2,
+          "eot_visit": true,
+          "m9_followup": true,
+          "m12_followup": true
+        }
+      },
+      "protocol_info": {
+        "disease": "Metastatic Colorectal Cancer",
+        "treatment_duration_months": 30
+      },
+      "arms": [
+        {
+          "arm_label": "A",
+          "arm_name": "Arm A (FOLFIRI + sunitinib)",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 7,
+            "3_months": 13,
+            "6_months": 24,
+            "9_months": 36,
+            "12_months": 49
+          },
+          "category_breakdown": {
+            "core_treatment": {
+              "screening": 0,
+              "1_month": 3,
+              "3_months": 7,
+              "6_months": 13,
+              "9_months": 20,
+              "12_months": 27
+            },
+            "imaging_diagnostics": {
+              "screening": 1,
+              "1_month": 3,
+              "3_months": 6,
+              "6_months": 9,
+              "9_months": 11,
+              "12_months": 13
+            },
+            "labs": {
+              "screening": 1,
+              "1_month": 6,
+              "3_months": 10,
+              "6_months": 16,
+              "9_months": 23,
+              "12_months": 30
+            },
+            "clinic_visits": {
+              "screening": 1,
+              "1_month": 6,
+              "3_months": 10,
+              "6_months": 16,
+              "9_months": 23,
+              "12_months": 30
+            }
+          },
+          "calculation_breakdown": {
+            "total_cycles": 21,
+            "treatment_visits": 105,
+            "screening_visits": 2,
+            "eot_visits": 1,
+            "followup_visits": 2,
+            "total_visits": 110
+          }
+        },
+        {
+          "arm_label": "B",
+          "arm_name": "Arm B (FOLFIRI + placebo)",
+          "healthcare_contact_days": {
+            "screening": 2,
+            "1_month": 7,
+            "3_months": 13,
+            "6_months": 24,
+            "9_months": 36,
+            "12_months": 49
+          },
+          "category_breakdown": {
+            "core_treatment": {
+              "screening": 0,
+              "1_month": 3,
+              "3_months": 7,
+              "6_months": 13,
+              "9_months": 20,
+              "12_months": 27
+            },
+            "imaging_diagnostics": {
+              "screening": 1,
+              "1_month": 3,
+              "3_months": 6,
+              "6_months": 9,
+              "9_months": 11,
+              "12_months": 13
+            },
+            "labs": {
+              "screening": 1,
+              "1_month": 6,
+              "3_months": 10,
+              "6_months": 16,
+              "9_months": 23,
+              "12_months": 30
+            },
+            "clinic_visits": {
+              "screening": 1,
+              "1_month": 6,
+              "3_months": 10,
+              "6_months": 16,
+              "9_months": 23,
+              "12_months": 30
+            }
+          },
+          "calculation_breakdown": {
+            "total_cycles": 21,
+            "treatment_visits": 105,
+            "screening_visits": 2,
+            "eot_visits": 1,
+            "followup_visits": 2,
+            "total_visits": 110
+          }
+        }
+      ],
+      "num_arms": 2
+    },
+    {
+      "pmid": "35728048",
+      "pdf_path": "/Users/rkouzy/Protocol_TimeTox/SoA_PDFs/PMID 35728048 CT_Summary_SoE (1).pdf",
+      "filename": "PMID 35728048 CT_Summary_SoE (1).pdf",
+      "extraction_timestamp": "2025-12-18T19:43:12.156307",
+      "structure": {
+        "protocol_info": {
+          "disease": "higher-risk myelodysplastic syndromes, chronic myelomonocytic leukemia, or low-blast acute myelogenous leukemia",
+          "treatment_duration_months": 63
+        },
+        "arms": [
+          {
+            "arm_name": "Combination Pevonedistat Plus Azacitidine Arm",
+            "intervention_type": "intervention",
+            "cycle_length_days": 28,
+            "visit_days_per_cycle": [
+              1,
+              2,
+              3,
+              5,
+              8,
+              15,
+              21
+            ],
+            "visits_per_cycle": 7,
+            "legend_text": "(ee) Combination Pevonedistat Plus Azacitidine Arm only: see Section 8.1.2 for pevonedistat dosing instructions. On Days 1, 3, and 5 when both study drugs are administered, azacitidine will be administered first followed by pevonedistat. Subsequent pevonedistat doses may be reduced because of toxicity in accordance with Section 8.3."
+          },
+          {
+            "arm_name": "Single-Agent Azacitidine Arm",
+            "intervention_type": "control",
+            "cycle_length_days": 28,
+            "visit_days_per_cycle": [
+              1,
+              2,
+              3,
+              5,
+              8,
+              15,
+              21
+            ],
+            "visits_per_cycle": 7,
+            "legend_text": "(ff) All patients will receive azacitidine 75 mg/m2 IV or SC on Days 1 through 5 (inclusive), Day 8, and Day 9 of each cycle in accordance with Section 8.1.1. The azacitidine dose may be reduced because of toxicity in accordance with Section 8.3."
+          }
+        ],
+        "special_visits": {
+          "screening_days": 1,
+          "eot_visit": true,
+          "m9_followup": true,
+          "m12_followup": true
+        }
+      },
+      "protocol_info": {
+        "disease": "higher-risk myelodysplastic syndromes, chronic myelomonocytic leukemia, or low-blast acute myelogenous leukemia",
+        "treatment_duration_months": 63
+      },
+      "arms": [
+        {
+          "arm_label": "A",
+          "arm_name": "Combination Pevonedistat Plus Azacitidine Arm",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 10,
+            "3_months": 26,
+            "6_months": 48,
+            "9_months": 71,
+            "12_months": 95
+          },
+          "category_breakdown": {
+            "core_treatment": {
+              "screening": 0,
+              "1_month": 7,
+              "3_months": 19,
+              "6_months": 35,
+              "9_months": 50,
+              "12_months": 66
+            },
+            "imaging_diagnostics": {
+              "screening": 1,
+              "1_month": 2,
+              "3_months": 2,
+              "6_months": 2,
+              "9_months": 2,
+              "12_months": 2
+            },
+            "labs": {
+              "screening": 1,
+              "1_month": 10,
+              "3_months": 26,
+              "6_months": 48,
+              "9_months": 71,
+              "12_months": 95
+            },
+            "clinic_visits": {
+              "screening": 1,
+              "1_month": 10,
+              "3_months": 26,
+              "6_months": 48,
+              "9_months": 71,
+              "12_months": 95
+            }
+          },
+          "calculation_breakdown": {
+            "total_cycles": 67,
+            "treatment_visits": 469,
+            "screening_visits": 1,
+            "eot_visits": 1,
+            "followup_visits": 2,
+            "total_visits": 473
+          }
+        },
+        {
+          "arm_label": "B",
+          "arm_name": "Single-Agent Azacitidine Arm",
+          "healthcare_contact_days": {
+            "screening": 1,
+            "1_month": 10,
+            "3_months": 26,
+            "6_months": 48,
+            "9_months": 71,
+            "12_months": 95
+          },
+          "category_breakdown": {
+            "core_treatment": {
+              "screening": 0,
+              "1_month": 7,
+              "3_months": 19,
+              "6_months": 35,
+              "9_months": 50,
+              "12_months": 66
+            },
+            "imaging_diagnostics": {
+              "screening": 1,
+              "1_month": 2,
+              "3_months": 2,
+              "6_months": 2,
+              "9_months": 2,
+              "12_months": 2
+            },
+            "labs": {
+              "screening": 1,
+              "1_month": 10,
+              "3_months": 26,
+              "6_months": 48,
+              "9_months": 71,
+              "12_months": 95
+            },
+            "clinic_visits": {
+              "screening": 1,
+              "1_month": 10,
+              "3_months": 26,
+              "6_months": 48,
+              "9_months": 71,
+              "12_months": 95
+            }
+          },
+          "calculation_breakdown": {
+            "total_cycles": 67,
+            "treatment_visits": 469,
+            "screening_visits": 1,
+            "eot_visits": 1,
+            "followup_visits": 2,
+            "total_visits": 473
+          }
+        }
+      ],
+      "num_arms": 2
+    }
+  ]
+}

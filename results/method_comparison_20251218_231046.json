@@ -1,0 +1,107 @@
+{
+  "pmid": "35728048",
+  "n_runs": 5,
+  "timestamp": "20251218_231046",
+  "two_stage": {
+    "times": [
+      122.3712100982666,
+      146.37831592559814,
+      119.94500207901001,
+      58.37851285934448,
+      122.71119904518127
+    ],
+    "results": [
+      {
+        "screening": 1,
+        "1_month": 10,
+        "3_months": 27,
+        "6_months": 50,
+        "9_months": 71,
+        "12_months": 93
+      },
+      {
+        "screening": 1,
+        "1_month": 10,
+        "3_months": 27,
+        "6_months": 50,
+        "9_months": 71,
+        "12_months": 93
+      },
+      {
+        "screening": 1,
+        "1_month": 10,
+        "3_months": 27,
+        "6_months": 50,
+        "9_months": 71,
+        "12_months": 93
+      },
+      {
+        "screening": 1,
+        "1_month": 12,
+        "3_months": 33,
+        "6_months": 62,
+        "9_months": 90,
+        "12_months": 119
+      },
+      {
+        "screening": 1,
+        "1_month": 11,
+        "3_months": 30,
+        "6_months": 56,
+        "9_months": 80,
+        "12_months": 106
+      }
+    ]
+  },
+  "vanilla": {
+    "times": [
+      98.04480504989624,
+      358.90889596939087,
+      64.43690824508667,
+      41.670450925827026,
+      362.2711899280548
+    ],
+    "results": [
+      {
+        "screening": 1,
+        "1_month": 11,
+        "3_months": 29,
+        "6_months": 54,
+        "9_months": 76,
+        "12_months": 99
+      },
+      {
+        "screening": 1,
+        "1_month": 11,
+        "3_months": 29,
+        "6_months": 54,
+        "9_months": 76,
+        "12_months": 99
+      },
+      {
+        "screening": 1,
+        "1_month": 11,
+        "3_months": 30,
+        "6_months": 56,
+        "9_months": 80,
+        "12_months": 106
+      },
+      {
+        "screening": 1,
+        "1_month": 11,
+        "3_months": 30,
+        "6_months": 56,
+        "9_months": 80,
+        "12_months": 106
+      },
+      {
+        "screening": 1,
+        "1_month": 11,
+        "3_months": 30,
+        "6_months": 56,
+        "9_months": 80,
+        "12_months": 106
+      }
+    ]
+  }
+}

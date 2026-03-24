@@ -1,0 +1,8 @@
+filename,arm_name,intervention_type,screening,1_month,3_months,6_months,9_months,12_months,cycle_length,visit_pattern,error
+PMID 23358972_Summary_SoE.pdf,Arm A (FOLFIRI + sunitinib),intervention,2,5,9,15,22,29,42,"Screening (2 days); Cycle 1: Days 1, 8, 15, 22, 29 (5 days); Cycles 2-9: Days 1, 15, 29 (3 days per cycle).",
+PMID 23358972_Summary_SoE.pdf,Arm B (FOLFIRI + placebo),control,2,5,9,15,22,29,42,"Screening (2 days); Cycle 1: Days 1, 8, 15, 22, 29 (5 days); Cycles 2-9: Days 1, 15, 29 (3 days per cycle).",
+PMID 23940216 a_Summary_SoE.pdf,Cediranib 30 mg monotherapy,intervention,1,5,9,11,13,16,42,"Weekly for the first 6 weeks (BP monitoring), then every 3 weeks for drug dispensing until week 12, then every 6 weeks for drug dispensing and MRI assessments.",
+PMID 23940216 a_Summary_SoE.pdf,Cediranib 20 mg + Lomustine,intervention,1,5,9,13,17,23,42,"Weekly for the first 6 weeks (CBC and BP monitoring), then every 3 weeks for CBC and/or drug dispensing.",
+PMID 23940216 a_Summary_SoE.pdf,Placebo + Lomustine,control,1,5,9,13,17,23,42,"Weekly for the first 6 weeks (CBC and BP monitoring), then every 3 weeks for CBC and/or drug dispensing.",
+PMID 27264120 a_Summary_SoE.pdf,Arm 1 (Letrozole 2.5 mg daily),intervention,2,0,0,1,1,2,1,"Screening (2 days), Month 6 (1 day), Month 12 (1 day)",
+PMID 27264120 a_Summary_SoE.pdf,Arm 2 (Placebo daily),control,2,0,0,1,1,2,1,"Screening (2 days), Month 6 (1 day), Month 12 (1 day)",

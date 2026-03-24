@@ -1,0 +1,7 @@
+Term,Coefficient,p_value,CI_lower,CI_upper
+start_year (Non-Industry slope),-0.40495690000382545,0.17516498358319132,,
+Industry (main effect),-1111.627290446316,0.11385022417370314,,
+start_year x Industry (interaction),0.5524261493779166,0.11435624950021644,-0.133695764876127,1.2385480636319601
+Industry implied slope,0.14746924937409112,,,
+R_squared,0.1959601897639639,,,
+N,638.0,,,

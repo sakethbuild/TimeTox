@@ -1,0 +1,4 @@
+Threshold,Intervention_N,Intervention_pct,Control_N,Control_pct,AbsDelta_N,AbsDelta_pct
+>30 days,144,22.4,152,23.8,20,3.1
+>60 days,29,4.5,26,4.1,6,0.9
+>90 days,8,1.2,12,1.9,2,0.3

@@ -50,3 +50,13 @@ Thumbs.db
 # validation_report.md
 # aggregate_results.json
 
+# Large data directories (excluded from repo)
+Papers/
+full text Protocols/
+summaries_generated/
+summaries/
+CTGProtocols/
+SoA_PDFs/
+Gemini -Quantification of Time Toxicity/
+Included Trials.csv
+

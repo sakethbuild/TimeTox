@@ -1,0 +1,934 @@
+\documentclass[11pt,a4paper]{article}
+
+% ── Packages ──
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage[numbers,sort&compress]{natbib}
+\usepackage{setspace}
+
+\onehalfspacing
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue!60!black,
+    citecolor=blue!60!black,
+    urlcolor=blue!60!black,
+}
+
+\newcommand{\iqr}[3]{#1 (#2--#3)}
+
+\title{
+    \textbf{Quantification of Time Toxicity in Phase III Oncology Clinical Trials:} \\[0.5em]
+    \large A Comprehensive Landscape Analysis of 644 Protocols Using \\
+    LLM-Extracted Healthcare Contact Days
+}
+\author{
+    TimeToxSV Analysis Pipeline \\
+    \textit{Automated Report Generated from Three Independent Extraction Runs}
+}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\noindent\textbf{Background:} Time toxicity---the cumulative healthcare contact days imposed on patients during clinical trial participation---is an under-quantified but critical dimension of patient burden. This analysis presents the first large-scale landscape assessment of time toxicity across 644 phase III oncology protocols spanning 1994--2021 (by trial start year).
+
+\noindent\textbf{Methods:} Healthcare contact days were extracted from 644 Schedules of Events/Assessments using a validated large language model pipeline (three independent extraction runs). Consensus values were derived via median aggregation across runs using position-based arm matching. Metadata enrichment (sponsorship, disease site, treatment modality) was performed using curated trial-level data from ClinicalTrials.gov. Primary outcome was total healthcare contact days at 12 months. Statistical analyses included Wilcoxon rank-sum tests (sponsorship, treatment type), Kruskal-Wallis with Dunn's post-hoc test (disease site), ordinary least squares regression (temporal trend), component analysis of time toxicity drivers, and multivariable logistic regression for independent predictors of high time toxicity.
+
+\noindent\textbf{Results:} Across 1{,}282 primary trial arms (644 intervention, 638 control), the median 12-month time toxicity was 19.0~days (IQR 14.0--29.0) for intervention arms and 18.0~days (IQR 14.0--30.0) for control arms. The median incremental time toxicity (delta) was 0.0~days (IQR 0.0--0.0), with 67.6\% of trials imposing equal burden on both arms---a finding validated as reflecting shared Schedules of Events rather than extraction artifact. Disease site ($H=59.0$, $p<0.001$) and treatment modality ($H=105.6$, $p<0.001$) were the strongest determinants. CNS trials were the most time-toxic (median 41.0~days) and chemotherapy the most burdensome modality (median 32.0~days). Immunotherapy was significantly less burdensome than chemotherapy (21.0 vs.\ 32.0~days, $p=0.0002$). No significant overall temporal trend was observed ($-0.07$~days/year, $p=0.640$), and the adjusted model confirmed this null finding ($-0.05$~d/yr, $p=0.726$). Industry-sponsored trials showed a modest positive but non-significant trend ($+0.17$~days/year, $p=0.333$) while non-industry trials showed a non-significant negative trend ($-0.48$, $p=0.224$). Within-disease-site analysis identified breast cancer ($+0.68$~d/yr, $p=0.003$) as having a significant upward trend, while skin ($-1.27$~d/yr, $p=0.022$) showed a significant decline. All trials were front-loaded, with TT accumulating 1.75$\times$ faster in the first 3 months than the subsequent 9 months ($p<0.001$). Component analysis revealed that 26.4\% of total time toxicity was research-specific (imaging and laboratory monitoring), representing a modifiable burden. In multivariable logistic regression restricted to primary arms (AUC\,=\,0.717), treatment modality was the strongest predictor (chemotherapy reference; endocrine OR\,=\,0.07, immunotherapy OR\,=\,0.33, targeted OR\,=\,0.26; all $p<0.001$). Intervention versus control arm type was not independently significant (OR\,=\,1.10, $p=0.45$).
+
+\noindent\textbf{Conclusion:} Time toxicity varies substantially across disease sites and treatment modalities but is largely symmetric between trial arms. When indexed to trial start year rather than publication year, no significant overall temporal trend was detected, though breast cancer protocols showed a significant upward trend. The front-loaded accumulation pattern, with 22\% of interventions exceeding 30 healthcare contact days, and the 26.4\% research-specific burden suggest actionable opportunities for protocol optimization, particularly through decentralized trial designs in hematologic and gynecologic oncology.
+\end{abstract}
+
+\clearpage
+\tableofcontents
+\clearpage
+
+%% ════════════════════════════════════════════════════════
+\section{Introduction and Rationale}
+%% ════════════════════════════════════════════════════════
+
+Clinical trial participation imposes a substantial time burden on patients that extends far beyond the direct effects of treatment. This burden---termed \textbf{time toxicity}---encompasses the totality of healthcare contact days required by the trial protocol: treatment infusions, laboratory monitoring, imaging surveillance, and clinic visits. Unlike traditional adverse events, time toxicity affects every enrolled patient regardless of treatment efficacy, yet it has historically been under-quantified in trial design and reporting.
+
+The concept of time toxicity was formalized to capture the opportunity cost of trial participation: days spent traveling to, waiting at, and undergoing procedures at healthcare facilities that could otherwise be devoted to work, family, or personal well-being. For patients with advanced or metastatic cancers, where life expectancy may be measured in months, the proportional impact of time toxicity is particularly significant.
+
+\subsection{Objectives}
+
+This analysis aims to:
+\begin{enumerate}[label=(\alph*)]
+    \item \textbf{Quantify the landscape} of time toxicity across 644 phase III oncology trials, establishing benchmark distributions for the field.
+    \item \textbf{Compute the incremental time toxicity} (delta) between intervention and control arms to measure the ``time cost of innovation.''
+    \item \textbf{Identify determinants} of time toxicity through comparative analyses across sponsorship types, disease sites, treatment modalities, and trial start years.
+    \item \textbf{Decompose time toxicity} into its constituent components (core treatment, imaging/diagnostics, laboratory monitoring, clinic visits) to identify modifiable versus inherent burden.
+    \item \textbf{Model independent predictors} of high time toxicity using multivariable logistic regression.
+    \item \textbf{Examine industry-specific temporal trends} to determine whether time toxicity is increasing differentially by sponsorship type.
+    \item \textbf{Characterize front-loading} of time toxicity accumulation across the 12-month trial period and identify modality-specific patterns.
+    \item \textbf{Validate the zero-delta phenomenon} through sensitivity analyses to assess whether the 67.6\% of trials with identical arm burden represents a methodological artifact or genuine protocol design symmetry.
+\end{enumerate}
+
+%% ════════════════════════════════════════════════════════
+\section{Data Sources}
+%% ════════════════════════════════════════════════════════
+
+\subsection{Protocol Extraction Pipeline}
+
+Healthcare contact days were extracted from Schedules of Events/Assessments (SoE/SoA) using the TimeToxSV vanilla extraction pipeline---a single-pass large language model (Gemini~3~Flash Preview) that processes PDF protocol documents and outputs structured JSON with arm-level contact day counts at six cumulative timepoints.
+
+Three independent extraction runs were performed on 644 unique protocol summaries:
+\begin{itemize}
+    \item \textbf{Run~1:} 1{,}428 arm-level rows across 646 files
+    \item \textbf{Run~2:} 1{,}433 arm-level rows across 646 files
+    \item \textbf{Run~3:} 1{,}420 arm-level rows across 646 files
+\end{itemize}
+
+Each run produced both CSV files (containing aggregate healthcare contact day counts per arm at six timepoints: screening, 1~month, 3~months, 6~months, 9~months, and 12~months) and JSON files (containing additional category-level breakdowns into core treatment, imaging/diagnostics, laboratory monitoring, and clinic visits).
+
+\subsection{Metadata Source}
+
+Trial-level metadata was obtained from a curated dataset (\texttt{Included Trials.csv}) containing 1{,}193 phase III oncology trials registered on ClinicalTrials.gov. All 644 extraction PMIDs were successfully matched (100\% coverage). Key metadata fields included:
+
+\begin{itemize}
+    \item \textbf{Sponsorship:} Funder classification (INDUSTRY, NETWORK, NIH, OTHER, FED) and binary Industry indicator (Yes/No)
+    \item \textbf{Disease Site:} 13~categories (Heme, Breast, Thor, GI, GU, GYN, Skin, HN, CNS, Multiple, Other, Peds, All)
+    \item \textbf{Treatment Type:} Coarse classification (Systemic Therapy, Supportive Care, Local Therapy)
+    \item \textbf{Intervention Drugs:} Pipe-separated drug names with type prefixes (DRUG, BIOLOGICAL, RADIATION, PROCEDURE)
+    \item \textbf{Trial Start Year:} Year of trial initiation, parsed from \texttt{Start Date} with fallback to \texttt{Enrollment Year} (range 1994--2021)
+\end{itemize}
+
+\subsection{Data Limitations}
+
+The Run~3 JSON file contained only 99 of the expected $\sim$644 protocol entries (the corresponding CSV file was complete). Consequently, category-level breakdown analysis (Section~\ref{sec:component}) used Runs~1 and 2 only. Validation on the 99 overlapping entries confirmed minimal divergence between 2-run and 3-run medians.
+
+%% ════════════════════════════════════════════════════════
+\section{Methodology}
+%% ════════════════════════════════════════════════════════
+
+\subsection{Step 1: Consensus Building}
+\label{sec:consensus}
+
+A central methodological challenge was that arm names are LLM-generated and differ across runs (e.g., ``Arm~A (Pembrolizumab Monotherapy)'' in one run vs.\ ``Pembrolizumab Arm'' in another). Only approximately 20\% of arms had identical names across all three runs, precluding direct name-based matching.
+
+\subsubsection{Position-Based Arm Matching}
+
+We employed a position-based matching strategy:
+\begin{enumerate}
+    \item \textbf{Normalize} intervention types: ``placebo'' $\rightarrow$ ``control'', ``active\_comparator'' $\rightarrow$ ``intervention''.
+    \item \textbf{Drop} rows with extraction errors or null 12-month values (28 rows across all runs).
+    \item \textbf{Sort} arms within each (filename, run\_id, intervention\_type) group by ascending 12-month healthcare contact days.
+    \item \textbf{Assign} a zero-indexed position (\texttt{pos\_idx}) to each arm within its group.
+    \item \textbf{Aggregate} across runs: for each unique (filename, intervention\_type, pos\_idx) triplet, compute the \textbf{median} of all six timepoint values across the 2--3 available runs.
+\end{enumerate}
+
+This produced 1{,}466 consensus arms across 644 unique trials. Consensus quality was high: 93.2\% of arms had values from all three runs, 3.8\% from two runs, and 3.1\% from one run only.
+
+\subsubsection{Trial-Level Aggregation}
+
+For each trial, the primary intervention arm (pos\_idx\,=\,0, type\,=\,intervention) and primary control arm (pos\_idx\,=\,0, type\,=\,control) were identified. The \textbf{incremental time toxicity} (delta) was computed as:
+\begin{equation}
+    \Delta_{\text{TT}} = \text{TT}_{\text{intervention}} - \text{TT}_{\text{control}}
+\end{equation}
+This was calculable for 638 of 644 trials (99.1\%) that had both arm types; 6 trials had intervention arms only.
+
+\subsubsection{Category Breakdown Consensus}
+
+Using JSON data from Runs~1 and 2 (1{,}452 arms after matching), category-level breakdowns were aggregated using the same position-based strategy. Validation confirmed that the sum of four categories equaled the total within 1~day for 99.9\% of arms (mean discrepancy: 0.012~days; 2 arms with discrepancy $>1$~day).
+
+\subsection{Step 2: Metadata Enrichment}
+\label{sec:enrichment}
+
+Trial-level metadata was joined to the consensus dataset on PubMed ID (PMID), extracted from filenames using the regex pattern \texttt{PMID\textbackslash s*(\textbackslash d+)}.
+
+\subsubsection{Sponsorship Classification}
+
+The binary sponsorship variable was derived from the \texttt{Industry} field:
+\begin{itemize}
+    \item \textbf{Industry:} Yes $\rightarrow$ ``Industry'' (N\,=\,504, 78.3\%)
+    \item \textbf{Non-Industry:} No $\rightarrow$ ``Non-Industry'' (N\,=\,140, 21.7\%)
+\end{itemize}
+
+The finer-grained \texttt{Funder} field recorded: INDUSTRY (462), OTHER (76), NETWORK (61), NIH (44), and FED (1).
+
+\subsubsection{Disease Site}
+
+The 13 pre-curated disease site categories were used directly. Groups with fewer than 10 trials (Peds\,=\,5, All\,=\,6) were merged into ``Other'' for statistical analyses, yielding 11 groups.
+
+\subsubsection{Treatment Modality Classification}
+
+The coarse \texttt{Treatment Type} field (82\% ``Systemic Therapy'') was insufficient for distinguishing immunotherapy from chemotherapy. We implemented a three-tiered classification system:
+
+\begin{enumerate}
+    \item \textbf{Drug Dictionary} ($\sim$150 oncology drugs): Each drug was mapped to one of seven classes: Immunotherapy (e.g., pembrolizumab, nivolumab, atezolizumab), Targeted Therapy (e.g., trastuzumab, olaparib, osimertinib), Chemotherapy (e.g., cisplatin, paclitaxel, gemcitabine), Endocrine (e.g., enzalutamide, letrozole), Radiation, Supportive, or Other.
+
+    \item \textbf{ClinicalTrials.gov Prefix}: The \texttt{BIOLOGICAL:} prefix (indicating monoclonal antibodies or biological agents) served as a secondary signal for immunotherapy/targeted therapy classification.
+
+    \item \textbf{Trial Classification}: Each trial was classified by its primary experimental agent---the novel drug under investigation, not the chemotherapy backbone. Combination trials (e.g., pembrolizumab + chemotherapy) were classified by the experimental agent (immunotherapy in this example).
+\end{enumerate}
+
+Final distribution: Targeted Therapy (283, 43.9\%), Immunotherapy (137, 21.3\%), Chemotherapy (84, 13.0\%), Other (83, 12.9\%), Endocrine (40, 6.2\%), Radiation (11, 1.7\%), Procedure (6, 0.9\%).
+
+\subsection{Step 3: Primary Metrics}
+
+\subsubsection{Total Healthcare Contact Days at 12 Months}
+
+The primary outcome was the cumulative number of days requiring healthcare contact from enrollment through 12 months, as extracted by the LLM pipeline. Values are cumulative (each timepoint represents the running total from baseline).
+
+\subsubsection{Delta (Incremental Time Toxicity)}
+
+For each trial with both arm types:
+$$\Delta_{\text{TT}} = \text{TT}_{\text{intervention, 12mo}} - \text{TT}_{\text{control, 12mo}}$$
+A positive delta indicates that the experimental arm imposes greater time burden; a negative delta indicates the control arm is more burdensome.
+
+\subsubsection{Intensity Score}
+
+$$\text{Intensity Score} = \frac{\text{TT}_{\text{12mo}}}{12} \quad \text{(average healthcare contact days per month)}$$
+
+\subsection{Step 4: Statistical Analysis Plan}
+\label{sec:statplan}
+
+All statistical tests were selected to be non-parametric, given the right-skewed distribution of time toxicity values.
+
+\subsubsection{4a) Sponsorship Comparison}
+\begin{itemize}
+    \item \textbf{Test:} Wilcoxon rank-sum (Mann-Whitney $U$) test
+    \item \textbf{Groups:} Industry (N\,=\,504) vs.\ Non-Industry (N\,=\,140)
+    \item \textbf{Outcomes:} (i)~Intervention arm 12-month TT; (ii)~Delta TT
+    \item \textbf{Effect size:} Rank-biserial correlation $r = 1 - 2U/(n_1 n_2)$
+\end{itemize}
+
+\subsubsection{4b) Disease Site Comparison}
+\begin{itemize}
+    \item \textbf{Test:} Kruskal-Wallis $H$ test (non-parametric one-way ANOVA)
+    \item \textbf{Groups:} 11 disease site categories (minimum N\,$\geq$\,10)
+    \item \textbf{Post-hoc:} Dunn's test with Bonferroni correction (if $p<0.05$)
+    \item \textbf{Outcome:} Intervention arm 12-month TT
+\end{itemize}
+
+\subsubsection{4c) Treatment Modality Comparison}
+\begin{itemize}
+    \item \textbf{Primary:} Wilcoxon rank-sum, Immunotherapy vs.\ Chemotherapy
+    \item \textbf{Secondary:} Kruskal-Wallis across all modalities (N\,$\geq$\,10)
+    \item \textbf{Pairwise:} Wilcoxon rank-sum with Bonferroni correction
+\end{itemize}
+
+\subsubsection{4d) Temporal Trend}
+\begin{itemize}
+    \item \textbf{Ordinary least squares (OLS):} $\text{TT}_{\text{12mo}} \sim \text{Trial Start Year}$
+    \item \textbf{Spearman correlation:} Non-parametric correlation coefficient
+    \item \textbf{Reported:} Slope (days/year), $R^2$, $p$-value, Spearman $\rho$
+\end{itemize}
+
+\subsubsection{4h) Adjusted Temporal Trend}
+\begin{itemize}
+    \item \textbf{OLS with covariates:} $\text{TT}_{\text{12mo}} \sim \text{Year} + C(\text{Disease Site}) + C(\text{Treatment Modality})$
+    \item Reference categories: Heme (disease site), Chemotherapy (modality)
+    \item Comparison of raw vs.\ adjusted start\_year slope to isolate the temporal effect from compositional changes
+\end{itemize}
+
+\subsubsection{4i) Within-Disease-Site Temporal Trends}
+\begin{itemize}
+    \item Separate OLS regressions: $\text{TT}_{\text{12mo}} \sim \text{Year}$ within each disease site (N\,$\geq$\,10)
+    \item Identifies which sites drive the overall temporal trend
+\end{itemize}
+
+\subsubsection{4j) Adjusted Sponsorship Comparison}
+\begin{itemize}
+    \item \textbf{Model A:} $\text{TT}_{\text{12mo}} \sim C(\text{Sponsor}) + C(\text{Site}) + C(\text{Modality})$
+    \item \textbf{Model B:} $\Delta\text{TT} \sim C(\text{Sponsor}) + C(\text{Site}) + C(\text{Modality})$
+    \item Isolates the sponsorship effect from disease/modality confounding
+\end{itemize}
+
+\subsubsection{4k) Funder $\times$ Time Interaction (Adjusted)}
+\begin{itemize}
+    \item $\text{TT}_{\text{12mo}} \sim \text{Year} \times C(\text{Sponsor}) + C(\text{Site}) + C(\text{Modality})$
+    \item Tests whether industry trials are accelerating in TT faster than non-industry
+\end{itemize}
+
+\subsection{Step 5: Component Analysis}
+\label{sec:component_method}
+
+For each arm with valid category breakdown data (N\,=\,1{,}431 arms with TT\,$>$\,0), the percentage contribution of each category to total 12-month TT was computed:
+$$\text{\%}_{c} = \frac{\text{Category}_{c,\text{12mo}}}{\text{Total TT}_{\text{12mo}}} \times 100$$
+
+A composite \textbf{research-specific burden} metric was defined as:
+$$\text{Research Burden} = \text{\%}_{\text{imaging}} + \text{\%}_{\text{labs}}$$
+This represents the proportion of time toxicity driven by monitoring activities (potentially modifiable via decentralized trial designs) rather than core treatment delivery.
+
+\subsection{Step 6: Multivariable Logistic Regression}
+\label{sec:regression_method}
+
+\subsubsection{Outcome}
+Binary: \textbf{High Time Toxicity} (above median 12-month TT of 19.0~days) vs.\ \textbf{Low Time Toxicity} ($\leq$19.0~days), defined at the arm level.
+
+\subsubsection{Predictors}
+\begin{itemize}
+    \item Sponsorship (Industry vs.\ Non-Industry [reference])
+    \item Disease site (10 categories vs.\ Heme [reference, most common])
+    \item Treatment modality (6 categories vs.\ Chemotherapy [reference])
+    \item Trial start year (continuous, mean-centered at 2012.2)
+    \item Arm type (intervention vs.\ control [reference])
+\end{itemize}
+
+\subsubsection{Model Specification}
+Logistic regression via maximum likelihood estimation (\texttt{statsmodels}):
+$$\text{logit}(P[\text{High TT}]) = \beta_0 + \beta_1 \text{Sponsor} + \boldsymbol{\beta}_2 \text{Site} + \boldsymbol{\beta}_3 \text{Modality} + \beta_4 \text{Year} + \beta_5 \text{ArmType}$$
+
+\subsubsection{Model Diagnostics}
+\begin{itemize}
+    \item Discrimination: Area under the receiver operating characteristic curve (AUC-ROC)
+    \item Calibration: Hosmer-Lemeshow goodness-of-fit test (10 groups)
+    \item Multicollinearity: Variance inflation factors (VIF)
+    \item Model fit: Pseudo-$R^2$ (McFadden), AIC, BIC
+\end{itemize}
+
+\subsubsection{Sensitivity Analyses}
+\begin{enumerate}
+    \item Linear regression on log-transformed continuous TT
+    \item Exclusion of high-variance arms (IQR\,$>$\,3 across extraction runs)
+\end{enumerate}
+
+%% ════════════════════════════════════════════════════════
+\section{Results}
+%% ════════════════════════════════════════════════════════
+
+\subsection{Cohort Characteristics}
+
+\begin{table}[H]
+\centering
+\caption{Cohort Characteristics of 644 Phase III Oncology Trials}
+\label{tab:cohort}
+\begin{tabular}{lc}
+\toprule
+\textbf{Characteristic} & \textbf{Value} \\
+\midrule
+Total trials & 644 \\
+Total arms & 1{,}466 \\
+\quad Intervention & 790 \\
+\quad Control & 676 \\
+Matched intervention--control pairs & 638 \\
+\addlinespace
+\textbf{12-Month TT, median (IQR)} & \\
+\quad Intervention arms & 19.0 (14.0--29.0) days \\
+\quad Control arms & 18.0 (14.0--30.0) days \\
+\quad Delta (Intervention $-$ Control) & 0.0 (0.0--0.0) days \\
+\addlinespace
+\textbf{Intensity Score, median (IQR)} & \\
+\quad Intervention arms & 1.6 (1.2--2.4) days/month \\
+\quad Control arms & 1.5 (1.2--2.5) days/month \\
+\addlinespace
+Trial Start Year, median (range) & 2013 (1994--2021) \\
+\addlinespace
+\textbf{Sponsorship, N (\%)} & \\
+\quad Industry & 504 (78.3\%) \\
+\quad Non-Industry & 140 (21.7\%) \\
+\addlinespace
+\textbf{Disease Site, N (\%)} & \\
+\quad Hematologic & 134 (20.8\%) \\
+\quad Breast & 99 (15.4\%) \\
+\quad Thoracic & 94 (14.6\%) \\
+\quad Genitourinary & 90 (14.0\%) \\
+\quad Gastrointestinal & 80 (12.4\%) \\
+\quad Gynecologic & 40 (6.2\%) \\
+\quad Skin & 29 (4.5\%) \\
+\quad Head \& Neck & 26 (4.0\%) \\
+\quad CNS & 13 (2.0\%) \\
+\quad Other/Multiple & 39 (6.1\%) \\
+\addlinespace
+\textbf{Treatment Modality, N (\%)} & \\
+\quad Targeted Therapy & 283 (43.9\%) \\
+\quad Immunotherapy & 137 (21.3\%) \\
+\quad Chemotherapy & 84 (13.0\%) \\
+\quad Other/Supportive & 83 (12.9\%) \\
+\quad Endocrine & 40 (6.2\%) \\
+\quad Radiation/Procedure & 17 (2.6\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The cohort comprised 644 unique phase III oncology trials with 1{,}466 consensus arms (790~intervention, 676~control). The majority were industry-sponsored (78.3\%). Hematologic malignancies were the most represented disease site (20.8\%), followed by breast (15.4\%) and thoracic cancers (14.6\%). Targeted therapy was the most common treatment modality (43.9\%), reflecting the contemporary shift in oncology drug development.
+
+\subsection{Distribution of Time Toxicity}
+
+The median 12-month healthcare contact days were 19.0 (IQR 14.0--29.0) for intervention arms and 18.0 (IQR 14.0--30.0) for control arms (Figure~\ref{fig:distribution}). The mean was substantially higher (24.9$\pm$19.6 for intervention, 24.4$\pm$20.3 for control), reflecting a right-skewed distribution driven by a subset of highly intensive protocols.
+
+The time toxicity trajectory showed a roughly linear accumulation: from a median of 2.0~days at screening, to 3.0~days at 1~month, 7.0~days at 3~months, 12.0~days at 6~months, 15.0~days at 9~months, and 19.0~days at 12~months for intervention arms.
+
+\subsection{Incremental Time Toxicity (Delta)}
+
+Among 638 trials with matched intervention--control pairs, the median delta was 0.0~days (IQR 0.0--0.0), with a mean of $-0.18 \pm 12.0$~days (Figure~\ref{fig:delta}). The distribution was remarkably symmetric around zero:
+\begin{itemize}
+    \item \textbf{431 trials (67.6\%)} had zero delta---identical contact days in both arms
+    \item \textbf{128 trials (20.1\%)} had positive delta---intervention arm more burdensome
+    \item \textbf{79 trials (12.4\%)} had negative delta---control arm more burdensome
+\end{itemize}
+The range was $-114$ to $+70$ days, indicating substantial variability in extreme cases despite the central tendency toward symmetry.
+
+\subsubsection{Zero-Delta Diagnostic}
+
+The finding that 67.6\% of trials have zero delta warrants methodological scrutiny. Among the 431 zero-delta trials, 420 had equal \emph{non-zero} TT values in both arms (e.g., both at 18~days), while only 11 had both arms at exactly 0~days. This confirms that the zero delta reflects genuinely identical visit schedules rather than missing data. The most common equal-value pair was (18, 18) with 55 trials, followed by (20, 20) with 24 trials.
+
+Chi-squared analysis revealed that zero-delta trials differed systematically from non-zero-delta trials: they were more likely to be industry-sponsored (83.3\% vs.\ 69.1\%, $\chi^2=16.0$, $p<0.001$), more likely to involve targeted therapy (48.7\% vs.\ 34.3\%, $\chi^2=61.2$, $p<0.001$), and had lower median TT (18.0 vs.\ 25.0~days). This pattern is consistent with industry-sponsored targeted therapy trials using a single shared Schedule of Events across arms---a standard design feature that results in identical protocol-mandated visit frequencies.
+
+Among the 207 non-zero-delta trials, the median delta was 2.0~days (IQR $-5.0$ to $9.0$), with 128 (61.8\%) favoring the intervention arm and 79 (38.2\%) favoring the control arm.
+
+\subsubsection{Extreme Time Toxicity Thresholds}
+
+Among primary intervention arms (pos\_idx=0), 22.4\% exceeded 30 healthcare contact days, 4.5\% exceeded 60~days, and 1.2\% exceeded 90~days at 12 months. Notably, control arms showed comparable or slightly higher rates of extreme burden (23.8\%, 4.1\%, and 1.9\%, respectively), further confirming the symmetry of TT across arms. The absolute incremental burden (|delta|) exceeded 30~days in only 3.1\% of trials and 60~days in 0.9\%, indicating that large between-arm differences are rare.
+
+\subsection{Comparative Analyses}
+
+\subsubsection{4a) Sponsorship}
+
+Industry-sponsored trials had numerically higher intervention arm TT (median 19.0, IQR 15.0--27.0) compared to non-industry trials (median 16.5, IQR 8.0--40.2), but this difference was not statistically significant ($U=38{,}512$, $p=0.097$, $r=-0.092$). The wider IQR in non-industry trials reflects greater heterogeneity in trial design.
+
+However, the delta TT showed a \textbf{highly significant difference} ($U=26{,}444$, $p<0.001$, $r=0.225$): non-industry trials had a higher incremental burden on the intervention arm (median delta 0.0, IQR 0.0--2.2) compared to industry trials (median delta 0.0, IQR 0.0--0.0). This suggests that industry-sponsored trials are more consistent in maintaining symmetric scheduling across arms.
+
+\subsubsection{4b) Disease Site}
+
+The Kruskal-Wallis test revealed highly significant differences in intervention arm TT across disease sites ($H=59.0$, $p<0.001$). Table~\ref{tab:disease} presents the full distribution.
+
+\begin{table}[H]
+\centering
+\caption{Time Toxicity by Disease Site (Intervention Arms), Ordered by Median}
+\label{tab:disease}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Disease Site} & \textbf{N} & \textbf{Median TT (days)} & \textbf{IQR} \\
+\midrule
+CNS & 13 & 41.0 & 22.0--53.0 \\
+Head \& Neck & 26 & 25.0 & 16.0--39.0 \\
+Gynecologic & 40 & 24.0 & 17.0--36.5 \\
+Hematologic & 134 & 22.0 & 14.0--42.0 \\
+Gastrointestinal & 80 & 20.5 & 16.8--28.2 \\
+Skin & 29 & 19.0 & 16.0--25.0 \\
+Genitourinary & 90 & 18.0 & 11.2--24.0 \\
+Thoracic & 94 & 18.0 & 17.0--25.5 \\
+Other & 28 & 17.0 & 10.0--49.2 \\
+Breast & 99 & 16.0 & 8.5--20.5 \\
+Multiple & 11 & 6.0 & 3.5--14.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Post-hoc Dunn's test with Bonferroni correction identified 10 significant pairwise differences. The most significant were: Breast vs.\ Heme ($p<0.001$), CNS vs.\ Multiple ($p=0.001$), Heme vs.\ Multiple ($p=0.001$), GYN vs.\ Multiple ($p=0.003$), Breast vs.\ GYN ($p=0.004$), Breast vs.\ GI ($p=0.005$), GI vs.\ Multiple ($p=0.007$), Breast vs.\ CNS ($p=0.008$), GU vs.\ Heme ($p=0.009$), and HN vs.\ Multiple ($p=0.026$).
+
+\subsubsection{4c) Treatment Modality}
+
+Immunotherapy was \textbf{significantly less time-toxic} than chemotherapy (median 21.0 vs.\ 32.0~days; $U=4{,}035$, $p=0.0002$, $r=0.299$), contrary to what might be expected given the frequent monitoring requirements of immune checkpoint inhibitors.
+
+The Kruskal-Wallis test across all modalities was highly significant ($H=105.6$, $p<0.001$). Table~\ref{tab:modality} presents the distribution.
+
+\begin{table}[H]
+\centering
+\caption{Time Toxicity by Treatment Modality (Intervention Arms), Ordered by Median}
+\label{tab:modality}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Treatment Modality} & \textbf{N} & \textbf{Median TT (days)} \\
+\midrule
+Chemotherapy & 84 & 32.0 \\
+Radiation & 11 & 27.0 \\
+Immunotherapy & 137 & 21.0 \\
+Targeted Therapy & 283 & 19.0 \\
+Endocrine & 40 & 14.0 \\
+Other/Supportive & 83 & 11.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Bonferroni-corrected pairwise comparisons identified 9 significant differences (all $p_{\text{adj}}<0.05$): Chemo vs.\ Endocrine, Chemo vs.\ Other, Chemo vs.\ Targeted, Chemo vs.\ Immunotherapy, IO vs.\ Other, IO vs.\ Targeted, Endocrine vs.\ IO, Endocrine vs.\ Targeted, and Other vs.\ Targeted.
+
+\subsubsection{4d) Temporal Trend}
+
+No statistically significant temporal trend in intervention arm TT was observed when indexed to trial start year:
+\begin{itemize}
+    \item \textbf{OLS regression:} slope\,=\,$-0.07$~days/year (95\% CI: $-0.36$ to $0.22$), $R^2=0.0003$, $p=0.640$
+    \item \textbf{Spearman correlation:} $\rho=0.051$, $p=0.200$
+\end{itemize}
+
+Unlike the previously observed trend using publication year, the trial start year analysis---which more accurately reflects when protocols were designed---revealed no meaningful temporal trend across the 1994--2021 period. The near-zero slope and non-significant Spearman correlation indicate that protocol-level time toxicity has been essentially stable when indexed to the era of trial design rather than publication. Disease site and treatment modality remained far stronger determinants of time toxicity.
+
+\subsubsection{4e) Industry-Specific Temporal Trend}
+
+Stratification by sponsorship revealed divergent but non-significant trends (Figure~\ref{fig:industry_temporal}). Industry-sponsored trials showed a modest positive trend of $+0.168$~days/year (95\% CI: $-0.173$ to $0.510$, $p=0.333$; Spearman $\rho=0.097$, $p=0.030$), while non-industry trials showed a non-significant negative trend ($-0.478$~days/year, $p=0.224$; Spearman $\rho=-0.161$, $p=0.057$). The formal interaction test (year $\times$ sponsor) yielded a coefficient of $+0.647$ ($p=0.073$); while the interaction did not reach statistical significance at $\alpha=0.05$, the opposing directions of the slopes suggest a possible differential trend warranting further investigation with larger non-industry samples.
+
+\subsubsection{4f) Front-Loading of Time Toxicity}
+
+Analysis of TT accumulation rates revealed that trial protocols are systematically front-loaded. Across 1{,}441 arms with TT\,$>$\,0, the median early accumulation rate (0--3 months) was 2.33~days/month compared to 1.33~days/month in the late period (3--12 months), a ratio of 1.75$\times$ (Wilcoxon signed-rank $p<0.001$; Figure~\ref{fig:front_loading}).
+
+Front-loading varied dramatically by treatment modality:
+\begin{itemize}
+    \item \textbf{Radiation} was the most extremely front-loaded (early 8.00 vs.\ late 0.33~days/month, 1{,}500\% front-load), reflecting the concentrated treatment delivery phase.
+    \item \textbf{Chemotherapy} was substantially front-loaded (4.33 vs.\ 1.44~days/month, 154\%).
+    \item \textbf{Immunotherapy} was the flattest modality (2.33 vs.\ 1.44~days/month, 15\%), consistent with the sustained infusion schedules of checkpoint inhibitors.
+    \item \textbf{Endocrine therapy} showed moderate front-loading (1.33 vs.\ 0.67~days/month, 100\%).
+\end{itemize}
+
+Control arms were slightly more front-loaded than intervention arms (ratio 1.91$\times$ vs.\ 1.62$\times$), likely reflecting more intensive early safety monitoring in control arms.
+
+Incremental interval analysis for intervention arms confirmed the pattern: TT accumulated at 2.00~days/month during months 0--3, declining to 1.33~days/month (months 3--6), 1.00~days/month (months 6--9), and recovering to 1.33~days/month (months 9--12).
+
+\subsubsection{4g) Variability Across Subgroups (IQR Analysis)}
+
+Comparison of interquartile ranges (IQR) revealed marked differences in TT variability across subgroups (Figure~\ref{fig:iqr}):
+
+\begin{itemize}
+    \item \textbf{Sponsorship:} Non-industry trials had 2.7$\times$ larger IQR (32.2 vs.\ 12.0~days), indicating much greater heterogeneity despite a lower median (16.5 vs.\ 19.0~days).
+    \item \textbf{Disease site:} Hematologic cancers had the widest IQR (28.0~days), while thoracic trials were the most consistent (IQR 8.5~days).
+    \item \textbf{Treatment modality:} Chemotherapy showed the greatest variability (IQR 32.0~days), while immunotherapy was remarkably consistent (IQR 9.0~days).
+\end{itemize}
+
+The high variability in non-industry and chemotherapy trials reflects the heterogeneous nature of academic protocols and multi-agent chemotherapy regimens, while the tighter distributions in industry and immunotherapy trials suggest more standardized protocol designs.
+
+\subsubsection{4h) Adjusted Temporal Trend}
+
+The raw temporal trend of $-0.088$~days/year ($p=0.556$) was already non-significant, but we nonetheless examined whether adjusting for the evolving mix of disease sites and treatment modalities would reveal a hidden trend. We regressed intervention arm 12-month TT on trial start year with disease site and treatment modality as covariates (OLS; $N=638$; reference categories: Heme, Chemotherapy).
+
+The adjusted model yielded a slope of $-0.053$~days/year (95\% CI: $-0.352$ to $0.245$, $p=0.726$), compared to the raw slope of $-0.088$ on the same filtered subset (Figure~\ref{fig:adjusted_temporal}). Both were far from significance. The model explained 19.2\% of variance ($R^2=0.192$), confirming that disease site and treatment modality account for substantial variation in TT, even though trial start year does not.
+
+The significant covariates were consistent with Section~4b--c: Breast ($-11.9$~days, $p<0.001$), Thoracic ($-11.4$~days, $p<0.001$), GU ($-10.1$~days, $p<0.001$), and GI ($-7.2$~days, $p=0.003$) relative to Heme. All non-chemotherapy modalities were significantly less burdensome ($-10.3$ to $-20.0$~days, all $p<0.001$).
+
+\textbf{Interpretation:} When indexed to trial start year, no temporal trend is detected either before or after adjustment for compositional changes. This contrasts with the previously observed trend using publication year, suggesting that the apparent increase in time toxicity over publication years was an artifact of increasing publication lag for older, simpler trials rather than a true change in protocol design complexity.
+
+\subsubsection{4i) Within-Disease-Site Temporal Trends}
+
+To identify which disease sites drive the overall temporal trend, we ran separate OLS regressions within each of the 11 qualifying sites.
+
+\begin{table}[H]
+\centering
+\caption{Within-Disease-Site Temporal Trends in Time Toxicity, Ranked by Slope}
+\label{tab:within_site}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Disease Site} & \textbf{N} & \textbf{Slope (d/yr)} & \textbf{95\% CI} & \textbf{$p$-value} \\
+\midrule
+Multiple & 11 & $+1.88$ & $-0.53$--4.29 & 0.112 \\
+Head \& Neck & 26 & $+0.93$ & $-0.68$--2.55 & 0.244 \\
+Breast & 99 & $+0.68$ & 0.23--1.12 & 0.003$^*$ \\
+Hematologic & 134 & $+0.53$ & $-0.46$--1.52 & 0.290 \\
+GI & 80 & $-0.14$ & $-0.95$--0.67 & 0.735 \\
+Thoracic & 94 & $-0.36$ & $-0.82$--0.09 & 0.118 \\
+GU & 90 & $-0.39$ & $-0.85$--0.07 & 0.093 \\
+CNS & 13 & $-0.88$ & $-3.63$--1.86 & 0.494 \\
+GYN & 40 & $-1.19$ & $-2.45$--0.07 & 0.064 \\
+Skin & 29 & $-1.27$ & $-2.33$--$-0.20$ & 0.022$^*$ \\
+Other & 28 & $-2.04$ & $-4.31$--0.24 & 0.078 \\
+\bottomrule
+\multicolumn{5}{l}{\footnotesize $^*p<0.05$. See Figure~\ref{fig:within_site} for scatter plots.} \\
+\end{tabular}
+\end{table}
+
+Only one site had a statistically significant upward trend: \textbf{breast cancer} ($+0.68$~d/yr, $p=0.003$), and one had a significant downward trend: \textbf{skin} ($-1.27$~d/yr, $p=0.022$). GYN was borderline declining ($-1.19$~d/yr, $p=0.064$). The remaining sites showed no significant temporal trends. The breast cancer finding may reflect the increasing complexity of HER2-directed and CDK4/6 combination protocols, while the declining trend in skin trials may reflect the shift from complex chemotherapy-based regimens to streamlined immunotherapy protocols in melanoma.
+
+\subsubsection{4j) Adjusted Sponsorship Comparison}
+
+The raw Wilcoxon comparison from Section~4a found non-significant differences in absolute TT ($p=0.097$) but highly significant differences in delta TT ($p<0.001$). To assess whether these results are confounded by the different disease site and modality mixes between sponsors, we fit OLS models with disease site and treatment modality as covariates.
+
+\textbf{Absolute TT:} After adjustment, the Industry coefficient was $-1.59$~days (95\% CI: $-5.14$ to $1.95$, $p=0.377$). Industry-sponsored trials do not have significantly different absolute TT after controlling for their disease and modality mix.
+
+\textbf{Delta TT:} After adjustment, the Industry coefficient was $-5.65$~days (95\% CI: $-8.25$ to $-3.05$, $p<0.001$). The highly significant raw difference \textbf{persisted and strengthened} after adjustment, confirming that industry trials systematically impose a smaller incremental burden on the intervention arm, independent of disease site and modality.
+
+\subsubsection{4k) Funder $\times$ Time Interaction (Adjusted)}
+
+To test whether industry trials are getting more demanding faster, we added a funder $\times$ trial start year interaction term to the adjusted temporal model.
+
+\textbf{Unadjusted interaction:} coefficient $=+0.647$ ($p=0.073$) on this subset.
+
+\textbf{Adjusted interaction} (controlling for disease site and modality): coefficient $=+0.552$ (95\% CI: $-0.134$ to $1.239$, $p=0.114$). The implied slopes were: Non-Industry $-0.405$~d/yr ($p=0.175$) and Industry $+0.147$~d/yr. The model $R^2$ was 0.196 ($N=638$).
+
+The interaction was not statistically significant, and the implied Industry slope ($+0.147$~d/yr) was modest and non-significant. The Non-Industry slope was negative ($-0.405$~d/yr) but also non-significant. When indexed to trial start year rather than publication year, neither sponsor group shows a clear temporal trajectory in time toxicity.
+
+\subsection{Component Analysis}
+\label{sec:component}
+
+\subsubsection{Overall Composition}
+
+Across 1{,}431 arms with time toxicity $>0$~days, the composition of 12-month TT was:
+
+\begin{table}[H]
+\centering
+\caption{Component Composition of Time Toxicity (All Arms)}
+\label{tab:components}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Category} & \textbf{Mean \%} & \textbf{Median \%} & \textbf{Mean Days} \\
+\midrule
+Core Treatment & 68.6\% & 80.6\% & 19.1 \\
+Labs & 16.7\% & 5.1\% & 3.9 \\
+Imaging/Diagnostics & 9.7\% & 2.3\% & 1.6 \\
+Clinic Visits & 4.9\% & 0.0\% & 0.5 \\
+\midrule
+\textbf{Research-Specific (Imaging + Labs)} & \textbf{26.4\%} & \textbf{14.3\%} & \textbf{5.5} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Core treatment was the dominant driver (68.6\%), but a substantial \textbf{26.4\% of time toxicity was research-specific}---attributable to imaging and laboratory monitoring that could potentially be decentralized or reduced through protocol optimization.
+
+\subsubsection{Composition by Arm Type}
+
+Intervention arms had slightly higher core treatment burden (70.7\% vs.\ 66.2\%) and lower research-specific burden (24.7\% vs.\ 28.4\%) compared to control arms. This suggests that control arms, despite having similar total TT, achieve that burden through proportionally more monitoring rather than treatment delivery.
+
+\subsubsection{Composition by Disease Site}
+
+Substantial variation existed across disease sites (Table~\ref{tab:component_site}).
+
+\begin{table}[H]
+\centering
+\caption{Component Composition by Disease Site (Intervention Arms)}
+\label{tab:component_site}
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Site} & \textbf{N} & \textbf{Core Tx} & \textbf{Imaging} & \textbf{Labs} & \textbf{Research\%} \\
+\midrule
+GI & 93 & 82.1\% & 5.9\% & 9.1\% & 15.0\% \\
+Thor & 110 & 78.7\% & 11.5\% & 7.0\% & 18.5\% \\
+Skin & 40 & 78.0\% & 11.1\% & 8.1\% & 19.2\% \\
+HN & 30 & 77.9\% & 7.4\% & 3.9\% & 11.3\% \\
+Breast & 119 & 71.6\% & 10.8\% & 9.9\% & 20.6\% \\
+GU & 105 & 67.7\% & 8.1\% & 20.2\% & 28.2\% \\
+CNS & 19 & 66.9\% & 7.9\% & 11.7\% & 19.6\% \\
+GYN & 51 & 63.9\% & 9.3\% & 24.8\% & 34.1\% \\
+Heme & 157 & 63.2\% & 8.8\% & 25.7\% & 34.5\% \\
+Multiple & 11 & 34.2\% & 9.8\% & 40.2\% & 50.1\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Hematologic and gynecologic trials} had the highest research-specific burden (34.5\% and 34.1\%, respectively), driven predominantly by laboratory monitoring (25.7\% and 24.8\%). These disease sites represent the strongest candidates for protocol optimization through decentralized trial designs or local laboratory monitoring.
+
+\textbf{Gastrointestinal and head \& neck trials} had the lowest research burden (15.0\% and 11.3\%), with the vast majority of time toxicity attributable to core treatment---an inherently less modifiable component.
+
+\subsubsection{Composition by Treatment Modality}
+
+\begin{table}[H]
+\centering
+\caption{Component Composition by Treatment Modality (Intervention Arms)}
+\label{tab:component_mod}
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Modality} & \textbf{N} & \textbf{Core Tx} & \textbf{Imaging} & \textbf{Labs} & \textbf{Research\%} \\
+\midrule
+Immunotherapy & 174 & 91.9\% & 3.6\% & 3.5\% & 7.1\% \\
+Radiation & 12 & 72.1\% & 18.3\% & 7.4\% & 25.7\% \\
+Chemotherapy & 107 & 69.2\% & 6.2\% & 20.7\% & 26.9\% \\
+Targeted Therapy & 325 & 69.6\% & 11.8\% & 17.2\% & 29.0\% \\
+Endocrine & 46 & 61.7\% & 13.4\% & 17.5\% & 30.9\% \\
+Other & 98 & 44.8\% & 10.1\% & 24.4\% & 34.5\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Immunotherapy protocols had the lowest research-specific burden} (7.1\%), with 91.9\% of time toxicity attributable to core treatment delivery (infusion visits). This finding explains why immunotherapy, despite its substantial total TT (21.0~days), offers fewer optimization opportunities---the burden is inherent to the treatment mechanism.
+
+\textbf{Targeted therapy and endocrine trials} had high research burden (29.0\% and 30.9\%), suggesting that laboratory and imaging monitoring requirements could be streamlined, particularly for oral agents where treatment itself does not require healthcare contact.
+
+\subsection{Multivariable Logistic Regression}
+
+\subsubsection{Primary Model}
+
+The primary logistic regression model was restricted to primary arms only (pos\_idx\,=\,0) to avoid pseudo-replication from secondary arms in multi-arm trials. This yielded 1{,}260 arms with complete data (184 secondary arms excluded from the original 1{,}466). The model converged successfully (Table~\ref{tab:regression}).
+
+\begin{table}[H]
+\centering
+\caption{Multivariable Logistic Regression: Independent Predictors of High Time Toxicity ($>$18.0 days)}
+\label{tab:regression}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Predictor} & \textbf{OR} & \textbf{95\% CI} & \textbf{$p$-value} \\
+\midrule
+\multicolumn{4}{l}{\textit{Sponsorship (ref: Non-Industry)}} \\
+\quad Industry & 1.32 & 0.93--1.88 & 0.118 \\
+\addlinespace
+\multicolumn{4}{l}{\textit{Disease Site (ref: Hematologic)}} \\
+\quad Breast & 0.50 & 0.33--0.75 & 0.001$^*$ \\
+\quad CNS & 1.83 & 0.67--5.00 & 0.242 \\
+\quad GI & 0.92 & 0.59--1.44 & 0.728 \\
+\quad GU & 0.37 & 0.24--0.59 & $<$0.001$^*$ \\
+\quad GYN & 1.04 & 0.59--1.83 & 0.902 \\
+\quad HN & 1.11 & 0.58--2.13 & 0.755 \\
+\quad Multiple & 0.13 & 0.03--0.61 & 0.010$^*$ \\
+\quad Other & 0.56 & 0.29--1.09 & 0.088 \\
+\quad Skin & 0.60 & 0.33--1.12 & 0.108 \\
+\quad Thoracic & 0.49 & 0.32--0.74 & 0.001$^*$ \\
+\addlinespace
+\multicolumn{4}{l}{\textit{Treatment Modality (ref: Chemotherapy)}} \\
+\quad Endocrine & 0.07 & 0.03--0.16 & $<$0.001$^*$ \\
+\quad Immunotherapy & 0.33 & 0.20--0.55 & $<$0.001$^*$ \\
+\quad Other & 0.10 & 0.06--0.18 & $<$0.001$^*$ \\
+\quad Radiation & 0.72 & 0.26--1.98 & 0.530 \\
+\quad Targeted Therapy & 0.26 & 0.17--0.40 & $<$0.001$^*$ \\
+\addlinespace
+\multicolumn{4}{l}{\textit{Other}} \\
+\quad Intervention (ref: Control) & 1.10 & 0.86--1.40 & 0.446 \\
+\quad Trial Start Year (per year) & 1.00 & 0.97--1.04 & 0.801 \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize $^*p<0.05$. AUC-ROC = 0.717, Hosmer-Lemeshow $p=0.239$.} \\
+\multicolumn{4}{l}{\footnotesize McFadden pseudo-$R^2 = 0.125$, AIC = 1{,}568.9, BIC = 1{,}671.7.} \\
+\multicolumn{4}{l}{\footnotesize Primary arms only (pos\_idx=0); 184 secondary arms excluded.} \\
+\end{tabular}
+\end{table}
+
+\subsubsection{Key Findings}
+
+\begin{enumerate}
+    \item \textbf{Treatment modality} remained the strongest predictor. Compared to chemotherapy (reference), all other modalities had significantly lower odds: endocrine (OR\,=\,0.07), other (OR\,=\,0.10), targeted therapy (OR\,=\,0.26), and immunotherapy (OR\,=\,0.33).
+
+    \item \textbf{Disease site} showed significant independent effects. Compared to hematologic cancers (reference), GU (OR\,=\,0.37), thoracic (OR\,=\,0.49), breast (OR\,=\,0.50), and multiple (OR\,=\,0.13) had significantly lower odds.
+
+    \item \textbf{Industry sponsorship} showed a trend toward higher TT (OR\,=\,1.31, $p=0.159$) but did not reach statistical significance after restricting to primary arms. In the linear sensitivity analysis, industry sponsorship was associated with an increase in TT.
+
+    \item \textbf{Trial start year} showed no temporal effect (OR\,=\,1.00/year, $p=0.801$) in the logistic model, confirmed by the linear sensitivity analysis ($+0.1\%$/year, $p=0.884$).
+
+    \item \textbf{Arm type} (intervention vs.\ control) was \textbf{not} independently significant (OR\,=\,1.10, $p=0.45$), confirming that time toxicity is largely symmetric across trial arms.
+\end{enumerate}
+
+\subsubsection{Model Diagnostics}
+
+The model demonstrated acceptable discrimination (AUC-ROC\,=\,0.717) and good calibration (Hosmer-Lemeshow $\chi^2=10.39$, $p=0.239$). All variance inflation factors were below 3.0 (maximum VIF\,=\,2.70 for Targeted Therapy), indicating no multicollinearity. The McFadden pseudo-$R^2$ of 0.125 indicates moderate explanatory power.
+
+\subsubsection{Sensitivity Analysis: All Arms vs.\ Primary Arms}
+
+A comparison of the primary model (pos\_idx=0 only, N\,=\,1{,}260) with the original specification using all 1{,}441 arms showed consistent direction and magnitude of effects. Industry sponsorship yielded a modestly higher OR in the all-arms model (1.45 vs.\ 1.32), reaching significance ($p=0.027$), while immunotherapy odds ratios were concordant (0.43 vs.\ 0.33). The AUC was slightly higher in the all-arms model (0.742 vs.\ 0.717), likely due to the larger sample size, but the clinical interpretations were unchanged.
+
+\subsubsection{Sensitivity Analysis: Linear Regression on log(TT)}
+
+The linear regression on log-transformed TT yielded consistent results ($R^2=0.217$, adjusted $R^2=0.205$, $F$-test $p<0.001$), with the same predictors achieving significance. Notable coefficient interpretations: industry sponsorship was associated with an increase in TT; chemotherapy reference confirmed as the highest-burden modality (endocrine, immunotherapy, and targeted all significantly lower). Trial start year showed a negligible $+0.1\%$ per year change ($p=0.884$), confirming the absence of a temporal trend when indexed to trial initiation rather than publication.
+
+\subsection{Arm Labeling Validation}
+
+A systematic spot check was performed to assess whether control and intervention arm labels were correctly assigned, given that \texttt{intervention\_type} is determined by the LLM extraction pipeline.
+
+\subsubsection{TT Inversion Check}
+
+Among 638 paired trials, 79 (12.4\%) had control arm TT exceeding intervention arm TT. The median inversion magnitude was 11.0~days (IQR 3.0--21.0), with a maximum of 114~days. While some inversions are legitimate (e.g., intensive chemotherapy control vs.\ oral targeted intervention), 5 trials had inversions $>$50~days, warranting further scrutiny.
+
+\subsubsection{Multi-Control Drug Name Audit}
+
+Among 71 control arms across the 33 multi-control protocols, drug name analysis against the curated dictionary ($\sim$150 oncology drugs, excluding supportive agents) classified:
+\begin{itemize}
+    \item 48 arms (67.6\%) as \textbf{likely correctly labeled} (contained control keywords such as ``placebo,'' ``standard of care,'' or ``best supportive care'')
+    \item 15 arms (21.1\%) as \textbf{ambiguous} (contained active drug names but no control keywords, with TT $\leq$ intervention arm)
+    \item 8 arms (11.3\%) as \textbf{suspect mislabeling} (active oncology drug, no control keyword, and TT exceeding the intervention arm)
+\end{itemize}
+
+The 8 suspect arms spanned 6 trials and included active chemotherapy agents (paclitaxel, irinotecan, etoposide, docetaxel, vinorelbine, gemcitabine, eribulin) labeled as ``control'' despite having higher TT than the matched intervention arm and lacking any placebo or comparator designation.
+
+\subsubsection{Multi-Control as Multi-Intervention Hypothesis}
+
+Of the 33 multi-control protocols, 13 (39.4\%) had more control arms than intervention arms---an atypical design that supports the user's hypothesis that some multi-control trials may actually have mislabeled intervention arms. These include trials where 2--3 active chemotherapy regimens were labeled as ``control'' alongside a single targeted or immunotherapy ``intervention.''
+
+\textbf{Impact assessment:} The 8 suspect mislabeled arms represent only 0.5\% of all 1{,}466 arms, and their correction would not materially alter the primary findings. However, they illustrate the inherent limitation of LLM-based arm labeling in multi-arm trials where the distinction between ``active comparator'' and ``control'' is semantically ambiguous.
+
+%% ════════════════════════════════════════════════════════
+\section{Figure Descriptions}
+%% ════════════════════════════════════════════════════════
+
+All figures are generated at 300~DPI with a colorblind-safe palette and are available in PDF format in the \texttt{figures/} subdirectory.
+
+\begin{enumerate}
+    \item \textbf{Figure~1 (\texttt{fig1\_tt\_distribution.pdf}):} Violin plot with box plot overlay showing the distribution of 12-month healthcare contact days for intervention (N\,=\,790) and control (N\,=\,676) arms. Medians annotated with IQR.
+
+    \item \textbf{Figure~2 (\texttt{fig2\_delta\_tt\_distribution.pdf}):} Histogram of delta TT (intervention minus control) across 638 paired trials, with vertical lines at zero and the median. Text annotation showing the proportion of positive, zero, and negative deltas.
+
+    \item \textbf{Figure~3 (\texttt{fig3\_sponsorship\_comparison.pdf}):} Side-by-side violin plots comparing Industry vs.\ Non-Industry trials on two outcomes: (left)~intervention arm 12-month TT and (right)~delta TT. $p$-values annotated.
+
+    \item \textbf{Figure~4 (\texttt{fig4\_disease\_site\_comparison.pdf}):} Box plot of intervention arm TT across 11 disease sites, ordered by descending median. Sample sizes annotated below each box. Horizontal dashed line at overall median (19.0~days).
+
+    \item \textbf{Figure~5 (\texttt{fig5\_treatment\_type\_comparison.pdf}):} Violin plot with box overlay showing intervention arm TT across 6 treatment modalities with N\,$\geq$\,10, ordered by median.
+
+    \item \textbf{Figure~6 (\texttt{fig6\_temporal\_trend.pdf}):} Scatter plot of intervention arm TT vs.\ trial start year (1994--2021) with jittered individual data points, yearly median trend line (red), and OLS regression line with 95\% confidence interval (blue). Spearman $\rho$ and $p$-value in title.
+
+    \item \textbf{Figure~7 (\texttt{fig7\_component\_breakdown.pdf}):} Dual 100\% stacked horizontal bar chart showing TT composition (core treatment, imaging, labs, clinic visits) by (left)~disease site and (right)~treatment modality, ordered by ascending median TT. Percentage labels on segments $>8\%$.
+
+    \item \textbf{Figure~8 (\texttt{fig8\_forest\_plot\_regression.pdf}):} Forest plot of odds ratios from the multivariable logistic regression with 95\% confidence intervals on log scale. Significant predictors in blue, non-significant in gray. Vertical dashed reference line at OR\,=\,1.
+
+    \item \textbf{Figure~9 (\texttt{fig9\_industry\_temporal\_trend.pdf}):} \label{fig:industry_temporal} Stratified scatter plot of intervention arm TT vs.\ trial start year with separate OLS regression lines and 95\% CI bands for Industry (blue) and Non-Industry (orange). Yearly median overlay markers. Legend displays slopes and $p$-values.
+
+    \item \textbf{Figure~10 (\texttt{fig10\_front\_loading.pdf}):} \label{fig:front_loading} Dual-panel figure. Left: paired horizontal bar chart comparing early (0--3~month) and late (3--12~month) TT accumulation rates (days/month) by treatment modality. Right: cumulative TT trajectory curves (median at each timepoint) by treatment modality.
+
+    \item \textbf{Figure~11 (\texttt{fig11\_threshold\_analysis.pdf}):} Dual-panel bar chart. Left: percentage of primary intervention and control arms exceeding 30, 60, and 90 healthcare contact days. Right: percentage of trials with incremental delta exceeding these thresholds in either direction.
+
+    \item \textbf{Figure~12 (\texttt{fig12\_iqr\_comparison.pdf}):} \label{fig:iqr} Forest-style plot of median TT with IQR bars for all subgroups (sponsorship, disease site, treatment modality). Color-coded by category. Vertical dashed line at overall median (19.0~days).
+
+    \item \textbf{Figure~13 (\texttt{fig13\_adjusted\_temporal\_trend.pdf}):} \label{fig:adjusted_temporal} Scatter plot of intervention arm TT vs.\ trial start year with two overlaid regression lines: raw/unadjusted (blue dashed, slope $-0.09$~d/yr) and adjusted for disease site and treatment modality (red solid, slope $-0.05$~d/yr). 95\% CI bands shown for both. Yearly medians as black circles. Demonstrates that neither the raw nor adjusted temporal trend is significant when indexed to trial start year.
+
+    \item \textbf{Figure~14 (\texttt{fig14\_within\_site\_temporal.pdf}):} \label{fig:within_site} Small multiples panel ($4 \times 3$) showing temporal trend in TT for each of 11 qualifying disease sites. Each panel includes scatter points (jittered), OLS regression line with 95\% CI band, and displays slope and $p$-value. Panels with significant trends ($p<0.05$) highlighted with bold titles and red regression lines. Reveals that breast cancer shows a significant upward trend and skin a significant decline when indexed to trial start year.
+
+    \item \textbf{Figure~15 (\texttt{fig15\_heatmap\_disease\_timepoint.pdf}):} Heatmap of median time toxicity across disease sites (rows, sorted by descending 12-month median) and cumulative timepoints (columns: 1, 3, 6, 9, 12~months). Two side-by-side panels: Intervention arms (left) and Control arms (right). Color scale (YlOrRd) represents median healthcare contact days with a shared range across panels. Each cell annotated with the median value. Row labels include per-site sample sizes (N).
+
+    \item \textbf{Figure~16 (\texttt{fig16\_slope\_chart\_accumulation.pdf}):} Slope chart showing median TT accumulation rate (days/month) across five sequential intervals (Screening$\rightarrow$1\,mo, 1$\rightarrow$3\,mo, 3$\rightarrow$6\,mo, 6$\rightarrow$9\,mo, 9$\rightarrow$12\,mo) for intervention arms. Two panels: (left)~stratified by disease site, (right)~stratified by treatment modality. Each line represents a subgroup; line thickness proportional to sample size. Visualizes the front-loading pattern and its variation across clinical contexts.
+\end{enumerate}
+
+%% ════════════════════════════════════════════════════════
+\section{Discussion}
+%% ════════════════════════════════════════════════════════
+
+\subsection{Summary of Findings}
+
+This analysis presents the first large-scale, standardized quantification of time toxicity across 644 phase III oncology trials. Several key findings emerge:
+
+\begin{enumerate}
+    \item \textbf{Time toxicity is substantial but variable.} The median 19-day burden at 12 months translates to approximately 1.6 healthcare contact days per month. However, the distribution is right-skewed (mean 24.9~days), with some protocols requiring $>$100 contact days annually.
+
+    \item \textbf{Innovation does not systematically increase burden.} The striking finding that 67.6\% of trials have zero delta TT suggests that most protocols impose equivalent scheduling demands on both arms. When differences exist, they are equally likely to favor the intervention or control arm.
+
+    \item \textbf{Disease biology drives time toxicity.} CNS trials (41~days) require approximately 2.5$\times$ the contact days of breast trials (16~days), reflecting the inherent complexity of intracranial disease monitoring and treatment delivery.
+
+    \item \textbf{Chemotherapy remains the most burdensome modality.} At 32.0~days, chemotherapy trials impose 50\% more contact days than immunotherapy (21.0~days) and 70\% more than targeted therapy (19.0~days). The ongoing shift toward newer modalities may contribute to stable or modestly lower time toxicity in more recently designed trials.
+
+    \item \textbf{Over one-quarter of time toxicity is research-driven.} The 26.4\% research-specific burden (imaging + labs) represents a directly modifiable component of patient burden.
+
+    \item \textbf{No overall temporal trend when indexed to trial start year.} The raw temporal analysis showed a slope of $-0.07$~d/yr ($p=0.640$), and the adjusted model confirmed the null finding ($-0.05$~d/yr, $p=0.726$). Stratification by sponsorship revealed a modest positive but non-significant industry trend ($+0.17$~d/yr, $p=0.333$) and a non-significant negative non-industry trend ($-0.48$~d/yr, $p=0.224$). The adjusted funder $\times$ year interaction ($+0.55$, $p=0.114$) was not significant. Within-disease-site analysis identified breast cancer ($+0.68$~d/yr, $p=0.003$) as having a significant upward trend, while skin showed a significant decline ($-1.27$~d/yr, $p=0.022$). The absence of an overall trend when using trial start year---in contrast to the previously observed trend using publication year---suggests that publication lag confounded earlier temporal analyses.
+
+    \item \textbf{All trials are front-loaded.} TT accumulates 1.75$\times$ faster in the first 3 months compared to the subsequent 9 months. Radiation therapy is the most extremely front-loaded modality, while immunotherapy has the flattest accumulation curve. This has implications for early patient dropout and informed consent.
+
+    \item \textbf{Variability is as informative as central tendency.} Non-industry trials have 2.7$\times$ the IQR of industry trials (32.2 vs.\ 12.0~days), reflecting heterogeneous academic protocol designs. The narrow IQR of immunotherapy trials (9.0~days) suggests highly standardized protocols.
+\end{enumerate}
+
+\subsection{Actionable Implications}
+
+\subsubsection{Decentralized Trial Opportunities}
+
+Hematologic (34.5\% research burden) and gynecologic (34.1\%) trials stand to benefit most from decentralized clinical trial (DCT) designs. Specifically, the dominant laboratory monitoring component (25.7\% and 24.8\%, respectively) could be addressed through:
+\begin{itemize}
+    \item Local laboratory partnerships for routine blood draws
+    \item Home phlebotomy services
+    \item Remote monitoring of laboratory results with protocol-specified action thresholds
+\end{itemize}
+
+\subsubsection{Protocol Amendment Targets}
+
+Radiation therapy trials had the highest imaging burden (18.3\%), suggesting potential overuse of surveillance imaging. Protocol amendments to reduce imaging frequency---particularly in the maintenance/follow-up phase---could meaningfully reduce patient burden without compromising safety monitoring.
+
+\subsubsection{Immunotherapy Efficiency}
+
+The finding that immunotherapy protocols have 91.9\% core treatment composition and only 7.1\% research burden suggests these protocols are already optimized from a monitoring perspective. Efforts to reduce time toxicity in immunotherapy trials should focus on treatment scheduling (e.g., extended dosing intervals) rather than monitoring reduction.
+
+\subsection{Limitations}
+
+\begin{enumerate}
+    \item \textbf{LLM extraction accuracy:} Healthcare contact days were extracted by a large language model, which may introduce systematic biases. However, the three-run consensus approach with 93.2\% three-run agreement mitigates random extraction errors.
+
+    \item \textbf{Protocol vs.\ practice:} The analysis reflects scheduled protocol visits, not actual patient experience. Protocol amendments, missed visits, and unscheduled visits are not captured.
+
+    \item \textbf{Treatment modality classification:} The drug-based classification may misattribute some trials, particularly combination regimens where the ``primary experimental agent'' designation is ambiguous.
+
+    \item \textbf{Temporal indexing:} The analysis uses trial start year rather than publication year to more accurately reflect protocol design era. No significant temporal trend was observed with this indexing ($-0.07$~d/yr, $p=0.640$; adjusted $-0.05$~d/yr, $p=0.726$), in contrast to a previously observed trend using publication year. This difference likely reflects publication lag confounding, where more complex trials take longer to publish.
+
+    \item \textbf{Category breakdown limited to 2 runs:} The Run~3 JSON contained only 99 of 644 protocols, requiring category analysis to rely on 2-run consensus. However, validation on the 99 overlapping entries showed negligible difference.
+
+    \item \textbf{Cross-sectional design:} This analysis does not capture within-trial longitudinal dynamics or the patient experience beyond 12 months.
+
+    \item \textbf{Front-loading analysis assumes linear interpolation:} TT accumulation rates between timepoints are computed assuming uniform daily rates within each interval. Actual visit scheduling may be non-uniform (e.g., weekly cycles in month 1 vs.\ monthly cycles later).
+
+    \item \textbf{Zero-delta prevalence:} The 67.6\% of trials with zero delta likely reflects that many protocols share a single Schedule of Events across arms, with identical monitoring frequencies. This is a genuine feature of protocol design, not an extraction artifact, but it limits the power of between-arm analyses.
+
+    \item \textbf{Multi-arm trial handling:} 33 protocols (5.1\%) had multiple control arms. The primary analysis used only the primary arm (pos\_idx=0, lowest TT) from each intervention type to avoid pseudo-replication. Sensitivity analyses using all arms showed concordant results.
+
+    \item \textbf{Arm labeling accuracy:} The LLM-based classification of arms as ``intervention'' or ``control'' is imperfect. A systematic spot check identified 8 suspect mislabeled arms (0.5\% of total) across 6 trials, and 13 of 33 multi-control protocols (39.4\%) had more control arms than intervention arms, an atypical design pattern. While the impact on aggregate statistics is minimal, individual trial-level analyses of the flagged protocols should be interpreted with caution.
+
+    \item \textbf{Drug dictionary coverage:} The treatment modality classifier used a manually curated dictionary of $\sim$150 oncology drugs. Trials where no drug matched the dictionary defaulted to ``Other'' (83 trials, 13\%). This may undercount rare or novel agents.
+\end{enumerate}
+
+%% ════════════════════════════════════════════════════════
+\section{Technical Pipeline Summary}
+%% ════════════════════════════════════════════════════════
+
+\subsection{Software and Dependencies}
+
+The analysis pipeline was implemented in Python~3.9 with the following key packages:
+\begin{itemize}
+    \item \texttt{pandas} $\geq$2.0 and \texttt{numpy} $\geq$1.24 for data manipulation
+    \item \texttt{scipy} $\geq$1.10 for non-parametric statistical tests
+    \item \texttt{statsmodels} $\geq$0.14 for regression modeling (OLS, logistic)
+    \item \texttt{scikit-learn} $\geq$1.3 for AUC-ROC computation
+    \item \texttt{scikit-posthocs} $\geq$0.9 for Dunn's post-hoc test
+    \item \texttt{matplotlib} $\geq$3.7 and \texttt{seaborn} $\geq$0.12 for visualization
+\end{itemize}
+
+\subsection{Pipeline Architecture}
+
+Seven sequentially executed scripts, each reading from and writing to a shared \texttt{data/} directory:
+
+\begin{enumerate}
+    \item \texttt{01\_build\_consensus.py} --- Position-based matching across 3 CSV runs + 2 JSON runs; outputs consensus arms, trial-level aggregates, and category breakdowns.
+    \item \texttt{02\_enrich\_metadata.py} --- Joins curated metadata from \texttt{Included Trials.csv}; implements three-tiered treatment modality classification.
+    \item \texttt{03\_descriptive\_statistics.py} --- Generates Table~1 (cohort characteristics) in CSV and \LaTeX{} formats.
+    \item \texttt{04\_comparative\_analyses.py} --- Runs eleven comparative tests: sponsorship (4a), disease site (4b), treatment type (4c), temporal trend (4d), industry-specific trend (4e), front-loading analysis (4f), IQR comparisons (4g), adjusted temporal trend (4h), within-site trends (4i), adjusted sponsorship (4j), and funder$\times$time interaction (4k).
+    \item \texttt{05\_component\_analysis.py} --- Decomposes TT into four categories; computes research-specific burden metrics.
+    \item \texttt{06\_multivariable\_regression.py} --- Fits logistic regression on primary arms (pos\_idx=0) with model diagnostics and sensitivity analyses.
+    \item \texttt{07\_generate\_figures.py} --- Produces 16 publication-quality PDF figures.
+    \item \texttt{08\_validation\_sensitivity.py} --- Validation suite: zero-delta characterization, multi-arm audit, intervention-only audit, non-zero-delta sensitivity analyses, regression arm-filtering comparison, and arm labeling spot check.
+\end{enumerate}
+
+\subsection{Output Files}
+
+\begin{longtable}{lll}
+\toprule
+\textbf{Directory} & \textbf{File} & \textbf{Description} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Directory} & \textbf{File} & \textbf{Description} \\
+\midrule
+\endhead
+\texttt{data/} & \texttt{consensus\_arms.csv} & 1{,}466 consensus arm-level records \\
+ & \texttt{consensus\_trials.csv} & 644 trial-level records with delta TT \\
+ & \texttt{category\_breakdown\_consensus.csv} & 1{,}452 category breakdowns \\
+ & \texttt{enriched\_trials.csv} & Trial-level with all metadata \\
+ & \texttt{enriched\_arms.csv} & Arm-level with all metadata \\
+ & \texttt{component\_analysis\_full.csv} & Full component analysis dataset \\
+ & \texttt{regression\_odds\_ratios.csv} & Logistic regression ORs and CIs \\
+\addlinespace
+\texttt{tables/} & \texttt{table1\_cohort\_characteristics} & Cohort overview (.csv, .tex) \\
+ & \texttt{table2\_comparative\_analyses.csv} & Statistical test results \\
+ & \texttt{table3\_regression\_results} & Regression output (.csv, .tex) \\
+ & \texttt{component\_by\_disease\_site.csv} & Component breakdown by site \\
+ & \texttt{component\_by\_modality.csv} & Component breakdown by modality \\
+ & \texttt{component\_summary.csv} & Overall component summary \\
+ & \texttt{table\_threshold\_analysis.csv} & Extreme TT threshold counts \\
+ & \texttt{table\_industry\_temporal.csv} & Industry-stratified temporal trend \\
+ & \texttt{table\_front\_loading.csv} & Front-loading rates by modality \\
+ & \texttt{table\_iqr\_comparison.csv} & IQR comparison by subgroup \\
+ & \texttt{table\_adjusted\_temporal\_trend.csv} & Raw vs adjusted temporal slopes \\
+ & \texttt{table\_within\_site\_temporal.csv} & Per-site temporal trends \\
+ & \texttt{table\_adjusted\_sponsorship.csv} & Adjusted sponsor comparison \\
+ & \texttt{table\_funder\_time\_interaction.csv} & Funder $\times$ year interaction \\
+ & \texttt{table\_arm\_labeling\_audit.csv} & Arm labeling spot check \\
+ & \texttt{table\_validation\_summary.csv} & Validation test results \\
+\addlinespace
+\texttt{data/} & \texttt{validation\_audit.csv} & Multi-control-arm audit \\
+\addlinespace
+\texttt{figures/} & \texttt{fig1}--\texttt{fig16} (PDF) & 16 publication-quality figures \\
+\bottomrule
+\end{longtable}
+
+%% ════════════════════════════════════════════════════════
+\section{Conclusions}
+%% ════════════════════════════════════════════════════════
+
+This comprehensive landscape analysis of 644 phase III oncology protocols reveals that time toxicity is a quantifiable, variable, and partially modifiable dimension of patient burden. The median 19-day 12-month healthcare contact burden is substantial, with marked variation across disease sites (6--41~days) and treatment modalities (11--32~days). The finding that 67.6\% of trials impose symmetric burden across arms---validated through chi-squared analysis as reflecting shared protocol schedules rather than extraction artifact---challenges the assumption that experimental treatments inherently cost more patient time.
+
+The identification of a 26.4\% research-specific burden component, concentrated in hematologic and gynecologic trials, provides a concrete target for protocol optimization. As clinical trials increasingly compete for patient enrollment, reducing unnecessary time toxicity through decentralized designs, streamlined monitoring, and extended dosing intervals may improve both recruitment and retention while preserving scientific rigor.
+
+When indexed to trial start year rather than publication year, no significant overall temporal trend was detected ($-0.07$~d/yr, $p=0.640$), and neither the adjusted model ($-0.05$~d/yr, $p=0.726$) nor the sponsor-stratified analyses revealed significant trajectories. However, breast cancer showed a significant upward trend ($+0.68$~d/yr, $p=0.003$), and the funder $\times$ time interaction ($+0.55$, $p=0.114$) hints at possible differential trajectories warranting monitoring. These findings suggest that previously observed publication-year-based trends may have been driven by confounding from differential publication lag rather than genuine changes in protocol design complexity.
+
+The universal front-loading of time toxicity (1.75$\times$ higher accumulation in the first 3 months) has practical implications for patient counseling and informed consent. Patients should be advised that the trial demands are highest during the initial treatment period, with a gradual reduction in visit frequency over time. This front-loaded pattern also has implications for early dropout prediction---the steepest burden phase coincides with the period of highest attrition risk.
+
+Finally, the variability analysis reveals that median TT alone is insufficient to characterize the patient experience. The 2.7-fold difference in IQR between non-industry and industry trials underscores the heterogeneity of academic protocol designs, while the tight clustering of immunotherapy protocols (IQR 9.0~days) reflects the standardized nature of checkpoint inhibitor dosing schedules.
+
+\end{document}

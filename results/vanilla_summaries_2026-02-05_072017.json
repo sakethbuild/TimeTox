@@ -1,0 +1,418 @@
+[
+  {
+    "filename": "PMID 23358972_Summary_SoE.pdf",
+    "schedule_id": "PMID 23358972_Summary_SoE.pdf",
+    "arms": [
+      {
+        "arm_name": "Arm A (FOLFIRI + sunitinib)",
+        "intervention_type": "intervention",
+        "healthcare_contact_days": {
+          "screening": 2,
+          "1_month": 5,
+          "3_months": 9,
+          "6_months": 15,
+          "9_months": 22,
+          "12_months": 29
+        },
+        "category_breakdown": {
+          "core_treatment": {
+            "screening": 0,
+            "1_month": 3,
+            "3_months": 7,
+            "6_months": 13,
+            "9_months": 20,
+            "12_months": 27
+          },
+          "imaging_diagnostics": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          },
+          "labs": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 2,
+            "6_months": 2,
+            "9_months": 2,
+            "12_months": 2
+          },
+          "clinic_visits": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          }
+        },
+        "extraction_notes": {
+          "cycle_length_days": 42,
+          "treatment_duration_months": 30,
+          "visit_pattern": "Screening (2 days); Cycle 1: Days 1, 8, 15, 22, 29 (5 days); Cycles 2-9: Days 1, 15, 29 (3 days per cycle).",
+          "assumptions": [
+            "Screening is estimated at 2 days to account for imaging (CT/MRI/Bone/ECG/ECHO) and laboratory/consent procedures.",
+            "Survival follow-up is conducted via telephone and is not counted as in-person contact.",
+            "End of Treatment and 28-day post-treatment visits are not included in the 12-month cumulative count as they occur after treatment discontinuation."
+          ]
+        }
+      },
+      {
+        "arm_name": "Arm B (FOLFIRI + placebo)",
+        "intervention_type": "control",
+        "healthcare_contact_days": {
+          "screening": 2,
+          "1_month": 5,
+          "3_months": 9,
+          "6_months": 15,
+          "9_months": 22,
+          "12_months": 29
+        },
+        "category_breakdown": {
+          "core_treatment": {
+            "screening": 0,
+            "1_month": 3,
+            "3_months": 7,
+            "6_months": 13,
+            "9_months": 20,
+            "12_months": 27
+          },
+          "imaging_diagnostics": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          },
+          "labs": {
+            "screening": 1,
+            "1_month": 2,
+            "3_months": 2,
+            "6_months": 2,
+            "9_months": 2,
+            "12_months": 2
+          },
+          "clinic_visits": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          }
+        },
+        "extraction_notes": {
+          "cycle_length_days": 42,
+          "treatment_duration_months": 30,
+          "visit_pattern": "Screening (2 days); Cycle 1: Days 1, 8, 15, 22, 29 (5 days); Cycles 2-9: Days 1, 15, 29 (3 days per cycle).",
+          "assumptions": [
+            "Screening is estimated at 2 days to account for imaging (CT/MRI/Bone/ECG/ECHO) and laboratory/consent procedures.",
+            "Survival follow-up is conducted via telephone and is not counted as in-person contact.",
+            "End of Treatment and 28-day post-treatment visits are not included in the 12-month cumulative count as they occur after treatment discontinuation."
+          ]
+        }
+      }
+    ],
+    "raw_response_snippet": "```json\n[\n  {\n    \"arm_name\": \"Arm A (FOLFIRI + sunitinib)\",\n    \"intervention_type\": \"intervention\",\n    \"healthcare_contact_days\": {\n      \"screening\": 2,\n      \"1_month\": 5,\n      \"3_months\": 9,\n  "
+  },
+  {
+    "filename": "PMID 23940216 a_Summary_SoE.pdf",
+    "schedule_id": "PMID 23940216 a_Summary_SoE.pdf",
+    "arms": [
+      {
+        "arm_name": "Cediranib 30 mg monotherapy",
+        "intervention_type": "intervention",
+        "healthcare_contact_days": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 9,
+          "6_months": 11,
+          "9_months": 13,
+          "12_months": 16
+        },
+        "category_breakdown": {
+          "core_treatment": {
+            "screening": 0,
+            "1_month": 2,
+            "3_months": 5,
+            "6_months": 7,
+            "9_months": 9,
+            "12_months": 11
+          },
+          "imaging_diagnostics": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 1
+          },
+          "labs": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          },
+          "clinic_visits": {
+            "screening": 0,
+            "1_month": 3,
+            "3_months": 4,
+            "6_months": 4,
+            "9_months": 4,
+            "12_months": 4
+          }
+        },
+        "extraction_notes": {
+          "cycle_length_days": 42,
+          "treatment_duration_months": 12,
+          "visit_pattern": "Weekly for the first 6 weeks (BP monitoring), then every 3 weeks for drug dispensing until week 12, then every 6 weeks for drug dispensing and MRI assessments.",
+          "assumptions": [
+            "Screening (Visit 1) is completed in a single calendar day.",
+            "The End of Treatment (EOT/Discontinuation) visit occurs at the end of the 12-month period and is included in the 12-month window.",
+            "Weekly blood pressure monitoring for the first 6 weeks (Footnote b) requires in-person clinic visits on weeks 1, 2, 4, and 5 for the monotherapy arm, as these are not otherwise scheduled for drug dispensing.",
+            "The monotherapy arm does not require the 3-weekly CBC visits specified in Footnote d as they do not receive lomustine."
+          ]
+        }
+      },
+      {
+        "arm_name": "Cediranib 20 mg + Lomustine",
+        "intervention_type": "intervention",
+        "healthcare_contact_days": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 9,
+          "6_months": 13,
+          "9_months": 17,
+          "12_months": 23
+        },
+        "category_breakdown": {
+          "core_treatment": {
+            "screening": 0,
+            "1_month": 2,
+            "3_months": 5,
+            "6_months": 7,
+            "9_months": 9,
+            "12_months": 11
+          },
+          "imaging_diagnostics": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 1
+          },
+          "labs": {
+            "screening": 0,
+            "1_month": 3,
+            "3_months": 4,
+            "6_months": 6,
+            "9_months": 8,
+            "12_months": 11
+          },
+          "clinic_visits": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          }
+        },
+        "extraction_notes": {
+          "cycle_length_days": 42,
+          "treatment_duration_months": 12,
+          "visit_pattern": "Weekly for the first 6 weeks (CBC and BP monitoring), then every 3 weeks for CBC and/or drug dispensing.",
+          "assumptions": [
+            "Screening (Visit 1) is completed in a single calendar day.",
+            "The End of Treatment (EOT/Discontinuation) visit occurs at the end of the 12-month period and is included in the 12-month window.",
+            "Footnote d requires CBC monitoring every 3 weeks after each lomustine dose (given every 6 weeks), resulting in additional lab visits at weeks 15, 21, 27, 33, 39, 45, and 51."
+          ]
+        }
+      },
+      {
+        "arm_name": "Placebo + Lomustine",
+        "intervention_type": "control",
+        "healthcare_contact_days": {
+          "screening": 1,
+          "1_month": 5,
+          "3_months": 9,
+          "6_months": 13,
+          "9_months": 17,
+          "12_months": 23
+        },
+        "category_breakdown": {
+          "core_treatment": {
+            "screening": 0,
+            "1_month": 2,
+            "3_months": 5,
+            "6_months": 7,
+            "9_months": 9,
+            "12_months": 11
+          },
+          "imaging_diagnostics": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 1
+          },
+          "labs": {
+            "screening": 0,
+            "1_month": 3,
+            "3_months": 4,
+            "6_months": 6,
+            "9_months": 8,
+            "12_months": 11
+          },
+          "clinic_visits": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          }
+        },
+        "extraction_notes": {
+          "cycle_length_days": 42,
+          "treatment_duration_months": 12,
+          "visit_pattern": "Weekly for the first 6 weeks (CBC and BP monitoring), then every 3 weeks for CBC and/or drug dispensing.",
+          "assumptions": [
+            "Screening (Visit 1) is completed in a single calendar day.",
+            "The End of Treatment (EOT/Discontinuation) visit occurs at the end of the 12-month period and is included in the 12-month window.",
+            "Footnote d requires CBC monitoring every 3 weeks after each lomustine dose (given every 6 weeks), resulting in additional lab visits at weeks 15, 21, 27, 33, 39, 45, and 51."
+          ]
+        }
+      }
+    ],
+    "raw_response_snippet": "```json\n[\n  {\n    \"arm_name\": \"Cediranib 30 mg monotherapy\",\n    \"intervention_type\": \"intervention\",\n    \"healthcare_contact_days\": {\n      \"screening\": 1,\n      \"1_month\": 5,\n      \"3_months\": 9,\n  "
+  },
+  {
+    "filename": "PMID 27264120 a_Summary_SoE.pdf",
+    "schedule_id": "PMID 27264120 a_Summary_SoE.pdf",
+    "arms": [
+      {
+        "arm_name": "Arm 1 (Letrozole 2.5 mg daily)",
+        "intervention_type": "intervention",
+        "healthcare_contact_days": {
+          "screening": 2,
+          "1_month": 0,
+          "3_months": 0,
+          "6_months": 1,
+          "9_months": 1,
+          "12_months": 2
+        },
+        "category_breakdown": {
+          "core_treatment": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          },
+          "imaging_diagnostics": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 1
+          },
+          "labs": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 1,
+            "9_months": 1,
+            "12_months": 1
+          },
+          "clinic_visits": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          }
+        },
+        "extraction_notes": {
+          "cycle_length_days": 1,
+          "treatment_duration_months": 60,
+          "visit_pattern": "Screening (2 days), Month 6 (1 day), Month 12 (1 day)",
+          "assumptions": [
+            "Screening requires 2 days to complete physical examination, comprehensive labs (Haematology, Biochemistry, Lipid Profile), and multiple imaging studies (Chest x-ray, Bone scan, Mammogram).",
+            "The 1-month toxicity check is explicitly defined as a telephone contact in the protocol footnotes (Appendix I) and is therefore excluded from in-person contact days.",
+            "The 12-month visit is categorized as imaging_diagnostics because it includes a mammogram, which takes priority over labs and clinic assessments.",
+            "The 6-month visit is categorized as labs because it includes blood draws, which take priority over clinic assessments."
+          ]
+        }
+      },
+      {
+        "arm_name": "Arm 2 (Placebo daily)",
+        "intervention_type": "control",
+        "healthcare_contact_days": {
+          "screening": 2,
+          "1_month": 0,
+          "3_months": 0,
+          "6_months": 1,
+          "9_months": 1,
+          "12_months": 2
+        },
+        "category_breakdown": {
+          "core_treatment": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          },
+          "imaging_diagnostics": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 1
+          },
+          "labs": {
+            "screening": 1,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 1,
+            "9_months": 1,
+            "12_months": 1
+          },
+          "clinic_visits": {
+            "screening": 0,
+            "1_month": 0,
+            "3_months": 0,
+            "6_months": 0,
+            "9_months": 0,
+            "12_months": 0
+          }
+        },
+        "extraction_notes": {
+          "cycle_length_days": 1,
+          "treatment_duration_months": 60,
+          "visit_pattern": "Screening (2 days), Month 6 (1 day), Month 12 (1 day)",
+          "assumptions": [
+            "Screening requires 2 days to complete physical examination, comprehensive labs (Haematology, Biochemistry, Lipid Profile), and multiple imaging studies (Chest x-ray, Bone scan, Mammogram).",
+            "The 1-month toxicity check is explicitly defined as a telephone contact in the protocol footnotes (Appendix I) and is therefore excluded from in-person contact days.",
+            "The 12-month visit is categorized as imaging_diagnostics because it includes a mammogram, which takes priority over labs and clinic assessments.",
+            "The 6-month visit is categorized as labs because it includes blood draws, which take priority over clinic assessments."
+          ]
+        }
+      }
+    ],
+    "raw_response_snippet": "```json\n[\n  {\n    \"arm_name\": \"Arm 1 (Letrozole 2.5 mg daily)\",\n    \"intervention_type\": \"intervention\",\n    \"healthcare_contact_days\": {\n      \"screening\": 2,\n      \"1_month\": 0,\n      \"3_months\": 0,"
+  }
+]

@@ -1,0 +1,13 @@
+comparison,outcome,n1,median1,iqr1,n2,median2,iqr2,U,p_value,rank_biserial_r
+Industry vs Non-Industry,Intervention 12mo TT,504,19.0,15.0-27.0,140.0,16.5,8.0-40.2,38512.0,0.09667552603993182,-0.09160997732426313
+Industry vs Non-Industry,Delta TT,502,0.0,0.0-0.0,136.0,0.0,0.0-2.2,26443.5,1.229385830435942e-06,0.2253486055776892
+Disease Site (Kruskal-Wallis),Intervention 12mo TT,644,,,,,,59.00552031094842,5.5869802282909825e-09,
+Immunotherapy vs Chemotherapy,Intervention 12mo TT,137,21.0,18.0-27.0,84.0,32.0,20.0-52.0,4034.5,0.00018120523114891325,0.29883559263121307
+Treatment Modality (Kruskal-Wallis),Intervention 12mo TT,638,,,,,,105.64341350269453,3.409416917930981e-21,
+Temporal Trend (OLS),Intervention 12mo TT ~ Trial Start Year,644,,,,,,-0.06894733255709218,0.6403946458535665,0.05056126700695323
+Temporal Trend (Industry),Intervention 12mo TT ~ Trial Start Year,504,,,,,,0.16845351317075208,0.3328524933693354,0.09666341871066515
+Temporal Trend (Non-Industry),Intervention 12mo TT ~ Trial Start Year,140,,,,,,-0.47826848930968624,0.22354964632414406,-0.161393084810362
+Adjusted Temporal Trend,Intervention 12mo TT ~ start_year (adj site+modality),638,,,,,,-0.05326612736802566,0.7261261693595378,
+Adjusted Sponsorship (Absolute TT),Intervention 12mo TT (adj site+modality),638,,,,,,-1.594787326517074,0.3768317003862821,
+Adjusted Sponsorship (Delta TT),Delta TT (adj site+modality),632,,,,,,-5.645986912358378,2.331840943025378e-05,
+Adjusted Funder x Time Interaction,Intervention 12mo TT (adj site+modality),638,,,,,,0.5524261493779166,0.11435624950021644,

@@ -1,0 +1,49 @@
+3. Ann Surg. 2017 Sep;266(3):545-554. doi: 10.1097/SLA.0000000000002386.
+
+A Randomized Controlled Trial of Postoperative Thoracic Epidural Analgesia 
+Versus Intravenous Patient-controlled Analgesia After Major 
+Hepatopancreatobiliary Surgery.
+
+Aloia TA(1), Kim BJ, Segraves-Chun YS, Cata JP, Truty MJ, Shi Q, Holmes A, Soliz 
+JM, Popat KU, Rahlfs TF, Lee JE, Wang XS, Morris JS, Gottumukkala VNR, Vauthey 
+JN.
+
+Author information:
+(1)*Department of Surgical Oncology, The University of Texas MD Anderson Cancer 
+Center, Houston, TX †Department of Anesthesiology and Perioperative Medicine, 
+The University of Texas MD Anderson Cancer Center, Houston, TX ‡Department of 
+Surgery, Mayo Clinic, Rochester, MN §Department of Symptom Research, The 
+University of Texas MD Anderson Cancer Center, Houston, TX ¶Department of 
+Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, TX.
+
+OBJECTIVES: The primary objective of this randomized trial was to compare 
+thoracic epidural analgesia (TEA) to intravenous patient-controlled analgesia 
+(IV-PCA) for pain control over the first 48 hours after hepatopancreatobiliary 
+(HPB) surgery. Secondary endpoints were patient-reported outcomes, total 
+narcotic utilization, and complications.
+BACKGROUND: Although adequate postoperative pain control is critical to patient 
+and surgeon success, the optimal analgesia regimen in HPB surgery remains 
+controversial.
+METHODS: Using a 2.5:1 randomization strategy, 140 patients were randomized to 
+TEA (N = 106) or intravenous patient-controlled analgesia (N = 34). 
+Patient-reported pain was measured on a Likert scale (0-10) at standard time 
+intervals. Cumulative pain area under the curve was determined using the 
+trapezoidal method.
+RESULTS: Between the study groups key demographic, comorbidity, clinical, and 
+operative variables were equivalently distributed. The median area under the 
+curve of the postoperative time 0- to 48-hour pain scores was lower in the TEA 
+group (78.6 vs 105.2 pain-hours, P = 0.032) with a 35% reduction in patients 
+experiencing ≥7/10 pain (43% vs 62%, P = 0.07). Patient-reported outcomes and 
+total opiate use further supported the benefit of TEA on patient experience. 
+Anesthesia-related events requiring change in analgesic therapy were comparable 
+(12.2% vs 2.9%, respectively, P = 0.187). Grade 3 or higher surgical 
+complications (6.6% vs 9.4%), median length of stay (6 days vs 6 days), 
+readmission (1.9% vs 3.1%), and return to the operating room (0.9% vs 3.1%) were 
+similar (all P > 0.05). There were no mortalities in either group.
+CONCLUSIONS: In major HPB surgery, TEA provides a superior patient experience 
+through improved pain control and less narcotic use, without increased length of 
+stay or complications.
+
+DOI: 10.1097/SLA.0000000000002386
+PMCID: PMC5784834
+PMID: 28746153 [Indexed for MEDLINE]

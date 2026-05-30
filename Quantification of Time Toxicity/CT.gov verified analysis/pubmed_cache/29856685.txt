@@ -1,0 +1,82 @@
+16. N Engl J Med. 2018 Jun 21;378(25):2399-2410. doi: 10.1056/NEJMoa1802917. Epub
+ 2018 Jun 1.
+
+Phase 3 Trial of Ibrutinib plus Rituximab in Waldenström's Macroglobulinemia.
+
+Dimopoulos MA(1), Tedeschi A(1), Trotman J(1), García-Sanz R(1), Macdonald D(1), 
+Leblond V(1), Mahe B(1), Herbaux C(1), Tam C(1), Orsucci L(1), Palomba ML(1), 
+Matous JV(1), Shustik C(1), Kastritis E(1), Treon SP(1), Li J(1), Salman Z(1), 
+Graef T(1), Buske C(1); iNNOVATE Study Group and the European Consortium for 
+Waldenström’s Macroglobulinemia.
+
+Collaborators: Advani RH, Arnulf B, Aurran-Schleinitz T, Baldini L, Castillo JJ, 
+Chen C, Cornell RF, Dreyling M, Dimopoulos MA, Dupuis J, Eradat H, Fernandez de 
+Larrea C, Feugier P, Furman RR, Garcia Sanz R, Gorrochategui MG, Hatjiharissi E, 
+Hebart H, Heffner L, Herbaux C, Hernandez Rivas JA, Hess G, Karlin L, Keating 
+MM, Kyrtsonis MC, Launay V, Leblond V, Lee HP, Ma S, Mahe B, Matous J, McCarthy 
+H, Oriol Rocafiguera A, Orsucci L, Palomba ML, Pfreundschuh M, Shustik C, 
+Symeonidis A, Talaulikar D, Tam C, Tedeschi A, Tournilhac O, Trappe RU, Trotman 
+J, Varettoni M, Venner CP, Vesole D, Zaja F.
+
+Author information:
+(1)From the National and Kapodistrian University of Athens School of Medicine, 
+Athens (M.A.D., E.K.); ASST Grande Ospedale Metropolitano Niguarda, Milan 
+(A.T.), and Città della Salute Hospital and University, Turin (L.O.) - both in 
+Italy; Concord Hospital, University of Sydney, Concord, NSW (J.T.), and Peter 
+MacCallum Cancer Centre and St. Vincent's Hospital, Melbourne, VIC (C.T.) - both 
+in Australia; Hospital Universitario de Salamanca, Salamanca, Spain (R.G.-S.); 
+Ottawa Hospital, University of Ottawa, Ottawa (D.M.), and Royal Victoria 
+Hospital at McGill University Health Centre, Montreal (C.S.) - both in Canada; 
+Département d'Hématologie, Hôpital Pitié-Salpêtrière, Assistance 
+Publique-Hôpitaux de Paris, Université Pierre et Marie Curie, Paris (V.L.), 
+Centre Hospitalier Universitaire de Nantes, Nantes (B.M.), and Centre 
+Hospitalier Régional Universitaire de Lille, Institute of Hematolog-Tranfusion, 
+Lille (C.H.) - all in France; Memorial Sloan Kettering Cancer Center, New York 
+(M.L.P.); Colorado Blood Cancer Institute, Denver (J.V.M.); Dana-Farber Cancer 
+Institute, Boston (S.P.T.); Pharmacyclics, Sunnyvale, CA (J.L., Z.S., T.G.); and 
+Comprehensive Cancer Center Ulm, Institute of Experimental Cancer Research, 
+Department of Internal Medicine III, University Hospital of Ulm, Ulm, Germany 
+(C.B.).
+
+Comment in
+    Nat Rev Clin Oncol. 2018 Aug;15(8):470-471. doi: 10.1038/s41571-018-0053-8.
+    N Engl J Med. 2018 Nov 15;379(20):1973-4. doi: 10.1056/NEJMc1809505.
+    N Engl J Med. 2018 Nov 15;379(20):1974-5. doi: 10.1056/NEJMc1809505.
+
+BACKGROUND: Single-agent ibrutinib has shown substantial activity in patients 
+with relapsed Waldenström's macroglobulinemia, a rare form of B-cell lymphoma. 
+We evaluated the effect of adding ibrutinib to rituximab in patients with this 
+disease, both in those who had not received previous treatment and in those with 
+disease recurrence.
+METHODS: We randomly assigned 150 symptomatic patients to receive ibrutinib plus 
+rituximab or placebo plus rituximab. The primary end point was progression-free 
+survival, as assessed by an independent review committee. Key secondary end 
+points were response rates, sustained hematologic improvement from baseline, and 
+safety. The mutational status of MYD88 and CXCR4 was assessed in bone marrow 
+samples.
+RESULTS: At 30 months, the progression-free survival rate was 82% with 
+ibrutinib-rituximab versus 28% with placebo-rituximab (hazard ratio for 
+progression or death, 0.20; P<0.001). The benefit in the ibrutinib-rituximab 
+group over that in the placebo-rituximab group was independent of the MYD88 or 
+CXCR4 genotype. The rate of major response was higher with ibrutinib-rituximab 
+than with placebo-rituximab (72% vs. 32%, P<0.001). More patients had sustained 
+increases in hemoglobin level with ibrutinib-rituximab than with 
+placebo-rituximab (73% vs. 41%, P<0.001). The most common adverse events of any 
+grade with ibrutinib-rituximab included infusion-related reactions, diarrhea, 
+arthralgia, and nausea. Events of grade 3 or higher that occurred more 
+frequently with ibrutinib-rituximab than with placebo-rituximab included atrial 
+fibrillation (12% vs. 1%) and hypertension (13% vs. 4%); those that occurred 
+less frequently included infusion reactions (1% vs. 16%) and any grade of IgM 
+flare (8% vs. 47%). The major hemorrhage rate was the same in the two trial 
+groups (4%).
+CONCLUSIONS: Among patients with Waldenström's macroglobulinemia, the use of 
+ibrutinib-rituximab resulted in significantly higher rates of progression-free 
+survival than the use of placebo-rituximab, both among those who had received no 
+previous treatment and among those with disease recurrence. Atrial fibrillation 
+and hypertension were more common with ibrutinib-rituximab, whereas infusion 
+reactions and IgM flare were more common with placebo-rituximab. (Funded by 
+Pharmacyclics and Janssen Research and Development; ClinicalTrials.gov number, 
+NCT02165397 .).
+
+DOI: 10.1056/NEJMoa1802917
+PMID: 29856685 [Indexed for MEDLINE]

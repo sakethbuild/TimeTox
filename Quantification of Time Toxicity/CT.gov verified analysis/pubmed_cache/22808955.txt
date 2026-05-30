@@ -1,0 +1,82 @@
+18. N Engl J Med. 2012 Jul 19;367(3):203-13. doi: 10.1056/NEJMoa1113162.
+
+Radical prostatectomy versus observation for localized prostate cancer.
+
+Wilt TJ(1), Brawer MK, Jones KM, Barry MJ, Aronson WJ, Fox S, Gingrich JR, Wei 
+JT, Gilhooly P, Grob BM, Nsouli I, Iyer P, Cartagena R, Snider G, Roehrborn C, 
+Sharifi R, Blank W, Pandya P, Andriole GL, Culkin D, Wheeler T; Prostate Cancer 
+Intervention versus Observation Trial (PIVOT) Study Group.
+
+Author information:
+(1)Center for Chronic Disease Outcomes Research, Minneapolis Veterans Affairs 
+(VA) Health Care System, and Section of General Medicine, University of 
+Minnesota School of Medicine, Minneapolis, USA. tim.wilt@va.gov
+
+Erratum in
+    N Engl J Med. 2012 Aug 9;367(6):582.
+
+Comment in
+    N Engl J Med. 2012 Jul 19;367(3):270-1. doi: 10.1056/NEJMe1205012.
+    Nat Rev Clin Oncol. 2012 Sep;9(9):489. doi: 10.1038/nrclinonc.2012.133.
+    Asian J Androl. 2012 Nov;14(6):803-4. doi: 10.1038/aja.2012.93.
+    Urology. 2012 Dec;80(6):1181-2. doi: 10.1016/j.urology.2012.07.055.
+    N Engl J Med. 2012 Oct 11;367(15):1467; author reply 1468-9. doi: 
+10.1056/NEJMc1209800.
+    N Engl J Med. 2012 Oct 11;367(15):1467-8; author reply 1468-9. doi: 
+10.1056/NEJMc1209800.
+    N Engl J Med. 2012 Oct 11;367(15):1468; author reply 1468-9. doi: 
+10.1056/NEJMc1209800.
+    N Engl J Med. 2012 Oct 11;367(15):1468; author reply 1468-9. doi: 
+10.1056/NEJMc1209800.
+    Ann Intern Med. 2012 Oct 16;157(8):JC4-5. doi: 
+10.7326/0003-4819-157-8-201210160-02005.
+    Evid Based Med. 2013 Aug;18(4):139-40. doi: 10.1136/eb-2012-100994.
+    Strahlenther Onkol. 2012 Dec;188(12):1159-60. doi: 
+10.1007/s00066-012-0246-5.
+    Eur Urol. 2012 Dec;62(6):1195. doi: 10.1016/j.eururo.2012.09.015.
+    Eur Urol. 2012 Dec;62(6):1196. doi: 10.1016/j.eururo.2012.09.016.
+    J Urol. 2012 Dec;188(6):2225-6. doi: 10.1016/j.juro.2012.09.067.
+    Eur Urol. 2013 Apr;63(4):767-8. doi: 10.1016/j.eururo.2012.12.053.
+    Eur Urol. 2013 Apr;63(4):767. doi: 10.1016/j.eururo.2012.12.052.
+    Ann Intern Med. 2013 Apr 16;158(8):615-9. doi: 
+10.7326/0003-4819-158-8-201304160-00101.
+    Eur Urol. 2013 Jun;63(6):1130-1. doi: 10.1016/j.eururo.2013.03.020.
+    Actas Urol Esp. 2013 Jul-Aug;37(7):451-2. doi: 10.1016/j.acuro.2013.02.001.
+    Rev Clin Esp (Barc). 2013 Apr;213(3):164. doi: 10.1016/j.rce.2012.12.012.
+
+BACKGROUND: The effectiveness of surgery versus observation for men with 
+localized prostate cancer detected by means of prostate-specific antigen (PSA) 
+testing is not known.
+METHODS: From November 1994 through January 2002, we randomly assigned 731 men 
+with localized prostate cancer (mean age, 67 years; median PSA value, 7.8 ng per 
+milliliter) to radical prostatectomy or observation and followed them through 
+January 2010. The primary outcome was all-cause mortality; the secondary outcome 
+was prostate-cancer mortality.
+RESULTS: During the median follow-up of 10.0 years, 171 of 364 men (47.0%) 
+assigned to radical prostatectomy died, as compared with 183 of 367 (49.9%) 
+assigned to observation (hazard ratio, 0.88; 95% confidence interval [CI], 0.71 
+to 1.08; P=0.22; absolute risk reduction, 2.9 percentage points). Among men 
+assigned to radical prostatectomy, 21 (5.8%) died from prostate cancer or 
+treatment, as compared with 31 men (8.4%) assigned to observation (hazard ratio, 
+0.63; 95% CI, 0.36 to 1.09; P=0.09; absolute risk reduction, 2.6 percentage 
+points). The effect of treatment on all-cause and prostate-cancer mortality did 
+not differ according to age, race, coexisting conditions, self-reported 
+performance status, or histologic features of the tumor. Radical prostatectomy 
+was associated with reduced all-cause mortality among men with a PSA value 
+greater than 10 ng per milliliter (P=0.04 for interaction) and possibly among 
+those with intermediate-risk or high-risk tumors (P=0.07 for interaction). 
+Adverse events within 30 days after surgery occurred in 21.4% of men, including 
+one death.
+CONCLUSIONS: Among men with localized prostate cancer detected during the early 
+era of PSA testing, radical prostatectomy did not significantly reduce all-cause 
+or prostate-cancer mortality, as compared with observation, through at least 12 
+years of follow-up. Absolute differences were less than 3 percentage points. 
+(Funded by the Department of Veterans Affairs Cooperative Studies Program and 
+others; PIVOT ClinicalTrials.gov number, NCT00007644.).
+
+DOI: 10.1056/NEJMoa1113162
+PMCID: PMC3429335
+PMID: 22808955 [Indexed for MEDLINE]
+
+Conflict of interest statement: No other potential conflict of interest relevant 
+to this article was reported.

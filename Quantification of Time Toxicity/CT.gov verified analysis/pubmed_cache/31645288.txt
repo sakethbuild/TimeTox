@@ -1,0 +1,98 @@
+16. Lancet. 2019 Nov 16;394(10211):1807-1815. doi: 10.1016/S0140-6736(19)32313-X.
+ Epub 2019 Oct 20.
+
+Recurrence of breast cancer after regional or general anaesthesia: a randomised 
+controlled trial.
+
+Sessler DI(1), Pei L(2), Huang Y(3), Fleischmann E(4), Marhofer P(4), Kurz A(5), 
+Mayers DB(6), Meyer-Treschan TA(7), Grady M(6), Tan EY(8), Ayad S(6), Mascha 
+EJ(9), Buggy DJ(10); Breast Cancer Recurrence Collaboration.
+
+Collaborators: Tan G, Zhang Z, Keane H, Stokes M, Zotti O, Gnant M, Perez-Protto 
+S, Wu J, Parra-Sanchez I, Yang D, Hassan M, Tey JB.
+
+Author information:
+(1)Department of Outcomes Research, Anesthesiology Institute and Lerner Research 
+Institute, Cleveland Clinic, Cleveland, OH, USA. Electronic address: ds@or.org.
+(2)Department of Anesthesiology, Peking Union Medical College Hospital, Beijing, 
+China.
+(3)Department of Anesthesiology, Peking Union Medical College Hospital, Beijing, 
+China. Electronic address: garybeijing@163.com.
+(4)Department of Anaesthesia, General Intensive Care and Pain Management, 
+Medical University of Vienna, Vienna, Austria.
+(5)Department of Outcomes Research, Anesthesiology Institute and Lerner Research 
+Institute, Cleveland Clinic, Cleveland, OH, USA; Department of General 
+Anesthesiology, Anesthesiology Institute and Lerner Research Institute, 
+Cleveland Clinic, Cleveland, OH, USA.
+(6)Department of Outcomes Research, Anesthesiology Institute and Lerner Research 
+Institute, Cleveland Clinic, Cleveland, OH, USA; Department of Regional 
+Anesthesiology, Anesthesiology Institute and Lerner Research Institute, 
+Cleveland Clinic, Cleveland, OH, USA.
+(7)Department of Anesthesiology, University of Düsseldorf, Düsseldorf, Germany.
+(8)Tan Tock Seng Hospital, Singapore, Singapore.
+(9)Department of Outcomes Research, Anesthesiology Institute and Lerner Research 
+Institute, Cleveland Clinic, Cleveland, OH, USA; Department of Quantitative 
+Health Sciences, Anesthesiology Institute and Lerner Research Institute, 
+Cleveland Clinic, Cleveland, OH, USA.
+(10)Mater University Hospital, School of Medicine, University College Dublin, 
+Dublin, Ireland.
+
+Comment in
+    Br J Anaesth. 2019 Dec;123(6):e525-e526. doi: 10.1016/j.bja.2019.07.023.
+    Lancet. 2019 Nov 16;394(10211):1781-1782. doi: 
+10.1016/S0140-6736(19)32314-1.
+    Lancet. 2020 Aug 8;396(10248):375-376. doi: 10.1016/S0140-6736(20)30488-8.
+    Lancet. 2020 Aug 8;396(10248):376. doi: 10.1016/S0140-6736(20)30487-6.
+    Lancet. 2020 Aug 8;396(10248):376-377. doi: 10.1016/S0140-6736(20)30489-X.
+
+BACKGROUND: Three perioperative factors impair host defence against recurrence 
+during cancer surgery: the surgical stress response, use of volatile 
+anaesthetic, and opioids for analgesia. All factors are ameliorated by regional 
+anaesthesia-analgesia. We tested the primary hypothesis that breast cancer 
+recurrence after potentially curative surgery is lower with regional 
+anaesthesia-analgesia using paravertebral blocks and the anaesthetic propofol 
+than with general anaesthesia with the volatile anaesthetic sevoflurane and 
+opioid analgesia. A second hypothesis was that regional anaesthesia-analgesia 
+reduces persistent incisional pain.
+METHODS: We did a randomised controlled trial at 13 hospitals in Argentina, 
+Austria, China, Germany, Ireland, New Zealand, Singapore, and the USA. Women 
+(age <85 years) having potentially curative primary breast cancer resections 
+were randomised by computer to either regional anaesthesia-analgesia 
+(paravertebral blocks and propofol) or general anaesthesia (sevoflurane) and 
+opioid analgesia. The primary outcome was local or metastatic breast cancer 
+recurrence. The secondary outcome was incisional pain at 6 months and 12 months. 
+Primary analyses were done under intention-to-treat principles. This trial is 
+registered with ClinicalTrials.gov, NCT00418457. The study was stopped after a 
+preplanned futility boundary was crossed.
+FINDINGS: Between Jan 30, 2007, and Jan 18, 2018, 2132 women were enrolled to 
+the study, of whom 24 were excluded before surgery. 1043 were assigned to 
+regional anaesthesia-analgesia and 1065 were allocated to general anaesthesia. 
+Baseline characteristics were well balanced between study groups. Median 
+follow-up was 36 (IQR 24-49) months. Among women assigned regional 
+anaesthesia-analgesia, 102 (10%) recurrences were reported, compared with 111 
+(10%) recurrences among those allocated general anaesthesia (hazard ratio 0·97, 
+95% CI 0·74-1·28; p=0·84). Incisional pain was reported by 442 (52%) of 856 
+patients assigned to regional anaesthesia-analgesia and 456 (52%) of 872 
+patients allocated to general anaesthesia at 6 months, and by 239 (28%) of 854 
+patients and 232 (27%) of 852 patients, respectively, at 12 months (overall 
+interim-adjusted odds ratio 1·00, 95% CI 0·85-1·17; p=0·99). Neuropathic breast 
+pain did not differ by anaesthetic technique and was reported by 87 (10%) of 859 
+patients assigned to regional anaesthesia-analgesia and 89 (10%) of 870 patients 
+allocated to general anaesthesia at 6 months, and by 57 (7%) of 857 patients and 
+57 (7%) of 854 patients, respectively, at 12 months.
+INTERPRETATION: In our study population, regional anaesthesia-analgesia 
+(paravertebral block and propofol) did not reduce breast cancer recurrence after 
+potentially curative surgery compared with volatile anaesthesia (sevoflurane) 
+and opioids. The frequency and severity of persistent incisional breast pain was 
+unaffected by anaesthetic technique. Clinicians can use regional or general 
+anaesthesia with respect to breast cancer recurrence and persistent incisional 
+pain.
+FUNDING: Sisk Healthcare Foundation (Ireland), Eccles Breast Cancer Research 
+Fund, British Journal of Anaesthesia International, College of Anaesthetists of 
+Ireland, Peking Union Medical College Hospital, Science Fund for Junior Faculty 
+2016, Central Bank of Austria, and National Healthcare Group.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(19)32313-X
+PMID: 31645288 [Indexed for MEDLINE]

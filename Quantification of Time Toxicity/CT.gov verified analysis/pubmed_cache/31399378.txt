@@ -1,0 +1,139 @@
+9. Lancet Infect Dis. 2019 Sep;19(9):1001-1012. doi:
+10.1016/S1473-3099(19)30310-X.  Epub 2019 Aug 6.
+
+Safety and efficacy of inactivated varicella zoster virus vaccine in 
+immunocompromised patients with malignancies: a two-arm, randomised, 
+double-blind, phase 3 trial.
+
+Mullane KM(1), Morrison VA(2), Camacho LH(3), Arvin A(4), McNeil SA(5), Durrand 
+J(6), Campbell B(6), Su SC(6), Chan ISF(6), Parrino J(6), Kaplan SS(6), 
+Popmihajlov Z(6), Annunziato PW(6); V212 Protocol 011 Trial Team.
+
+Collaborators: Cerana S, Dictar MO, Bonvehi P, Tregnaghi JP, Fein L, Ashley D, 
+Singh M, Hayes T, Playford G, Morrissey O, Thaler J, Kuehr T, Greil R, 
+Pecherstorfer M, Duck L, Van Eygen K, Aoun M, De Prijck B, Franke FA, Barrios C, 
+Mendes A, Serrano SV, Garcia RF, Moore F, Camargo J, Pires LA, Alves RS, Radinov 
+A, Oreshkov K, Minchev V, Hubenova AI, Koynova T, Ivanov I, Rabotilova B, 
+Minchev V, Petrov PA, Chilingirov P, Karanikolov S, Raynov J, Grimard D, McNeil 
+S, Kumar D, Larratt LM, Weiss K, Delage R, Diaz-Mitoma FJ, Cano PO, Couture F, 
+Carvajal P, Yepes A, Torres Ulloa R, Fardella P, Caglevic C, Rojas C, Orellana 
+E, Gonzalez P, Acevedo A, Galvez KM, Gonzalez ME, Franco S, Restrepo JG, Rojas 
+CA, Bonilla C, Florez LE, Ospina AV, Manneh R, Zorica R, Vrdoljak DV, Samarzija 
+M, Petruzelka L, Vydra J, Mayer J, Cibula D, Prausova J, Paulson G, Ontaneda M, 
+Palk K, Vahlberg A, Rooneem R, Galtier F, Postil D, Lucht F, Laine F, Launay O, 
+Laurichesse H, Duval X, Cornely OA, Camerer B, Panse J, Zaiss M, Derigs HG, 
+Menzel H, Verbeek M, Georgoulias V, Mavroudis D, Anagnostopoulos A, Terpos E, 
+Cortes D, Umanzor J, Bejarano S, Galeano RW, Wong R, Hui P, Pedrazzoli P, 
+Ruggeri L, Aversa F, Bosi A, Gentile G, Rambaldi A, Contu A, Marei L, Abbadi A, 
+Hayajneh W, Kattan J, Farhat F, Chahine G, Rutkauskiene J, Marfil Rivera LJ, 
+Lopez Chuken YA, Franco Villarreal H, Lopez Hernandez J, Blacklock H, Lopez RI, 
+Alvarez R, Gomez AM, Quintana TS, Moreno Larrea M, Zorrilla SJ, Alarcon E, 
+Samanez F, Caguioa PB, Tiangco BJ, Mora EM, Betancourt-Garcia RD, 
+Hallman-Navarro D, Feliciano-Lopez LJ, Velez-Cortes HA, Cabanillas F, Ganea DE, 
+Ciuleanu TE, Ghizdavescu DG, Miron L, Cebotaru CL, Cainap CI, Anghel R, Dvorkin 
+MV, Gladkov OA, Fadeeva NV, Kuzmin AA, Lipatov ON, Zbarskaya II, Akhmetzyanov 
+FS, Litvinov IV, Afanasyev BV, Cherenkova M, Lioznov D, Lisukov IA, Smirnova YA, 
+Kolomietz S, Halawani H, Goh YT, Drgona L, Chudej J, Matejkova M, Reckova M, 
+Rapoport BL, Szpak WM, Malan DR, Jonas N, Jung CW, Lee DG, Yoon SS, Lopez 
+Jimenez J, Duran Martinez I, Rodriguez Moreno JF, Solano Vercet C, de la Camara 
+R, Batlle Massana M, Yeh SP, Chen CY, Chou HH, Tsai CM, Chiu CH, Siritanaratkul 
+N, Norasetthada L, Sriuranpong V, Seetalarom K, Akan H, Dane F, Ozcan MA, Ozsan 
+GH, Kalayoglu Besisik SF, Cagatay A, Yalcin S, Peniket A, Mullan SR, Dakhil KM, 
+Sivarajan K, Suh JG, Sehgal A, Marquez F, Gomez EG, Mullane MR, Skinner WL, 
+Behrens RJ, Trevarthe DR, Mazurczak MA, Lambiase EA, Vidal CA, Anac SY, 
+Rodrigues GA, Baltz B, Boccia R, Wertheim MS, Holladay CS, Zenk D, Fusselman W, 
+Wade Iii JL, Jaslowsk AJ, Keegan J, Robinson MO, Go RS, Farnen J, Amin B, 
+Jurgens D, Risi GF Jr, Beatty PG, Naqvi T, Parshad S, Hansen VL, Ahmed M, Steen 
+PD, Badarinath S, Dekker A, Scouros MA, Young DE, Graydon Harker W, Kendall SD, 
+Citron ML, Chedid S, Posada JG Jr, Gupta MK, Rafiyath S, Buechler-Price J, 
+Sreenivasappa S, Chay CH, Burke JM, Young SE, Mahmood A, Kugler JW, Gerstner G, 
+Fuloria J, Belman ND, Geller R, Nieva J, Whittenberger BP, Wong B, Cescon TP, 
+Abesada-Terk G Jr, Guarino MJ, Zweibach A, Ibrahim EN, Takahashi G, Garrison MA, 
+Mowat RB, Choi BS, Oliff IA, Singh J, Guter KA, Ayrons K, Rowland KM, Noga SJ, 
+Rao SB, Columbie A, Nualart MT, Cecchi GR, Campos LT, Mohebtash M, Flores MR, 
+Rothstein-Rubin R, O'Connor BM, Soori G, Knapp M, Miranda FG, Goodgame BW, 
+Kassem M, Belani R, Sharma S, Ortiz T, Sonneborn HL, Markowitz AB, Wilbur D, 
+Meiri E, Koo VS, Jhangiani HS, Wong L, Sanani S, Lawrence SJ, Jones CM, Murray 
+C, Papageorgiou C, Gurtler JS, Ascensao JL, Seetalarom K, Venigalla ML, D'Andrea 
+M, De Las Casas C, Haile DJ, Qazi FU, Santander JL, Thomas MR, Rao VP, Craig M, 
+Garg RJ, Robles R, Lyons RM, Stegemoller RK, Goel S, Garg S, Lowry P, Lynch C, 
+Lash B, Repka T, Baker J, Goueli BS, Campbell TC, Van Echo DA, Lee YJ, Reyes EA, 
+Senecal FM, Donnelly G, Byeff P, Weiss R, Reid T, Roeland E, Goel A, Prow DM, 
+Brandt DS, Kaplan HG, Payne JE, Boeckh MG, Rosen PJ, Mena RR, Khan R, Betts RF, 
+Sharp SA, Morrison VA, Fitz-Patrick D, Congdon J, Erickson N, Abbasi R, 
+Henderson S, Mehdi A, Wos EJ, Rehmus E, Beltzer L, Tamayo RA, Mahmood T, Reboli 
+AC, Moore A, Brown JM, Cruz J, Quick DP, Potz JL, Kotz KW, Hutchins M, Chowhan 
+NM, Devabhaktuni YD, Braly P, Berenguer RA, Shambaugh SC, O'Rourke TJ, Conkright 
+WA, Winkler CF, Addo F, Duic JP, High KP, Kutner ME, Collins R, Carrizosa DR, 
+Perry DJ, Kailath E, Rosen N, Sotolongo R, Shoham S, Chen T.
+
+Author information:
+(1)University of Chicago, Department of Medicine, Chicago, IL, USA. Electronic 
+address: kmullane@medicine.bsd.uchicago.edu.
+(2)University of Minnesota, Hennepin County Medical Center, Minneapolis, MN, 
+USA.
+(3)Oncology Consultants, Houston, TX, USA.
+(4)Stanford University School of Medicine, Stanford, CA, USA.
+(5)Canadian Center for Vaccinology, IWK Health Centre and Nova Scotia Health 
+Authority, Dalhousie University, Halifax, NS, Canada.
+(6)Merck & Co, Inc, Kenilworth, NJ, USA.
+
+Erratum in
+    Lancet Infect Dis. 2019 Oct;19(10):e337. doi: 10.1016/S1473-3099(19)30469-4.
+
+Comment in
+    Lancet Infect Dis. 2019 Sep;19(9):922-924. doi: 
+10.1016/S1473-3099(19)30399-8.
+
+BACKGROUND: Patients who are immunocompromised because of malignancy have an 
+increased risk of herpes zoster and herpes zoster-related complications. We 
+aimed to investigate the efficacy and safety of an inactivated varicella zoster 
+virus (VZV) vaccine for herpes zoster prevention in patients with solid tumour 
+or haematological malignancies.
+METHODS: This phase 3, two-arm, randomised, double-blind, placebo-controlled, 
+multicentre trial with an adaptive design was done in 329 centres across 40 
+countries. The trial included adult patients with solid tumour malignancies 
+receiving chemotherapy and those with haematological malignancies, either 
+receiving or not receiving chemotherapy. Patients were randomly assigned (1:1) 
+to receive four doses of VZV vaccine inactivated by γ irradiation or placebo 
+approximately 30 days apart. The patients, investigators, trial site staff, 
+clinical adjudication committee, and sponsor's clinical and laboratory personnel 
+were masked to the group assignment. The primary efficacy endpoint was herpes 
+zoster incidence in patients with solid tumour malignancies receiving 
+chemotherapy, which was assessed in the modified intention-to-treat population 
+(defined as all randomly assigned patients who received at least one dose of 
+inactivated VZV vaccine or placebo). The primary safety endpoint was serious 
+adverse events up to 28 days after the fourth dose in patients with solid tumour 
+malignancies receiving chemotherapy. Safety endpoints were assessed in all 
+patients who received at least one dose of inactivated VZV vaccine or placebo 
+and had follow-up data. This trial is registered (NCT01254630 and EudraCT 
+2010-023156-89).
+FINDINGS: Between June 27, 2011, and April 11, 2017, 5286 patients were randomly 
+assigned to receive VZV vaccine inactivated by γ irradiation (n=2637) or placebo 
+(n=2649). The haematological malignancy arm was terminated early because of 
+evidence of futility at a planned interim analysis; therefore, all prespecified 
+haematological malignancy endpoints were deemed exploratory. In patients with 
+solid tumour malignancies in the modified intention-to-treat population, 
+confirmed herpes zoster occurred in 22 of 1328 (6·7 per 1000 person-years) VZV 
+vaccine recipients and in 61 of 1350 (18·5 per 1000 person-years) placebo 
+recipients. Estimated vaccine efficacy against herpes zoster in patients with 
+solid tumour malignancies was 63·6% (97·5% CI 36·4 to 79·1), meeting the 
+prespecified success criterion. In patients with solid tumour malignancies, 
+serious adverse events were similar in frequency across treatment groups, 
+occurring in 298 (22·5%) of 1322 patients who received the vaccine and in 283 
+(21·0%) of 1346 patients who received placebo (risk difference 1·5%, 95% CI -1·7 
+to 4·6). Vaccine-related serious adverse events were less than 1% in each 
+treatment group. Vaccine-related injection-site reactions were more common in 
+the vaccine group than in the placebo group. In the haematological malignancy 
+group, VZV vaccine was well tolerated and estimated vaccine efficacy against 
+herpes zoster was 16·8% (95% CI -17·8 to 41·3).
+INTERPRETATION: The inactivated VZV vaccine was well tolerated and efficacious 
+for herpes zoster prevention in patients with solid tumour malignancies 
+receiving chemotherapy, but was not efficacious for herpes zoster prevention in 
+patients with haematological malignancies.
+FUNDING: Merck & Co, Inc.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1473-3099(19)30310-X
+PMID: 31399378 [Indexed for MEDLINE]

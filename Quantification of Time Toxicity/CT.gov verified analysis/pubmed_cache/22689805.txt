@@ -1,0 +1,53 @@
+16. J Clin Oncol. 2012 Jul 20;30(21):2670-7. doi: 10.1200/JCO.2011.38.9429. Epub 
+2012 Jun 11.
+
+Multicenter, randomized, open-label, phase III trial of decitabine versus 
+patient choice, with physician advice, of either supportive care or low-dose 
+cytarabine for the treatment of older patients with newly diagnosed acute 
+myeloid leukemia.
+
+Kantarjian HM(1), Thomas XG, Dmoszynska A, Wierzbowska A, Mazur G, Mayer J, Gau 
+JP, Chou WC, Buckstein R, Cermak J, Kuo CY, Oriol A, Ravandi F, Faderl S, 
+Delaunay J, Lysák D, Minden M, Arthur C.
+
+Author information:
+(1)Department of Leukemia, Division of Cancer Medicine, University of Texas MD 
+Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX 77030, USA. 
+hkantarj@mdanderson.org
+
+Comment in
+    J Clin Oncol. 2013 Feb 20;31(6):820-1. doi: 10.1200/JCO.2012.45.2219.
+    J Clin Oncol. 2013 Feb 20;31(6):822-3. doi: 10.1200/JCO.2012.46.4222.
+
+PURPOSE: This multicenter, randomized, open-label, phase III trial compared the 
+efficacy and safety of decitabine with treatment choice (TC) in older patients 
+with newly diagnosed acute myeloid leukemia (AML) and poor- or intermediate-risk 
+cytogenetics.
+PATIENTS AND METHODS: Patients (N = 485) age ≥ 65 years were randomly assigned 
+1:1 to receive decitabine 20 mg/m(2) per day as a 1-hour intravenous infusion 
+for five consecutive days every 4 weeks or TC (supportive care or cytarabine 20 
+mg/m(2) per day as a subcutaneous injection for 10 consecutive days every 4 
+weeks). The primary end point was overall survival (OS); the secondary end point 
+was the complete remission (CR) rate plus the CR rate without platelet recovery 
+(CRp). Adverse events (AEs) were recorded.
+RESULTS: The primary analysis with 396 deaths (81.6%) showed a nonsignificant 
+increase in median OS with decitabine (7.7 months; 95% CI, 6.2 to 9.2) versus TC 
+(5.0 months; 95% CI, 4.3 to 6.3; P = .108; hazard ratio [HR], 0.85; 95% CI, 0.69 
+to 1.04). An unplanned analysis with 446 deaths (92%) indicated the same median 
+OS (HR, 0.82; 95% CI, 0.68 to 0.99; nominal P = .037). The CR rate plus CRp was 
+17.8% with decitabine versus 7.8% with TC (odds ratio, 2.5; 95% CI, 1.4 to 4.8; 
+P = .001). AEs were similar for decitabine and cytarabine, although patients 
+received a median of four cycles of decitabine versus two cycles of TC. The most 
+common drug-related AEs with decitabine were thrombocytopenia (27%) and 
+neutropenia (24%).
+CONCLUSION: In older patients with AML, decitabine improved response rates 
+compared with standard therapies without major differences in safety. An 
+unplanned survival analysis showed a benefit for decitabine, which was not 
+observed at the time of the primary analysis.
+
+DOI: 10.1200/JCO.2011.38.9429
+PMCID: PMC4874148
+PMID: 22689805 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

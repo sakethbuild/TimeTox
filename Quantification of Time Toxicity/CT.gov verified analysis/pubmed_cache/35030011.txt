@@ -1,0 +1,187 @@
+18. J Clin Oncol. 2022 May 1;40(13):1428-1438. doi: 10.1200/JCO.21.01601. Epub
+2022  Jan 14.
+
+Randomized Phase III Trial Evaluating Spartalizumab Plus Dabrafenib and 
+Trametinib for BRAF V600-Mutant Unresectable or Metastatic Melanoma.
+
+Dummer R(1), Long GV(2), Robert C(3), Tawbi HA(4), Flaherty KT(5), Ascierto 
+PA(6), Nathan PD(7), Rutkowski P(8), Leonov O(9), Dutriaux C(10), Mandalà 
+M(11)(12), Lorigan P(13), Ferrucci PF(14), Grob JJ(15), Meyer N(16), Gogas 
+H(17), Stroyakovskiy D(18), Arance A(19), Brase JC(20), Green S(20), Haas T(20), 
+Masood A(21), Gasal E(21), Ribas A(22), Schadendorf D(23).
+
+Author information:
+(1)University Hospital Zürich Skin Cancer Center, Zürich, Switzerland.
+(2)Melanoma Institute Australia, The University of Sydney, and Royal North Shore 
+and Mater Hospitals, Sydney, New South Wales, Australia.
+(3)Gustave Roussy, Villejuif, and Paris-Saclay University, Orsay, France.
+(4)The University of Texas MD Anderson Cancer Center, Houston, TX.
+(5)Dana-Farber Cancer Institute/Harvard Medical School and Massachusetts General 
+Hospital, Boston, MA.
+(6)Istituto Nazionale Tumori, IRCCS, Fondazione "G. Pascale," Naples, Italy.
+(7)Mount Vernon Cancer Centre, Northwood, United Kingdom.
+(8)Maria Skłodowska-Curie National Research Institute of Oncology, Warsaw, 
+Poland.
+(9)Clinical Oncological Dispensary, Omsk, Russia.
+(10)Centre Hospitalier Universitaire de Bordeaux, Hôpital Saint-André, Bordeaux, 
+France.
+(11)Unit of Medical Oncology, University of Perugia, Perugia, Italy.
+(12)Unit of Medical Oncology, Papa Giovanni XXIII Cancer Center Hospital, 
+Bergamo, Italy.
+(13)University of Manchester and The Christie NHS Foundation Trust, Manchester, 
+United Kingdom.
+(14)Department of Experimental Oncology, European Institute of Oncology, IRCCS, 
+Milan, Italy.
+(15)Timone Hospital AP-HM and Aix-Marseille University, Marseille, France.
+(16)Université Toulouse III-Paul Sabatier, Institut National de la Santé et de 
+la Recherche Médicale Unité Mixte de Recherche 1037-CRCT, Toulouse, France.
+(17)Laiko General Hospital, National and Kapodistrian University of Athens 
+School of Medicine, Athens, Greece.
+(18)Moscow City Oncology Hospital, Moscow, Russia.
+(19)Hospital Clinic of Barcelona, Barcelona, Spain.
+(20)Novartis Pharma AG, Basel, Switzerland.
+(21)Novartis Pharmaceuticals Corporation, East Hanover, NJ.
+(22)Jonsson Comprehensive Cancer Center, University of California, Los Angeles, 
+Los Angeles, CA.
+(23)University Hospital Essen, Essen, and German Cancer Consortium, Heidelberg, 
+Germany.
+
+Comment in
+    J Clin Oncol. 2022 May 1;40(13):1393-1395. doi: 10.1200/JCO.21.02801.
+    Ann Transl Med. 2023 Jun 30;11(9):326. doi: 10.21037/atm-23-1215.
+
+PURPOSE: Preclinical data suggest the combination of an anti-programmed death 
+receptor 1 antibody plus dabrafenib and trametinib to have superior antitumor 
+activity compared with dabrafenib plus trametinib alone. These observations are 
+supported by translational evidence suggesting that immune checkpoint inhibitors 
+plus targeted therapy may improve treatment outcomes in patients with BRAF 
+V600-mutant metastatic melanoma. COMBI-i is a phase III trial evaluating 
+spartalizumab, an anti-programmed death receptor 1 antibody, in combination with 
+dabrafenib and trametinib (sparta-DabTram), versus placebo plus dabrafenib and 
+trametinib (placebo-DabTram) in patients with BRAF V600-mutant unresectable or 
+metastatic melanoma.
+METHODS: Patients received spartalizumab 400 mg intravenously every 4 weeks plus 
+dabrafenib 150 mg orally twice daily and trametinib 2 mg orally once daily or 
+placebo-DabTram. Participants were age ≥ 18 years with unresectable or 
+metastatic BRAF V600-mutant melanoma. The primary end point was 
+investigator-assessed progression-free survival. Overall survival was a key 
+secondary end point (ClinicalTrials.gov identifier: NCT02967692).
+RESULTS: At data cutoff (July 1, 2020), the median progression-free survival was 
+16.2 months (95% CI, 12.7 to 23.9 months) in the sparta-DabTram arm versus 12.0 
+months (95% CI, 10.2 to 15.4 months) in the placebo-DabTram arm (hazard ratio, 
+0.82 [95% CI, 0.66 to 1.03]; P = .042 [one-sided; nonsignificant]). The 
+objective response rates were 69% (183 of 267 patients) versus 64% (170 of 265 
+patients), respectively. Grade ≥ 3 treatment-related adverse events occurred in 
+55% (146 of 267) of patients in the sparta-DabTram arm and 33% (88 of 264) in 
+the placebo-DabTram arm.
+CONCLUSION: The study did not meet its primary end point; broad first-line use 
+of sparta-DabTram is not supported by these results. Further biomarker-driven 
+investigation may identify patient subpopulations who could benefit from 
+checkpoint inhibitor plus targeted therapy combinations.
+
+DOI: 10.1200/JCO.21.01601
+PMCID: PMC9061149
+PMID: 35030011 [Indexed for MEDLINE]
+
+Conflict of interest statement: Reinhard DummerHonoraria: Roche, Novartis, 
+Bristol Myers Squibb, MSD, Amgen, Takeda, Pierre Fabre, Sun Pharma, Sanofi, 
+Catalym, Second Genome, Regeneron, Alligator Bioscience, MaxiVax, touchIME, T3 
+Pharmaceuticals, PfizerConsulting or Advisory Role: Roche, Bristol Myers Squibb, 
+MSD, Novartis, Amgen, Takeda, Pierre Fabre, Sun Pharma, Sanofi, Catalym, Second 
+Genome, Alligator Bioscience, touchIME, MaxiVax, Regeneron, Pfizer, T3 
+PharmaceuticalsResearch Funding: Roche (Inst), Bristol Myers Squibb (Inst), 
+Novartis (Inst), MSD (Inst), Amgen (Inst) Georgina V. LongHonoraria: BMS, Pierre 
+FabreConsulting or Advisory Role: Aduro Biotech, Amgen, Boehringer Ingelheim, 
+Bristol Myers Squibb, Hexal, Highlight Therapeutics, Merck Sharpe & Dohme, 
+Novartis, OncoSec, Pierre Fabre, QBiotics, Regeneron, SkylineDx, Specialised 
+Therapeutics, Array BioPharma, Evaxion Biotech A/S Caroline RobertConsulting or 
+Advisory Role: Bristol Myers Squibb, Roche, Novartis, Pierre Fabre, MSD, Sanofi, 
+AstraZeneca, Pfizer Hussein A. TawbiConsulting or Advisory Role: Novartis, 
+Bristol Myers Squibb, Genetech/Roche, Merck, Array BioPharma, Eisai, Iovance 
+Biotherapeutics, Karyopharm Therapeutics, Boxer CapitalResearch Funding: Bristol 
+Myers Squibb (Inst), Novartis (Inst), Merck (Inst), GlaxoSmithKline (Inst), 
+Genentech/Roche (Inst), Celgene (Inst) Keith T. FlahertyStock and Other 
+Ownership Interests: Clovis Oncology, Loxo, X4 Pharma, Strata Oncology, PIC 
+Therapeutics, Shattuck Labs, Apricity Health, Oncoceutics, FOGPharma, Tvardi 
+Therapeutics, Checkmate Pharmaceuticals, Kinnate Biopharma, Scorpion 
+Therapeutics, ALX Oncology, xCures, Monopteros Therapeutics, Vibliome 
+Therapeutics, Transcode Therapeutics, Soley Therapeutics,Consulting or Advisory 
+Role: Novartis, Lilly, Oncoceutics, Tvardi Therapeutics, Takeda, Boston 
+Biomedical, Debiopharm Group, FOGPharma Paolo A. AsciertoStock and Other 
+Ownership Interests: PrimeVaxConsulting or Advisory Role: Bristol Myers Squibb, 
+Roche/Genentech, Merck Sharp & Dohme, Novartis, Array BioPharma, Merck Serono, 
+Pierre Fabre, Incyte, MedImmune, AstraZeneca, Sun Pharma, Sanofi, Idera, 
+Ultimovacs, Sandoz, Immunocore, 4SC, Alkermes, Italfarmaco, Nektar, Boehringer 
+Ingelheim, Eisai, Regeneron, Daiichi Sankyo, Pfizer, OncoSec, Nouscom, Takis 
+Biotech, Lunaphore Technologies, Seattle Genetics, ITeos TherapeuticsResearch 
+Funding: Bristol Myers Squibb (Inst), Roche/Genentech (Inst), Array BioPharma 
+(Inst), Sanofi (Inst)Travel Accommodations, Expenses: Merck Sharp & Dohme Paul 
+D. NathanConsulting or Advisory Role: AstraZeneca, Bristol Myers Squibb, MSD, 
+Immunocore, Pfizer, Pierre Fabre, Novartis, GlaxoSmithKline, Ipsen, 4SC, 
+MerckSpeaker's Bureau: Bristol Myers Squibb, Novartis, MSD, Merck,Travel 
+Accommodations, Expenses: Bristol Myers Squibb, MSD Piotr RutkowskiHonoraria: 
+Bristol Myers Squibb, MSD, Novartis, Roche, Pfizer, Pierre Fabre, Sanofi, 
+MerckConsulting or Advisory Role: Novartis, Blueprint Medicines, Bristol Myers 
+Squibb, Pierre Fabre, MSD, AmgenSpeaker's Bureau: Pfizer, Novartis, Pierre 
+FabreResearch Funding: Novartis (Inst), Roche (Inst), Bristol Myers Squibb 
+(Inst)Travel Accommodations, Expenses: Orphan Europe, Pierre Fabre Caroline 
+DutriauxHonoraria: Bristol Myers Squibb, MSD, Novartis, Pierre FabreConsulting 
+or Advisory Role: Bristol Myers Squibb, MSD, Novartis, Pierre FabreTravel 
+Accommodations, Expenses: Bristol Myers Squibb, MSD, Novartis, Pierre Fabre 
+Mario MandalàHonoraria: MSD Oncology, Novartis, Pierre FabreConsulting or 
+Advisory Role: Bristol Myers Squibb, MSD Oncology, Novartis, Pierre 
+FabreResearch Funding: Novartis (Inst) Paul LoriganHonoraria: Novartis, Pierre 
+Fabre, Merck, BMS, MSD, NeraCare GmbH, Amgen, Roche, Oncology Education, 
+NektarConsulting or Advisory Role: Merck Sharp & Dohme, Bristol Myers Squibb, 
+Amgen, Pierre Fabre, Novartis, NektarSpeaker's Bureau: Merck Sharp & Dohme, 
+Novartis, Bristol Myers Squibb, Pierre Fabre, BMSTravel Accommodations, 
+Expenses: Merck Sharp & Dohme, Bristol Myers Squibb Pier Francesco 
+FerrucciConsulting or Advisory Role: Bristol Myers Squibb, Roche, Novartis, MSD 
+Oncology, Pierre FabreResearch Funding: BMS (Inst)Travel Accommodations, 
+Expenses: MSD Oncology, Bristol Myers Squibb Jean Jacques GrobConsulting or 
+Advisory Role: BMS, MSD Oncology, Roche/Genentech, Novartis, Amgen, Pierre 
+Fabre, Sun Pharma, Merck KGaA, Sanofi, Pfizer, RocheSpeaker's Bureau: 
+NovartisTravel Accommodations, Expenses: BMS, MSD Oncology, Novartis, Pierre 
+Fabre Nicolas MeyerConsulting or Advisory Role: Bristol Myers Squibb, MSD 
+Oncology, Roche/Genentech, Novartis, Pierre Fabre, AbbVie, Sun Pharma, Merckle 
+GmbHResearch Funding: Bristol Myers Squibb (Inst), MSD Oncology (Inst) Helen 
+GogasHonoraria: Bristol Myers Squibb, MSD Oncology, Pierre Fabre, 
+Sanofi/RegeneronConsulting or Advisory Role: Bristol Myers Squibb, MSD Oncology, 
+Amgen, Pierre Fabre, Sanofi/RegeneronResearch Funding: Bristol Myers Squibb, 
+Roche, MSD Oncology, Amgen (Inst), Novartis (Inst)Travel Accommodations, 
+Expenses: Bristol Myers Squibb, MSD, Amgen, Pfizer Daniil StroyakovskiySpeaker's 
+Bureau: Roche/Genentech, Bristol Myers Squibb, BioCad, AstraZenecaTravel 
+Accommodations, Expenses: AstraZeneca, Novartis, Roche Ana AranceConsulting or 
+Advisory Role: BMS, Roche, Novartis, Pierre Fabre, MSD, Merck, SanofiSpeaker's 
+Bureau: Pierre Fabre, Novartis, MSD, BMS, Roche, Merck, SanofiResearch Funding: 
+Pierre Fabre, Novartis, Roche, BMS, MSD, Merck, Sanofi, AmgenTravel 
+Accommodations, Expenses: BMS, MSD, Novartis, Pierre Fabre, Roche, Merck, Sanofi 
+Jan C. BraseEmployment: NovartisStock and Other Ownership Interests: 
+NovartisPatents, Royalties, Other Intellectual Property: Coinventor on patent 
+application Steven GreenEmployment: NovartisStock and Other Ownership Interests: 
+Novartis Tomas HaasEmployment: NovartisStock and Other Ownership Interests: 
+Novartis Aisha MasoodEmployment: NovartisStock and Other Ownership Interests: 
+NovartisOther Relationship: Novartis Eduard GasalEmployment: Novartis, Innovent 
+BiologicsLeadership: Innovent BiologicsStock and Other Ownership Interests: 
+Novartis, Innovent Biologics, Revolution Medicines, Amgen, NateraTravel 
+Accommodations, Expenses: Novartis, Innovent Biologics Antoni RibasLeadership: 
+PACT Pharma, Arcus Biosciences, LutrisStock and Other Ownership Interests: 
+Compugen, CytomX Therapeutics, Advaxis, Tango Therapeutics, PACT Pharma, Merus, 
+ImaginAb, Lutris, Highlight Therapeutics, MapKure, 4c Biomed, Kite/Gilead, 
+Isoplexis, Appia, Synthekine, Pluto, Inspirna, RAPT Therapeutics, 
+ImmPACT-BioHonoraria: Merck Sharp & Dohme, Novartis, Amgen, Chugai/Roche, 
+Genentech/Roche, Sanofi, Vedanta Biosciences, AstraZenecaConsulting or Advisory 
+Role: Merck, Amgen, Novartis, Chugai Pharma, SanofiResearch Funding: Agilent 
+(Inst), Bristol Myers Squibb (Inst)Patents, Royalties, Other Intellectual 
+Property: Nonviral gene editing to Arsenal Bio Dirk SchadendorfHonoraria: 
+Roche/Genentech, Novartis, Bristol Myers Squibb, Merck Sharp & Dohme, 
+Immunocore, Merck Serono, Array BioPharna, Pfizer, Pierre Fabre, Philogen, 
+Regeneron, 4SC, Sanofi/Regeneron, NeraCare GmbH, Sun Pharma, InflarxGmbH, 
+Ultimovacs, SandozConsulting or Advisory Role: Roche/Genentech, Novartis, 
+Bristol Myers Squibb, Merck Sharp & Dohme, Merck Serono, 4SC, Pierre Fabre, 
+Sanofi/Regeneron, NektarSpeaker's Bureau: Bristol Myers Squibb, Merck Sharp & 
+Dohme, Novartis, Pierre Fabre, Sanofi/Regeneron, Merck KGaAResearch Funding: 
+Bristol Myers Squibb (Inst), Novartis (Inst), Roche (Inst), MSD Oncology (Inst), 
+Array BioPharma/Pfizer (Inst)Travel Accommodations, Expenses: Roche/Genentech, 
+Bristol Myers Squibb, Merck Serono, Novartis, Merck Sharp & Dohme, Pierre Fabre, 
+Sanofi/RegeneronNo other potential conflicts of interest were reported.

@@ -1,0 +1,123 @@
+3. Lancet. 2022 May 14;399(10338):1886-1901. doi: 10.1016/S0140-6736(21)01790-6.
+
+The addition of androgen deprivation therapy and pelvic lymph node treatment to 
+prostate bed salvage radiotherapy (NRG Oncology/RTOG 0534 SPPORT): an 
+international, multicentre, randomised phase 3 trial.
+
+Pollack A(1), Karrison TG(2), Balogh AG(3), Gomella LG(4), Low DA(5), Bruner 
+DW(6), Wefel JS(7), Martin AG(8), Michalski JM(9), Angyalfi SJ(3), Lukka H(10), 
+Faria SL(11), Rodrigues GB(12), Beauchemin MC(13), Lee RJ(14), Seaward SA(15), 
+Allen AM(16), Monitto DC(17), Seiferheld W(18), Sartor O(19), Feng F(20), 
+Sandler HM(21).
+
+Author information:
+(1)Department of Radiation Oncology, University of Miami Miller School of 
+Medicine and Sylvester Comprehensive Cancer Center, Miami, FL, USA. Electronic 
+address: apollack@med.miami.edu.
+(2)Department of Public Health Sciences, University of Chicago, Chicago, IL, 
+USA; NRG Oncology, Philadelphia, PA, USA.
+(3)Tom Baker Cancer Center, University of Calgary, Calgary, AB, Canada.
+(4)Sidney Kimmel Cancer Center of Thomas Jefferson University, Philadelphia, PA, 
+USA.
+(5)Department of Radiation Oncology, University of California at Los Angeles, 
+Los Angeles, CA, USA.
+(6)Nell Hodgson Woodruff School of Nursing, and Winship Cancer Institute at 
+Emory University, Atlanta, GA, USA.
+(7)Department of Neuro-Oncology, University of Texas MD Anderson Cancer Center, 
+Houston, TX, USA.
+(8)CHU de Quebec-Université Laval (L'Hotel-Dieu de Quebec), Quebec, QC, Canada.
+(9)Department of Radiation Oncology, Washington University School of Medicine, 
+St Louis, MO, USA.
+(10)Department of Oncology, McMaster University, Hamilton, ON, Canada.
+(11)McGill University Health Centre, Montreal, QC, Canada.
+(12)Department of Oncology, London Regional Cancer Program, Western University, 
+London, ON, Canada.
+(13)Department of Radiation Oncology, CHUM-Centre Hospitalier de l'Université de 
+Montréal, Montreal, QC, Canada.
+(14)Intermountain Medical Center, Salt Lake City, UT, USA.
+(15)Kaiser Permanente-Vallejo, Vallejo, CA, USA.
+(16)Davidoff Center, Rabin Medical Center, Tel Aviv, Israel; Sackler Faculty of 
+Medicine, Tel Aviv University, Tel Aviv, Israel.
+(17)Spartanburg Regional Medical Center, Spartanburg, SC, USA.
+(18)NRG Oncology, Philadelphia, PA, USA.
+(19)Department of Medicine, Tulane University, New Orleans, LA, USA.
+(20)Department of Radiation Oncology, University of California at San Francisco, 
+San Francisco, CA , USA.
+(21)Cedars Sinai Medical Center, Los Angeles, CA, USA.
+
+Comment in
+    Nat Rev Clin Oncol. 2022 Jul;19(7):428. doi: 10.1038/s41571-022-00651-z.
+    Nat Rev Urol. 2022 Jul;19(7):384. doi: 10.1038/s41585-022-00614-0.
+    J Urol. 2022 Oct;208(4):931-934. doi: 10.1097/JU.0000000000002870.
+    Strahlenther Onkol. 2022 Dec;198(12):1119-1121. doi: 
+10.1007/s00066-022-02001-5.
+    Lancet. 2022 Sep 17;400(10356):883-884. doi: 10.1016/S0140-6736(22)01440-4.
+    Lancet. 2022 Sep 17;400(10356):884-885. doi: 10.1016/S0140-6736(22)01488-X.
+    Lancet. 2022 Sep 17;400(10356):885. doi: 10.1016/S0140-6736(22)01482-9.
+    Eur Urol. 2023 May;83(5):475. doi: 10.1016/j.eururo.2022.12.026.
+
+BACKGROUND: In men with a detectable prostate-specific antigen (PSA) level after 
+prostatectomy for prostate cancer, salvage prostate bed radiotherapy (PBRT) 
+results in about 70% of patients being free of progression at 5 years. A 
+three-group randomised trial was designed to determine whether incremental gains 
+in patient outcomes can be achieved by adding either 4-6 months of short-term 
+androgen deprivation therapy (ADT) to PBRT, or both short-term ADT and pelvic 
+lymph node radiotherapy (PLNRT) to PBRT.
+METHODS: The international, multicentre, randomised, controlled SPPORT trial was 
+done at 283 radiation oncology cancer treatment centres in the USA, Canada, and 
+Israel. Eligible patients (aged ≥18 years) were those who after prostatectomy 
+for adenocarcinoma of the prostate had a persistently detectable or an initially 
+undetectable and rising PSA of between 0·1 and 2·0 ng/mL. Patients with and 
+without lymphadenectomy (N0/Nx) were eligible if there was no clinical or 
+pathological evidence of lymph node involvement. Other eligibility criteria 
+included pT2 or pT3 disease, prostatectomy Gleason score of 9 or less, and a 
+Zubrod performance status of 0-1. Eligible patients were randomly assigned to 
+receive PBRT alone at a dose of 64·8-70·2 Gy at 1·8 Gy per fraction daily (group 
+1), PBRT plus short-term ADT (group 2), or PLNRT (45 Gy at 1·8 Gy per fraction, 
+and then a volume reduction made to the planning target volume for the remaining 
+19·8-25 ·2 Gy) plus PBRT plus short-term ADT (group 3). The primary endpoint was 
+freedom from progression, in which progression was defined as biochemical 
+failure according to the Phoenix definition (PSA ≥2 ng/mL over the nadir PSA), 
+clinical failure (local, regional, or distant), or death from any cause. A 
+planned interim analysis of 1191 patents with minimum potential follow-up time 
+of 5 years applied a Haybittle-Peto boundary of p<0·001 (one sided) for 
+comparison of 5-year freedom from progression rates between the treatment 
+groups. This trial is registered with ClinicalTrials.gov, NCT00567580. The 
+primary objectives of the trial have been completed, although long-term 
+follow-up is continuing.
+FINDINGS: Between March 31, 2008, and March 30, 2015, 1792 eligible patients 
+were enrolled and randomly assigned to the three treatment groups (592 to group 
+1 [PBRT alone], 602 to group 2 [PBRT plus short-term ADT], and 598 to group 3 
+[PLNRT plus PBRT plus short-term ADT]). 76 patients subsequently found to be 
+ineligible were excluded from the analyses; thus, the evaluable patient 
+population comprised 1716 patients. At the interim analysis (n=1191 patients; 
+data cutoff May 23, 2018), the Haybittle-Peto boundary for 5-year freedom from 
+progression was exceeded when group 1 was compared with group 3 (difference 
+17·9%, SE 2·9%; p<0·0001). The difference between groups 2 and 3 did not exceed 
+the boundary (p=0·0063). With additional follow-up beyond the interim analysis 
+(the final planned analysis; data cutoff May 26, 2021), at a median follow-up 
+among survivors of 8·2 years (IQR 6·6-9·4), the 5-year freedom from progression 
+rates in all 1716 eligible patients were 70·9% (95% CI 67·0-74·9) in group 1, 
+81·3% (78·0-84·6) in group 2, and 87·4% (84·7-90·2) in group 3. Per protocol 
+criteria, freedom from progression in group 3 was superior to groups 1 and 2. 
+Acute (≤3 months after radiotherapy) grade 2 or worse adverse events were 
+significantly more common in group 3 (246 [44%] of 563 patients) than in group 2 
+(201 [36%] of 563; p=0·0034), which, in turn, were more common than in group 1 
+(98 [18%] of 547; p<0·0001). Similar findings were observed for grade 3 or worse 
+adverse events. However, late toxicity (>3 months after radiotherapy) did not 
+differ significantly between the groups, apart from more late grade 2 or worse 
+blood or bone marrow events in group 3 versus group 2 (one-sided p=0·0060) 
+attributable to the addition of PLNRT in this group.
+INTERPRETATION: The results of this randomised trial establish the benefit of 
+adding short-term ADT to PBRT to prevent progression in prostate cancer. To our 
+knowledge, these are the first such findings to show that extending salvage 
+radiotherapy to treat the pelvic lymph nodes when combined with short-term ADT 
+results in meaningful reductions in progression after prostatectomy in patients 
+with prostate cancer.
+FUNDING: National Cancer Institute.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(21)01790-6
+PMCID: PMC9819649
+PMID: 35569466 [Indexed for MEDLINE]

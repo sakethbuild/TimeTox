@@ -1,0 +1,130 @@
+7. Lancet Haematol. 2020 May;7(5):e370-e380. doi: 10.1016/S2352-3026(20)30070-3. 
+Epub 2020 Mar 23.
+
+Subcutaneous versus intravenous daratumumab in patients with relapsed or 
+refractory multiple myeloma (COLUMBA): a multicentre, open-label, 
+non-inferiority, randomised, phase 3 trial.
+
+Mateos MV(1), Nahi H(2), Legiec W(3), Grosicki S(4), Vorobyev V(5), Spicka I(6), 
+Hungria V(7), Korenkova S(8), Bahlis N(9), Flogegard M(10), Bladé J(11), Moreau 
+P(12), Kaiser M(13), Iida S(14), Laubach J(15), Magen H(16), Cavo M(17), Hulin 
+C(18), White D(19), De Stefano V(20), Clemens PL(21), Masterson T(21), Lantz 
+K(21), O'Rourke L(21), Heuck C(21), Qin X(22), Parasrampuria DA(21), Yuan Z(22), 
+Xu S(23), Qi M(21), Usmani SZ(24).
+
+Author information:
+(1)Cancer Research Unit, University Hospital of Salamanca, Instituto de 
+Investigación Biomédica de Salamanca (IBSAL), Salamanca, Spain; Institute of 
+Cancer Molecular and Cellular Biology (USAL-CSIC), Centre for Cancer Research 
+(IBMCC), Instituto de Investigación Biomédica de Salamanca (IBSAL), Salamanca, 
+Spain.
+(2)Unit of Hematology, Department of Medicine, Karolinska University Hospital at 
+Huddinge, Karolinska Institutet, Stockholm, Sweden.
+(3)Department of Hemato-Oncology and Bone Marrow Transplantation, Medical 
+University of Lublin, Lublin, Poland.
+(4)Department of Hematology and Cancer Prevention, School of Public Health in 
+Bytom, Medical University of Silesia in Katowice, Katowice, Poland.
+(5)S P Botkin City Clinical Hospital, Moscow, Russia.
+(6)1st Department of Medicine, Department of Hematology, First Faculty of 
+Medicine, Charles University, Prague, Czech Republic; General University 
+Hospital in Prague, Charles University, Prague, Czech Republic.
+(7)Clinica São Germano, São Paulo, Brazil.
+(8)Kiev Bone Marrow Transplantation Center, Kiev, Ukraine.
+(9)Arnie Charbonneau Cancer Institute, University of Calgary, Calgary, AB, 
+Canada.
+(10)Department of Internal Medicine, Falun General Hospital, Falun, Sweden.
+(11)Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Hospital 
+Clínic de Barcelona, University of Barcelona, Barcelona, Spain.
+(12)University Hospital of Nantes, Nantes, France.
+(13)Department of Haemato-Oncology, Royal Marsden Hospital, London, UK; Division 
+of Molecular Pathology, Institute of Cancer Research, London, UK.
+(14)Department of Hematology and Oncology, Nagoya City University Graduate 
+School of Medical Sciences, Nagoya, Japan.
+(15)Department of Hematology and Oncology, Dana-Farber Cancer Institute, Harvard 
+Medical School, Boston, MA, USA.
+(16)Department of Hematology Chaim Sheba Medical Center, Ramat-Gan, Sackler 
+Faculty of Medicine, Tel Aviv, Israel.
+(17)Diagnostic and Specialty Medicine Department, Seràgnoli Institute of 
+Hematology, University of Bologna, Bologna, Italy.
+(18)Centre Hospitalier Universitaire Bordeaux, Pessac, France.
+(19)Queen Elizabeth II Health Sciences Centre, Dalhousie University, Halifax, 
+NS, Canada.
+(20)Institute of Hematology, Università Cattolica del Sacro Cuore, Rome, Italy; 
+Fondazione Policlinico Universitario Agostino Gemelli, Istituto di Ricovero e 
+Cura a Carattere Scientifico, Università Cattolica del Sacro Cuore, Rome, Italy.
+(21)Janssen Research & Development, Spring House, PA, USA.
+(22)Janssen Research & Development, Raritan, NJ, USA.
+(23)Janssen Research & Development, Spring House, PA, USA; Genmab US, Princeton, 
+NJ, USA.
+(24)Levine Cancer Institute-Atrium Health, Charlotte, NC, USA. Electronic 
+address: saad.usmani@atriumhealth.org.
+
+Erratum in
+    Lancet Haematol. 2020 Oct;7(10):e710. doi: 10.1016/S2352-3026(20)30296-9.
+
+Comment in
+    Lancet Haematol. 2020 Aug;7(8):e558. doi: 10.1016/S2352-3026(20)30125-3.
+    Lancet Haematol. 2020 Aug;7(8):e559. doi: 10.1016/S2352-3026(20)30188-5.
+
+BACKGROUND: Intravenous daratumumab for treatment of patients with multiple 
+myeloma involves a lengthy infusion that affects quality of life, and 
+infusion-related reactions are common. Subcutaneous daratumumab is thought to be 
+easier to administer and to cause fewer administration-related reactions. In 
+this study (COLUMBA), we tested the non-inferiority of subcutaneous daratumumab 
+to intravenous daratumumab.
+METHODS: In this ongoing, multicentre (147 sites in 18 countries), open-label, 
+non-inferiority, randomised, phase 3 trial, we recruited adult patients (age ≥18 
+years) if they had confirmed relapsed or refractory multiple myeloma according 
+to International Myeloma Working Group criteria; received at least three 
+previous lines of therapy, including a proteasome inhibitor and immunomodulatory 
+drug, or were double refractory to both a proteasome inhibitor and 
+immunomodulatory drug; and had an Eastern Cooperative Oncology Group performance 
+status score of 2 or lower. Patients were randomly assigned (1:1) by a 
+computer-generated randomisation schedule and balanced using randomly permuted 
+blocks to receive daratumumab subcutaneously (subcutaneous group) or 
+intravenously (intravenous group). Randomisation was stratified on the basis of 
+baseline bodyweight (≤65 kg, 66-85 kg, >85 kg), previous therapy lines (≤four vs 
+>four), and myeloma type (IgG vs non-IgG). Patients received 1800 mg of 
+subcutaneous daratumumab co-formulated with 2000 U/mL recombinant human 
+hyaluronidase PH20 or 16 mg/kg of intravenous daratumumab once weekly (cycles 
+1-2), every 2 weeks (cycles 3-6), and every 4 weeks thereafter (28-day cycles) 
+until progressive disease or toxicity. The co-primary endpoints were overall 
+response and maximum trough concentration (Ctrough; cycle 3, day 1 pre-dose). 
+The non-inferiority margin for overall response was defined using a 60% 
+retention of the lower bound (20·8%) of the 95% CI of the SIRIUS trial. Efficacy 
+analyses were done by intention-to-treat population. The 
+pharmacokinetic-evaluable population included all patients who received all 
+eight weekly daratumumab doses in cycles 1 and 2 and provided a pre-dose 
+pharmacokinetics blood sample on day 1 of cycle 3. The safety population 
+included all patients who received at least one daratumumab dose. This trial is 
+registered with ClinicalTrials.gov, NCT03277105.
+FINDINGS: Between Oct 31, 2017, and Dec 27, 2018, 655 patients were screened, of 
+whom 522 were recruited and randomly assigned (subcutaneous group n=263; 
+intravenous group n=259). Three patients in the subcutaneous group and one in 
+the intravenous group did not receive treatment and were not evaluable for 
+safety. At a median follow-up of 7·5 months (IQR 6·5-9·3), overall response and 
+Ctrough met the predefined non-inferiority criteria. An overall response was 
+seen in 108 (41%) of 263 patients in the subcutaneous group and 96 (37%) of 259 
+in the intravenous group (relative risk 1·11, 95% CI 0·89-1·37). The geometric 
+means ratio for Ctrough was 107·93% (90% CI 95·74-121·67), and the maximum 
+Ctrough was 593 μg/mL (SD 306) in the subcutaneous group and 522 μg/mL (226) in 
+the intravenous group. The most common grade 3 and 4 adverse events were anaemia 
+(34 [13%] of 260 patients evaluable for safety in the subcutaneous group and 36 
+[14%] of 258 patients in the intravenous group), neutropenia (34 [13%] and 20 
+[8%]), and thrombocytopenia (36 [14%] and 35 [14%]). Pneumonia was the only 
+serious adverse event in more than 2% of patients (seven [3%] in the 
+subcutaneous group and 11 [4%] in the intravenous group). There was one death 
+resulting from a treatment-related adverse event in the subcutaneous daratumumab 
+group (febrile neutropenia) and four in the intravenous group (sepsis [n=2], 
+hepatitis B reactivation [n=1], and Pneumocystis jirovecii pneumonia [n=1]).
+INTERPRETATION: Subcutaneous daratumumab was non-inferior to intravenous 
+daratumumab in terms of efficacy and pharmacokinetics and had an improved safety 
+profile in patients with relapsed or refractory multiple myeloma. These data 
+could contribute to the approval of the subcutaneous daratumumab formulation by 
+regulatory bodies.
+FUNDING: Janssen Research & Development.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2352-3026(20)30070-3
+PMID: 32213342 [Indexed for MEDLINE]

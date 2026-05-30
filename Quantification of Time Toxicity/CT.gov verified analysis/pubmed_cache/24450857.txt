@@ -1,0 +1,68 @@
+15. N Engl J Med. 2014 Mar 13;370(11):997-1007. doi: 10.1056/NEJMoa1315226. Epub 
+2014 Jan 22.
+
+Idelalisib and rituximab in relapsed chronic lymphocytic leukemia.
+
+Furman RR(#)(1), Sharman JP(#)(1), Coutre SE(#)(1), Cheson BD(1), Pagel JM(1), 
+Hillmen P(1), Barrientos JC(1), Zelenetz AD(1), Kipps TJ(1), Flinn I(1), Ghia 
+P(1), Eradat H(1), Ervin T(1), Lamanna N(1), Coiffier B(1), Pettitt AR(1), Ma 
+S(1), Stilgenbauer S(1), Cramer P(1), Aiello M(1), Johnson DM(1), Miller LL(1), 
+Li D(1), Jahn TM(1), Dansey RD(1), Hallek M(1), O'Brien SM(1).
+
+Author information:
+(1)Weill Cornell Medical College (R.R.F.), Memorial Sloan-Kettering Cancer 
+Center (A.D.Z.), the Department of Medicine, and Columbia University Medical 
+Center (N.L.) - all in New York; U.S. Oncology Research, Springfield, OR 
+(J.P.S.); Stanford University School of Medicine, Stanford (S.E.C.), and Gilead 
+Sciences, Foster City (M.A., D.M.J., L.L.M., D.L., T.M.J., R.D.D.) - both in 
+California; Lombardi Comprehensive Cancer Center, Georgetown University 
+Hospital, Washington, DC (B.D.C.); Fred Hutchinson Cancer Research Center, 
+University of Washington, Seattle (J.M.P.); St. James's University Hospital, 
+Leeds (P.H.), and Royal Liverpool University Hospital, Liverpool (A.R.P.) - both 
+in the United Kingdom; Hofstra North Shore-LIJ School of Medicine, New Hyde 
+Park, New York (J.C.B.); University of California San Diego, Moores Cancer 
+Center, La Jolla (T.J.K.); Sarah Cannon Research Institute, Nashville (I.F.); 
+Universita Vita-Salute San Raffaele, Instituto Scientifico San Raffaele, Milan 
+(P.G.); David Geffen School of Medicine, University of California Los Angeles, 
+Los Angeles (H.E.); Florida Cancer Specialists, Englewood (T.E.); Centre 
+Hospitalier Lyon-Sud, Pierre-Bénite, France (B.C.); Robert H. Lurie 
+Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern 
+University, Chicago (S.M.); University of Ulm, Ulm (S.S.), and University of 
+Cologne, Cologne (P.C., M.H.) - both in Germany; and University of Texas M.D. 
+Anderson Cancer Center, Houston (S.M.O.).
+(#)Contributed equally
+
+Comment in
+    N Engl J Med. 2014 Mar 13;370(11):1061-2. doi: 10.1056/NEJMe1400055.
+
+BACKGROUND: Patients with relapsed chronic lymphocytic leukemia (CLL) who have 
+clinically significant coexisting medical conditions are less able to undergo 
+standard chemotherapy. Effective therapies with acceptable side-effect profiles 
+are needed for this patient population.
+METHODS: In this multicenter, randomized, double-blind, placebo-controlled, 
+phase 3 study, we assessed the efficacy and safety of idelalisib, an oral 
+inhibitor of the delta isoform of phosphatidylinositol 3-kinase, in combination 
+with rituximab versus rituximab plus placebo. We randomly assigned 220 patients 
+with decreased renal function, previous therapy-induced myelosuppression, or 
+major coexisting illnesses to receive rituximab and either idelalisib (at a dose 
+of 150 mg) or placebo twice daily. The primary end point was progression-free 
+survival. At the first prespecified interim analysis, the study was stopped 
+early on the recommendation of the data and safety monitoring board owing to 
+overwhelming efficacy.
+RESULTS: The median progression-free survival was 5.5 months in the placebo 
+group and was not reached in the idelalisib group (hazard ratio for progression 
+or death in the idelalisib group, 0.15; P<0.001). Patients receiving idelalisib 
+versus those receiving placebo had improved rates of overall response (81% vs. 
+13%; odds ratio, 29.92; P<0.001) and overall survival at 12 months (92% vs. 80%; 
+hazard ratio for death, 0.28; P=0.02). Serious adverse events occurred in 40% of 
+the patients receiving idelalisib and rituximab and in 35% of those receiving 
+placebo and rituximab.
+CONCLUSIONS: The combination of idelalisib and rituximab, as compared with 
+placebo and rituximab, significantly improved progression-free survival, 
+response rate, and overall survival among patients with relapsed CLL who were 
+less able to undergo chemotherapy. (Funded by Gilead; ClinicalTrials.gov number, 
+NCT01539512.).
+
+DOI: 10.1056/NEJMoa1315226
+PMCID: PMC4161365
+PMID: 24450857 [Indexed for MEDLINE]

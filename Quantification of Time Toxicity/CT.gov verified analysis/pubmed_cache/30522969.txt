@@ -1,0 +1,91 @@
+8. Lancet Oncol. 2019 Jan;20(1):43-56. doi: 10.1016/S1470-2045(18)30788-5. Epub 
+2018 Dec 3.
+
+Ibrutinib plus obinutuzumab versus chlorambucil plus obinutuzumab in first-line 
+treatment of chronic lymphocytic leukaemia (iLLUMINATE): a multicentre, 
+randomised, open-label, phase 3 trial.
+
+Moreno C(1), Greil R(2), Demirkan F(3), Tedeschi A(4), Anz B(5), Larratt L(6), 
+Simkovic M(7), Samoilova O(8), Novak J(9), Ben-Yehuda D(10), Strugov V(11), Gill 
+D(12), Gribben JG(13), Hsu E(14), Lih CJ(14), Zhou C(14), Clow F(14), James 
+DF(14), Styles L(14), Flinn IW(15).
+
+Author information:
+(1)Department of Hematology, Hospital de la Santa Creu i Sant Pau, Autonomous 
+University of Barcelona, Barcelona, Spain. Electronic address: 
+cmorenoa@santpau.cat.
+(2)Paracelsus Medical University Salzburg, Salzburg Cancer Research Institute, 
+Cancer Cluster Salzburg, Salzburg, Austria.
+(3)Dokuz Eylul University, Izmir, Turkey.
+(4)ASST Grande Ospedale Metropolitano Niguarda, Milan, Italy.
+(5)Tennessee Oncology, Chattanooga, TN, USA.
+(6)University of Alberta, Edmonton, AB, Canada.
+(7)University Hospital Hradec Kralove, Charles University, Hradec Kralove, Czech 
+Republic.
+(8)Nizhny Novogorod Regional Clinical Hospital, Nizhny Novogorod, Russia.
+(9)University Hospital Kralovske Vinohrady and Third Faculty of Medicine, 
+Charles University, Prague, Czech Republic.
+(10)Department of Hematology, Hadassah Medical Center, Hebrew University of 
+Jerusalem, The Faculty of Medicine, Jerusalem, Israel.
+(11)Almazov National Medical Research Centre, St Petersburg, Russia.
+(12)Princess Alexandra Hospital, Brisbane, QLD, Australia.
+(13)Barts Cancer Institute, Queen Mary University of London, London, UK.
+(14)Pharmacyclics LLC, an AbbVie Company, Sunnyvale, CA, USA.
+(15)Sarah Cannon Research Institute/Tennessee Oncology, Nashville, TN, USA.
+
+Erratum in
+    Lancet Oncol. 2019 Jan;20(1):e10. doi: 10.1016/S1470-2045(18)30923-9.
+
+BACKGROUND: Both single-agent ibrutinib and chlorambucil plus obinutuzumab have 
+shown superior efficacy to chlorambucil monotherapy and are standard first-line 
+treatments in chronic lymphocytic leukaemia. We compared the efficacy of the 
+combination of ibrutinib plus obinutuzumab with chlorambucil plus obinutuzumab 
+in first-line chronic lymphocytic leukaemia or small lymphocytic lymphoma.
+METHODS: iLLUMINATE is a multicentre, randomised, open-label, phase 3 trial done 
+at 74 academic and community hospitals in Australia, Canada, Israel, New 
+Zealand, Russia, Turkey, the EU, and the USA in patients with previously 
+untreated chronic lymphocytic leukaemia or small lymphocytic lymphoma, either 
+aged 65 years or older or younger than 65 years with coexisting conditions. 
+Patients were randomly assigned (1:1) using a blocked randomisation schedule, 
+stratified by Eastern Cooperative Oncology Group performance status and 
+cytogenetics, to receive ibrutinib plus obinutuzumab (oral ibrutinib [420 mg 
+once daily continuously] combined with intravenous obinutuzumab [100 mg on day 
+1, 900 mg on day 2, 1000 mg on day 8, and 1000 mg on day 15 of cycle 1 and on 
+day 1 of subsequent 28-day cycles, for a total of six cycles]) or chlorambucil 
+plus obinutuzumab (oral chlorambucil [0·5 mg/kg bodyweight on days 1 and 15 of 
+each 28-day cycle for six cycles] combined with the same obinutuzumab regimen). 
+Allocation concealment was achieved using an interactive web response system. 
+Patients and investigators were not masked to treatment assignment. The primary 
+endpoint was progression-free survival assessed by a masked independent review 
+committee in the intention-to-treat population. Safety was assessed in all 
+patients who received at least one dose of study treatment. This study is 
+registered with ClinicalTrials.gov (NCT02264574), and patient enrolment is 
+complete.
+FINDINGS: Between Oct 6, 2014, and Oct 12, 2015, 229 patients were enrolled and 
+randomly assigned to receive ibrutinib plus obinutuzumab (n=113) or chlorambucil 
+plus obinutuzumab (n=116). After a median follow-up of 31·3 months (IQR 
+29·4-33·2), median progression-free survival was significantly longer in the 
+ibrutinib plus obinutuzumab group (median not reached [95% CI 
+33·6-non-estimable]) than in the chlorambucil plus obinutuzumab group (19·0 
+months [15·1-22·1]; hazard ratio 0·23; 95% CI 0·15-0·37; p<0·0001). Estimated 
+30-month progression-free survival was 79% (95% CI 70-85) in the ibrutinib plus 
+obinutuzumab group and 31% (23-40) in the chlorambucil plus obinutuzumab group. 
+The most common grade 3 or 4 adverse events in both groups were neutropenia and 
+thrombocytopenia. Serious adverse events occurred in 65 (58%) of 113 patients 
+treated with ibrutinib plus obinutuzumab and 40 (35%) of 115 patients treated 
+with chlorambucil plus obinutuzumab. Ibrutinib or chlorambucil treatment-related 
+deaths were reported in one (1%) of 113 patients in the ibrutinib plus 
+obinutuzumab group (sudden death) and one (1%) of 115 patients in the 
+chlorambucil plus obinutuzumab group (neuroendocrine carcinoma of the skin).
+INTERPRETATION: Ibrutinib plus obinutuzumab is an efficacious and safe 
+chemotherapy-free combination treatment in previously untreated patients with 
+chronic lymphocytic leukaemia or small lymphocytic lymphoma independent of 
+high-risk features and provides an alternative first-line treatment option for 
+these patients.
+FUNDING: Pharmacyclics LLC, an AbbVie Company, and Janssen Research and 
+Development.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(18)30788-5
+PMID: 30522969 [Indexed for MEDLINE]

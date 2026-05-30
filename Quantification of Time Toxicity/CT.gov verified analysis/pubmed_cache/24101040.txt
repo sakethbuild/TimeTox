@@ -1,0 +1,64 @@
+11. J Clin Oncol. 2013 Nov 10;31(32):4085-91. doi: 10.1200/JCO.2013.49.6968. Epub
+ 2013 Oct 7.
+
+Dose-dense temozolomide for newly diagnosed glioblastoma: a randomized phase III 
+clinical trial.
+
+Gilbert MR(1), Wang M, Aldape KD, Stupp R, Hegi ME, Jaeckle KA, Armstrong TS, 
+Wefel JS, Won M, Blumenthal DT, Mahajan A, Schultz CJ, Erridge S, Baumert B, 
+Hopkins KI, Tzuk-Shina T, Brown PD, Chakravarti A, Curran WJ Jr, Mehta MP.
+
+Author information:
+(1)Mark R. Gilbert, Kenneth D. Aldape, Terri S. Armstrong, Jeffrey S. Wefel, 
+Anita Mahajan, and Paul D. Brown, University of Texas MD Anderson Cancer Center; 
+Terri S. Armstrong, University of Texas Health Science Center-School of Nursing, 
+Houston, TX; Meihua Wang and Minhee Won, Radiation Therapy Oncology Group 
+Statistical Center, Philadelphia, PA; Roger Stupp and Monika E. Hegi, Lausanne 
+University Hospitals, Lausanne, Switzerland; Kurt A. Jaeckle, Mayo Clinic 
+Florida, Jacksonville, FL; Deborah T. Blumenthal, Tel Aviv Medical Center, Tel 
+Aviv; Tzahala Tzuk-Shina, Rambam Medical Center, Haifa, Israel; Christopher J. 
+Schultz, Medical College of Wisconsin, Milwaukee, WI; Sara Erridge, University 
+of Edinburgh, Edinburgh, Scotland; Brigitta G. Baumert, Maastricht University 
+Medical Center, Maastricht, the Netherlands; Kristen I. Hopkins, University 
+Hospitals Bristol, Bristol, United Kingdom; Arnab Chakravarti, Arthur G. James 
+Cancer Hospital/Ohio State University Comprehensive Cancer Center, Columbus, OH; 
+Walter J. Curran Jr, Emory University Winship Cancer Center, Atlanta, GA; and 
+Minesh P. Mehta, University of Maryland, Baltimore, MD.
+
+Comment in
+    J Clin Oncol. 2014 May 20;32(15):1633-4. doi: 10.1200/JCO.2013.54.6226.
+    J Clin Oncol. 2014 May 20;32(15):1634-5. doi: 10.1200/JCO.2013.54.9717.
+
+PURPOSE: Radiotherapy with concomitant and adjuvant temozolomide is the standard 
+of care for newly diagnosed glioblastoma (GBM). O(6)-methylguanine-DNA 
+methyltransferase (MGMT) methylation status may be an important determinant of 
+treatment response. Dose-dense (DD) temozolomide results in prolonged depletion 
+of MGMT in blood mononuclear cells and possibly in tumor. This trial tested 
+whether DD temozolomide improves overall survival (OS) or progression-free 
+survival (PFS) in patients with newly diagnosed GBM.
+PATIENTS AND METHODS: This phase III trial enrolled patients older than age 18 
+years with a Karnofsky performance score of ≥ 60 with adequate tissue. 
+Stratification included clinical factors and tumor MGMT methylation status. 
+Patients were randomly assigned to standard temozolomide (arm 1) or DD 
+temozolomide (arm 2) for 6 to 12 cycles. The primary end point was OS. Secondary 
+analyses evaluated the impact of MGMT status.
+RESULTS: A total of 833 patients were randomly assigned to either arm 1 or arm 2 
+(1,173 registered). No statistically significant difference was observed between 
+arms for median OS (16.6 v 14.9 months, respectively; hazard ratio [HR], 1.03; P 
+= .63) or median PFS (5.5 v 6.7 months; HR, 0.87; P = .06). Efficacy did not 
+differ by methylation status. MGMT methylation was associated with improved OS 
+(21.2 v 14 months; HR, 1.74; P < .001), PFS (8.7 v 5.7 months; HR, 1.63; P < 
+.001), and response (P = .012). There was increased grade ≥ 3 toxicity in arm 2 
+(34% v 53%; P < .001), mostly lymphopenia and fatigue.
+CONCLUSION: This study did not demonstrate improved efficacy for DD temozolomide 
+for newly diagnosed GBM, regardless of methylation status. However, it did 
+confirm the prognostic significance of MGMT methylation. Feasibility of 
+large-scale accrual, prospective tumor collection, and molecular stratification 
+was demonstrated.
+
+DOI: 10.1200/JCO.2013.49.6968
+PMCID: PMC3816958
+PMID: 24101040 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

@@ -1,0 +1,54 @@
+3. J Clin Oncol. 2013 Apr 10;31(11):1398-404. doi: 10.1200/JCO.2012.44.7805. Epub
+ 2013 Jan 28.
+
+Exemestane versus anastrozole in postmenopausal women with early breast cancer: 
+NCIC CTG MA.27--a randomized controlled phase III trial.
+
+Goss PE(1), Ingle JN, Pritchard KI, Ellis MJ, Sledge GW, Budd GT, Rabaglio M, 
+Ansari RH, Johnson DB, Tozer R, D'Souza DP, Chalchal H, Spadafora S, Stearns V, 
+Perez EA, Liedke PE, Lang I, Elliott C, Gelmon KA, Chapman JA, Shepherd LE.
+
+Author information:
+(1)Massachusetts General Hospital Cancer Center, Lawrence House, 55 Fruit St, 
+LRH-302, Boston, MA 02114, USA. pgoss@partners.org
+
+Comment in
+    J Clin Oncol. 2013 Sep 20;31(27):3439. doi: 10.1200/JCO.2013.49.2884.
+    J Clin Oncol. 2013 Sep 20;31(27):3439-40. doi: 10.1200/JCO.2013.51.4893.
+
+PURPOSE: In patients with hormone-dependent postmenopausal breast cancer, 
+standard adjuvant therapy involves 5 years of the nonsteroidal aromatase 
+inhibitors anastrozole and letrozole. The steroidal inhibitor exemestane is 
+partially non-cross-resistant with nonsteroidal aromatase inhibitors and is a 
+mild androgen and could prove superior to anastrozole regarding efficacy and 
+toxicity, specifically with less bone loss.
+PATIENTS AND METHODS: We designed an open-label, randomized, phase III trial of 
+5 years of exemestane versus anastrozole with a two-sided test of superiority to 
+detect a 2.4% improvement with exemestane in 5-year event-free survival (EFS). 
+Secondary objectives included assessment of overall survival, distant 
+disease-free survival, incidence of contralateral new primary breast cancer, and 
+safety.
+RESULTS: In the study, 7,576 women (median age, 64.1 years) were enrolled. At 
+median follow-up of 4.1 years, 4-year EFS was 91% for exemestane and 91.2% for 
+anastrozole (stratified hazard ratio, 1.02; 95% CI, 0.87 to 1.18; P = .85). 
+Overall, distant disease-free survival and disease-specific survival were also 
+similar. In all, 31.6% of patients discontinued treatment as a result of adverse 
+effects, concomitant disease, or study refusal. Osteoporosis/osteopenia, 
+hypertriglyceridemia, vaginal bleeding, and hypercholesterolemia were less 
+frequent on exemestane, whereas mild liver function abnormalities and rare 
+episodes of atrial fibrillation were less frequent on anastrozole. Vasomotor and 
+musculoskeletal symptoms were similar between arms.
+CONCLUSION: This first comparison of steroidal and nonsteroidal classes of 
+aromatase inhibitors showed neither to be superior in terms of breast cancer 
+outcomes as 5-year initial adjuvant therapy for postmenopausal breast cancer by 
+two-way test. Less toxicity on bone is compatible with one hypothesis behind 
+MA.27 but requires confirmation. Exemestane should be considered another option 
+as up-front adjuvant therapy for postmenopausal hormone receptor-positive breast 
+cancer.
+
+DOI: 10.1200/JCO.2012.44.7805
+PMCID: PMC3612593
+PMID: 23358971 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

@@ -1,0 +1,41 @@
+1. J Clin Oncol. 2014 Sep 20;32(27):3021-32. doi: 10.1200/JCO.2014.55.3628.
+
+Gemtuzumab ozogamicin in children and adolescents with de novo acute myeloid 
+leukemia improves event-free survival by reducing relapse risk: results from the 
+randomized phase III Children’s Oncology Group trial AAML0531.
+
+Gamis AS, Alonzo TA, Meshinchi S, Sung L, Gerbing RB, Raimondi SC, Hirsch BA, 
+Kahwash SB, Heerema-McKenney A, Winter L, Glick K, Davies SM, Byron P, Smith FO, 
+Aplenc R.
+
+PURPOSE: To improve survival rates in children with acute myeloid leukemia 
+(AML), we evaluated gemtuzumab-ozogamicin (GO), a humanized immunoconjugate 
+targeted against CD33, as an alternative to further chemotherapy dose 
+escalation. Our primary objective was to determine whether adding GO to standard 
+chemotherapy improved event-free survival (EFS) and overall survival (OS) in 
+children with newly diagnosed AML. Our secondary objectives examined outcomes by 
+risk group and method of intensification.
+PATIENTS AND METHODS: Children, adolescents, and young adults ages 0 to 29 years 
+with newly diagnosed AML were enrolled onto Children’s Oncology Group trial 
+AAML0531 and then were randomly assigned to either standard five-course 
+chemotherapy alone or to the same chemotherapy with two doses of GO (3 
+mg/m2/dose) administered once in induction course 1 and once in intensification 
+course 2 (two of three).
+RESULTS: There were 1,022 evaluable patients enrolled. GO significantly improved 
+EFS (3 years: 53.1% v. 46.9%; hazard ratio [HzR], 0.83; 95% CI, 0.70 to 0.99; 
+P.04) but not OS (3 years: 69.4% v. 65.4%; HzR, 0.91; 95% CI, 0.74 to 1.13; P = 
+.39). Although remission was not improved (88% v. 85%; P = .15), posthoc 
+analyses found relapse risk (RR) was significantly reduced among GO recipients 
+overall (3 years: 32.8% v. 41.3%; HzR, 0.73; 95% CI, 0.58 to 0.91; P = .006). 
+Despite an increased postremission toxic mortality (3 years: 6.6% v. 4.1%; HzR, 
+1.69; 95% CI, 0.93 to 3.08; P = .09), disease-free survival was better among GO 
+recipients (3 years: 60.6% v. 54.7%; HzR, 0.82; 95% CI, 0.67 to 1.02; P = .07).
+CONCLUSION: GO added to chemotherapy improved EFS through a reduction in RR for 
+children and adolescents with AML.
+
+DOI: 10.1200/JCO.2014.55.3628
+PMCID: PMC4162498
+PMID: 25092781 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

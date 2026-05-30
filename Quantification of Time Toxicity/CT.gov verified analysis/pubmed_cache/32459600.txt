@@ -1,0 +1,71 @@
+13. J Clin Oncol. 2020 Sep 1;38(25):2849-2861. doi: 10.1200/JCO.19.03355. Epub
+2020  May 27.
+
+ASCEND: Phase III, Randomized Trial of Acalabrutinib Versus Idelalisib Plus 
+Rituximab or Bendamustine Plus Rituximab in Relapsed or Refractory Chronic 
+Lymphocytic Leukemia.
+
+Ghia P(1)(2), Pluta A(3), Wach M(4), Lysak D(5), Kozak T(6), Simkovic M(7), 
+Kaplan P(8), Kraychok I(9), Illes A(10), de la Serna J(11), Dolan S(12), 
+Campbell P(13), Musuraca G(14), Jacob A(15), Avery E(16), Lee JH(17), Liang 
+W(18), Patel P(18), Quah C(18), Jurczak W(19).
+
+Author information:
+(1)Università Vita-Salute San Raffaele, Milano, Italy.
+(2)Istituto di Ricovero e Cura a Carattere Scientifico Ospedale San Raffaele, 
+Milano, Italy.
+(3)Szpital Specjalistyczny w Brzozowie im. Ks. Markiewicza, Oddział Hematologii 
+Onkologicznej z Klinicznym Oddziałem Przeszczepiania Szpiku, Brzozow, Poland.
+(4)Department of Hemato-Oncology and Bone Marrow Transplantation, Medical 
+University of Lublin, Lublin, Poland.
+(5)Fakultní Nemocnice Plzeň, Pilsen, Czech Republic.
+(6)Fakultní Nemocnice Královske Vinohrady, Prague, Czech Republic.
+(7)University Hospital Hradec Králové, Hradec Králové, Czech Republic.
+(8)Dnipropetrovsk City Clinical Hospital No. 4, Dnipropetrovsk, Ukraine.
+(9)National Cancer Institute, Kiev, Ukraine.
+(10)University of Debrecen, Faculty of Medicine, Department of Hematology, 
+Debrecen, Hungary.
+(11)Hospital Universitario 12 de Octubre, Madrid, Spain.
+(12)Saint John Regional Hospital, University of New Brunswick, St John, New 
+Brunswick, Canada.
+(13)Barwon Health, University Hospital Geelong, Geelong, Victoria, Australia.
+(14)Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori, Istituto 
+di Ricovero e Cura a Carattere Scientifico, Meldola, Italy.
+(15)Royal Wolverhampton Hospital National Health Service Trust, Wolverhampton, 
+United Kingdom.
+(16)Nebraska Hematology Oncology, Lincoln, NE.
+(17)Gachon University Gil Medical Center, Incheon, Republic of Korea.
+(18)Acerta Pharma (a member of the AstraZeneca group), South San Francisco, CA.
+(19)Maria Sklodowska-Curie National Institute of Oncology, Kraków, Poland.
+
+PURPOSE: Acalabrutinib, a highly selective, potent, Bruton tyrosine kinase 
+inhibitor, was evaluated in this global, multicenter, randomized, open-label, 
+phase III study in patients with relapsed/refractory (R/R) chronic lymphocytic 
+leukemia (CLL).
+METHODS: Eligible patients, aged ≥ 18 years with R/R CLL, were randomly assigned 
+1:1 centrally and stratified by del(17p) status, Eastern Cooperative Oncology 
+Group performance status score, and number of prior lines of therapy. Patients 
+received acalabrutinib monotherapy or investigator's choice (idelalisib plus 
+rituximab [I-R] or bendamustine plus rituximab [B-R]). The primary end point was 
+progression-free survival (PFS) assessed by an independent review committee 
+(IRC) in the intent-to-treat population. Key secondary end points included 
+IRC-assessed overall response rate, overall survival, and safety.
+RESULTS: From February 21, 2017, to January 17, 2018, a total of 398 patients 
+were assessed for eligibility; 310 patients were randomly assigned to 
+acalabrutinib monotherapy (n = 155) or investigator's choice (n = 155; I-R, n = 
+119; B-R, n = 36). Patients had received a median of two prior therapies (range, 
+1-10). After a median follow-up of 16.1 months (range, 0.03-22.4 months), median 
+PFS was significantly longer with acalabrutinib monotherapy (PFS not reached) 
+compared with investigator's choice (16.5 months [95% CI, 14.0 to 17.1 months]; 
+hazard ratio, 0.31 [95% CI, 0.20 to 0.49]; P < .0001). Estimated 12-month PFS 
+was 88% (95% CI, 81% to 92%) for acalabrutinib and 68% (95% CI, 59% to 75%) for 
+investigator's choice. Serious adverse events occurred in 29% of patients (n = 
+44 of 154) treated with acalabrutinib monotherapy, 56% (n = 66 of 118) with I-R, 
+and 26% (n = 9 of 35) with B-R. Deaths occurred in 10% (n = 15 of 154), 11% (n = 
+13 of 118), and 14% (n = 5 of 35) of patients receiving acalabrutinib 
+monotherapy, I-R, and B-R, respectively.
+CONCLUSION: Acalabrutinib significantly improved PFS compared with I-R or B-R 
+and has an acceptable safety profile in patients with R/R CLL.
+
+DOI: 10.1200/JCO.19.03355
+PMID: 32459600 [Indexed for MEDLINE]

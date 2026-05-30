@@ -1,0 +1,90 @@
+8. Clin Cancer Res. 2024 Feb 16;30(4):767-778. doi:
+10.1158/1078-0432.CCR-23-2084.
+
+First-Line Ipatasertib, Atezolizumab, and Taxane Triplet for Metastatic 
+Triple-Negative Breast Cancer: Clinical and Biomarker Results.
+
+Schmid P(1), Turner NC(2)(3), Barrios CH(4), Isakoff SJ(5), Kim SB(6), Sablin 
+MP(7), Saji S(8), Savas P(9), Vidal GA(10), Oliveira M(11), O'Shaughnessy J(12), 
+Italiano A(13), Espinosa E(14), Boni V(15), White S(16), Rojas B(17), 
+Freitas-Junior R(18), Chae Y(19), Bondarenko I(20), Lee J(21), Torres Mattos 
+C(22), Martinez Rodriguez JL(23), Lam LH(24), Jones S(25), Reilly SJ(26), Huang 
+X(27), Shah K(28), Dent R(29).
+
+Author information:
+(1)Barts Cancer Institute, Queen Mary University of London, London, United 
+Kingdom.
+(2)The Royal Marsden NHS Foundation Trust, London, United Kingdom.
+(3)Breast Cancer Now Research Centre, London, United Kingdom.
+(4)Centro de Pesquisa em Oncologia, Hospital São Lucas, PUCRS, Latin American 
+Cooperative Oncology Group (LACOG), Brazil.
+(5)Massachusetts General Hospital, Boston, Massachusetts.
+(6)Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic 
+of Korea.
+(7)Department of Drug Development and Innovation (D3i), Institut Curie, Paris, 
+France.
+(8)Department of Medical Oncology, Fukushima Medical University, Fukushima, 
+Japan.
+(9)Peter MacCallum Cancer Centre and Sir Peter MacCallum Department of Oncology, 
+The University of Melbourne, Melbourne, Australia.
+(10)West Cancer Center and Research Institute, Germantown, Tennessee.
+(11)Medical Oncology Department, Vall d'Hebron University Hospital and Breast 
+Cancer Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain.
+(12)Baylor University Medical Center, Texas Oncology, US Oncology, Dallas, 
+Texas.
+(13)Institut Bergonié, Bordeaux, France.
+(14)Hospital Universitario La Paz, Madrid, Spain.
+(15)Oncology Service, Hospital Universitario La Paz, Madrid - Centro de 
+Investigación Biomédica en Red de Cáncer (CIBERONC), Madrid, Spain.
+(16)Austin Hospital, Melbourne, Australia.
+(17)Oncology Service, Centro Integral Oncologico Clara Campal, Madrid, Spain.
+(18)Gynaecology and Breast Department, Hospital Araujo Jorge, Goias Anticancer 
+Association, Goiânia, Brazil.
+(19)Kyungpook National University Chilgok Hospital, Daegu, Republic of Korea.
+(20)Chemotherapy SI Dnipropetrovsk MA of MOHU, Dnipro, Ukraine.
+(21)Seoul St Mary's Hospital, The Catholic University of Korea, Seoul, Republic 
+of Korea.
+(22)Clínica San Gabriel, Unidad de Investigación Oncológica de la Clínica San 
+Gabriel, Lima, Perú.
+(23)Christus Muguerza Clinica Vidriera, Nuevo Leon, Mexico.
+(24)Product Development Oncology, Genentech, Inc., South San Francisco, 
+California.
+(25)Data Sciences, Safety and Medical (DSSM), IQVIA Inc., Durham, North 
+Carolina.
+(26)Roche Products Ltd., Welwyn Garden City, United Kingdom.
+(27)gRED Computational Science, Roche (China) Holding Ltd, Pudong, Shanghai, 
+China.
+(28)Oncology Biomarker Development, Genentech, Inc., South San Francisco, 
+California.
+(29)National Cancer Centre, Singapore.
+
+PURPOSE: To evaluate a triplet regimen combining immune checkpoint blockade, AKT 
+pathway inhibition, and (nab-) paclitaxel as first-line therapy for locally 
+advanced/metastatic triple-negative breast cancer (mTNBC).
+PATIENTS AND METHODS: The single-arm CO40151 phase Ib study (NCT03800836), the 
+single-arm signal-seeking cohort of IPATunity130 (NCT03337724), and the 
+randomized phase III IPATunity170 trial (NCT04177108) enrolled patients with 
+previously untreated mTNBC. Triplet therapy comprised intravenous atezolizumab 
+840 mg (days 1 and 15), oral ipatasertib 400 mg/day (days 1-21), and intravenous 
+paclitaxel 80 mg/m2 (or nab-paclitaxel 100 mg/m2; days 1, 8, and 15) every 28 
+days. Exploratory translational research aimed to elucidate mechanisms and 
+molecular markers of sensitivity and resistance.
+RESULTS: Among 317 patients treated with the triplet, efficacy ranged across 
+studies as follows: median progression-free survival (PFS) 5.4 to 7.4 months, 
+objective response rate 44% to 63%, median duration of response 5.6 to 11.1 
+months, and median overall survival 15.7 to 28.3 months. The safety profile was 
+consistent with the known toxicities of each agent. Grade ≥3 adverse events were 
+more frequent with the triplet than with doublets or single-agent paclitaxel. 
+Patients with PFS >10 months were characterized by NF1, CCND3, and PIK3CA 
+alterations and increased immune pathway activity. PFS <5 months was associated 
+with CDKN2A/CDKN2B/MTAP alterations and lower predicted phosphorylated AKT-S473 
+levels.
+CONCLUSIONS: In patients with mTNBC receiving an ipatasertib/atezolizumab/taxane 
+triplet regimen, molecular characteristics may identify those with particularly 
+favorable or unfavorable outcomes, potentially guiding future research efforts.
+
+©2023 The Authors; Published by the American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-23-2084
+PMCID: PMC10870115
+PMID: 38060199 [Indexed for MEDLINE]

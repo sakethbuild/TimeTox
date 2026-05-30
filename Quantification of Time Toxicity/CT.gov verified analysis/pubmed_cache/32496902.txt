@@ -1,0 +1,73 @@
+15. J Clin Oncol. 2020 Aug 10;38(23):2628-2638. doi: 10.1200/JCO.19.02892. Epub
+2020  Jun 4.
+
+Impact of Intrathecal Triple Therapy Versus Intrathecal Methotrexate on 
+Disease-Free Survival for High-Risk B-Lymphoblastic Leukemia: Children's 
+Oncology Group Study AALL1131.
+
+Salzer WL(1), Burke MJ(2), Devidas M(3), Dai Y(4), Hardy KK(5), Kairalla JA(4), 
+Gore L(6)(7), Hilden JM(6)(7), Larsen E(8), Rabin KR(9), Zweidler-McKay PA(10), 
+Borowitz MJ(11), Wood B(12), Heerema NA(13), Carroll AJ(14), Winick N(15), 
+Carroll WL(16), Raetz EA(16), Loh ML(17), Hunger SP(18)(19).
+
+Author information:
+(1)Uniformed Services University, Bethesda, MD.
+(2)Department of Pediatrics, Children's Hospital of Wisconsin, Milwaukee, WI.
+(3)Department of Global Pediatric Medicine, St Jude Children's Research 
+Hospital, Memphis, TN.
+(4)Department of Biostatistics, Colleges of Medicine and Public Health & Health 
+Professions, University of Florida, Gainesville, FL.
+(5)Children's National Medical Center, Washington, DC.
+(6)Department of Pediatrics, Center for Cancer and Blood Disorders, Children's 
+Hospital Colorado, Aurora, CO.
+(7)University of Colorado School of Medicine, Aurora, CO.
+(8)Department of Pediatrics, Maine Children's Cancer Program, Scarborough, ME.
+(9)Department of Pediatrics, Baylor College of Medicine, Houston, TX.
+(10)ImmunoGen, Inc, Waltham, MA.
+(11)Department of Pathology, Johns Hopkins Medical Institutions, Baltimore, MD.
+(12)Department of Laboratory Medicine, University of Washington, Seattle, WA.
+(13)Department of Pathology, The Ohio State University School of Medicine, 
+Columbus, OH.
+(14)Department of Genetics, University of Alabama at Birmingham, Birmingham, AL.
+(15)Department of Pediatrics, University of Texas Southwestern Medical Center, 
+Dallas, TX.
+(16)Department of Pediatrics, Perlmutter Cancer Center, New York University 
+Langone Medical Center, New York, NY.
+(17)Department of Pediatrics, Benioff Children's Hospital and the Helen Diller 
+Family Comprehensive Cancer Center, University of California, San Francisco, San 
+Francisco, CA.
+(18)Department of Pediatrics and the Center for Childhood Cancer Research, 
+Children's Hospital of Philadelphia, Philadelphia, PA.
+(19)Perelman School of Medicine at the University of Pennsylvania, Philadelphia, 
+PA.
+
+PURPOSE: The high-risk stratum of Children's Oncology Group Study AALL1131 was 
+designed to test the hypothesis that postinduction CNS prophylaxis with 
+intrathecal triple therapy (ITT) including methotrexate, hydrocortisone, and 
+cytarabine would improve the postinduction 5-year disease-free survival (DFS) 
+compared with intrathecal methotrexate (IT MTX), when given on a modified 
+augmented Berlin-Frankfurt-Münster backbone.
+PATIENTS AND METHODS: Children with newly diagnosed National Cancer Institute 
+(NCI) high-risk B-cell acute lymphoblastic leukemia (HR B-ALL) or NCI 
+standard-risk B-ALL with defined minimal residual disease thresholds during 
+induction were randomly assigned to receive postinduction IT MTX or ITT. 
+Patients with CNS3-status disease were not eligible. Postinduction IT therapy 
+was given for a total of 21 to 26 doses. Neurocognitive assessments were 
+performed during therapy and during 1 year off therapy.
+RESULTS: Random assignment was closed to accrual in March 2018 after a futility 
+boundary had been crossed, concluding that ITT could not be shown to be superior 
+to IT MTX. The 5-year postinduction DFS and overall survival rates (± SE) of 
+children randomly assigned to IT MTX versus ITT were 93.2% ± 2.1% v 90.6% ± 2.3% 
+(P = .85), and 96.3% ± 1.5% v 96.7% ± 1.4% (P = .77), respectively. There were 
+no differences in the cumulative incidence of isolated bone marrow relapse, 
+isolated CNS relapse, or combined bone marrow and CNS relapse rates, or in 
+toxicities observed for patients receiving IT MTX compared with ITT. There were 
+no significant differences in neurocognitive outcomes for patients receiving IT 
+MTX compared with ITT.
+CONCLUSION: Postinduction CNS prophylaxis with ITT did not improve 5-year DFS 
+for children with HR B-ALL. The standard of care for CNS prophylaxis for 
+children with B-ALL and no overt CNS involvement remains IT MTX.
+
+DOI: 10.1200/JCO.19.02892
+PMCID: PMC7402996
+PMID: 32496902 [Indexed for MEDLINE]

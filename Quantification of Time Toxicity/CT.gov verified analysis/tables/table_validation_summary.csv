@@ -1,0 +1,13 @@
+Test,Statistic,p_value,Conclusion
+Zero-Delta Chi2: Sponsorship,16.115728607678136,5.9587095690773485e-05,DIFFERENT
+Zero-Delta Chi2: Disease Site,21.782139697156403,0.01625375587415695,DIFFERENT
+Zero-Delta Chi2: Treatment Modality,57.51279475811126,1.4383885214892012e-10,DIFFERENT
+Zero-Delta Mann-Whitney: Trial Start Year,48441.5,0.16119779210251872,Not different
+Sensitivity: Sponsorship (non-zero delta),4151.0,0.1413906811937804,Not significant
+Sensitivity: Temporal Trend (non-zero delta),-0.4949210238175485,0.06361866489349889,Not significant
+Sensitivity: Disease Site KW (non-zero delta),32.63514305962621,3.0957592317353736e-05,Significant
+Regression: pos_idx=0 AUC,0.7145384860745887,,N=1262
+Regression: All arms AUC,0.7380471118712586,,N=1437
+Arm Labeling: TT inversions,80.0,,80/642 trials (12.5%)
+Arm Labeling: Suspect mislabelings,10.0,,10 arms in 8 trials
+Arm Labeling: Atypical designs (n_ctrl > n_interv),30.0,,30/47 multi-control trials

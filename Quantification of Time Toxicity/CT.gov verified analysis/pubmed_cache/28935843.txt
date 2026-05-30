@@ -1,0 +1,64 @@
+6. Haematologica. 2017 Nov;102(11):1913-1922. doi: 10.3324/haematol.2017.173583. 
+Epub 2017 Sep 21.
+
+Efficacy and safety of subcutaneous and intravenous rituximab plus 
+cyclophosphamide, doxorubicin, vincristine, and prednisone in first-line diffuse 
+large B-cell lymphoma: the randomized MabEase study.
+
+Lugtenburg P(1), Avivi I(2), Berenschot H(3), Ilhan O(4), Marolleau JP(5), 
+Nagler A(6), Rueda A(7), Tani M(8), Turgut M(9), Osborne S(10), Smith R(11), 
+Pfreundschuh M(12).
+
+Author information:
+(1)Department of Hematology, Erasmus MC Cancer Institute, Rotterdam, the 
+Netherlands p.lugtenburg@erasmusmc.nl.
+(2)The Sackler Faculty of Medicine, Tel Aviv University, Israel.
+(3)Department of Hematology, Alberts Schweitzer Hospital, Dordrecht, the 
+Netherlands.
+(4)Department of Hematology, Ankara University School of Medicine, Turkey.
+(5)Unit of Hematology, University Hospital of Amiens, France.
+(6)Division of Hematology, Chaim Sheba Medical Center, Tel Hashomer, Israel.
+(7)Área de Oncología. Unidad de Oncología Médica, E.P. Hospital Costa del Sol, 
+Marbella, Spain.
+(8)Hematology Unit, Santa Maria Delle Croci Hospital, Ravenna, Italy.
+(9)Hematology Department, Ondokuz Mayis University, Samsun, Turkey.
+(10)PDMA Operations (Biometrics), F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+(11)Pharma Development Oncology, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+(12)Department of Internal Medicine I, University Hospital of Saarland, Homburg, 
+Germany.
+
+Intravenous rituximab plus chemotherapy is standard treatment for diffuse large 
+B-cell lymphoma. A subcutaneous formulation of rituximab is expected to simplify 
+and shorten drug preparation and administration, and to reduce treatment burden. 
+MabEase (clinicaltrials.gov Identifier: 01649856) examined efficacy, safety and 
+patient satisfaction with subcutaneous rituximab plus chemotherapy in 
+treatment-naïve patients with diffuse large B-cell lymphoma. Patients were 
+randomized 2:1 to subcutaneous rituximab (intravenous 375 mg/m2 cycle 1; 
+subcutaneous 1,400 mg cycles 2-8) or intravenous rituximab (375 mg/m2 cycles 
+1-8) plus cyclophosphamide, doxorubicin, vincristine, and prednisone every 14 or 
+21 days. The primary endpoint was investigator-assessed complete 
+response/unconfirmed complete response. Secondary endpoints included safety, 
+treatment satisfaction (Cancer Treatment Satisfaction Questionnaire and 
+Rituximab Administration Satisfaction Questionnaire), time savings, and 
+survival. Of 576 randomized patients, 572 (378 subcutaneous; 194 intravenous) 
+received treatment. End of induction complete response/unconfirmed complete 
+response rates were 50.6% (subcutaneous) and 42.4% (intravenous). After a median 
+35 months, median overall, event-free and progression-free survivals were not 
+reached. Grade ≥3 adverse events (subcutaneous 58.3%; intravenous 54.3%) and 
+administration-related adverse events (both groups 21%) were similar between 
+arms. Injection-site reactions were more common with subcutaneous injections 
+(5.7% versus 0%, respectively). Rituximab Administration Satisfaction 
+Questionnaire scores for 'impact on activities of daily living', 'convenience', 
+and 'satisfaction' were improved with subcutaneous versus intravenous 
+injections; Cancer Therapy Satisfaction Questionnaire scores were similar 
+between arms. Median administration time (6 minutes vs 2.6 to 3.0 hours), 
+chair/bed and overall hospital times were shorter with subcutaneous versus 
+intravenous rituximab. Overall, subcutaneous and intravenous rituximab had 
+similar efficacy and safety, with improved patient satisfaction and time 
+savings.
+
+Copyright© Ferrata Storti Foundation.
+
+DOI: 10.3324/haematol.2017.173583
+PMCID: PMC5664395
+PMID: 28935843 [Indexed for MEDLINE]

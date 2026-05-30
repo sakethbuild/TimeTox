@@ -1,0 +1,86 @@
+7. J Clin Oncol. 2014 Dec 1;32(34):3858-66. doi: 10.1200/JCO.2014.55.3925. Epub 
+2014 Nov 3.
+
+Randomized phase III trial to test accelerated versus standard fractionation in 
+combination with concurrent cisplatin for head and neck carcinomas in the 
+Radiation Therapy Oncology Group 0129 trial: long-term report of efficacy and 
+toxicity.
+
+Nguyen-Tan PF(1), Zhang Q(2), Ang KK(2), Weber RS(2), Rosenthal DI(2), Soulieres 
+D(2), Kim H(2), Silverman C(2), Raben A(2), Galloway TJ(2), Fortin A(2), Gore 
+E(2), Westra WH(2), Chung CH(2), Jordan RC(2), Gillison ML(2), List M(2), Le 
+QT(2).
+
+Author information:
+(1)Phuc Felix Nguyen-Tan and Denis Soulieres, Centre Hospitalier de l'Université 
+de Montréal Hôpital Notre-Dame, Montreal; André Fortin, Centre Hospitalier 
+Universitaire Hôtel-Dieu de Québec, Quebec City, Quebec, Canada; Qiang Zhang, 
+NRG Oncology Statistics and Data Management Center; Thomas J. Galloway, Fox 
+Chase Cancer Center, Philadelphia, PA; K. Kian Ang, Randal S. Weber, and David 
+I. Rosenthal, University of Texas MD Anderson Cancer Center, Houston, TX; Harold 
+Kim, Wayne State University, Detroit, MI; Craig Silverman, James Graham Brown 
+Cancer Center, Louisville, KY; Adam Raben, Christiana Care Community Clinical 
+Oncology Program, Newark, DE; Elizabeth Gore, Medical College of Wisconsin, 
+Milwaukee, WI; William H. Westra and Christine H. Chung, Johns Hopkins 
+University, Baltimore, MD; Richard C. Jordan, University of California at San 
+Francisco, San Francisco; Quynh-Thu Le, Stanford University, Stanford, CA; Maura 
+L. Gillison, Ohio State University Comprehensive Cancer Center, Columbus, OH; 
+and Marcy List, University of Chicago Medicine Comprehensive Cancer Research 
+Center, Chicago, IL. felix.nguyen.chum@ssss.gouv.qc.ca.
+(2)Phuc Felix Nguyen-Tan and Denis Soulieres, Centre Hospitalier de l'Université 
+de Montréal Hôpital Notre-Dame, Montreal; André Fortin, Centre Hospitalier 
+Universitaire Hôtel-Dieu de Québec, Quebec City, Quebec, Canada; Qiang Zhang, 
+NRG Oncology Statistics and Data Management Center; Thomas J. Galloway, Fox 
+Chase Cancer Center, Philadelphia, PA; K. Kian Ang, Randal S. Weber, and David 
+I. Rosenthal, University of Texas MD Anderson Cancer Center, Houston, TX; Harold 
+Kim, Wayne State University, Detroit, MI; Craig Silverman, James Graham Brown 
+Cancer Center, Louisville, KY; Adam Raben, Christiana Care Community Clinical 
+Oncology Program, Newark, DE; Elizabeth Gore, Medical College of Wisconsin, 
+Milwaukee, WI; William H. Westra and Christine H. Chung, Johns Hopkins 
+University, Baltimore, MD; Richard C. Jordan, University of California at San 
+Francisco, San Francisco; Quynh-Thu Le, Stanford University, Stanford, CA; Maura 
+L. Gillison, Ohio State University Comprehensive Cancer Center, Columbus, OH; 
+and Marcy List, University of Chicago Medicine Comprehensive Cancer Research 
+Center, Chicago, IL.
+
+Comment in
+    Strahlenther Onkol. 2015 Apr;191(4):384-6. doi: 10.1007/s00066-015-0819-1.
+
+PURPOSE: We tested the efficacy and toxicity of cisplatin plus accelerated 
+fractionation with a concomitant boost (AFX-C) versus standard fractionation 
+(SFX) in locally advanced head and neck carcinoma (LA-HNC).
+PATIENTS AND METHODS: Patients had stage III to IV carcinoma of the oral cavity, 
+oropharynx, hypopharynx, or larynx. Radiation therapy schedules were 70 Gy in 35 
+fractions over 7 weeks (SFX) or 72 Gy in 42 fractions over 6 weeks (AFX-C). 
+Cisplatin doses were 100 mg/m(2) once every 3 weeks for two (AFX-C) or three 
+(SFX) cycles. Toxicities were scored by using National Cancer Institute Common 
+Toxicity Criteria 2.0 and the Radiation Therapy Oncology Group/European 
+Organisation for Research and Treatment of Cancer criteria. Overall survival 
+(OS) and progression-free survival (PFS) rates were estimated by using the 
+Kaplan-Meier method and were compared by using the one-sided log-rank test. 
+Locoregional failure (LRF) and distant metastasis (DM) rates were estimated by 
+using the cumulative incidence method and Gray's test.
+RESULTS: In all, 721 of 743 patients were analyzable (361, SFX; 360, AFX-C). At 
+a median follow-up of 7.9 years (range, 0.3 to 10.1 years) for 355 surviving 
+patients, no differences were observed in OS (hazard ratio [HR], 0.96; 95% CI, 
+0.79 to 1.18; P = .37; 8-year survival, 48% v 48%), PFS (HR, 1.02; 95% CI, 0.84 
+to 1.24; P = .52; 8-year estimate, 42% v 41%), LRF (HR, 1.08; 95% CI, 0.84 to 
+1.38; P = .78; 8-year estimate, 37% v 39%), or DM (HR, 0.83; 95% CI, 0.56 to 
+1.24; P = .16; 8-year estimate, 15% v 13%). For oropharyngeal cancer, 
+p16-positive patients had better OS than p16-negative patients (HR, 0.30; 95% 
+CI, 0.21 to 0.42; P < .001; 8-year survival, 70.9% v 30.2%). There were no 
+statistically significant differences in the grade 3 to 5 acute or late 
+toxicities between the two arms and p-16 status.
+CONCLUSION: When combined with cisplatin, AFX-C neither improved outcome nor 
+increased late toxicity in patients with LA-HNC. Long-term high survival rates 
+in p16-positive patients with oropharyngeal cancer support the ongoing efforts 
+to explore deintensification.
+
+© 2014 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2014.55.3925
+PMCID: PMC4239304
+PMID: 25366680 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

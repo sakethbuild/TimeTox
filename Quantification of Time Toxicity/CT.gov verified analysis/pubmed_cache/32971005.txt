@@ -1,0 +1,147 @@
+2. Lancet Oncol. 2020 Dec;21(12):1574-1588. doi: 10.1016/S1470-2045(20)30541-6. 
+Epub 2020 Sep 21.
+
+Durvalumab alone and durvalumab plus tremelimumab versus chemotherapy in 
+previously untreated patients with unresectable, locally advanced or metastatic 
+urothelial carcinoma (DANUBE): a randomised, open-label, multicentre, phase 3 
+trial.
+
+Powles T(1), van der Heijden MS(2), Castellano D(3), Galsky MD(4), Loriot Y(5), 
+Petrylak DP(6), Ogawa O(7), Park SH(8), Lee JL(9), De Giorgi U(10), Bögemann 
+M(11), Bamias A(12), Eigl BJ(13), Gurney H(14), Mukherjee SD(15), Fradet Y(16), 
+Skoneczna I(17), Tsiatas M(18), Novikov A(19), Suárez C(20), Fay AP(21), Duran 
+I(22), Necchi A(23), Wildsmith S(24), He P(25), Angra N(25), Gupta AK(25), Levin 
+W(25), Bellmunt J(26); DANUBE study investigators.
+
+Collaborators: Park SH, van der Heijden MS, Necchi A, Castellano D, Bamias A, 
+Lee JL, De Giorgi U, Bögemann M, Eigl BJ, Tsiatas M, Powles T, Novikov A, 
+Skoneczna I, Mukherjee SD, Suarez C, Westgeest H, Fradet Y, Flechon A, Ou YC, 
+Park I, Matveev V, Pérez-Valderrama B, Cheng S, Frank S, Gurney H, Anido U, 
+Hamzaj A, Retz M, Sridhar S, Scagliotti GV, Voortman J, Alekseev B, Alyasova A, 
+Komyakov B, Dumez H, Pavic M, Kimura G, Mizokami A, Osanto S, Arranz JA, Piersma 
+D, Shin SJ, Karyakin O, Delgado I, Gonzalez JL, Pang ST, Tran A, Lipatov O, Su 
+WP, Flaig T, Alva A, Park Kyong H, Kopyltsov E, Almagro E, Domenech M, Chang YH, 
+Sautois B, Ravaux A, Aravantinos G, Georgoulias V, Mulder S, Kim YJ, Kater F, 
+Chevreau C, Tagawa S, Zalewski P, Joly F, Loriot Y, Hatiboglu G, Gianni L, 
+Morelli F, Tambaro R, Hashimoto Y, Nosov A, Font A, Rodriguez-Vida AM, Jones R, 
+Vasudev N, Srinivas S, Zhang J, Gil T, Finch D, Grimm MO, Su YL, Chowdhury S, 
+Hocking C, Plas E, North S, Jensen NV, Theodore C, Imkamp F, Peer A, Kobayashi 
+T, Sakai H, Sassa N, Yoshimura K, Aarts M, Ferreira Castro A, Topuzov M, 
+Rodriguez JF, Vazquez FJ, Tsai YC, Crabb S, Hussain S, Bendell J, Gross-Goupil 
+M, Gwenaelle G, Berger R, Statsenko G, Evans L, Drakaki A, Somer B, Davis I, 
+Lynam J, Borges G, Dettino A, Fay AP, Martins G, Zucca LE, Agerbaek M, Kalofonos 
+H, Rosenbaum E, Enokida H, Kikukawa H, Nishimura K, Tamada S, Uemura M, Lopez Y, 
+Gietema J, Slojewski M, Fernandes I, Smolin A, Mazhar D, Kalebasty AR, Carthon 
+B, Loidl W, Franke F, Girotto G, Alimohamed N, Macfarlane R, Pappot H, Niegisch 
+G, Mavroudis D, Sella A, Porta C, Ebara S, Nakamura M, Obara W, Okuno N, 
+Shinohara N, Sugimoto M, Suzuki A, Tokuda N, Uemura H, Yamaguchi A, Ramirez F, 
+Rozanowski P, Wiechno P, Keam B, Kislov N, Plaksin D, Cicin I, Kumar S, Galsky 
+MD, Petrylak DP, Rosales J, Vaishampayan U, Culine S, Papandreou C, Nara T, 
+Erman M, Kreiger L, Janoski J, Rosa D, Siqueira M, Canil C, Sengelov L, Tourani 
+JM, Arai G, Hashine K, Kawakita M, Nakaigawa N, Nomi H, Shiina H, Suzuki H, 
+Yonese J, Kuri R, Macedo E, Rivera S, Villalobos Prieto A, Polakiewicz-Gilowska 
+A, Zaucha R, Lopes F, Ponomarev R, Pomerantz M, Shariat S, Luk C, 
+Lesniewski-Kmak K.
+
+Author information:
+(1)Centre for Experimental Cancer Medicine, Barts Cancer Institute, Queen Mary 
+University of London, London, UK. Electronic address: thomas.powles1@nhs.net.
+(2)Netherlands Cancer Institute, Amsterdam, Netherlands.
+(3)Hospital Universitario 12 de Octubre, Madrid, Spain.
+(4)The Tisch Cancer Institute, Mount Sinai Hospital, New York, NY, USA.
+(5)Institut Gustave Roussy, INSERM U981, University of Paris Saclay, Villejuif, 
+France.
+(6)Smilow Cancer Center, Yale University, New Haven, CT, USA.
+(7)Kyoto University, Kyoto, Japan.
+(8)Sungkyunkwan University Samsung Medical Center, Seoul, South Korea.
+(9)University of Ulsan College of Medicine, Asan Medical Center, Seoul, South 
+Korea.
+(10)Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori, IRCCS, 
+Meldola, Italy.
+(11)Universitätsklinikum Münster, Münster, Germany.
+(12)Alexandra Hospital, National and Kapodistrian University of Athens, Athens, 
+Greece.
+(13)BC Cancer, Vancouver, BC, Canada.
+(14)Department of Clinical Medicine, Macquarie University, Sydney, NSW, 
+Australia.
+(15)Juravinski Cancer Centre, Hamilton Health Sciences and McMaster University, 
+Hamilton, ON, Canada.
+(16)Centre Hospitalier Universitaire de Québec-Université Laval, Québec, QC, 
+Canada.
+(17)Saint Elizabeth's Hospital, Mokotów Medical Center, Warsaw, Poland.
+(18)Department of Medical Oncology, Athens Medical Center, Marousi, Greece.
+(19)North-Western State Medical University, Saint Petersburg, Russia.
+(20)Medical Oncology, Vall d'Hebron Institute of Oncology, Hospital Universitari 
+Vall d'Hebron, Vall d'Hebron Barcelona Hospital Campus, Barcelona, Spain.
+(21)Hospital Sao Lucas da PUCRS/Grupo Oncoclinicas, Porto Alegre, Brazil.
+(22)Hospital Universitario Virgen del Rocío, Seville, Spain.
+(23)Department of Medical Oncology, Fondazione IRCCS Istituto Nazionale dei 
+Tumori, Milan, Italy.
+(24)AstraZeneca, Cambridge, UK.
+(25)AstraZeneca, Gaithersburg, MD, USA.
+(26)Beth Israel Deaconess Medical Center and PSMAR-IMIM Research Lab, Harvard 
+Medical School, Boston, MA, USA.
+
+Erratum in
+    Lancet Oncol. 2021 Jan;22(1):e5. doi: 10.1016/S1470-2045(20)30734-8.
+
+BACKGROUND: Survival outcomes are poor for patients with metastatic urothelial 
+carcinoma who receive standard, first-line, platinum-based chemotherapy. We 
+assessed the overall survival of patients who received durvalumab (a PD-L1 
+inhibitor), with or without tremelimumab (a CTLA-4 inhibitor), as a first-line 
+treatment for metastatic urothelial carcinoma.
+METHODS: DANUBE is an open-label, randomised, controlled, phase 3 trial in 
+patients with untreated, unresectable, locally advanced or metastatic urothelial 
+carcinoma, conducted at 224 academic research centres, hospitals, and oncology 
+clinics in 23 countries. Eligible patients were aged 18 years or older with an 
+Eastern Cooperative Oncology Group performance status of 0 or 1. We randomly 
+assigned patients (1:1:1) to receive durvalumab monotherapy (1500 mg) 
+administered intravenously every 4 weeks; durvalumab (1500 mg) plus tremelimumab 
+(75 mg) administered intravenously every 4 weeks for up to four doses, followed 
+by durvalumab maintenance (1500 mg) every 4 weeks; or standard-of-care 
+chemotherapy (gemcitabine plus cisplatin or gemcitabine plus carboplatin, 
+depending on cisplatin eligibility) administered intravenously for up to six 
+cycles. Randomisation was done through an interactive voice-web response system, 
+with stratification by cisplatin eligibility, PD-L1 status, and presence or 
+absence of liver metastases, lung metastases, or both. The coprimary endpoints 
+were overall survival compared between the durvalumab monotherapy versus 
+chemotherapy groups in the population of patients with high PD-L1 expression 
+(the high PD-L1 population) and between the durvalumab plus tremelimumab versus 
+chemotherapy groups in the intention-to-treat population (all randomly assigned 
+patients). The study has completed enrolment and the final analysis of overall 
+survival is reported. The trial is registered with ClinicalTrials.gov, 
+NCT02516241, and the EU Clinical Trials Register, EudraCT number 2015-001633-24.
+FINDINGS: Between Nov 24, 2015, and March 21, 2017, we randomly assigned 1032 
+patients to receive durvalumab (n=346), durvalumab plus tremelimumab (n=342), or 
+chemotherapy (n=344). At data cutoff (Jan 27, 2020), median follow-up for 
+survival was 41·2 months (IQR 37·9-43·2) for all patients. In the high PD-L1 
+population, median overall survival was 14·4 months (95% CI 10·4-17·3) in the 
+durvalumab monotherapy group (n=209) versus 12·1 months (10·4-15·0) in the 
+chemotherapy group (n=207; hazard ratio 0·89, 95% CI 0·71-1·11; p=0·30). In the 
+intention-to-treat population, median overall survival was 15·1 months 
+(13·1-18·0) in the durvalumab plus tremelimumab group versus 12·1 months 
+(10·9-14·0) in the chemotherapy group (0·85, 95% CI 0·72-1·02; p=0·075). In the 
+safety population, grade 3 or 4 treatment-related adverse events occurred in 47 
+(14%) of 345 patients in the durvalumab group, 93 (27%) of 340 patients in the 
+durvalumab plus tremelimumab group, and in 188 (60%) of 313 patients in the 
+chemotherapy group. The most common grade 3 or 4 treatment-related adverse event 
+was increased lipase in the durvalumab group (seven [2%] of 345 patients) and in 
+the durvalumab plus tremelimumab group (16 [5%] of 340 patients), and 
+neutropenia in the chemotherapy group (66 [21%] of 313 patients). Serious 
+treatment-related adverse events occurred in 30 (9%) of 345 patients in the 
+durvalumab group, 78 (23%) of 340 patients in the durvalumab plus tremelimumab 
+group, and 50 (16%) of 313 patients in the chemotherapy group. Deaths due to 
+study drug toxicity were reported in two (1%) patients in the durvalumab group 
+(acute hepatic failure and hepatitis), two (1%) patients in the durvalumab plus 
+tremelimumab group (septic shock and pneumonitis), and one (<1%) patient in the 
+chemotherapy group (acute kidney injury).
+INTERPRETATION: This study did not meet either of its coprimary endpoints. 
+Further research to identify the patients with previously untreated metastatic 
+urothelial carcinoma who benefit from treatment with immune checkpoint 
+inhibitors, either alone or in combination regimens, is warranted.
+FUNDING: AstraZeneca.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(20)30541-6
+PMID: 32971005 [Indexed for MEDLINE]

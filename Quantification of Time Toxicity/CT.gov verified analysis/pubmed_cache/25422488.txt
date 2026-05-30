@@ -1,0 +1,79 @@
+8. J Clin Oncol. 2015 Jan 1;33(1):58-64. doi: 10.1200/JCO.2014.56.3296. Epub 2014
+ Nov 24.
+
+SWOG S0221: a phase III trial comparing chemotherapy schedules in high-risk 
+early-stage breast cancer.
+
+Budd GT(1), Barlow WE(2), Moore HC(2), Hobday TJ(2), Stewart JA(2), Isaacs C(2), 
+Salim M(2), Cho JK(2), Rinn KJ(2), Albain KS(2), Chew HK(2), Burton GV(2), Moore 
+TD(2), Srkalovic G(2), McGregor BA(2), Flaherty LE(2), Livingston RB(2), Lew 
+DL(2), Gralow JR(2), Hortobagyi GN(2).
+
+Author information:
+(1)George T. Budd, Halle C. F. Moore, Cleveland Clinic, Cleveland; Timothy D. 
+Moore, Mid Ohio Oncology Hematology, Columbus, OH; William E. Barlow, Danika L. 
+Lew, SWOG Statistical Center; Kristine J. Rinn, Swedish Cancer Institute; Julie 
+R Gralow, Seattle Cancer Care Alliance, Seattle, WA; Timothy J. Hobday Mayo 
+Clinic, Rochester, MN; James A. Stewart, Baystate Medical Center, Springfield, 
+MA; Claudine Isaacs, Georgetown University, Washington, DC; Muhammad Salim, 
+Allan Blair Cancer Centre, Regina, Saskatchewan, Canada; Jonathan K. Cho, 
+University of Hawaii MBCCOP, Honolulu, HI; Kathy S. Albain, Loyola University 
+Chicago, Stritch School of Medicine; Chicago, IL; Helen K. Chew, University of 
+California-Davis, Sacramento, CA; Gary V. Burton, Louisiana State University 
+Health Sciences Center, Shreveport, LA; Gordan Srkalovic, Sparrow Regional 
+Cancer Center, Lansing; Lawrence E. Flaherty, Karmanos Cancer Institute/Wayne 
+State University, Detroit, MI; Bradley A. McGregor, Willford Hall Medical 
+Center, Lackland Air Force Base; Gabriel N. Hortobagyi, The University of Texas 
+MD Anderson Cancer Center, Houston, TX; Robert B. Livingston, Arizona Cancer 
+Center, Tucson, AZ. buddg@ccf.org.
+(2)George T. Budd, Halle C. F. Moore, Cleveland Clinic, Cleveland; Timothy D. 
+Moore, Mid Ohio Oncology Hematology, Columbus, OH; William E. Barlow, Danika L. 
+Lew, SWOG Statistical Center; Kristine J. Rinn, Swedish Cancer Institute; Julie 
+R Gralow, Seattle Cancer Care Alliance, Seattle, WA; Timothy J. Hobday Mayo 
+Clinic, Rochester, MN; James A. Stewart, Baystate Medical Center, Springfield, 
+MA; Claudine Isaacs, Georgetown University, Washington, DC; Muhammad Salim, 
+Allan Blair Cancer Centre, Regina, Saskatchewan, Canada; Jonathan K. Cho, 
+University of Hawaii MBCCOP, Honolulu, HI; Kathy S. Albain, Loyola University 
+Chicago, Stritch School of Medicine; Chicago, IL; Helen K. Chew, University of 
+California-Davis, Sacramento, CA; Gary V. Burton, Louisiana State University 
+Health Sciences Center, Shreveport, LA; Gordan Srkalovic, Sparrow Regional 
+Cancer Center, Lansing; Lawrence E. Flaherty, Karmanos Cancer Institute/Wayne 
+State University, Detroit, MI; Bradley A. McGregor, Willford Hall Medical 
+Center, Lackland Air Force Base; Gabriel N. Hortobagyi, The University of Texas 
+MD Anderson Cancer Center, Houston, TX; Robert B. Livingston, Arizona Cancer 
+Center, Tucson, AZ.
+
+PURPOSE: To determine the optimal dose and schedule of anthracycline and taxane 
+administration as adjuvant therapy for early-stage breast cancer.
+PATIENTS AND METHODS: A 2 × 2 factorial design was used to test two hypotheses: 
+(1) that a novel continuous schedule of doxorubicin-cyclophosphamide was 
+superior to six cycles of doxorubicin-cyclophosphamide once every 2 weeks and 
+(2) that paclitaxel once per week was superior to six cycles of paclitaxel once 
+every 2 weeks in patients with node-positive or high-risk node-negative 
+early-stage breast cancer. With 3,250 patients, a disease-free survival (DFS) 
+hazard ratio of 0.82 for each randomization could be detected with 90% power 
+with two-sided α = .05. Overall survival (OS) was a secondary outcome.
+RESULTS: Interim analyses crossed the futility boundaries for demonstrating 
+superiority of both once-per-week regimens and once-every-2-weeks regimens. 
+After a median follow-up of 6 years, a significant interaction developed between 
+the two randomization factors (DFS P = .024; OS P = .010) in the 2,716 patients 
+randomly assigned in the original design, which precluded interpretation of the 
+two factors separately. Comparing all four arms showed a significant difference 
+in OS (P = .040) but not in DFS (P = .11), with all treatments given once every 
+2 weeks associated with the highest OS. This difference in OS seemed confined to 
+patients with hormone receptor-negative/human epidermal growth factor receptor 2 
+(HER2) -negative tumors (P = .067), with no differences seen with hormone 
+receptor-positive/HER2-negative (P = .90) or HER2-positive tumors (P = .40).
+CONCLUSION: Patients achieved a similar DFS with any of these regimens. Subset 
+analysis suggests the hypothesis that once-every-2-weeks dosing may be best for 
+patients with hormone receptor-negative/HER2-negative tumors.
+
+© 2014 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2014.56.3296
+PMCID: PMC4268253
+PMID: 25422488 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest are found in the article online at www.jco.org. Author contributions 
+are found at the end of this article.

@@ -1,0 +1,93 @@
+17. Lancet Oncol. 2018 Jul;19(7):953-964. doi: 10.1016/S1470-2045(18)30354-1.
+Epub  2018 Jun 1.
+
+Once weekly versus twice weekly carfilzomib dosing in patients with relapsed and 
+refractory multiple myeloma (A.R.R.O.W.): interim analysis results of a 
+randomised, phase 3 study.
+
+Moreau P(1), Mateos MV(2), Berenson JR(3), Weisel K(4), Lazzaro A(5), Song K(6), 
+Dimopoulos MA(7), Huang M(8), Zahlten-Kumeli A(8), Stewart AK(9).
+
+Author information:
+(1)Department of Hematology, University Hospital of Nantes, France; 
+INCa-DGOS-Inserm_12558 (SIRIC ILIAD), Salamanca, Spain. Electronic address: 
+philippe.moreau@chu-nantes.fr.
+(2)Hospital Clinico Universitario de Salamanca-IBSAL, Salamanca, Spain.
+(3)Institute for Myeloma and Bone Cancer Research, West Hollywood, CA, USA.
+(4)Universitatsklinikum Tubingen, Tubingen, Germany.
+(5)Department of Clinical Oncology and Hematology, Division of Hematology and 
+Bone Marrow Transplant Center, Hospital Gulielmo da Saliceto, Piacenza, Italy.
+(6)Leukemia/Bone Marrow Transplant Program of British Columbia, Vancouver, BC, 
+Canada.
+(7)National and Kapodistrian University of Athens, School of Medicine, Athens, 
+Greece.
+(8)Amgen, Inc, Thousand Oaks, CA, USA.
+(9)Division of Hematology/Oncology, Mayo Clinic, Scottsdale, AZ, USA.
+
+Erratum in
+    Lancet Oncol. 2018 Aug;19(8):e382. doi: 10.1016/S1470-2045(18)30492-3.
+
+Comment in
+    Lancet Oncol. 2018 Jul;19(7):856-858. doi: 10.1016/S1470-2045(18)30411-X.
+
+BACKGROUND: Twice a week carfilzomib at 27 mg/m2 is approved for treatment of 
+relapsed or refractory multiple myeloma. Phase 1/2 CHAMPION-1, the first study 
+exploring once-weekly carfilzomib dosing, established the maximum tolerated dose 
+at 70 mg/m2 in combination with dexamethasone. We aimed to compare 
+progression-free survival in patients with relapsed and refractory multiple 
+myeloma given once weekly carfilzomib or twice weekly carfilzomib.
+METHODS: In this prespecified interim analysis of the randomised, open-label, 
+phase 3 A.R.R.O.W. trial, we recruited patients (aged 18 years and older) with 
+relapsed and refractory multiple myeloma previously treated with two or three 
+treatments, including a proteasome inhibitor and immunomodulatory agent, from 
+hospital, clinic, oncology or medical centres. Key eligibility criteria were 
+refractory to most recent therapy (including bortezomib or ixazomib) with 
+measurable disease, and Eastern Cooperative Oncology Group Performance Status of 
+0 or 1. Patients were randomly assigned (1:1) to receive carfilzomib once a week 
+(70 mg/m2) or twice a week (27 mg/m2). The randomisation sequence was generated 
+using a validated randomisation software and implemented using an interactive 
+response technology system that assigned patients to treatment sequentially 
+based on the randomisation sequence as patients were enrolled at participating 
+clinical sites. Patients were stratified by International Staging System stage 
+at study entry or baseline, whether or not they were refractory to bortezomib 
+treatment, and age (block size of 4). The once weekly group received carfilzomib 
+(30 min intravenous infusion) on days 1, 8, and 15 of all cycles (20 mg/m2 day 1 
+[cycle 1]; 70 mg/m2 thereafter). The twice weekly group received carfilzomib (10 
+min intravenous infusion) on days 1, 2, 8, 9, 15, and 16 (20 mg/m2 days 1 and 2 
+during cycle 1; 27 mg/m2 thereafter). All patients received dexamethasone (40 mg 
+on days 1, 8, 15 [all cycles] and 22 [cycles 1-9 only]). Treatment continued 
+until disease progression or unacceptable toxic effects. The primary objective 
+was to compare progression-free survival between groups in the 
+intention-to-treat population. Safety analysis was done in all randomly assigned 
+patients who received at least one dose of study treatment. This trial is 
+registered with ClinicalTrials.gov, number NCT02412878, and is no longer 
+enrolling patients.
+FINDINGS: Between September, 2015, and August, 2016, 578 patients were recruited 
+from 118 sites. 478 patients were randomly assigned and included in the efficacy 
+analyses (240 to receive once weekly carfilzomib; 238 to receive twice weekly 
+carfilzomib). Median progression-free survival was higher in the once weekly 
+group than the twice weekly group (11·2 months [95% CI 8·6-13·0] vs 7·6 months 
+[5·8-9·2]; hazard ratio [HR] 0·69, 95% CI 0·54-0·83; p=0·0029). The incidence of 
+grade 3 or worse adverse events was higher in the once weekly group than the 
+twice weekly group (68% [n=161] vs 62% [n=145]); the most common events were 
+anaemia, pneumonia, and thrombocytopenia (42 [18%] vs 42 [18%], 24 [10%] vs 16 
+[7%], and 17 [7%] vs 16 [7%], respectively for once weekly carfilzomib vs twice 
+weekly carfilzomib). A lower proportion of patients had grade 3 or worse cardiac 
+failure in the once weekly group (7 [3%]) than in the twice weekly group (10 
+[4%]). Treatment-related deaths occurred in five (2%) of 238 patients in the 
+once weekly group (sepsis [n=1], death [n=1], acute lung injury [n=1], acute 
+respiratory distress syndrome [n=1], and tumour lysis syndrome [n=1]) and in two 
+(1%) of 235 patients in the twice weekly group (plasma cell myeloma [n=1] and 
+congestive heart failure [n=1]). There were 58 deaths in the once weekly group 
+and 68 deaths in the twice weekly group at the time of data cutoff.
+INTERPRETATION: Once weekly carfilzomib at 70 mg/m2 significantly prolonged 
+progression-free survival versus the twice weekly schedule. Overall safety was 
+comparable between the groups. Once weekly carfilzomib appears safe and more 
+effective with a convenient dosing regimen versus the twice weekly schedule for 
+the treatment of patients with relapsed and refractory multiple myeloma.
+FUNDING: Amgen, Inc.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(18)30354-1
+PMID: 29866475 [Indexed for MEDLINE]

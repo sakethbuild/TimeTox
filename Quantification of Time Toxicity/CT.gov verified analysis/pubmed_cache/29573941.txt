@@ -1,0 +1,98 @@
+14. Lancet Oncol. 2018 May;19(5):603-615. doi: 10.1016/S1470-2045(18)30142-6.
+Epub  2018 Mar 21.
+
+Encorafenib plus binimetinib versus vemurafenib or encorafenib in patients with 
+BRAF-mutant melanoma (COLUMBUS): a multicentre, open-label, randomised phase 3 
+trial.
+
+Dummer R(1), Ascierto PA(2), Gogas HJ(3), Arance A(4), Mandala M(5), Liszkay 
+G(6), Garbe C(7), Schadendorf D(8), Krajsova I(9), Gutzmer R(10), 
+Chiarion-Sileni V(11), Dutriaux C(12), de Groot JWB(13), Yamazaki N(14), Loquai 
+C(15), Moutouh-de Parseval LA(16), Pickard MD(17), Sandor V(17), Robert C(18), 
+Flaherty KT(19).
+
+Author information:
+(1)Department of Dermatology, University Hospital Zürich Skin Cancer Center, 
+Zürich, Switzerland. Electronic address: reinhard.dummer@usz.ch.
+(2)Melanoma Unit, Cancer Immunotherapy and Innovative Therapies, Istituto 
+Nazionale Tumori IRCCS Fondazione Pascale, Naples, Italy.
+(3)Department of Internal Medicine, National and Kapodistrian University of 
+Athens, Laikon Hospital, Athens, Greece.
+(4)Department of Medical Oncology, Hospital Clinic of Barcelona, Barcelona, 
+Spain.
+(5)Department of Oncology and Haematology, Papa Giovanni XXIII Cancer Center 
+Hospital, Bergamo, Italy.
+(6)Department of Dermatology, National Institute of Oncology, Budapest, Hungary.
+(7)Department of Dermatology, University Hospital Tüebingen, Tüebingen, Germany.
+(8)Department of Dermatology, University Hospital Essen, Essen, Germany; German 
+Cancer Consortium, Heidelberg, Germany.
+(9)Department of Dermato-oncology, University Hospital Prague, Charles 
+University First Medical Faculty, Prague, Czech Republic.
+(10)Department of Dermatology and Allergy, Skin Cancer Center Hannover, Hannover 
+Medical School, Hannover, Germany.
+(11)Melanoma Cancer Unit, Oncology Institute of Veneto IRCCS, Padua, Italy.
+(12)Department of Oncologic Dermatology, Centre Hospitalier Universitaire de 
+Bordeaux, Hôpital Saint-André, Bordeaux, France.
+(13)Department of Medical Oncology, Isala, Zwolle, Netherlands.
+(14)Department of Dermatologic Oncology, National Cancer Center Hospital, Tokyo, 
+Japan.
+(15)Department of Dermatology, University Medical Center Mainz, Mainz, Germany.
+(16)Translational Clinical Oncology, Novartis Pharma AG, Basel, Switzerland.
+(17)Array BioPharma, Boulder, CO, USA.
+(18)Service of Dermatology, Department of Medicine, Paris-Sud University, 
+Gustave Roussy, Villejuif, France.
+(19)Cancer Center, Massachusetts General Hospital, Boston, MA, USA.
+
+Comment in
+    Lancet Oncol. 2018 May;19(5):580-581. doi: 10.1016/S1470-2045(18)30161-X.
+    Nat Rev Clin Oncol. 2018 Jun;15(6):344-345. doi: 10.1038/s41571-018-0019-x.
+
+BACKGROUND: Combined BRAF-MEK inhibitor therapy is the standard of care for 
+BRAFV600-mutant advanced melanoma. We investigated encorafenib, a BRAF inhibitor 
+with unique target-binding properties, alone or in combination with the MEK 
+inhibitor binimetinib, versus vemurafenib in patients with advanced 
+BRAFV600-mutant melanoma.
+METHODS: COLUMBUS was conducted as a two-part, randomised, open-label phase 3 
+study at 162 hospitals in 28 countries. Eligible patients were aged 18 years or 
+older and had histologically confirmed locally advanced (American Joint 
+Committee on Cancer [AJCC] stage IIIB, IIIC, or IV), unresectable or metastatic 
+cutaneous melanoma, or unknown primary melanoma; a BRAFV600E or BRAFV600K 
+mutation; an Eastern Cooperative Oncology Group (ECOG) performance status of 0 
+or 1; and were treatment naive or had progressed on or after previous first-line 
+immunotherapy. In part 1 of the study, patients were randomly assigned (1:1:1) 
+via interactive response technology to receive either oral encorafenib 450 mg 
+once daily plus oral binimetinib 45 mg twice daily (encorafenib plus binimetinib 
+group), oral encorafenib 300 mg once daily (encorafenib group), or oral 
+vemurafenib 960 mg twice daily (vemurafenib group). The primary endpoint was 
+progression-free survival by blinded independent central review for encorafenib 
+plus binimetinib versus vemurafenib. Efficacy analyses were by 
+intention-to-treat. Safety was analysed in patients who received at least one 
+dose of study drug and one postbaseline safety assessment. The results of part 2 
+will be published separately. This study is registered with ClinicalTrials.gov, 
+number NCT01909453, and EudraCT, number 2013-001176-38.
+FINDINGS: Between Dec 30, 2013, and April 10, 2015, 577 of 1345 screened 
+patients were randomly assigned to either the encorafenib plus binimetinib group 
+(n=192), the encorafenib group (n=194), or the vemurafenib group (n=191). With a 
+median follow-up of 16·6 months (95% CI 14·8-16·9), median progression-free 
+survival was 14·9 months (95% CI 11·0-18·5) in the encorafenib plus binimetinib 
+group and 7·3 months (5·6-8·2) in the vemurafenib group (hazard ratio [HR] 0·54, 
+95% CI 0·41-0·71; two-sided p<0·0001). The most common grade 3-4 adverse events 
+seen in more than 5% of patients in the encorafenib plus binimetinib group were 
+increased γ-glutamyltransferase (18 [9%] of 192 patients), increased creatine 
+phosphokinase (13 [7%]), and hypertension (11 [6%]); in the encorafenib group 
+they were palmoplantar erythrodysaesthesia syndrome (26 [14%] of 192 patients), 
+myalgia (19 [10%]), and arthralgia (18 [9%]); and in the vemurafenib group it 
+was arthralgia (11 [6%] of 186 patients). There were no treatment-related deaths 
+except for one death in the combination group, which was considered possibly 
+related to treatment by the investigator.
+INTERPRETATION: Encorafenib plus binimetinib and encorafenib monotherapy showed 
+favourable efficacy compared with vemurafenib. Overall, encorafenib plus 
+binimetinib appears to have an improved tolerability profile compared with 
+encorafenib or vemurafenib. Encorafenib plus binimetinib could represent a new 
+treatment option for patients with BRAF-mutant melanoma.
+FUNDING: Array BioPharma, Novartis.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(18)30142-6
+PMID: 29573941 [Indexed for MEDLINE]

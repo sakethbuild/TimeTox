@@ -1,0 +1,89 @@
+3. J Clin Oncol. 2023 Nov 20;41(33):5099-5106. doi: 10.1200/JCO.22.02830. Epub
+2023  Jul 21.
+
+Zanubrutinib Versus Ibrutinib in Symptomatic Waldenström Macroglobulinemia: 
+Final Analysis From the Randomized Phase III ASPEN Study.
+
+Dimopoulos MA(1), Opat S(2), D'Sa S(3), Jurczak W(4), Lee HP(5), Cull G(6), Owen 
+RG(7), Marlton P(8), Wahlin BE(9), Garcia-Sanz R(10), McCarthy H(11), Mulligan 
+S(12), Tedeschi A(13), Castillo JJ(14), Czyz J(15), Fernández de Larrea C(16), 
+Belada D(17), Libby E(18), Matous J(19), Motta M(20), Siddiqi T(21), Tani M(22), 
+Trněný M(23), Minnema MC(24), Buske C(25), Leblond V(26), Treon SP(14), Trotman 
+J(27), Chan WY(28), Schneider J(28), Allewelt H(28), Patel S(28), Cohen A(28), 
+Tam CS(2)(29).
+
+Author information:
+(1)National and Kapodistrian University of Athens, Athens, Greece.
+(2)Monash Health & Monash University, Clayton, VIC, Australia.
+(3)Centre for Waldenström's Macroglobulinemia & Associated Disorders, University 
+College London Hospital Foundation Trust, London, United Kingdom.
+(4)Maria Sklodowska-Curie National Institute of Oncology, Krakow, Poland.
+(5)Flinders Medical Centre, Adelaide, SA, Australia.
+(6)Sir Charles Gairdner Hospital, University of Western Australia, Perth, WA, 
+Australia.
+(7)St James University Hospital, Leeds, United Kingdom.
+(8)Princess Alexandra Hospital and University of Queensland, Brisbane, QLD, 
+Australia.
+(9)Karolinska Universitetssjukhuset & Karolinska Institutet, Stockholm, Sweden.
+(10)Hospital Universitario de Salamanca, Salamanca, Spain.
+(11)Royal Bournemouth & Christchurch Hospital, Bournemouth, United Kingdom.
+(12)Royal North Shore Hospital, Sydney, NSW, Australia.
+(13)ASST Grande Ospedale Metropolitano Niguarda, Milan, Italy.
+(14)Dana-Farber Cancer Institute, Boston, MA.
+(15)Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in Toruń, 
+Bydgoszcz, Poland.
+(16)Hospital Clínic de Barcelona, IDIBAPS, Barcelona, Spain.
+(17)FN Hradec Králové, Hradec Králové, Czechia.
+(18)Fred Hutchinson Cancer Center, Seattle, WA.
+(19)Colorado Blood Cancer Institute, Denver, CO.
+(20)AO Spedali Civili di Brescia, Lombardia, Italy.
+(21)City of Hope National Medical Center, Duarte, CA.
+(22)Ospedale Civile Santa Maria delle Croci, AUSL Ravenna, Ravenna, Italy.
+(23)Všeobecná fakultní nemocnice v Praze, Prague, Czechia.
+(24)University Medical Center Utrecht, Utrecht, the Netherlands.
+(25)Institute of Experimental Cancer Research -CCC Ulm-Universitätsklinikum Ulm, 
+Ulm, Baden-Württemberg, Germany.
+(26)Sorbonne University, Pitié Salpêtrière Hospital, Paris, France.
+(27)Concord Repatriation General Hospital, Sydney, NSW, Australia.
+(28)BeiGene USA, Inc, San Mateo, CA.
+(29)The Alfred Hospital, Melbourne, VIC, Australia.
+
+The phase III ASPEN study demonstrated the comparable efficacy and improved 
+safety of zanubrutinib versus ibrutinib in patients with Waldenström 
+macroglobulinemia (WM). Here, we report long-term follow-up outcomes from ASPEN. 
+The primary end point was the sum of very good partial response (VGPR) + 
+complete response (CR) rates; secondary and exploratory end points were also 
+reported. Cohort 1 comprised 201 patients (myeloid differentiation primary 
+response 88-mutant WM: 102 receiving zanubrutinib; 99 receiving ibrutinib); 
+cohort 2 comprised 28 patients (myeloid differentiation primary response 88 
+wild-type WM: 28 zanubrutinib; 26 efficacy evaluable). At 44.4-month median 
+follow-up, VGPR + CR rates were 36.3% with zanubrutinib versus 25.3% with 
+ibrutinib in cohort 1 and 30.8% with one CR in cohort 2. In patients with CXC 
+motif chemokine receptor 4 mutation, VGPR + CR rates were 21.2% with 
+zanubrutinib versus 10.0% with ibrutinib (cohort 1). Median progression-free 
+survival and overall survival were not reached. Any-grade adverse events (AEs) 
+of diarrhea (34.7% v 22.8%), muscle spasms (28.6% v 11.9%), hypertension (25.5% 
+v 14.9%), atrial fibrillation/flutter (23.5% v 7.9%), and pneumonia (18.4% v 
+5.0%) were more common with ibrutinib versus zanubrutinib; neutropenia (20.4% v 
+34.7%) was less common with ibrutinib versus zanubrutinib (cohort 1). 
+Zanubrutinib was associated with lower risk of AE-related treatment 
+discontinuation. Overall, these findings confirm the long-term response quality 
+and tolerability associated with zanubrutinib.
+
+DOI: 10.1200/JCO.22.02830
+PMCID: PMC10666987
+PMID: 37478390 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/jco/authors/author-center. Open Payments is a public database 
+containing information reported by companies about payments made to US-licensed 
+physicians (Open Payments). Constantine S. Tam Honoraria: Janssen-Cilag, AbbVie, 
+Novartis, BeiGene, Pharmacyclics, Roche/Genentech, Loxo/Lilly Consulting or 
+Advisory Role: Janssen, Loxo, Roche, BeiGene, AbbVie Research Funding: 
+Janssen-Cilag (Inst), AbbVie (Inst), BeiGene (Inst) No other potential conflicts 
+of interest were reported.

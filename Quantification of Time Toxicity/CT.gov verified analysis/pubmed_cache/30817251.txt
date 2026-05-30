@@ -1,0 +1,66 @@
+15. J Clin Oncol. 2019 May 1;37(13):1051-1061. doi: 10.1200/JCO.18.02031. Epub
+2019  Feb 28.
+
+Phase III Trial of PROSTVAC in Asymptomatic or Minimally Symptomatic Metastatic 
+Castration-Resistant Prostate Cancer.
+
+Gulley JL(1), Borre M(2), Vogelzang NJ(3), Ng S(4), Agarwal N(5), Parker CC(6), 
+Pook DW(7), Rathenborg P(8), Flaig TW(9), Carles J(10), Saad F(11), Shore 
+ND(12), Chen L(13), Heery CR(13), Gerritsen WR(14), Priou F(15), Langkilde 
+NC(16), Novikov A(17), Kantoff PW(18).
+
+Author information:
+(1)1 National Institutes of Health, Bethesda, MD.
+(2)2 Aarhus Universitetshospital, Åarhus, Denmark.
+(3)3 Comprehensive Cancer Centers of Nevada, Las Vegas, NV.
+(4)4 St John of God Subiaco Hospital, Subiaco, Western Australia, Australia.
+(5)5 University of Utah Huntsman Cancer Institute, Salt Lake City, UT.
+(6)6 Royal Marsden Hospital, Sutton, United Kingdom.
+(7)7 Monash Medical Centre, Bentleigh, Victoria, Australia.
+(8)8 Herlev Hospital, Herlev, Denmark.
+(9)9 University of Colorado Cancer Center, Aurora, CO.
+(10)10 Vall d'Hebron Institute of Oncology, Vall d'Hebron University Hospital, 
+Barcelona, Spain.
+(11)11 Centre Hospitalier de l'Université de Montréal, Montréal, Quebec, Canada.
+(12)12 Carolina Urologic Research Center, Myrtle Beach, SC.
+(13)13 Bavarian Nordic, Morrisville, NC.
+(14)14 Radboudumc, Nijmegen, the Netherlands.
+(15)15 Centre Hospitalier Départemental, La Roche sur Yon, France.
+(16)16 Aalborg Universitethospital, Aalborg, Denmark.
+(17)17 North-Western State Medical University, Saint Petersburg, Russia.
+(18)18 Memorial Sloan Kettering Cancer Center, New York, NY.
+
+Comment in
+    Eur Urol. 2020 Jan;77(1):131-132. doi: 10.1016/j.eururo.2019.07.025.
+
+PURPOSE: PROSTVAC, a viral vector-based immunotherapy, prolonged median overall 
+survival (OS) by 8.5 months versus placebo in metastatic castration-resistant 
+prostate cancer in a phase II study. This phase III study further investigated 
+those findings.
+PATIENTS AND METHODS: Patients were randomly assigned to PROSTVAC (Arm V; n = 
+432), PROSTVAC plus granulocyte-macrophage colony-stimulating factor (Arm VG; n 
+= 432), or placebo (Arm P; n = 433), stratified by prostate-specific antigen 
+(less than 50 ng/mL v 50 ng/mL or more) and lactate dehydrogenase (less than 200 
+v 200 U/L or more). Primary end point was OS. Secondary end points were patients 
+alive without events (AWE)-namely, radiographic progression, pain progression, 
+chemotherapy initiation, or death-at 6 months and safety. The study design was a 
+superiority trial of PROSTVAC (Arm V or Arm VG) versus Arm P. Three interim 
+analyses were planned.
+RESULTS: At the third interim analysis, criteria for futility were met and the 
+trial was stopped early. Neither active treatment had an effect on median OS 
+(Arm V, 34.4 months; hazard ratio, 1.01; 95% CI, 0.84 to 1.20; P = .47; Arm VG, 
+33.2 months; hazard ratio, 1.02; 95% CI, 0.86 to 1.22; P = .59; Arm P, 34.3 
+months). Likewise, AWE at 6 months was similar (Arm V, 29.4%; odds ratio, 0.96; 
+95% CI, 0.71 to 1.29; Arm VG, 28.0%; odds ratio, 0.89; 95% CI, 0.66 to 1.20; 
+placebo, 30.3%). Adverse events were similar for the treatment and placebo 
+groups, with the most common being injection site reactions (62% to 72%) and 
+fatigue (21% to 24%). Arrhythmias were the most common cardiac-related events 
+(1.4% to 3.5%). There were no reports of either myocarditis or pericarditis. 
+Serious treatment-related events occurred in less than 1% of all patients.
+CONCLUSION: Whereas PROSTVAC was safe and well tolerated, it had no effect on OS 
+or AWE in metastatic castration-resistant prostate cancer. Combination therapy 
+is currently being explored in clinical trials.
+
+DOI: 10.1200/JCO.18.02031
+PMCID: PMC6494360
+PMID: 30817251 [Indexed for MEDLINE]

@@ -1,0 +1,183 @@
+1. Lancet. 2021 Jul 3;398(10294):27-40. doi: 10.1016/S0140-6736(21)00797-2. Epub 
+2021 Jun 5.
+
+First-line nivolumab plus chemotherapy versus chemotherapy alone for advanced 
+gastric, gastro-oesophageal junction, and oesophageal adenocarcinoma (CheckMate 
+649): a randomised, open-label, phase 3 trial.
+
+Janjigian YY(1), Shitara K(2), Moehler M(3), Garrido M(4), Salman P(5), Shen 
+L(6), Wyrwicz L(7), Yamaguchi K(8), Skoczylas T(9), Campos Bragagnoli A(10), Liu 
+T(11), Schenker M(12), Yanez P(13), Tehfe M(14), Kowalyszyn R(15), Karamouzis 
+MV(16), Bruges R(17), Zander T(18), Pazo-Cid R(19), Hitre E(20), Feeney K(21), 
+Cleary JM(22), Poulart V(23), Cullen D(23), Lei M(23), Xiao H(23), Kondo K(23), 
+Li M(23), Ajani JA(24).
+
+Author information:
+(1)Gastrointestinal Oncology Service, Department of Medicine, Memorial Sloan 
+Kettering Cancer Center, New York, NY, USA; Department of Medicine, Weill 
+Cornell Medical College, New York, NY, USA.
+(2)Department of Gastroenterology and Gastrointestinal Oncology, National Cancer 
+Center Hospital East, Kashiwa, Japan. Electronic address: 
+kshitara@east.ncc.go.jp.
+(3)Department of Medicine, Johannes-Gutenberg University Clinic, Mainz, Germany.
+(4)Department of Hemato-Oncology, Clinica San Carlos de Apoquindo, Pontificia 
+Universidad Católica, Santiago, Chile.
+(5)Department of Medical Oncology, Oncovida Cancer Center, Fundación Arturo 
+López Pérez, Providencia, Chile.
+(6)Department of Gastrointestinal Oncology, Key Laboratory of Carcinogenesis and 
+Translational Research, Ministry of Education/Beijing, Peking University Cancer 
+Hospital and Institute, Beijing, China.
+(7)Klinika Onkologii i Radioterapii, Narodowy Instytut Onkologii, Warsaw, 
+Poland.
+(8)Department of Gastroenterological Chemotherapy, Cancer Institute Hospital of 
+the Japanese Foundation for Cancer Research, Tokyo, Japan.
+(9)II Klinika Chirurgii Ogólnej, Gastroenterologicznej i Nowotworów Układu 
+Pokarmowego, Medical University of Lublin, Lublin, Poland.
+(10)Department of Medical Oncology, Fundacao Pio Xii Hosp Cancer De Barretos, 
+Barretos, Brazil.
+(11)Department of Medical Oncology, Zhongshan Hospital Fudan University, 
+Shanghai, China.
+(12)Department of Medical Oncology, Sfantul Nectarie Oncology Center, Dolj, 
+Romania.
+(13)Department of Internal Medicine, Oncology Unit, Universidad de La Frontera, 
+Temuco, Chile.
+(14)Hematology-Oncology, Oncology Center-Centre Hospitalier de l'Universite de 
+Montreal, Montreal, QC, Canada.
+(15)Instituto Multidisciplinario de Oncologia, Clinica Viedma SA, Viedma, 
+Argentina.
+(16)Department of Biological Chemistry and Laiko General Hospital Medical 
+School, National and Kapodistrian University of Athens, Athens, Greece.
+(17)Internal Medicine, Clinical Oncology, Instituto Nacional de Cancerología 
+Empresa Social del Estado, Bogotá, Colombia.
+(18)Department of Internal Medicine, Center for Integrated Oncology Aachen Bonn 
+Cologne Düesseldorf, University Hospital of Cologne, Cologne, Germany.
+(19)Department of Medical Oncology, Hospital Universitario Miguel Servet, 
+Zaragoza, Spain.
+(20)Department of Chemotherapy, National Institute of Oncology, Budapest, 
+Hungary.
+(21)Department of Oncology, Haematology and Palliative Care, St John of God 
+Murdoch Hospital, Murdoch, WA, Australia.
+(22)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, 
+USA.
+(23)Bristol Myers Squibb, Princeton, NJ, USA.
+(24)Department of Gastrointestinal Medical Oncology, Division of Cancer 
+Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+
+Comment in
+    Lancet. 2021 Jul 3;398(10294):2-3. doi: 10.1016/S0140-6736(21)00988-0.
+    Nat Cancer. 2021 Dec;2(12):1286. doi: 10.1038/s43018-021-00308-3.
+    Natl Med J India. 2022 Mar-Apr;35(2):98-99. doi: 10.25259/NMJI_645_21.
+    Lancet Gastroenterol Hepatol. 2024 Jun;9(6):495-497. doi: 
+10.1016/S2468-1253(24)00043-8.
+    Lancet. 2024 Jul 27;404(10450):337-338. doi: 10.1016/S0140-6736(24)01045-6.
+
+BACKGROUND: First-line chemotherapy for advanced or metastatic human epidermal 
+growth factor receptor 2 (HER2)-negative gastric or gastro-oesophageal junction 
+adenocarcinoma has a median overall survival (OS) of less than 1 year. We aimed 
+to evaluate first-line programmed cell death (PD)-1 inhibitor-based therapies in 
+gastric, gastro-oesophageal junction, and oesophageal adenocarcinoma. We report 
+the first results for nivolumab plus chemotherapy versus chemotherapy alone.
+METHODS: In this multicentre, randomised, open-label, phase 3 trial (CheckMate 
+649), we enrolled adults (≥18 years) with previously untreated, unresectable, 
+non-HER2-positive gastric, gastro-oesophageal junction, or oesophageal 
+adenocarcinoma, regardless of PD-ligand 1 (PD-L1) expression from 175 hospitals 
+and cancer centres in 29 countries. Patients were randomly assigned (1:1:1 while 
+all three groups were open) via interactive web response technology (block sizes 
+of six) to nivolumab (360 mg every 3 weeks or 240 mg every 2 weeks) plus 
+chemotherapy (capecitabine and oxaliplatin every 3 weeks or leucovorin, 
+fluorouracil, and oxaliplatin every 2 weeks), nivolumab plus ipilimumab, or 
+chemotherapy alone. Primary endpoints for nivolumab plus chemotherapy versus 
+chemotherapy alone were OS or progression-free survival (PFS) by blinded 
+independent central review, in patients whose tumours had a PD-L1 combined 
+positive score (CPS) of five or more. Safety was assessed in all patients who 
+received at least one dose of the assigned treatment. This study is registered 
+with ClinicalTrials.gov, NCT02872116.
+FINDINGS: From March 27, 2017, to April 24, 2019, of 2687 patients assessed for 
+eligibility, we concurrently randomly assigned 1581 patients to treatment 
+(nivolumab plus chemotherapy [n=789, 50%] or chemotherapy alone [n=792, 50%]). 
+The median follow-up for OS was 13·1 months (IQR 6·7-19·1) for nivolumab plus 
+chemotherapy and 11·1 months (5·8-16·1) for chemotherapy alone. Nivolumab plus 
+chemotherapy resulted in significant improvements in OS (hazard ratio [HR] 0·71 
+[98·4% CI 0·59-0·86]; p<0·0001) and PFS (HR 0·68 [98 % CI 0·56-0·81]; p<0·0001) 
+versus chemotherapy alone in patients with a PD-L1 CPS of five or more (minimum 
+follow-up 12·1 months). Additional results showed significant improvement in OS, 
+along with PFS benefit, in patients with a PD-L1 CPS of one or more and all 
+randomly assigned patients. Among all treated patients, 462 (59%) of 782 
+patients in the nivolumab plus chemotherapy group and 341 (44%) of 767 patients 
+in the chemotherapy alone group had grade 3-4 treatment-related adverse events. 
+The most common any-grade treatment-related adverse events (≥25%) were nausea, 
+diarrhoea, and peripheral neuropathy across both groups. 16 (2%) deaths in the 
+nivolumab plus chemotherapy group and four (1%) deaths in the chemotherapy alone 
+group were considered to be treatment-related. No new safety signals were 
+identified.
+INTERPRETATION: Nivolumab is the first PD-1 inhibitor to show superior OS, along 
+with PFS benefit and an acceptable safety profile, in combination with 
+chemotherapy versus chemotherapy alone in previously untreated patients with 
+advanced gastric, gastro-oesophageal junction, or oesophageal adenocarcinoma. 
+Nivolumab plus chemotherapy represents a new standard first-line treatment for 
+these patients.
+FUNDING: Bristol Myers Squibb, in collaboration with Ono Pharmaceutical.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(21)00797-2
+PMCID: PMC8436782
+PMID: 34102137 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests YYJ reports receiving 
+consulting or advisory board fees from AstraZeneca, Daiichi Sankyo, Imugene, 
+Jounce Therapeutics, Merck Serono, Michael J Hennessy Associates, Paradigm 
+Medical Communications, Pfizer, Seattle, Genetics, and Zymeworks; receiving 
+consulting or advisory and research funding from Eli Lilly, Bristol Myers 
+Squibb, and Merck & Co; receiving research funding from Bayer, Boehringer 
+Ingelheim, Genentech/Roche, MSK Cancer Center Support Grant/Core Grant (P30 
+CA008748), and Ono Pharmaceutical; receiving speaker's bureau fees from the 
+American Society of Clinical Oncology; and receiving stock options from Rgenix, 
+outside the submitted work. KS reports receiving personal fees for advisory 
+roles from AbbVie, Bristol Myers Squibb, GlaxoSmithKline, Novartis, Ono 
+Pharmaceutical Company, Pfizer, and Takeda; receiving advisory role or research 
+funding from Astellas Pharma, Eli Lilly, Merck Pharmaceutical, and Taiho 
+Pharmaceutical; receiving honoraria (lecture fees) from AbbVie, Novartis, and 
+Yakult Honsha; and receiving research funding from Chugai Pharma, Daiichi 
+Sankyo, Dainippon Sumitomo Pharma, and Medi Science, outside the submitted work. 
+MM reports receiving research grants from AIO, Amgen, German Federal Ministry of 
+Education and Research, Bristol Myers Squibb, European Organisation for Research 
+and Treatment of Cancer, German Cancer Aid, Merck Serono, Merck Sharp & Dohme, 
+and Pfizer; receiving personal fees from Bristol Myers Squibb, Falk Foundation, 
+Lilly, MCI Group, Merck Serono, Merck Sharp & Dohme, Pfizer, and Roche; and 
+receiving non-financial support from AIO, Amgen, Bristol Myers Squibb, German 
+Federal Ministry of Education and Research, European Organisation for Research 
+and Treatment of Cancer, and German Cancer Aid, outside the submitted work. MG 
+reports receiving grants and personal fees from Bristol Myers Squibb and 
+Novartis; and receiving personal fees from Merck Sharp & Dohme and Roche, 
+outside the submitted work. KY reports receiving grants and personal fees from 
+Daiichi-Sankyo, Ono Pharmaceutical Company, Taiho Pharmaceutical, and Yakult 
+Honsha; receiving personal fees from Chugai, Lilly, and Takeda; receiving grants 
+from Sanofi; and receiving personal fees from Bristol Myers Squibb, Merck 
+Serono, and Takeda, outside the submitted work. MS reports receiving personal 
+fees for clinical research from Bristol Myers Squibb, during the conduct of the 
+study; and receiving personal fees for clinical research from Astellas, 
+AstraZeneca, Eli Lilly, GlaxoSmithKline, Merck Serono, Merck Sharp & Dohme, 
+Novartis, Pfizer, Regeneron, and Roche, outside the submitted work. MT reports 
+receiving research funding from Bristol Myers Squibb, during the conduct of the 
+study. RK reports receiving grants from Amgen, AstraZeneca, Athenex, Eli Lilly, 
+Nektar, and Sanofi; receiving grants and non-financial support from Roche; 
+grants and personal fees from Astellas and Novartis; grants, personal fees, and 
+non-financial support from Bristol Myers Squibb, Merck Sharp & Dohme, and 
+Pfizer; and personal fees from Gador, outside the submitted work. MVK reports 
+serving in an advisory role for Bristol Myers Squibb, Merck Sharp & Dohme, 
+Ipsen, Roche, Sandoz, Sanofi, and Servier, outside the submitted work. RB 
+reports serving as a medical adviser for Merck Serono and Novartis; receiving 
+clinical research funding from Novartis; serving as a medical adviser and 
+speaker for AstraZeneca, Bristol Myers Squibb, and Pfizer; receiving clinical 
+research funding from Bristol Myers Squibb, Merck Sharp & Dohme, and Roche; and 
+serving as a speaker for Merck, during the conduct of the study. TZ reports 
+receiving personal advisory board fees from AstraZeneca, Bristol Myers Squibb, 
+Lilly, Merck Sharp & Dohme, Novartis, Roche, and Sanofi, outside the submitted 
+work. JMC reports personal fees and consulting and travel support from Bristol 
+Myers Squibb; and research funding from AstraZeneca, Esperas Pharma, Merck, and 
+Tesaro, outside the submitted work. VP, DC, MLe, HX, KK, and MLi report 
+employment with Bristol Myers Squibb and ownership of stock in Bristol Myers 
+Squibb. JAA reports receiving clinical research grants and receiving personal 
+advisory board fees from Bristol Myers Squibb, during the conduct of the study. 
+All other authors declare no competing interests.

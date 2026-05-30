@@ -1,0 +1,114 @@
+10. Lancet Oncol. 2019 Feb;20(2):282-296. doi: 10.1016/S1470-2045(18)30937-9.
+Epub  2019 Jan 18.
+
+Ramucirumab after sorafenib in patients with advanced hepatocellular carcinoma 
+and increased α-fetoprotein concentrations (REACH-2): a randomised, 
+double-blind, placebo-controlled, phase 3 trial.
+
+Zhu AX(1), Kang YK(2), Yen CJ(3), Finn RS(4), Galle PR(5), Llovet JM(6), Assenat 
+E(7), Brandi G(8), Pracht M(9), Lim HY(10), Rau KM(11), Motomura K(12), Ohno 
+I(13), Merle P(14), Daniele B(15), Shin DB(16), Gerken G(17), Borg C(18), 
+Hiriart JB(19), Okusaka T(20), Morimoto M(21), Hsu Y(22), Abada PB(23), Kudo 
+M(24); REACH-2 study investigators.
+
+Author information:
+(1)Massachusetts General Hospital Cancer Center, Harvard Medical Center, Boston, 
+MA, USA. Electronic address: azhu@mgh.harvard.edu.
+(2)Asan Medical Center, University of Ulsan, Seoul, South Korea.
+(3)Division of Hematology and Oncology, Department of Internal Medicine, 
+National Cheng Kung University Hospital Tainan, Taiwan; College of Medicine, 
+National Cheng Kung University, Tainan, Taiwan.
+(4)Geffen School of Medicine, University of California, Los Angeles, Los 
+Angeles, CA, USA.
+(5)University Medical Center, Mainz, Germany.
+(6)Icahn School of Medicine at Mount Sinai, New York, NY, USA; Institut 
+d'Investigations Biomèdiques, August Pi i Sunyer-Hospital Clinic Barcelona, 
+Barcelona, Spain.
+(7)CHU de Montpellier, Montpellier, France.
+(8)University Hospital S Orsola, Bologna, Italy.
+(9)Centre Eugene Marquis, Rennes, France.
+(10)Samsung Medical Center, Sungkyunkwan University, Seoul, South Korea.
+(11)Chang Gung Memorial Hospital-Kaohsiung Branch, Kaohsiung City, Taiwan; 
+Hematology-Oncology Department, E-Da Cancer Hospital, Kaohsiung, Taiwan.
+(12)Aso Iizuka Hospital-Hepatology, Iizuka, Fukuoka, Japan.
+(13)National Cancer Center Hospital East-Hepatobiliary and Pancreatic Oncology, 
+Kashiwa, Chiba, Japan.
+(14)Hôpital de la Croix Rousse, Lyon, France.
+(15)Azienda Ospedaliera G Rummo, Benevento, Benevento, Italy; Ospedale del Mare, 
+Naples, Italy.
+(16)Gachon University Gil Medical Center, Incheon, South Korea.
+(17)Universtitätsklinikum Essen AöR, Essen, North Rhine-Westphalia, Germany.
+(18)University Hospital of Besançon, Besançon, France.
+(19)CHU de Bordeaux, Pessac, France.
+(20)National Cancer Center Hospital, Tokyo, Japan.
+(21)Kanagawa Cancer Center, Yokohama, Kanagawa, Japan.
+(22)Eli Lilly, New York, NY, USA.
+(23)Eli Lilly, Indianapolis, IN, USA.
+(24)Kindai University, Osaka-Sayama, Japan.
+
+Comment in
+    Lancet Oncol. 2019 Feb;20(2):177-179. doi: 10.1016/S1470-2045(19)30009-9.
+    Hepatobiliary Surg Nutr. 2019 Oct;8(5):515-518. doi: 
+10.21037/hbsn.2019.04.19.
+    Hepatobiliary Surg Nutr. 2019 Oct;8(5):546-548. doi: 
+10.21037/hbsn.2019.04.14.
+    Chin Clin Oncol. 2020 Aug;9(4):58. doi: 10.21037/cco.2020.01.04.
+
+BACKGROUND: Patients with advanced hepatocellular carcinoma and increased 
+α-fetoprotein concentrations have poor prognosis. We aimed to establish the 
+efficacy of ramucirumab in patients with advanced hepatocellular carcinoma and 
+α-fetoprotein concentrations of 400 ng/mL or higher.
+METHODS: REACH-2 was a randomised, double-blind, placebo-controlled, phase 3 
+trial done at 92 hospitals, clinics, and medical centres in 20 countries. 
+Eligible patients were aged 18 years or older and had histologically or 
+cytologically confirmed hepatocellular carcinoma, or diagnosed cirrhosis and 
+hepatocellular carcinoma, Barcelona Clinic Liver Cancer stage B or C disease, 
+Child-Pugh class A liver disease, Eastern Cooperative Oncology Group (ECOG) 
+performance statuses of 0 or 1, α-fetoprotein concentrations of 400 ng/mL or 
+greater, and had previously received first-line sorafenib. Participants were 
+randomly assigned (2:1) via an interactive web response system with a 
+computer-generated random sequence to 8 mg/kg intravenous ramucirumab every 2 
+weeks or placebo. All patients received best supportive care. The primary 
+endpoint was overall survival. Secondary endpoints were progression-free 
+survival, proportion of patients achieving an objective response, time to 
+radiographic progression, safety, time to deterioration in scores on the 
+Functional Assessment of Cancer Therapy Hepatobiliary Symptom Index 8 (FHSI-8), 
+and time to deterioration in ECOG performance status. We also pooled individual 
+patient data from REACH-2 with data from REACH (NCT01140347) for patients with 
+α-fetoprotein concentrations of 400 ng/mL or greater. Efficacy analyses were by 
+intention to treat, whereas safety analyses were done in all patients who 
+received at least one dose of study drug. This trial is registered with 
+ClinicalTrials.gov, number NCT02435433.
+FINDINGS: Between July 26, 2015, and Aug 30, 2017, 292 patients were randomly 
+assigned, 197 to the ramucirumab group and 95 to the placebo group. At a median 
+follow-up of 7·6 months (IQR 4·0-12·5), median overall survival (8·5 months [95% 
+CI 7·0-10·6] vs 7·3 months [5·4-9·1]; hazard ratio [HR] 0·710 [95% CI 
+0·531-0·949]; p=0·0199) and progression-free survival (2·8 months [2·8-4·1] vs 
+1·6 months [1·5-2·7]; 0·452 [0·339-0·603]; p<0·0001) were significantly improved 
+in the ramucirumab group compared with the placebo group. The proportion of 
+patients with an objective response did not differ significantly between groups 
+(nine [5%] of 197 vs one [1%] of 95; p=0·1697). Median time to deterioration in 
+FHSI-8 total scores (3·7 months [95% CI 2·8-4·4] vs 2·8 months [1·6-2·9]; HR 
+0·799 [95% CI 0·545-1·171]; p=0·238) and ECOG performance statuses (HR 1·082 
+[95% CI 0·639-1·832]; p=0·77) did not differ between groups. Grade 3 or worse 
+treatment-emergent adverse events that occurred in at least 5% of patients in 
+either group were hypertension (25 [13%] in the ramucirumab group vs five [5%] 
+in the placebo group), hyponatraemia (11 [6%] vs 0) and increased aspartate 
+aminotransferase (six [3%] vs five [5%]). Serious adverse events of any grade 
+and cause occurred in 68 (35%) patients in the ramucirumab group and 28 (29%) 
+patients in the placebo group. Three patients in the ramucirumab group died from 
+treatment-emergent adverse events that were judged to be related to study 
+treatment (one had acute kidney injury, one had hepatorenal syndrome, and one 
+had renal failure).
+INTERPRETATION: REACH-2 met its primary endpoint, showing improved overall 
+survival for ramucirumab compared with placebo in patients with hepatocellular 
+carcinoma and α-fetoprotein concentrations of at least 400 ng/mL who had 
+previously received sorafenib. Ramucirumab was well tolerated, with a manageable 
+safety profile. To our knowledge, REACH-2 is the first positive phase 3 trial 
+done in a biomarker-selected patient population with hepatocellular carcinoma.
+FUNDING: Eli Lilly.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(18)30937-9
+PMID: 30665869 [Indexed for MEDLINE]

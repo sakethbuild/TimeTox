@@ -1,0 +1,88 @@
+15. N Engl J Med. 2021 Dec 16;385(25):2336-2347. doi: 10.1056/NEJMoa2108873. Epub
+ 2021 Dec 1.
+
+21-Gene Assay to Inform Chemotherapy Benefit in Node-Positive Breast Cancer.
+
+Kalinsky K(1), Barlow WE(1), Gralow JR(1), Meric-Bernstam F(1), Albain KS(1), 
+Hayes DF(1), Lin NU(1), Perez EA(1), Goldstein LJ(1), Chia SKL(1), Dhesy-Thind 
+S(1), Rastogi P(1), Alba E(1), Delaloge S(1), Martin M(1), Kelly CM(1), 
+Ruiz-Borrego M(1), Gil-Gil M(1), Arce-Salinas CH(1), Brain EGC(1), Lee ES(1), 
+Pierga JY(1), Bermejo B(1), Ramos-Vazquez M(1), Jung KH(1), Ferrero JM(1), 
+Schott AF(1), Shak S(1), Sharma P(1), Lew DL(1), Miao J(1), Tripathy D(1), 
+Pusztai L(1), Hortobagyi GN(1).
+
+Author information:
+(1)From the Winship Cancer Institute at Emory University, Atlanta (K.K.); 
+Southwest Oncology Group Statistics and Data Management Center (W.E.B., D.L.L., 
+J.M.) and the University of Washington School of Medicine-Seattle Cancer Care 
+Alliance (J.R.G.) - both in Seattle; the University of Texas M.D. Anderson 
+Cancer Center, Houston (F.M.-B., D.T., G.N.H.); Loyola University Chicago, 
+Maywood, IL (K.S.A.); the University of Michigan, Ann Arbor (D.F.H., A.F.S.); 
+Dana-Farber Cancer Institute, Boston (N.U.L.); Mayo Clinic, Jacksonville, FL 
+(E.A.P.); Fox Chase Cancer Center, Philadelphia (L.J.G.), and the University of 
+Pittsburgh, Pittsburgh (P.R.) - both in Pennsylvania; BC Cancer-Vancouver Cancer 
+Centre, Vancouver (S.K.L.C.), and Juravinski Cancer Centre at Hamilton Health 
+Sciences, Hamilton, ON (S.D.-T.) - both in Canada; UGCI Medical Oncology 
+Hospital Virgen de la Victoria, Instituto de Investigación Biomédica de Málaga, 
+Malaga (E.A.), Instituto de Investigación Sanitaria Gregorio Marañón, Centro de 
+Investigación Biomédica en Red Cáncer-Instituto de Salud Carlos III, Universidad 
+Complutense, Madrid (M.M.), Hospital Universitario Virgen del Rocío, Seville 
+(M.R.-B.), Institut Català d'Oncologia, Barcelona (M.G.-G.), Hospital Clínico 
+Universitario de Valencia, Biomedical Research Institute Investigación del 
+Hospital Clínico de la Comunidad Valenciana, Valencia (B.B.), and Centro 
+Oncológico de Galicia, A Coruña (M.R.-V.) - all in Spain; Institut Gustave 
+Roussy (S.D.) and Institut Curie (J.-Y.P.), Paris, Institut Curie-Centre Réné 
+Huguenin, Saint-Cloud (E.G.C.B.), and Centre Antoine Lacassagne, Nice (J.-M.F.) 
+- all in France; Mater Misericordiae University Hospital, Dublin (C.M.K.); 
+Instituto Nacional de Cancerología de México, Mexico City (C.H.A.-S.); the 
+National Cancer Center Korea, Goyang-si (E.-S.L.), and Asa Medical Center, 
+University of Ulsan College of Medicine, Seoul (K.-H.J.) - both in South Korea; 
+Exact Sciences, Redwood City, CA (S.S.); the University of Kansas Medical 
+Center, Kansas City (P.S.); and Yale University, New Haven, CT (L.P.).
+
+Comment in
+    Nat Rev Clin Oncol. 2022 Feb;19(2):72. doi: 10.1038/s41571-021-00591-0.
+
+BACKGROUND: The recurrence score based on the 21-gene breast-cancer assay has 
+been clinically useful in predicting a chemotherapy benefit in 
+hormone-receptor-positive, human epidermal growth factor receptor 2 
+(HER2)-negative, axillary lymph-node-negative breast cancer. In women with 
+positive lymph-node disease, the role of the recurrence score with respect to 
+predicting a benefit of adjuvant chemotherapy is unclear.
+METHODS: In a prospective trial, we randomly assigned women with 
+hormone-receptor-positive, HER2-negative breast cancer, one to three positive 
+axillary lymph nodes, and a recurrence score of 25 or lower (scores range from 0 
+to 100, with higher scores indicating a worse prognosis) to endocrine therapy 
+only or to chemotherapy plus endocrine (chemoendocrine) therapy. The primary 
+objective was to determine the effect of chemotherapy on invasive disease-free 
+survival and whether the effect was influenced by the recurrence score. 
+Secondary end points included distant relapse-free survival.
+RESULTS: A total of 5083 women (33.2% premenopausal and 66.8% postmenopausal) 
+underwent randomization, and 5018 participated in the trial. At the prespecified 
+third interim analysis, the chemotherapy benefit with respect to increasing 
+invasive disease-free survival differed according to menopausal status 
+(P = 0.008 for the comparison of chemotherapy benefit in premenopausal and 
+postmenopausal participants), and separate prespecified analyses were conducted. 
+Among postmenopausal women, invasive disease-free survival at 5 years was 91.9% 
+in the endocrine-only group and 91.3% in the chemoendocrine group, with no 
+chemotherapy benefit (hazard ratio for invasive disease recurrence, new primary 
+cancer [breast cancer or another type], or death, 1.02; 95% confidence interval 
+[CI], 0.82 to 1.26; P = 0.89). Among premenopausal women, invasive disease-free 
+survival at 5 years was 89.0% with endocrine-only therapy and 93.9% with 
+chemoendocrine therapy (hazard ratio, 0.60; 95% CI, 0.43 to 0.83; P = 0.002), 
+with a similar increase in distant relapse-free survival (hazard ratio, 0.58; 
+95% CI, 0.39 to 0.87; P = 0.009). The relative chemotherapy benefit did not 
+increase as the recurrence score increased.
+CONCLUSIONS: Among premenopausal women with one to three positive lymph nodes 
+and a recurrence score of 25 or lower, those who received chemoendocrine therapy 
+had longer invasive disease-free survival and distant relapse-free survival than 
+those who received endocrine-only therapy, whereas postmenopausal women with 
+similar characteristics did not benefit from adjuvant chemotherapy. (Funded by 
+the National Cancer Institute and others; RxPONDER ClinicalTrials.gov number, 
+NCT01272037.).
+
+Copyright © 2021 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2108873
+PMCID: PMC9096864
+PMID: 34914339 [Indexed for MEDLINE]

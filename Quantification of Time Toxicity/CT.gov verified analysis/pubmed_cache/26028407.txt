@@ -1,0 +1,70 @@
+17. N Engl J Med. 2015 Jul 9;373(2):123-35. doi: 10.1056/NEJMoa1504627. Epub 2015
+ May 31.
+
+Nivolumab versus Docetaxel in Advanced Squamous-Cell Non-Small-Cell Lung Cancer.
+
+Brahmer J(1), Reckamp KL, Baas P, Crinò L, Eberhardt WE, Poddubskaya E, Antonia 
+S, Pluzanski A, Vokes EE, Holgado E, Waterhouse D, Ready N, Gainor J, Arén 
+Frontera O, Havel L, Steins M, Garassino MC, Aerts JG, Domine M, Paz-Ares L, 
+Reck M, Baudelet C, Harbison CT, Lestini B, Spigel DR.
+
+Author information:
+(1)From the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, 
+Baltimore (J.B.); the City of Hope Comprehensive Cancer Center, Duarte, CA 
+(K.L.R.); the Netherlands Cancer Institute and Antoni van Leeuwenhoek Hospital, 
+Amsterdam (P.B.), Erasmus MC Cancer Institute, Rotterdam (J.G.A.), and 
+Ziekenhuis Amphia, Breda (J.G.A.) - all in the Netherlands; the University 
+Hospital of Perugia, Perugia (L.C.), and the Fondazione IRCCS Istituto Nazionale 
+dei Tumori, Milan (M.C.G.) - both in Italy; the Department of Medical Oncology, 
+West German Cancer Center, Universitätsklinikum Essen, and the Ruhrlandklinik, 
+Universität Duisburg-Essen, Essen (W.E.E.E.), the Thoraxklinik, Heidelberg 
+University Hospital, Heidelberg (M.S.), and the LungenClinic Grosshansdorf, 
+Grosshansdorf (M.R.) - all in Germany; the N.N. Blokhin Russian Cancer Research 
+Center, Moscow (E.P.); the H. Lee Moffitt Cancer Center and Research Institute, 
+Tampa, FL (S.A.); the Centrum Onkologii-Instytut im. Marii Skłodowskiej-Curie, 
+Warsaw, Poland (A.P.); the University of Chicago Medicine and Biological 
+Sciences, Chicago (E.E.V.); the Hospital Madrid Norte Sanchinarro (E.H.), the 
+Hospital Universitario Fundación Jiménez Díaz, Madrid (M.D.), and the Hospital 
+Universitario Virgen Del Rocío, Seville (L.P.-A.) - all in Spain; Oncology 
+Hematology Care, Cincinnati (D.W.); the Duke University Medical Center, Durham, 
+NC (N.R.); Massachusetts General Hospital, Boston (J.G.); Centro Internacional 
+de Estudios Clinicos, Santiago, Chile (O.A.F.); Nemocnice Na Bulovce, Prague, 
+Czech Republic (L.H.); Bristol-Myers Squibb, Princeton, NJ (C.B., C.T.H., B.L.); 
+and the Sarah Cannon Research Institute and Tennessee Oncology, Nashville 
+(D.R.S.).
+
+Comment in
+    Nat Rev Clin Oncol. 2015 Aug;12(8):436. doi: 10.1038/nrclinonc.2015.110.
+
+BACKGROUND: Patients with advanced squamous-cell non-small-cell lung cancer 
+(NSCLC) who have disease progression during or after first-line chemotherapy 
+have limited treatment options. This randomized, open-label, international, 
+phase 3 study evaluated the efficacy and safety of nivolumab, a fully human IgG4 
+programmed death 1 (PD-1) immune-checkpoint-inhibitor antibody, as compared with 
+docetaxel in this patient population.
+METHODS: We randomly assigned 272 patients to receive nivolumab, at a dose of 3 
+mg per kilogram of body weight every 2 weeks, or docetaxel, at a dose of 75 mg 
+per square meter of body-surface area every 3 weeks. The primary end point was 
+overall survival.
+RESULTS: The median overall survival was 9.2 months (95% confidence interval 
+[CI], 7.3 to 13.3) with nivolumab versus 6.0 months (95% CI, 5.1 to 7.3) with 
+docetaxel. The risk of death was 41% lower with nivolumab than with docetaxel 
+(hazard ratio, 0.59; 95% CI, 0.44 to 0.79; P<0.001). At 1 year, the overall 
+survival rate was 42% (95% CI, 34 to 50) with nivolumab versus 24% (95% CI, 17 
+to 31) with docetaxel. The response rate was 20% with nivolumab versus 9% with 
+docetaxel (P=0.008). The median progression-free survival was 3.5 months with 
+nivolumab versus 2.8 months with docetaxel (hazard ratio for death or disease 
+progression, 0.62; 95% CI, 0.47 to 0.81; P<0.001). The expression of the PD-1 
+ligand (PD-L1) was neither prognostic nor predictive of benefit. 
+Treatment-related adverse events of grade 3 or 4 were reported in 7% of the 
+patients in the nivolumab group as compared with 55% of those in the docetaxel 
+group.
+CONCLUSIONS: Among patients with advanced, previously treated squamous-cell 
+NSCLC, overall survival, response rate, and progression-free survival were 
+significantly better with nivolumab than with docetaxel, regardless of PD-L1 
+expression level. (Funded by Bristol-Myers Squibb; CheckMate 017 
+ClinicalTrials.gov number, NCT01642004.).
+
+DOI: 10.1056/NEJMoa1504627
+PMCID: PMC4681400
+PMID: 26028407 [Indexed for MEDLINE]

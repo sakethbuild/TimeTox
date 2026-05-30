@@ -1,0 +1,93 @@
+14. Cancer. 2022 Mar 15;128(6):1242-1251. doi: 10.1002/cncr.34062. Epub 2021 Dec
+10.
+
+Decision aids for localized prostate cancer in diverse minority men: Primary 
+outcome results from a multicenter cancer care delivery trial (Alliance 
+A191402CD).
+
+Tilburt JC(1)(2)(3), Zahrieh D(4), Pacyna JE(1), Petereit DG(5), Kaur JS(6), 
+Rapkin BD(7), Grubb RL 3rd(8), Chang GJ(9), Morris MJ(10), Kovac EZ(11), Babaian 
+KN(12), Sloan JA(4), Basch EM(13), Peil ES(4), Dueck AC(14), Novotny PJ(4), 
+Paskett ED(15), Buckner JC(16), Joyce DD(17), Montori VM(18), Frosch DL(19), 
+Volk RJ(20), Kim SP(21).
+
+Author information:
+(1)Biomedical Ethics Research Program, Mayo Clinic, Rochester, Minnesota.
+(2)Division of General Internal Medicine, Mayo Clinic, Scottsdale, Arizona.
+(3)Department of Quantitative Health Sciences, Mayo Clinic, Rochester, 
+Minnesota.
+(4)Alliance Statistics and Data Center, Mayo Clinic, Rochester, Minnesota.
+(5)Rapid City Regional Cancer Care Institute, Monument Health, Rapid City, South 
+Dakota.
+(6)Department of Hematology and Oncology, Mayo Clinic, Jacksonville, Florida.
+(7)Department of Epidemiology and Population Health, Division of Community 
+Collaboration and Implementation Science, Albert Einstein College of Medicine, 
+Bronx, New York.
+(8)Department of Urology, Medical University of South Carolina, Charleston, 
+South Carolina.
+(9)Department of Colon and Rectal Surgery, The University of Texas MD Anderson 
+Cancer Center, Houston, Texas.
+(10)Genitourinary Oncology Service, Memorial Sloan Kettering Cancer Center, New 
+York, New York.
+(11)Department of Urology, Rutgers New Jersey Medical School, Newark, New 
+Jersey.
+(12)Department of Surgery, Southern Illinois University, Springfield, Illinois.
+(13)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel 
+Hill, North Carolina.
+(14)Alliance Statistics and Data Center, Mayo Clinic, Scottsdale, Arizona.
+(15)Ohio State University College of Medicine, The Ohio State University, 
+Columbus, Ohio.
+(16)Department of Oncology, Mayo Clinic, Rochester, Minnesota.
+(17)Department of Urology, Mayo Clinic, Rochester, Minnesota.
+(18)Knowledge and Evaluation Research Unit, Mayo Clinic, Rochester, Minnesota.
+(19)Palo Alto Medical Foundation Research Institute, Palo Alto, California.
+(20)Division of Cancer Prevention and Population Sciences, Department of Health 
+Services Research, The University of Texas MD Anderson Cancer Center, Houston, 
+Texas.
+(21)Division of Urology, Anschutz Medical Center, University of Colorado, 
+Aurora, Colorado.
+
+Comment in
+    Cancer. 2022 Aug 1;128(15):2990. doi: 10.1002/cncr.34246.
+    Cancer. 2022 Aug 1;128(15):2988-2989. doi: 10.1002/cncr.34247.
+
+BACKGROUND: Decision aids (DAs) can improve knowledge for prostate cancer 
+treatment. However, the relative effects of DAs delivered within the clinical 
+encounter and in more diverse patient populations are unknown. A multicenter 
+cluster randomized controlled trial with a 2×2 factorial design was performed to 
+test the effectiveness of within-visit and previsit DAs for localized prostate 
+cancer, and minority men were oversampled.
+METHODS: The interventions were delivered in urology practices affiliated with 
+the NCI Community Oncology Research Program Alliance Research Base. The primary 
+outcome was prostate cancer knowledge (percent correct on a 12-item measure) 
+assessed immediately after a urology consultation.
+RESULTS: Four sites administered the previsit DA (39 patients), 4 sites 
+administered the within-visit DA (44 patients), 3 sites administered both 
+previsit and within-visit DAs (25 patients), and 4 sites provided usual care (50 
+patients). The median percent correct in prostate cancer knowledge, based on the 
+postvisit knowledge assessment after the intervention delivery, was as follows: 
+75% for the pre+within-visit DA study arm, 67% for the previsit DA only arm, 58% 
+for the within-visit DA only arm, and 58% for the usual-care arm. Neither the 
+previsit DA nor the within-visit DA had a significant impact on patient 
+knowledge of prostate cancer treatments at the prespecified 2.5% significance 
+level (P = .132 and P = .977, respectively).
+CONCLUSIONS: DAs for localized prostate cancer treatment provided at 2 different 
+points in the care continuum in a trial that oversampled minority men did not 
+confer measurable gains in prostate cancer knowledge.
+
+© 2021 American Cancer Society.
+
+DOI: 10.1002/cncr.34062
+PMCID: PMC8882149
+PMID: 34890060 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest Dr. Morris is a 
+non-compensated consultant to Bayer, Novartis, Advanced Accelerator 
+Applications, Janssen, Lantheus. Dr. Morris is a compensated consultant to ORIC, 
+Curium, Athenex, NCCN, and Exelixis. Dr. Morris also receives institutional 
+funding for clinical trials from: Bayer, Endocyte, Progenics, Corcept, 
+Roche/Genentech, Celgene/BMS, and. Janssen. None of Dr. Morris’s disclosures are 
+related to this work. Dr. Paskett is the MPI on a grant to her institution form 
+Merck Foundation and another from Pfizer. Dr. Paskett also receives grant 
+funding to her institution form the Breast Cancer Research Foundation. None of 
+Dr. Paskett’s disclosures are related to this work.

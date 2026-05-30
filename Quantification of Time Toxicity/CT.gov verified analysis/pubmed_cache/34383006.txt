@@ -1,0 +1,93 @@
+10. JAMA Oncol. 2021 Oct 1;7(10):1497-1505. doi: 10.1001/jamaoncol.2021.3186.
+
+Accelerated Hypofractionated Image-Guided vs Conventional Radiotherapy for 
+Patients With Stage II/III Non-Small Cell Lung Cancer and Poor Performance 
+Status: A Randomized Clinical Trial.
+
+Iyengar P(1)(2)(3), Zhang-Velten E(1)(2)(3), Court L(4), Westover K(1)(2)(3), 
+Yan Y(1)(2)(3), Lin MH(1)(2)(3), Xiong Z(1)(2)(3), Patel M(5), Rivera D(6), 
+Chang J(4), Saunders M(7), Shivnani A(8), Lee A(9), Hughes R(1)(2)(3), Gerber 
+D(1)(2)(3), Dowell J(1)(2)(3), Gao A(1)(2)(3), Heinzerling J(10), Li Y(11), Ahn 
+C(1)(2)(3), Choy H(1)(2)(3), Timmerman R(1)(2)(3).
+
+Author information:
+(1)Department of Radiation Oncology, Simmons Comprehensive Cancer Center, 
+University of Texas Southwestern Medical Center, Dallas.
+(2)Department of Medical Oncology, Simmons Comprehensive Cancer Center, 
+University of Texas Southwestern Medical Center, Dallas.
+(3)Department of Biostatistics, Simmons Comprehensive Cancer Center, University 
+of Texas Southwestern Medical Center, Dallas.
+(4)Department of Radiation Oncology, MD Anderson Cancer Center, Houston, Texas.
+(5)Department of Radiation Oncology, Baylor Scott & White Memorial Hospital, 
+Temple, Texas.
+(6)Department of Radiation Oncology, Austin Cancer Center, Austin, Texas.
+(7)Department of Radiation Oncology, Texas Oncology Tyler, Tyler.
+(8)Department of Radiation Oncology, Texas Oncology Sherman, Sherman.
+(9)Department of Radiation Oncology, Texas Center for Proton Therapy, Irving.
+(10)Department of Radiation Oncology, Levine Cancer Institute, Atrium Heath, 
+Charlotte, North Carolina.
+(11)Department of Radiation Oncology, Banner MD Anderson Cancer Center, Gilbert, 
+Arizona.
+
+Comment in
+    JAMA Oncol. 2021 Oct 1;7(10):1505-1506. doi: 10.1001/jamaoncol.2021.3180.
+    JAMA Oncol. 2022 Mar 1;8(3):480-481. doi: 10.1001/jamaoncol.2021.7157.
+    JAMA Oncol. 2022 Mar 1;8(3):481. doi: 10.1001/jamaoncol.2021.7160.
+
+IMPORTANCE: A significant subset of patients with stage II/III non-small cell 
+lung cancer (NSCLC) cannot receive standard concurrent chemoradiotherapy owing 
+to the risk of toxic effects outweighing potential benefits. Without concurrent 
+chemotherapy, however, the efficacy of conventional radiotherapy is reduced.
+OBJECTIVE: To determine whether hypofractionated image-guided radiotherapy 
+(IGRT) would improve overall survival in patients with stage II/III NSCLC who 
+could not receive concurrent chemoradiotherapy and therefore were traditionally 
+relegated to receiving only conventionally fractionated radiotherapy (CFRT).
+DESIGN, SETTING, AND PARTICIPANTS: This nonblinded, phase 3 randomized clinical 
+study enrolled 103 patients and analyzed 96 patients with stage II/III NSCLC and 
+Zubrod performance status of at least 2, with greater than 10% weight loss in 
+the previous 6 months, and/or who were ineligible for concurrent 
+chemoradiotherapy after oncology consultation. Enrollment occurred at multiple 
+US institutions. Patients were enrolled from November 13, 2012, to August 28, 
+2018, with a median follow-up of 8.7 (3.6-19.9) months. Data were analyzed from 
+September 14, 2018, to April 11, 2021.
+INTERVENTIONS: Eligible patients were randomized to hypofractionated IGRT (60 Gy 
+in 15 fractions) vs CFRT (60 Gy in 30 fractions).
+MAIN OUTCOMES AND MEASURES: The primary end point was 1-year overall survival.
+RESULTS: A total of 103 patients (96 of whom were analyzed [63 men (65.6%); mean 
+(SD) age, 71.0 (10.2) years (range, 50-90 years)]) were randomized to 
+hypofractionated IGRT (n = 50) or CFRT (n = 46) when a planned interim analysis 
+suggested futility in reaching the primary end point, and the study was closed 
+to further accrual. There was no statistically significant difference between 
+the treatment groups for 1-year overall survival (37.7% [95% CI, 24.2%-51.0%] 
+for hypofractionated IGRT vs 44.6% [95% CI, 29.9%-58.3%] for CFRT; P = .29). 
+There were also no significant differences in median overall survival, 
+progression-free survival, time to local failure, time to distant metastasis, 
+and toxic effects of grade 3 or greater between the 2 treatment groups.
+CONCLUSIONS AND RELEVANCE: This phase 3 randomized clinical trial found that 
+hypofractionated IGRT (60 Gy in 15 fractions) was not superior to CFRT (60 Gy in 
+30 fractions) for patients with stage II/III NSCLC ineligible for concurrent 
+chemoradiotherapy. Further studies are needed to verify equivalence between 
+these radiotherapy regimens. Regardless, for well-selected patients with NSCLC 
+(ie, peripheral primary tumors and limited mediastinal/hilar adenopathy), the 
+convenience of hypofractionated radiotherapy regimens may offer an appropriate 
+treatment option.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01459497.
+
+DOI: 10.1001/jamaoncol.2021.3186
+PMCID: PMC8531992
+PMID: 34383006 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Iyengar 
+reported serving on the advisory board of AstraZeneca plc outside the submitted 
+work. Dr Westover reported receiving personal fees from Vibliome Therapeutics, 
+LLC, for participation in the scientific advisory board and grants from 
+Revolution Medicines, Inc, outside the submitted work. Dr Chang reported 
+receiving grants from Bristol Myers Squibb and personal fees from Varian Medical 
+Systems, Legion Healthcare Partners, and AstraZeneca plc outside the submitted 
+work. Dr Dowell reported receiving personal fees from AstraZeneca plc, 
+Genentech, Inc, and Boehringer Ingelheim 1-time advisory board outside the 
+submitted work. Dr Heinzerling reported receiving grants from AstraZeneca plc 
+and Vision RT outside the submitted work. Dr Timmerman reported receiving grants 
+from Varian Medical Systems, Elekta, and Accuray Incorporated to his institution 
+as a principal investigator outside the submitted work. No other disclosures 
+were reported.

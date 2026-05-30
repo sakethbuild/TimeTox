@@ -1,0 +1,96 @@
+17. JAMA Oncol. 2017 Jul 1;3(7):906-912. doi: 10.1001/jamaoncol.2016.6316.
+
+Continued Treatment Effect of Zoledronic Acid Dosing Every 12 vs 4 Weeks in 
+Women With Breast Cancer Metastatic to Bone: The OPTIMIZE-2 Randomized Clinical 
+Trial.
+
+Hortobagyi GN(1), Van Poznak C(2), Harker WG(3), Gradishar WJ(4), Chew H(5), 
+Dakhil SR(6), Haley BB(7), Sauter N(8), Mohanlal R(9), Zheng M(8), Lipton A(10).
+
+Author information:
+(1)Department of Breast Medical Oncology, University of Texas, MD Anderson 
+Cancer Center, Houston.
+(2)Division of Hematology/Oncology, Department of Internal Medicine, University 
+of Michigan, Ann Arbor.
+(3)Utah Cancer Specialists, Salt Lake City, Utah.
+(4)Department of Medicine-Hematology/Oncology, Northwestern University Feinberg 
+School of Medicine, Chicago, Illinois.
+(5)Department of Internal Medicine-Hematology/Oncology, UC Davis Comprehensive 
+Cancer Center, Sacramento, California.
+(6)Department of Hematology/Oncology, Cancer Center of Kansas, Wichita.
+(7)Department of Hematology/Oncology, University of Texas Southwestern Medical 
+Center, Dallas.
+(8)Novartis Pharmaceuticals Corporation, One Health Plaza, East Hanover, New 
+Jersey.
+(9)Consultant, AstraZeneca, London, England10Consultant, BeyondSpring 
+Pharmaceuticals, New York, New York.
+(10)Penn State Milton S. Hershey Medical Center, Hershey, Pennsylvania.
+
+Comment in
+    JAMA Oncol. 2017 Jul 1;3(7):893-894. doi: 10.1001/jamaoncol.2016.6240.
+    JAMA Oncol. 2018 Apr 1;4(4):585. doi: 10.1001/jamaoncol.2017.0487.
+    JAMA Oncol. 2018 Apr 1;4(4):585-586. doi: 10.1001/jamaoncol.2017.0789.
+    JAMA Oncol. 2018 Apr 1;4(4):586. doi: 10.1001/jamaoncol.2017.3868.
+
+IMPORTANCE: Zoledronic acid, a potent bisphosphonate, is commonly administered 
+to patients with bone metastases to reduce the risk of skeletal-related events 
+(SREs). However, there have been concerns regarding its long-term monthly 
+administration.
+OBJECTIVE: To examine whether zoledronic acid every 12 weeks was noninferior to 
+zoledronic acid every 4 weeks in patients with metastatic breast cancer that 
+involved the bone who had previously received a standard dosing regimen of 
+zoledronic acid and/or pamidronate disodium.
+DESIGN, SETTING, AND PARTICIPANTS: OPTIMIZE-2 was a prospective, randomized, 
+double-blind, multicenter phase 3 trial of intention-to-treat (full analysis 
+set), evaluable (per protocol), and safety populations. Patients were randomized 
+(1:1) to receive 4.0 mg of intravenous zoledronic acid every 4 or every 12 weeks 
+with placebo for interim infusions for 1 year. The study was conducted at 102 
+clinical trial centers in the United States from March 3, 2006, to July 25, 
+2013. Data analysis was performed from October 7, 2013, to March 24, 2014. The 
+study randomized 416 women (≥18 years old) with bone metastases from breast 
+cancer who previously received 9 or more doses of zoledronic acid and/or 
+pamidronate during the first 10 to 15 months of therapy.
+MAIN OUTCOMES AND MEASURES: The primary end point was the proportion of patients 
+with 1 or more SRE on study (SRE rate). The key secondary end points included 
+time to first SRE and skeletal morbidity rate (SMR).
+RESULTS: A total of 416 women were randomized: 200 patients received zoledronic 
+acid every 4 weeks (mean [SD] age, 59.2 [11.1] years; 173 were white [86.5%]), 
+203 patients received zoledronic acid every 12 weeks (mean [SD] age, 58.6 [11.2] 
+years; 178 were white [87.7%]), and 13 patients received placebo (mean [SD] age, 
+60.8 [12.2] years; 13 were white [100%]). Baseline characteristics were similar 
+in both zoledronic acid treatment arms. After 1 year of follow-up, SREs occurred 
+in 44 patients (22.0%) in the zoledronic acid every 4 weeks group and 47 
+patients (23.2%) in the zoledronic acid every 12 weeks group (proportional 
+difference of -1.2%; 1-sided 97.5% CI bound of the difference in SRE rate 
+between arms, -9.8%; noninferiority P = .02). The time to first SRE between 
+treatment groups was not statistically significantly different (hazard ratio 
+[HR], 1.06; 95% CI, 0.70-1.60; P = .79). The mean (SD) SMR was 0.46 (1.06) vs 
+0.50 (1.50) events per year in the every 4 weeks vs every 12 weeks groups 
+(P = .85). The safety profiles of the every 4 weeks and every 12 weeks groups 
+were comparable, with 189 patients (95.5%) in the every 4 weeks group having at 
+least 1 adverse event compared with 189 (93.5%) in the every 12 weeks group.
+CONCLUSIONS AND RELEVANCE: The every 12 weeks regimen of zoledronic acid was 
+noninferior to the every 4 weeks regimen for the proportion of patients 
+experiencing 1 or more SRE. These results may have a substantial influence on 
+current clinical practice for treatment of patients with bone metastasis from 
+breast cancer.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00320710.
+
+DOI: 10.1001/jamaoncol.2016.6316
+PMCID: PMC5824238
+PMID: 28125763 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Hortobagyi 
+reported receiving consulting fees from Hoffman-La Roche, Lilly USA, Merck, and 
+Celegene and serving as a member of Scientific Advisory Committee for Bayer and 
+Pfizer. Dr Van Poznak reported receiving grants from Novartis Pharmaceuticals 
+Corporation during the conduct of the study and grants from Amgen and Bayer 
+outside the submitted work. Dr Sauter reported being an employee of Novartis 
+Pharmaceuticals Corporation and holding stock options. Dr Mohanlal reported 
+receiving employment-related salary from Novartis Pharmaceuticals Corporation 
+during the conduct of the study and being employed with Novartis Pharmaceutical 
+Corporation until July 2015, at the time the study was conducted and when the 
+first draft of the manuscript was developed. Dr Zheng reported being an employee 
+of Novartis Pharmaceuticals Corporation and holding stock options. Dr Lipton 
+reported receiving laboratory grants from Novartis Pharmaceuticals Corporation. 
+No other disclosures were reported.

@@ -1,0 +1,63 @@
+15. J Clin Oncol. 2019 Dec 1;37(34):3266-3274. doi: 10.1200/JCO.19.00555. Epub
+2019  Oct 16.
+
+Phase III Randomized Trial of Chemotherapy With or Without Bevacizumab in 
+Patients With Recurrent or Metastatic Head and Neck Cancer.
+
+Argiris A(1), Li S(2), Savvides P(3), Ohr JP(4), Gilbert J(5), Levine MA(6), 
+Chakravarti A(7), Haigentz M Jr(8), Saba NF(9), Ikpeazu CV(10), Schneider 
+CJ(11), Pinto HA(12), Forastiere AA(13), Burtness B(14)(15).
+
+Author information:
+(1)Thomas Jefferson University, Philadelphia, PA.
+(2)Dana Farber Cancer Institute, Boston, MA.
+(3)University of Arizona Cancer Center, Phoenix, AZ.
+(4)University of Pittsburgh, Pittsburgh, PA.
+(5)Vanderbilt University, Nashville, TN.
+(6)Greater Baltimore Medical Center, Baltimore, MD.
+(7)The Ohio State University Medical School, Columbus, OH.
+(8)Montefiore Medical Center, Bronx, NY.
+(9)Emory University, Atlanta, GA.
+(10)University of Miami, Miami, FL.
+(11)University of Pennsylvania, Philadelphia, PA.
+(12)Stanford University Medical Center, Stanford, CA.
+(13)Johns Hopkins University, Baltimore, MD.
+(14)Yale University School of Medicine, New Haven, CT.
+(15)Yale Cancer Center, New Haven, CT.
+
+PURPOSE: We evaluated the addition of bevacizumab, a humanized monoclonal 
+antibody that targets vascular endothelial growth factor, to platinum-based 
+chemotherapy in recurrent or metastatic squamous cell carcinoma of the head and 
+neck (SCCHN).
+PATIENTS AND METHODS: Patients with chemotherapy-naïve (or with prior platinum 
+as part of multimodal therapy completed ≥ 4 months earlier) recurrent or 
+metastatic SCCHN were randomly assigned to receive a platinum-based chemotherapy 
+doublet with or without bevacizumab 15 mg/kg given intravenously every 3 weeks 
+until disease progression. Chemotherapy could be discontinued after six cycles 
+if a maximum response was achieved.
+RESULTS: The study randomly assigned 403 patients. Median overall survival (OS) 
+was 12.6 months with bevacizumab plus chemotherapy (BC) and 11.0 months with 
+chemotherapy alone (hazard ratio, 0.87; 95% CI, 0.70 to 1.09; P = .22). At 2, 3, 
+and 4 years, the OS rates were 25.2% v 18.1%, 16.4% v 10.0%, and 11.8% v 6.4% 
+for BC versus chemotherapy, respectively. In an analysis of 365 eligible 
+patients who started treatment, the hazard ratio was 0.82 (95% CI, 0.65 to 1.04; 
+P = .10), with a median OS of 14.2 months on BC v 11.1 months on chemotherapy. 
+Median progression-free survival with BC was 6.0 months v 4.3 months with 
+chemotherapy (P = .0014). Overall response rates were 35.5% with BC and 24.5% 
+with chemotherapy (P = .016). There was increased toxicity, including a higher 
+rate of treatment-related grade 3 to 5 bleeding events (6.7% v 0.5%; P < .001) 
+and treatment-related deaths (9.3% v 3.5%; P = .022) with BC versus 
+chemotherapy.
+CONCLUSION: The addition of bevacizumab to chemotherapy did not improve OS but 
+improved the response rate and progression-free survival with increased 
+toxicities. These results encourage biomarker-driven studies of angiogenesis 
+inhibitors with better toxicity profiles in select patients with SCCHN.
+
+DOI: 10.1200/JCO.19.00555
+PMCID: PMC6980834
+PMID: 31618129 [Indexed for MEDLINE]
+
+Conflict of interest statement: The content is solely the responsibility of the 
+authors and does not necessarily represent the official views of the National 
+Institutes of Health, nor does mention of trade names, commercial products, or 
+organizations imply endorsement by the US government.

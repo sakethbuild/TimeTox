@@ -1,0 +1,94 @@
+20. J Am Coll Surg. 2022 Mar 1;234(3):326-339. doi: 10.1097/XCS.0000000000000061.
+
+Impact of the Deep Neuromuscular Block on Oncologic Quality of Laparoscopic 
+Surgery in Obese Gastric Cancer Patients: A Randomized Clinical Trial.
+
+Park SH(1)(2), Huh H(3), Choi SI(4), Kim JH(1)(5), Jang YJ(5), Park JM(6), Kwon 
+OK(7), Jung MR(8), Jeong O(8), Lee CM(1)(9), Min JS(10), Kim JJ(11), An L(12), 
+Yang KS(13), Park S(1)(2), Lee IO(14); Deep Neuromuscular Block on Oncologic 
+Quality of Laparoscopic Surgery in Obese Gastric Cancer Patients (DEBLOQS_GC) 
+Study Group.
+
+Collaborators: Lee Y(15), Park SH(16), Yi JW(17), Kim YS(18), Bae HB(19), Jung 
+YH(20), Jung H(21), Choi YJ(22), Kim EJ(23), Kim DA(24), Yoon SZ(18).
+
+Author information:
+(1)From the Division of Foregut Surgery, Department of Surgery, Korea University 
+College of Medicine, Seoul, Republic of Korea (SH Park, JH Kim, CM Lee, S Park).
+(2)Division of Foregut Surgery, Korea University Anam Hospital, Seoul, Republic 
+of Korea (SH Park, S Park).
+(3)Department of Anesthesiology and Pain Medicine (Huh), Kyung Hee University 
+Hospital at Gangdong, Seoul, Republic of Korea.
+(4)Department of Surgery (Choi), Kyung Hee University Hospital at Gangdong, 
+Seoul, Republic of Korea.
+(5)Division of Foregut Surgery, Department of Surgery, Korea University Guro 
+Hospital, Seoul, Republic of Korea (JH Kim, Jang).
+(6)Department of Surgery, Chung-Ang University College of Medicine, Republic of 
+Korea (JM Park).
+(7)Department of Surgery, School of Medicine, Kyungpook National University, 
+Daegu, Republic of Korea (Kyoung Kwon).
+(8)Department of Surgery, Chonnam National University Medical School, 
+Jeollanam-do, Republic of Korea (Ran Jung, Jeong).
+(9)Division of Foregut Surgery, Korea University Ansan Hospital, Seoul, Republic 
+of Korea (CM Lee).
+(10)Department of Surgery, Dongnam Institute of Radiological and Medical 
+Sciences, Cancer Center, Busan, Republic of Korea (Seok Min).
+(11)Department of Surgery, Incheon St. Mary's Hospital, The Catholic University 
+of Korea College of Medicine, Incheon, Republic of Korea (JJ Kim).
+(12)Shaoxing Hospital Zhejiang University School of Medicine, Shaoxing, China 
+(An).
+(13)Department of Biostatistics, Korea University College of Medicine, Seoul, 
+Republic of Korea (Sook Yang).
+(14)Department of Anesthesiology and Pain Medicine, Korea University Guro 
+Hospital, Seoul, Republic of Korea (IO Lee).
+(15)Department of Surgery, Ewha Womans University Seoul Hospital, Seoul, 
+Republic of Korea.
+(16)Division of Foregut Surgery, Korea University College of Medicine, Seoul, 
+Republic of Korea.
+(17)Department of Anesthesiology and Pain Medicine, Kyung Hee University 
+Hospital at Gangdong, Seoul, Republic of Korea.
+(18)Department of Anesthesiology and Pain Medicine, Korea University Guro 
+Hospital, Seoul, Republic of Korea.
+(19)Department of Anesthesiology and Pain Medicine, Chonnam National University 
+Medical School, Jeollanam-do, Republic of Korea.
+(20)Department of Anesthesiology and Pain Medicine, Chung-Ang University College 
+of Medicine, Republic of Korea.
+(21)Department of Anesthesiology and Pain Medicine, School of Medicine, 
+Kyungpook National University, Daegu, Republic of Korea.
+(22)Department of Anesthesiology and Pain Medicine, Korea University Ansan 
+Hospital, Seoul, Republic of Korea.
+(23)Department of Anesthesiology and Pain Medicine, Dongnam Institute of 
+Radiological and Medical Sciences, Cancer Center, Busan, Republic of Korea.
+(24)Department of Anesthesiology and Pain Medicine, Incheon St. Mary's Hospital, 
+The Catholic University of Korea College of Medicine, Incheon, Republic of 
+Korea.
+
+BACKGROUND: Obesity can hinder laparoscopic procedures and impede oncological 
+safety during laparoscopic cancer surgery. Deep neuromuscular block (NMB) 
+reportedly improves laparoscopic surgical conditions, but its oncological 
+benefits are unclear. We aimed to evaluate whether deep NMB improves the 
+oncologic quality of laparoscopic cancer surgery in obese patients.
+STUDY DESIGN: We conducted a double-blinded, parallel-group, randomized, phase 3 
+trial at 9 institutions in Korea. Clinical stage I and II gastric cancer 
+patients with a BMI at or above 25 kg m -2 were eligible and randomized 1:1 
+ratio to the deep or moderate NMB groups, with continuous infusion of rocuronium 
+(0.5-1.0 and 0.1-0.5 mg kg -1 h -1, respectively). The primary endpoint was the 
+number of retrieved lymph nodes (LNs). The secondary endpoints included the 
+surgeon's surgical rating score (SRS) and interrupted events.
+RESULTS: Between August 2017 and July 2020, 196 patients were enrolled. Fifteen 
+patients were excluded, and 181 patients were finally included in the study. 
+There was no significant difference in the number of retrieved LNs between the 
+deep (N = 88) and moderate NMB groups (N = 93; 44.6 ± 17.5 vs 41.5 ± 16.9, p = 
+0.239). However, deep NMB enabled retrieving more LNs in patients with a BMI at 
+or above 28 kg/m2 than moderate NMB (49.2 ± 18.6 vs 39.2 ± 13.3, p = 0.026). 
+Interrupted events during surgery were lower in the deep NMB group than in the 
+moderate NMB group (21.6% vs 36.6%; p = 0.034). The SRS was not influenced by 
+NMB depth.
+CONCLUSION: Deep NMB provides potential oncologic benefits by retrieving more 
+LNs in patients with BMI at or above 28 kg/m2 during laparoscopic gastrectomy.
+
+Copyright © 2022 by the American College of Surgeons. Published by Wolters 
+Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/XCS.0000000000000061
+PMID: 35213496 [Indexed for MEDLINE]

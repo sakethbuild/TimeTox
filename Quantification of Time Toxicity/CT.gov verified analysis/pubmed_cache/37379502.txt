@@ -1,0 +1,78 @@
+2. J Clin Oncol. 2023 Sep 10;41(26):4208-4217. doi: 10.1200/JCO.23.00515. Epub
+2023  Jun 28.
+
+Lazertinib Versus Gefitinib as First-Line Treatment in Patients With 
+EGFR-Mutated Advanced Non-Small-Cell Lung Cancer: Results From LASER301.
+
+Cho BC(1), Ahn MJ(2), Kang JH(3), Soo RA(4), Reungwetwattana T(5), Yang JC(6), 
+Cicin I(7), Kim DW(8), Wu YL(9), Lu S(10), Lee KH(11), Pang YK(12), Zimina 
+A(13), Fong CH(14), Poddubskaya E(15), Sezer A(16), How SH(17), Danchaivijitr 
+P(18), Kim Y(19), Lim Y(19), An T(19), Lee H(19), Byun HM(19), Zaric B(20).
+
+Author information:
+(1)Division of Medical Oncology, Yonsei Cancer Center, Yonsei University College 
+of Medicine, Seoul, Republic of Korea.
+(2)Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, 
+Republic of Korea.
+(3)Division of Medical Oncology, Department of Internal Medicine, Seoul St 
+Mary's Hospital, The Catholic University of Korea, Seoul, Republic of Korea.
+(4)National University Hospital, Singapore, Singapore.
+(5)Division of Medical Oncology, Department of Medicine, Faculty of Medicine 
+Ramathibodi Hospital, Mahidol University, Bangkok, Thailand.
+(6)National Taiwan University Cancer Center and National Taiwan University 
+Hospital, Taipei, Taiwan.
+(7)Department of Medical Oncology, Trakya University Medical Center, Edirne, 
+Turkey.
+(8)Seoul National University College of Medicine, Seoul National University 
+Hospital, Seoul, Republic of Korea.
+(9)Guangdong Lung Cancer Institute, Guangdong Provincial People's Hospital 
+(Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 
+China.
+(10)Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai JiaoTong 
+University, Shanghai, China.
+(11)Internal Medicine Department, Chungbuk National University Hospital, 
+Cheongju, Republic of Korea.
+(12)Department of Medicine, Faculty of Medicine, University Malaya Medical 
+Centre, Kuala Lumpur, Malaysia.
+(13)Department of Oncology, Omsk Clinical Oncological Dispensary, Omsk, Russian 
+Federation.
+(14)Department of Radiotherapy and Oncology, Hospital Pulau Pinang, Penang, 
+Malaysia.
+(15)Personalized Oncology Department, I.M. Sechenov First Moscow State Medical 
+University, Moscow, Russian Federation.
+(16)Adana Baskent Practice and Research Hospital, Adana, Turkey.
+(17)Hospital Tengku Ampuan Afzan, Kuantan, Pahang, Malaysia.
+(18)Siriraj Hospital, Bangkok, Thailand.
+(19)Yuhan Corporation, Seoul, Republic of Korea.
+(20)Faculty of Medicine, Institute for Pulmonary Diseases of Vojvodina, 
+University of Novi Sad, Novi Sad, Serbia.
+
+PURPOSE: Lazertinib is a potent, CNS-penetrant, third-generation epidermal 
+growth factor receptor (EGFR) tyrosine kinase inhibitor. This global, phase III 
+study (LASER301) compared lazertinib versus gefitinib in treatment-naïve 
+patients with EGFR-mutated (exon 19 deletion [ex19del]/L858R) locally advanced 
+or metastatic non-small-cell lung cancer (NSCLC).
+PATIENTS AND METHODS: Patients were 18 years and older with no previous systemic 
+anticancer therapy. Neurologically stable patients with CNS metastases were 
+allowed. Patients were randomly assigned 1:1 to lazertinib 240 mg once daily 
+orally or gefitinib 250 mg once daily orally, stratified by mutation status and 
+race. The primary end point was investigator-assessed progression-free survival 
+(PFS) by RECIST v1.1.
+RESULTS: Overall, 393 patients received double-blind study treatment across 96 
+sites in 13 countries. Median PFS was significantly longer with lazertinib than 
+with gefitinib (20.6 v 9.7 months; hazard ratio [HR], 0.45; 95% CI, 0.34 to 
+0.58; P < .001). The PFS benefit of lazertinib over gefitinib was consistent 
+across all predefined subgroups. The objective response rate was 76% in both 
+groups (odds ratio, 0.99; 95% CI, 0.62 to 1.59). Median duration of response was 
+19.4 months (95% CI, 16.6 to 24.9) with lazertinib versus 8.3 months (95% CI, 
+6.9 to 10.9) with gefitinib. Overall survival data were immature at the interim 
+analysis (29% maturity). The 18-month survival rate was 80% with lazertinib and 
+72% with gefitinib (HR, 0.74; 95% CI, 0.51 to 1.08; P = .116). Observed safety 
+of both treatments was consistent with their previously reported safety 
+profiles.
+CONCLUSION: Lazertinib demonstrated significant efficacy improvement compared 
+with gefitinib in the first-line treatment of EGFR-mutated advanced NSCLC, with 
+a manageable safety profile.
+
+DOI: 10.1200/JCO.23.00515
+PMID: 37379502 [Indexed for MEDLINE]

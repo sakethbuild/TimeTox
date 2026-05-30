@@ -1,0 +1,179 @@
+8. JAMA Oncol. 2020 May 1;6(5):661-674. doi: 10.1001/jamaoncol.2020.0237.
+
+Durvalumab With or Without Tremelimumab vs Standard Chemotherapy in First-line 
+Treatment of Metastatic Non-Small Cell Lung Cancer: The MYSTIC Phase 3 
+Randomized Clinical Trial.
+
+Rizvi NA(1), Cho BC(2), Reinmuth N(3), Lee KH(4), Luft A(5), Ahn MJ(6), van den 
+Heuvel MM(7), Cobo M(8), Vicente D(9), Smolin A(10), Moiseyenko V(11), Antonia 
+SJ(12), Le Moulec S(13), Robinet G(14), Natale R(15), Schneider J(16), Shepherd 
+FA(17), Geater SL(18), Garon EB(19), Kim ES(20), Goldberg SB(21), Nakagawa 
+K(22), Raja R(23), Higgs BW(23), Boothman AM(24), Zhao L(23), Scheuring U(24), 
+Stockman PK(24), Chand VK(23), Peters S(25); MYSTIC Investigators.
+
+Author information:
+(1)Division of Hematology/Oncology, Columbia University Medical Center, New 
+York, New York.
+(2)Yonsei Cancer Center, Yonsei University College of Medicine, Seoul, South 
+Korea.
+(3)Asklepios Lung Clinic, Munich-Gauting, Germany.
+(4)Chungbuk National University Hospital, Chungbuk National University College 
+of Medicine, Cheongju, South Korea.
+(5)Department of Oncology No. 1 (Thoracic Surgery), Leningrad Regional Clinical 
+Hospital, St Petersburg, Russia.
+(6)Department of Hematology and Oncology, Samsung Medical Center, Seoul, South 
+Korea.
+(7)Nederlands Kanker Instituut-Antoni van Leeuwenhoekziekenhuis, Amsterdam, the 
+Netherlands.
+(8)Hospital Regional Universitario de Málaga, Instituto de Investigación 
+Biomédica de Málaga (IBIMA), Málaga, Spain.
+(9)Department of Medical Oncology, Hospital Universitario Virgen Macarena, 
+Seville, Spain.
+(10)Department of Radiology, Burdenko Main Military Clinical Hospital, Moscow, 
+Russia.
+(11)Oncological Clinical Research Center, St Petersburg, Russia.
+(12)H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida.
+(13)Department of Medical Oncology, Institut Bergonié, Bordeaux, France.
+(14)Service de Pneumologie, Centre Hospitalier Régional Universitaire de 
+Brest-Hôpital Morvan, Brest, France.
+(15)Cedars-Sinai Comprehensive Cancer Center, Los Angeles, California.
+(16)Department of Hematology and Oncology, NYU Winthrop Hospital, Mineola, New 
+York.
+(17)Princess Margaret Cancer Centre and the Department of Medicine, University 
+of Toronto, Toronto, Ontario, Canada.
+(18)Department of Internal Medicine, Prince of Songkla University, Songkhla, 
+Thailand.
+(19)David Geffen School of Medicine, University of California/TRIO-US Network, 
+Los Angeles.
+(20)Levine Cancer Institute, Atrium Health, Charlotte, North Carolina.
+(21)Yale School of Medicine and Yale Cancer Center, New Haven, Connecticut.
+(22)Faculty of Medicine, Department of Medical Oncology, Kindai University, 
+Osaka, Japan.
+(23)AstraZeneca, Gaithersburg, Maryland.
+(24)AstraZeneca, Cambridge, United Kingdom.
+(25)Department of Oncology, Centre Hospitalier Universitaire Vaudois, Lausanne 
+University, Lausanne, Switzerland.
+
+Erratum in
+    JAMA Oncol. 2020 Nov 1;6(11):1815. doi: 10.1001/jamaoncol.2020.5538.
+
+Comment in
+    JAMA Oncol. 2020 May 1;6(5):674-675. doi: 10.1001/jamaoncol.2020.0264.
+
+IMPORTANCE: Checkpoint inhibitors targeting programmed cell death 1 or its 
+ligand (PD-L1) as monotherapies or in combination with anti-cytotoxic 
+T-lymphocyte-associated antigen 4 have shown clinical activity in patients with 
+metastatic non-small cell lung cancer.
+OBJECTIVE: To compare durvalumab, with or without tremelimumab, with 
+chemotherapy as a first-line treatment for patients with metastatic non-small 
+cell lung cancer.
+DESIGN, SETTING, AND PARTICIPANTS: This open-label, phase 3 randomized clinical 
+trial (MYSTIC) was conducted at 203 cancer treatment centers in 17 countries. 
+Patients with treatment-naive, metastatic non-small cell lung cancer who had no 
+sensitizing EGFR or ALK genetic alterations were randomized to receive treatment 
+with durvalumab, durvalumab plus tremelimumab, or chemotherapy. Data were 
+collected from July 21, 2015, to October 30, 2018.
+INTERVENTIONS: Patients were randomized (1:1:1) to receive treatment with 
+durvalumab (20 mg/kg every 4 weeks), durvalumab (20 mg/kg every 4 weeks) plus 
+tremelimumab (1 mg/kg every 4 weeks, up to 4 doses), or platinum-based doublet 
+chemotherapy.
+MAIN OUTCOMES AND MEASURES: The primary end points, assessed in patients with 
+≥25% of tumor cells expressing PD-L1, were overall survival (OS) for durvalumab 
+vs chemotherapy, and OS and progression-free survival (PFS) for durvalumab plus 
+tremelimumab vs chemotherapy. Analysis of blood tumor mutational burden (bTMB) 
+was exploratory.
+RESULTS: Between July 21, 2015, and June 8, 2016, 1118 patients were randomized. 
+Baseline demographic and disease characteristics were balanced between treatment 
+groups. Among 488 patients with ≥25% of tumor cells expressing PD-L1, median OS 
+was 16.3 months (95% CI, 12.2-20.8) with durvalumab vs 12.9 months (95% CI, 
+10.5-15.0) with chemotherapy (hazard ratio [HR], 0.76; 97.54% CI, 0.56-1.02; 
+P = .04 [nonsignificant]). Median OS was 11.9 months (95% CI, 9.0-17.7) with 
+durvalumab plus tremelimumab (HR vs chemotherapy, 0.85; 98.77% CI, 0.61-1.17; 
+P = .20). Median PFS was 3.9 months (95% CI, 2.8-5.0) with durvalumab plus 
+tremelimumab vs 5.4 months (95% CI, 4.6-5.8) with chemotherapy (HR, 1.05; 99.5% 
+CI, 0.72-1.53; P = .71). Among 809 patients with evaluable bTMB, those with a 
+bTMB ≥20 mutations per megabase showed improved OS for durvalumab plus 
+tremelimumab vs chemotherapy (median OS, 21.9 months [95% CI, 11.4-32.8] vs 10.0 
+months [95% CI, 8.1-11.7]; HR, 0.49; 95% CI, 0.32-0.74). Treatment-related 
+adverse events of grade 3 or higher occurred in 55 (14.9%) of 369 patients who 
+received treatment with durvalumab, 85 (22.9%) of 371 patients who received 
+treatment with durvalumab plus tremelimumab, and 119 (33.8%) of 352 patients who 
+received treatment with chemotherapy. These adverse events led to death in 2 
+(0.5%), 6 (1.6%), and 3 (0.9%) patients, respectively.
+CONCLUSIONS AND RELEVANCE: The phase 3 MYSTIC study did not meet its primary end 
+points of improved OS with durvalumab vs chemotherapy or improved OS or PFS with 
+durvalumab plus tremelimumab vs chemotherapy in patients with ≥25% of tumor 
+cells expressing PD-L1. Exploratory analyses identified a bTMB threshold of ≥20 
+mutations per megabase for optimal OS benefit with durvalumab plus tremelimumab.
+TRIAL REGISTRATION: ClinicalT rials.gov Identifier: NCT02453282.
+
+DOI: 10.1001/jamaoncol.2020.0237
+PMCID: PMC7146551
+PMID: 32271377 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Rizvi 
+reports personal fees from AstraZeneca, AbbVie, Bellicum, Bristol-Myers Squibb, 
+Boehringer Ingelheim, Brooklyn Immunotherapeutics, Calithera, Dracen, Eli Lilly 
+and Company, EMD Serono, G1 Therapeutics, Genentech, Gilead, GlaxoSmithKline, 
+Illumina, Janssen, Merck, Neogenomics, Novartis, Pfizer, Regeneron, Takeda, and 
+Gritstone; grants from Bristol-Myers Squibb; equity in Bellicum, Brooklyn 
+Immunotherapeutics, and Gritstone; and has a patent pending for 
+PCT/US2015/062208 with royalties paid. Dr Cho reports research funding from 
+Novartis, Bayer, AstraZeneca, Mogam Institute, Dong-A ST, Champions Oncology, 
+Janssen, Yuhan, Ono Pharmaceutical, Dizal Pharma, and Merck Sharp & Dohme; 
+serving as a consultant for Novartis, AstraZeneca, Boehringer Ingelheim, Roche, 
+Bristol-Myers Squibb, Ono Pharmaceutical, Yuhan, Pfizer, Eli Lilly and Company, 
+Janssen, Takeda, and Merck Sharp & Dohme; stock ownership in TheraCanVac Inc, 
+Gencurix Inc, and Bridgebio Therapeutics; and royalties from Champions Oncology. 
+Dr Reinmuth reports personal fees and nonfinancial support from AstraZeneca, 
+Boehringer Ingelheim, Bristol-Myers Squibb, Merck Sharp & Dohme, Roche, 
+Novartis, Takeda, and Pfizer. Dr Lee reports grants from AstraZeneca and 
+personal fees from Bristol-Myers Squibb, Merck Sharp & Dohme, and AstraZeneca. 
+Dr Ahn reports personal fees from Merck Sharp & Dohme, Eli Lilly and Company, 
+Takeda, AstraZeneca, Novartis, Alpha Pharmaceutical, Yuhan, Ono Pharmaceutical, 
+Merck, and Bristol-Myers Squibb. Dr Vicente reports grants from AstraZeneca and 
+personal fees from AstraZeneca, Roche, Bristol-Myers Squibb, and Pfizer. Dr 
+Smolin reports grants from AstraZeneca, Bristol-Myers Squibb, Roche, Merck Sharp 
+& Dohme, and Biocad; nonfinancial support from Roche; and advisory board 
+participation for Boehringer Ingelheim. Dr Antonia reports personal fees from 
+AstraZeneca, Bristol-Myers Squibb, Achilles Therapeutics, Celsius, Cellular 
+Biomedicine Group, Samyang Biopharma, GlaxoSmithKline, Rapt Therapeutics, 
+Memgen, Venn Therapeutics, Amgen, and Merck. Dr Robinet reports grants and 
+personal fees from AstraZeneca, Roche, Merck Sharp & Dohme, and Bristol-Myers 
+Squibb, and personal fees from Bayer. Dr Natale reports that his spouse is an 
+employee of AstraZeneca. Dr Schneider reports stock ownership in Bristol-Myers 
+Squibb, GlaxoSmithKline, Novartis, and Pfizer. Dr Shepherd reports personal fees 
+from and stock ownership in AstraZeneca. Dr Geater reports grants from 
+AstraZeneca, Boehringer Ingelheim, Roche, and Novartis. Dr Garon reports grants 
+from AstraZeneca, Bristol-Myers Squibb, Dracen, EMD Serono, Genentech, Eli Lilly 
+and Company, Novartis, Merck, Neon, Mirati, Dynavax, and Iovance, and personal 
+fees from Dracen, EMD Serono, and Novartis. Dr Goldberg reports grants from 
+AstraZeneca and Boehringer Ingelheim and personal fees from AstraZeneca, 
+Boehringer Ingelheim, Eli Lilly and Company, Spectrum, Bristol-Myers Squibb, 
+Amgen, and Genentech. Dr Nakagawa reports grants and personal fees from Merck 
+Sharp & Dohme KK, Eli Lilly Japan KK, Bristol-Myers Squibb, Taiho 
+Pharmaceutical, Ono Pharmaceutical, Chugai Pharmaceutical Co, AstraZeneca KK, 
+Astellas Pharma, Novartis Pharma KK, Nippon Boehringer Ingelheim, Pfizer Japan, 
+Takeda, SymBio Pharmaceuticals, and Daiichi-Sankyo; grants from Merck Serono, 
+Icon Japan KK, Parexel International, IQVIA Services Japan KK, A2 Healthcare 
+Corp, AbbVie, EP-CRSU Co, Linical Co, Otsuka Pharmaceutical Co, EPS 
+International Holdings Co, Quintiles, CMIC Shift Zero KK, Eisai Co, Kissei 
+Pharmaceutical Co, Kyowa Hakko Kirin Co, EPS Corp, Bayer Yakuhin, inVentiv 
+Health Japan, Gritstone Oncology, GlaxoSmithKline KK, Yakult Honsha Co, and 
+Covance; and personal fees from Kyorin Pharmaceutical Co, CareNet, Nichi-Iko 
+Pharmaceutical Co, Hisamitsu Pharmaceutical Co, Yodosha Co, Clinical Trial Co, 
+Medicus Shuppan Publishers Co, Ayumi Pharmaceutical Corp, Nikkei Business 
+Publications, Thermo Fisher Scientific KK, Nanzando Co, Medical Review Co, 
+Yomiuri Telecasting Corp, and Reno Medical KK. Drs Raja and Higgs report a 
+patent pending related to tumor mutational burden, and employment at and stock 
+ownership in AstraZeneca. Drs Boothman, Scheuring, and Stockman report 
+employment at and stock ownership in AstraZeneca. Dr Zhao reports employment at 
+AstraZeneca. Dr Chand reports employment at and stock ownership in AstraZeneca 
+and stock ownership in Bristol-Myers Squibb. Dr Peters reports grants from 
+AstraZeneca and personal fees from AbbVie, Amgen, AstraZeneca, Bayer, Biocartis, 
+Bioinvent, Blueprint Medicines, Boehringer Ingelheim, Bristol-Myers Squibb, 
+Clovis, Daiichi-Sankyo, Debiopharm, Eli Lilly and Company, F. Hoffmann-La Roche, 
+Foundation Medicine, Illumina, Janssen, Merck Sharp & Dohme, Merck Serono, 
+Merrimack, Novartis, Pharmamar, Pfizer, Regeneron, Sanofi, Seattle Genetics, 
+Takeda, and Vaccibody, from whom she has received honoraria. No other 
+disclosures were reported.

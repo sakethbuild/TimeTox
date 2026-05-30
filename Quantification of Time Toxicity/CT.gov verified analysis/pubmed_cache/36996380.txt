@@ -1,0 +1,91 @@
+17. J Clin Oncol. 2023 Jun 20;41(18):3352-3362. doi: 10.1200/JCO.22.02394. Epub
+2023  Mar 30.
+
+Randomized Phase III Study of Enzalutamide Compared With Enzalutamide Plus 
+Abiraterone for Metastatic Castration-Resistant Prostate Cancer (Alliance 
+A031201 Trial).
+
+Morris MJ(1), Heller G(2), Hillman DW(3), Bobek O(3), Ryan C(4), Antonarakis 
+ES(4), Bryce AH(5), Hahn O(6), Beltran H(7), Armstrong AJ(8), Schwartz L(9), 
+Lewis LD(10), Beumer JH(11), Langevin B(12), McGary EC(13), Mehan PT(14), 
+Goldkorn A(15), Roth BJ(16), Xiao H(1), Watt C(17), Taplin ME(7), Halabi S(18), 
+Small EJ(19).
+
+Author information:
+(1)Genitourinary Oncology Service, Department of Medicine, Memorial Sloan 
+Kettering Cancer Center, New York, NY.
+(2)Alliance Statistics and Data Management Center, Department of Epidemiology 
+and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, NY.
+(3)Alliance Statistics and Data Management Center, Mayo Clinic, Rochester, MN.
+(4)Division of Hematology, Oncology, and Transplantation, Department of 
+Medicine, University of Minnesota, Minneapolis, MN.
+(5)Division of Hematology and Medical Oncology, Mayo Clinic, Phoenix, AZ.
+(6)University of Chicago Medical Center, Chicago, IL.
+(7)Department of Medical Oncology, Dana-Farber/Partners Cancer Care, Boston, MA.
+(8)Duke Cancer Institute Center for Prostate and Urologic Cancers, Division of 
+Medical Oncology, Department of Medicine, Duke University, Durham, NC.
+(9)Department of Radiology, Columbia University Irving Medical Center, New York, 
+NY.
+(10)Norris Cotton Cancer Center, The Geisel School of Medicine at Dartmouth and 
+The Dartmouth-Hitchcock Medical Center, Lebanon, NH.
+(11)University of Pittsburgh, Pittsburgh, PA.
+(12)Center for Translational Medicine, University of Maryland School of 
+Pharmacy, Baltimore, MD.
+(13)Division of Medical Oncology, Kaiser Permanente (SCAL) and Kaiser Permanente 
+School of Medicine, Cadillac, CA.
+(14)Missouri Baptist Hospital, St Louis, MO.
+(15)Division of Medical Oncology, Department of Medicine, Keck School of 
+Medicine and Norris Comprehensive Cancer Center, University of Southern 
+California, Los Angeles, CA.
+(16)Washington University School of Medicine, St Louis, MO.
+(17)University of Chicago, Chicago, IL.
+(18)Alliance Statistics and Data Management Center, and Department of 
+Biostatistics and Bioinformatics, Duke University, Durham, NC.
+(19)UCSF Helen Diller Family Comprehensive Cancer Center, University of 
+California San Francisco, San Francisco, CA.
+
+PURPOSE: Enzalutamide and abiraterone both target androgen receptor signaling 
+but via different mechanisms. The mechanism of action of one drug may counteract 
+the resistance pathways of the other. We sought to determine whether the 
+addition of abiraterone acetate and prednisone (AAP) to enzalutamide prolongs 
+overall survival (OS) in patients with metastatic castration-resistant prostate 
+cancer (mCRPC) in the first-line setting.
+PATIENTS AND METHODS: Men with untreated mCRPC were randomly assigned (1:1) to 
+receive first-line enzalutamide with or without AAP. The primary end point was 
+OS. Toxicity, prostate-specific antigen declines, pharmacokinetics, and 
+radiographic progression-free survival (rPFS) were also examined. Data were 
+analyzed using an intent-to-treat approach. The Kaplan-Meier estimate and the 
+stratified log-rank statistic were used to compare OS between treatments.
+RESULTS: In total, 1,311 patients were randomly assigned: 657 to enzalutamide 
+and 654 to enzalutamide plus AAP. OS was not statistically different between the 
+two arms (median, 32.7 [95% CI, 30.5 to 35.4] months for enzalutamide v 34.2 
+[95% CI, 31.4 to 37.3] months for enzalutamide and AAP; hazard ratio [HR], 0.89; 
+one-sided P = .03; boundary nominal significance level = .02). rPFS was longer 
+in the combination arm (median rPFS, 21.3 [95% CI, 19.4 to 22.9] months for 
+enzalutamide v 24.3 [95% CI, 22.3 to 26.7] months for enzalutamide and AAP; HR, 
+0.86; two-sided P = .02). However, pharmacokinetic clearance of abiraterone was 
+2.2- to 2.9-fold higher when administered with enzalutamide, compared with 
+clearance values for abiraterone alone.
+CONCLUSION: The addition of AAP to enzalutamide for first-line treatment of 
+mCRPC was not associated with a statistically significant benefit in OS. 
+Drug-drug interactions between the two agents resulting in increased abiraterone 
+clearance may partly account for this result, although these interactions did 
+not prevent the combination regimen from having more nonhematologic toxicity.
+
+DOI: 10.1200/JCO.22.02394
+PMCID: PMC10414728
+PMID: 36996380 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/jco/authors/author-center. Open Payments is a public database 
+containing information reported by companies about payments made to US-licensed 
+physicians (Open Payments). Eric J. Small Stock and Other Ownership Interests: 
+Fortis, Harpoon Therapeutics, Teon Therapeutics Honoraria: Janssen, Johnson and 
+Johnson Consulting or Advisory Role: Janssen Oncology, Teon Therapeutics, Fortis 
+Open Payments Link: https://openpaymentsdata.cms.gov/physician/660367 No other 
+potential conflicts of interest were reported.

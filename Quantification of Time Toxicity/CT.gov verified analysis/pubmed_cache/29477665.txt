@@ -1,0 +1,117 @@
+11. Lancet Oncol. 2018 Apr;19(4):510-520. doi: 10.1016/S1470-2045(18)30106-2.
+Epub  2018 Feb 21.
+
+Adjuvant vemurafenib in resected, BRAF(V600) mutation-positive melanoma (BRIM8): 
+a randomised, double-blind, placebo-controlled, multicentre, phase 3 trial.
+
+Maio M(1), Lewis K(2), Demidov L(3), Mandalà M(4), Bondarenko I(5), Ascierto 
+PA(6), Herbert C(7), Mackiewicz A(8), Rutkowski P(9), Guminski A(10), Goodman 
+GR(11), Simmons B(11), Ye C(11), Yan Y(11), Schadendorf D(12); BRIM8 
+Investigators.
+
+Collaborators: Cinat G, Fein LE, Brown M, Guminski A, Haydon A, Khattak A, 
+McNeil C, Parente P, Power J, Roberts-Thomson R, Sandhu S, Underhill C, Varma S, 
+Berger T, Awada A, Blockx N, Buyse V, Mebis J, Franke FA, Jobim de Azevedo S, 
+Silva Lazaretti N, Jamal R, Mihalcioiu C, Petrella T, Savage K, Song X, Wong R, 
+Dabelic N, Plestina S, Vojnovic Z, Arenberger P, Kocak I, Krajsova I, Kubala E, 
+Melichar B, Vantuchova Y, Putnik K, Dreno B, Dutriaux C, Grob JJ, Joly P, Lacour 
+JP, Meyer N, Mortier L, Thomas L, Fluck M, Gambichler T, Hassel J, Hauschild A, 
+Schadendorf D, Donnellan P, McCaffrey J, Power D, Ariad S, Bar-Sela G, Hendler 
+D, Ron I, Schachter J, Ascierto P, Berruti A, Bianchi L, Chiarion Sileni V, 
+Cognetti F, Danielli R, Di Giacomo AM, Gianni L, Goldhirsch A, Guida M, Maio M, 
+Mandalà M, Marchetti P, Queirolo P, Santoro A, Kapiteijn E, Mackiewicz A, 
+Rutkowski P, Ferreira P, Demidov L, Gafton G, Makarova Y, Andric Z, Babovic N, 
+Jovanovic D, Kandolf Sekulovic L, Cohen G, Dreosti L, Vorobiof D, Curiel Garcia 
+MT, Diaz Beveridge R, Majem Tarruella M, Marquez Rodas I, Puliats Rodriguez JM, 
+Rueda Dominguez A, Maroti M, Papworth K, Michielin O, Bondarenko I, Brown E, 
+Corrie P, Harries M, Herbert C, Kumar S, Martin-Clavijo A, Middleton M, Patel P, 
+Talbot T, Agarwala S, Chapman P, Conry R, Doolittle G, Gangadhar T, Hallmeyer S, 
+Hamid O, Hernandez-Aya L, Johnson D, Kass F, Kolevska T, Lewis K, Lunin S, 
+Salama A, Sikic B, Somer B, Spigel D, Whitman E.
+
+Author information:
+(1)Division of Medical Oncology and Immunotherapy, Center for Immuno-Oncology, 
+University Hospital of Siena, Siena, Italy. Electronic address: 
+mmaiocro@gmail.com.
+(2)University of Colorado Comprehensive Cancer Center, Aurora, CO, USA.
+(3)N N Blokhin Russian Cancer Research Center, Ministry of Health, Moscow, 
+Russia.
+(4)Department of Oncology and Haematology, Papa Giovanni XXIII Cancer Center 
+Hospital, Bergamo, Italy.
+(5)Dnipropetrovsk State Medical Academy, Dnipropetrovsk, Ukraine.
+(6)Melanoma Unit, Cancer Immunotherapy and Innovative Therapies, Istituto 
+Nazionale Tumori Fondazione Pascale, Naples, Italy.
+(7)Bristol Haematology and Oncology Centre, Bristol, UK.
+(8)Department of Cancer Immunology, Poznan University for Medical Sciences, 
+Med-POLONIA, Poznan, Poland.
+(9)Department of Soft Tissue/Bone Sarcoma and Melanoma, Maria Sklodowska-Curie 
+Institute-Oncology Center, Warsaw, Poland.
+(10)Melanoma Translational Research Group, Melanoma Institute Australia, 
+Wollstonecraft, NSW, Australia.
+(11)Genentech, Inc, South San Francisco, CA, USA.
+(12)Department of Dermatology, University Hospital Essen, Essen, Germany; German 
+Cancer Consortium, Heidelberg, Germany.
+
+Erratum in
+    Lancet Oncol. 2018 Apr;19(4):e184. doi: 10.1016/S1470-2045(18)30209-2.
+
+Comment in
+    Lancet Oncol. 2018 Apr;19(4):436-437. doi: 10.1016/S1470-2045(18)30150-5.
+    Nat Rev Clin Oncol. 2018 May;15(5):265. doi: 10.1038/nrclinonc.2018.39.
+
+BACKGROUND: Systemic adjuvant treatment might mitigate the high risk of disease 
+recurrence in patients with resected stage IIC-III melanoma. The BRIM8 study 
+evaluated adjuvant vemurafenib monotherapy in patients with resected, BRAFV600 
+mutation-positive melanoma.
+METHODS: BRIM8 was a phase 3, international, double-blind, randomised, 
+placebo-controlled study that enrolled 498 adults (aged ≥18 years) with 
+histologically confirmed stage IIC-IIIA-IIIB (cohort 1) or stage IIIC (cohort 2) 
+BRAFV600 mutation-positive melanoma that was fully resected. Patients were 
+randomly assigned (1:1) by an interactive voice or web response system to 
+receive twice-daily adjuvant oral vemurafenib 960 mg tablets or matching placebo 
+for 52 weeks (13 × 28-day cycles). Randomisation was done by permuted blocks 
+(block size 6) and was stratified by pathological stage and region in cohort 1 
+and by region in cohort 2. The investigators, patients, and sponsor were masked 
+to treatment assignment. The primary endpoint was disease-free survival in the 
+intention-to-treat population, evaluated separately in each cohort. Hierarchical 
+analysis of cohort 2 before cohort 1 was prespecified. This trial is registered 
+with ClinicalTrials.gov, number NCT01667419.
+FINDINGS: The study enrolled 184 patients in cohort 2 (93 were assigned to 
+vemurafenib and 91 to placebo) and 314 patients in cohort 1 (157 were assigned 
+to vemurafenib and 157 to placebo). At the time of data cutoff (April 17, 2017), 
+median study follow-up was 33·5 months (IQR 25·9-41·6) in cohort 2 and 30·8 
+months (25·5-40·7) in cohort 1. In cohort 2 (patients with stage IIIC disease), 
+median disease-free survival was 23·1 months (95% CI 18·6-26·5) in the 
+vemurafenib group versus 15·4 months (11·1-35·9) in the placebo group (hazard 
+ratio [HR] 0·80, 95% CI 0·54-1·18; log-rank p=0·26). In cohort 1 (patients with 
+stage IIC-IIIA-IIIB disease) median disease-free survival was not reached (95% 
+CI not estimable) in the vemurafenib group versus 36·9 months (21·4-not 
+estimable) in the placebo group (HR 0·54 [95% CI 0·37-0·78]; log-rank p=0·0010); 
+however, the result was not significant because of the prespecified hierarchical 
+prerequisite for the primary disease-free survival analysis of cohort 2 to show 
+a significant disease-free survival benefit. Grade 3-4 adverse events occurred 
+in 141 (57%) of 247 patients in the vemurafenib group and 37 (15%) of 247 
+patients in the placebo group. The most common grade 3-4 adverse events in the 
+vemurafenib group were keratoacanthoma (24 [10%] of 247 patients), arthralgia 
+(17 [7%]), squamous cell carcinoma (17 [7%]), rash (14 [6%]), and elevated 
+alanine aminotransferase (14 [6%]), although all keratoacanthoma events and most 
+squamous cell carcinoma events were by default graded as grade 3. In the placebo 
+group, grade 3-4 adverse events did not exceed 2% for any of the reported terms. 
+Serious adverse events were reported in 40 (16%) of 247 patients in the 
+vemurafenib group and 25 (10%) of 247 patients in the placebo group. The most 
+common serious adverse event was basal cell carcinoma, which was reported in 
+eight (3%) patients in each group. One patient in the vemurafenib group of 
+cohort 2 died 2 months after admission to hospital for grade 3 hypertension; 
+however, this death was not considered to be related to the study drug.
+INTERPRETATION: The primary endpoint of disease-free survival was not met in 
+cohort 2, and therefore the analysis of cohort 1 showing a numerical benefit in 
+disease-free survival with vemurafenib versus placebo in patients with resected 
+stage IIC-IIIA-IIIB BRAFV600 mutation-positive melanoma must be considered 
+exploratory only. 1 year of adjuvant vemurafenib was well tolerated, but might 
+not be an optimal treatment regimen in this patient population.
+FUNDING: F Hoffman-La Roche Ltd.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(18)30106-2
+PMID: 29477665 [Indexed for MEDLINE]

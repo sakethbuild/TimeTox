@@ -1,0 +1,111 @@
+11. J Clin Oncol. 2021 Dec 20;39(36):4029-4038. doi: 10.1200/JCO.21.00358. Epub
+2021  Oct 15.
+
+Phase III Trial Adding Vincristine-Topotecan-Cyclophosphamide to the Initial 
+Treatment of Patients With Nonmetastatic Ewing Sarcoma: A Children's Oncology 
+Group Report.
+
+Leavey PJ(1), Laack NN(2), Krailo MD(3), Buxton A(4), Randall RL(5), DuBois 
+SG(6), Reed DR(7), Grier HE(6), Hawkins DS(8), Pawel B(9), Nadel H(10), Womer 
+RB(11), Letson GD(7), Bernstein M(12), Brown K(13), Maciej A(14), Chuba P(15), 
+Ahmed AA(16), Indelicato DJ(17), Wang D(18), Marina N(19), Gorlick R(20), 
+Janeway KA(6), Mascarenhas L(9).
+
+Author information:
+(1)UT Southwestern Medical Center Dallas and Children's Health, Children's 
+Medical Center Dallas, Dallas, TX.
+(2)Mayo Clinic, Rochester, MN.
+(3)University of Southern California, Los Angeles, CA.
+(4)Children's Oncology, Operations Office, Monrovia, CA.
+(5)UC Davis, Sacramento, CA.
+(6)Dana-Farber/Boston Children's Cancer and Blood Disorders Center, Harvard 
+Medical School, Boston, MA.
+(7)Moffitt Cancer Center Adolescent and Young Adult Program, Tampa, FL.
+(8)Seattle Children's Hospital, Seattle, WA.
+(9)Children's Hospital Los Angeles, Keck School of Medicine, University of 
+Southern California, Los Angeles, CA.
+(10)Lucile Packard Children's Hospital Stanford University, Palo Alto, CA.
+(11)Children's Hospital of Philadelphia, Philadelphia, PA.
+(12)IWK Health Center, Halifax, NS.
+(13)British Columbia Children's Hospital, Vancouver, BC, Canada.
+(14)University of Minnesota Medical Center, Minneapolis, MN.
+(15)St John Hospital and Medical Center, Grosse Pointe, MI.
+(16)The Children's Mercy Hospital, Kansas City, MO.
+(17)University of Florida, Jacksonville, FL.
+(18)Rush University Medical Center, Chicago, IL.
+(19)Stanford University School of Medicine, Lucile Packard Children's Hospital, 
+Stanford, CA.
+(20)MD Anderson Cancer Center, Houston, TX.
+
+Erratum in
+    J Clin Oncol. 2022 Jul 20;40(21):2393. doi: 10.1200/JCO.22.01234.
+
+Comment in
+    J Clin Oncol. 2022 May 1;40(13):1506. doi: 10.1200/JCO.21.02546.
+    J Clin Oncol. 2022 May 1;40(13):1507-1508. doi: 10.1200/JCO.21.02922.
+
+PURPOSE: The primary aim of this phase III randomized trial was to test whether 
+the addition of vincristine, topotecan, and cyclophosphamide (VTC) to interval 
+compressed chemotherapy improved survival outcomes for patients with previously 
+untreated nonmetastatic Ewing sarcoma.
+METHODS: Patients were randomly assigned to receive standard five-drug interval 
+compressed chemotherapy (regimen A) for 17 cycles or experimental therapy with 
+five cycles of VTC within the 17 cycles (regimen B). Patients were stratified by 
+age at diagnosis (< 18 years and ≥18 years) and tumor site (pelvic bone, 
+nonpelvic bone, and extraosseous). Tumor volume at diagnosis was categorized as 
+< 200 mL or ≥ 200 mL. Local control occurred following six cycles. Histologic 
+response was categorized as no viable or any viable tumor. Event-free survival 
+(EFS) and overall survival (OS) were compared between randomized groups with 
+stratified log-rank tests.
+RESULTS: Of 642 enrolled patients, 309 eligible patients received standard and 
+320 received experimental therapy. The 5-year EFS and OS were 78% and 87%, 
+respectively. There was no difference in survival outcomes between randomized 
+groups (5-year EFS regimen A v regimen B, 78% v 79%; P = .192; 5-year OS 86% v 
+88%; P = .159). Age and primary site did not affect the risk of an EFS event. 
+However, age ≥ 18 years was associated with an increased risk of death at 5 
+years (hazard ratio 1.84; 95% CI, 1.15 to 2.96; P = .009). The 5-year EFS rates 
+for patients with pelvic, nonpelvic bone, and extraosseous primary tumors were 
+75%, 78%, and 85%, respectively. Tumor volume ≥ 200 mL was significantly 
+associated with lower EFS.
+CONCLUSION: While VTC added to five-drug interval compressed chemotherapy did 
+not improve survival, these outcomes represent the best survival estimates to 
+date for patients with previously untreated nonmetastatic Ewing sarcoma.
+
+DOI: 10.1200/JCO.21.00358
+PMCID: PMC8677904
+PMID: 34652968 [Indexed for MEDLINE]
+
+Conflict of interest statement: Patrick J. LeaveyResearch Funding: Eleison 
+Pharmaceuticals Nadia N. LaackResearch Funding: Bristol Myers Squib Mark D. 
+KrailoConsulting or Advisory Role: Merck Sharp & DohmeTravel, Accommodations, 
+Expenses: Merck Sharp & Dohme R. Lor RandallHonoraria: Daiichi Sankyo, Onkos 
+Surgical, OncliveTravel, Accommodations, Expenses: Biomet, Daiichi Sankyo/Lilly 
+Steven G. DuBoisResearch Funding: Merck (Inst), Roche/Genentech (Inst), Lilly 
+(Inst), Curis (Inst), Loxo (Inst), BMS (Inst), Eisai (Inst), Pfizer (Inst), 
+Turning Point Therapeutics (Inst), Bayer (Inst), Salarius Pharmaceuticals 
+(Inst)Travel, Accommodations, Expenses: Roche/Genentech, Salarius 
+PharmaceuticalsUncompensated Relationships: Y-mAbs Therapeutics Inc Damon R. 
+ReedConsulting or Advisory Role: Eisai, PfizerTravel, Accommodations, Expenses: 
+Salarius Pharmaceuticals Douglas S. HawkinsResearch Funding: Loxo (Inst), 
+Bristol Myers Squibb (Inst), Merck Sharp & Dohme (Inst), Bayer (Inst), Lilly 
+(Inst), Eisai (Inst), Amgen (Inst), Seattle Genetics (Inst), Incyte (Inst), Jazz 
+Pharmaceuticals (Inst), Pfizer (Inst)Travel, Accommodations, Expenses: Bayer, 
+AstraZeneca Helen NadelConsulting or Advisory Role: ICON Clinical Research G. 
+Douglas LetsonEmployment: StrykerConsulting or Advisory Role: StrykerTravel, 
+Accommodations, Expenses: Stryker Mark BernsteinResearch Funding: Merck Paul 
+ChubaEmployment: Radiation Oncology Specialists Neyssa MarinaEmployment: Five 
+Prime Therapeutics, Genentech/Roche (I), Synthorx, Sanofi PasteurStock and Other 
+Ownership Interests: Five Prime Therapeutics, Genentech/Roche (I), Synthorx, 
+Sanofi PasteurTravel, Accommodations, Expenses: Five Prime Therapeutics, 
+SynthorxUncompensated Relationships: Stanford University School of MedicineOpen 
+Payments Link: https://openpaymentsdata.cms.gov/physician/1210881 Richard 
+GorlickResearch Funding: Eisai Katherine A. JanewayHonoraria: Foundation 
+MedicineConsulting or Advisory Role: Bayer, IpsenTravel, Accommodations, 
+Expenses: Bayer Leo MascarenhasConsulting or Advisory Role: BayerResearch 
+Funding: AstraZeneca/MedImmune, Lilly, Bayer, Salarius Pharmaceuticals, Turning 
+Point Therapeutics, Pfizer, Incyte, Amgen, E.R. Squibb Sons, LLC, Jazz 
+Pharmaceuticals, MerckTravel, Accommodations, Expenses: Bayer, Lilly, Thermo 
+Fisher Scientific, Salarius PharmaceuticalsUncompensated Relationships: 
+Children's Oncology Group Foundation, The Pablove Foundation, American Society 
+of Pediatric Hematology/OncologyNo other potential conflicts of interest were 
+reported.

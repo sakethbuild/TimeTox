@@ -1,0 +1,55 @@
+4. J Clin Oncol. 2019 Aug 10;37(23):2072-2081. doi: 10.1200/JCO.19.00327. Epub
+2019  Jun 27.
+
+Clofarabine Can Replace Anthracyclines and Etoposide in Remission Induction 
+Therapy for Childhood Acute Myeloid Leukemia: The AML08 Multicenter, Randomized 
+Phase III Trial.
+
+Rubnitz JE(1), Lacayo NJ(2), Inaba H(1), Heym K(3), Ribeiro RC(1), Taub J(4), 
+McNeer J(5), Degar B(6), Schiff D(7), Yeoh AE(8), Coustan-Smith E(8), Wang L(1), 
+Triplett B(1), Raimondi SC(1), Klco J(1), Choi J(1), Pounds S(1), Pui CH(1).
+
+Author information:
+(1)1St Jude Children's Research Hospital and the University of Tennessee Health 
+Science Center, College of Medicine, Memphis, TN.
+(2)2Lucile Packard Children's Hospital and Stanford Cancer Center, Palo Alto, 
+CA.
+(3)3Cook Children's Medical Center, Fort Worth, TX.
+(4)4Children's Hospital of Michigan, Detroit, MI.
+(5)5University of Chicago, Chicago, IL.
+(6)6Dana-Farber Cancer Institute, Boston, MA.
+(7)7Rady Children's Hospital, San Diego, CA.
+(8)8National University Health System, Singapore.
+
+Comment in
+    Lancet Oncol. 2019 Aug;20(8):e402. doi: 10.1016/S1470-2045(19)30452-8.
+
+PURPOSE: To identify effective and less toxic therapy for children with acute 
+myeloid leukemia, we introduced clofarabine into the first course of remission 
+induction to reduce exposure to daunorubicin and etoposide.
+PATIENTS AND METHODS: From 2008 through 2017, 285 patients were enrolled at 
+eight centers; 262 were randomly assigned to receive clofarabine and cytarabine 
+(Clo+AraC, n = 129) or high-dose cytarabine, daunorubicin, and etoposide 
+(HD-ADE, n = 133) as induction I. Induction II consisted of low-dose ADE given 
+alone or combined with sorafenib or vorinostat. Consolidation therapy comprised 
+two or three additional courses of chemotherapy or hematopoietic cell 
+transplantation. Genetic abnormalities and the level of minimal residual disease 
+(MRD) at day 22 of initial remission induction determined final risk 
+classification. The primary end point was MRD at day 22.
+RESULTS: Complete remission was induced after two courses of therapy in 263 
+(92.3%) of the 285 patients; induction failures included four early deaths and 
+15 cases of resistant leukemia. Day 22 MRD was positive in 57 of 121 randomly 
+assigned evaluable patients (47%) who received Clo+AraC and 42 of 121 patients 
+(35%) who received HD-ADE (odds ratio, 1.86; 95% CI, 1.03 to 3.41; P = .04). 
+Despite this result, the 3-year event-free survival rate (52.9% [44.6% to 62.8%] 
+for Clo+AraC v 52.4% [44.0% to 62.4%] for HD-ADE, P = .94) and overall survival 
+rate (74.8% [67.1% to 83.3%] for Clo+AraC v 64.6% [56.2% to 74.2%] for HD-ADE, P 
+= .1) did not differ significantly across the two arms.
+CONCLUSION: Our findings suggest that the use of clofarabine with cytarabine 
+during remission induction might reduce the need for anthracycline and etoposide 
+in pediatric patients with acute myeloid leukemia and may reduce rates of 
+cardiomyopathy and treatment-related cancer.
+
+DOI: 10.1200/JCO.19.00327
+PMCID: PMC7001777
+PMID: 31246522 [Indexed for MEDLINE]

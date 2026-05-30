@@ -1,0 +1,67 @@
+15. N Engl J Med. 2012 Jul 12;367(2):107-14. doi: 10.1056/NEJMoa1203421. Epub
+2012  Jun 4.
+
+Improved survival with MEK inhibition in BRAF-mutated melanoma.
+
+Flaherty KT(1), Robert C, Hersey P, Nathan P, Garbe C, Milhem M, Demidov LV, 
+Hassel JC, Rutkowski P, Mohr P, Dummer R, Trefzer U, Larkin JM, Utikal J, Dreno 
+B, Nyakas M, Middleton MR, Becker JC, Casey M, Sherman LJ, Wu FS, Ouellet D, 
+Martin AM, Patel K, Schadendorf D; METRIC Study Group.
+
+Collaborators: Cinat G, Begbie S, Cebon J, Cheong K, Haydon AM, Leong D, 
+Mainwaring P, Price T, Thomson D, Varma S, Hoeller C, Baurain JF, Buyse V, 
+Kerger J, Neyns B, Renard V, Rutten A, Schöffski P, Verschaeve V, Belanger K, 
+Chang J, Cheng T, Davis M, Hogg D, Klasa R, Mihalcioiu C, Song X, Tozer R, 
+Kohoutek M, Krajsova I, Kubala E, Vantuchova Y, Guillot B, Lebbe C, Leccia MT, 
+Lefeuvre-Plesse C, Saiag P, Gesierich A, Stein A, Stolz W, Terheyden P, 
+Bafaloukos D, Gogas H, Fountzilas G, Del Vecchio M, Falcone A, Pilla L, Testori 
+A, Barrow C, Fitzharris BM, Jackson C, Murawa P, Sarosiek T, Chekha NA, Gladkov 
+OA, Levchenko EV, Hansson J, Lundgren L, Stierner U, Ullenhag G, Walz T, 
+Banakhevych NV, Bondarenko IN, Galaychuk IY, Hotko YS, Kurochkin AV, Popovska 
+TM, Shchepotin IB, Shparyk Y, Sorkin VM, Arkenau T, Corrie P, Davidson NG, 
+Lorigan P, Marples M, Nicolson M, Ottensmeier C, Steven N, Blakely J, Cranmer L, 
+Hermann RC, Infante JR, Olencki T, Flaherty K, Nathan P, Schadendorf D, Robert 
+C, Hersey P, Patel K, Sherman L, Gonzalez R, Petrella T, Shyr Y, Crist W, 
+Williams J, Gunshenan M, Richardson M.
+
+Author information:
+(1)Massachusetts General Hospital Cancer Center, Boston, USA. 
+kflaherty@partners.org
+
+Comment in
+    N Engl J Med. 2012 Jul 12;367(2):171-2. doi: 10.1056/NEJMe1205654.
+    N Engl J Med. 2012 Oct 4;367(14):1364; author reply 1365. doi: 
+10.1056/NEJMc1209663.
+    N Engl J Med. 2012 Oct 4;367(14):1364-5. doi: 10.1056/NEJMc1209663.
+
+BACKGROUND: Activating mutations in serine-threonine protein kinase B-RAF (BRAF) 
+are found in 50% of patients with advanced melanoma. Selective BRAF-inhibitor 
+therapy improves survival, as compared with chemotherapy, but responses are 
+often short-lived. In previous trials, MEK inhibition appeared to be promising 
+in this population.
+METHODS: In this phase 3 open-label trial, we randomly assigned 322 patients who 
+had metastatic melanoma with a V600E or V600K BRAF mutation to receive either 
+trametinib, an oral selective MEK inhibitor, or chemotherapy in a 2:1 ratio. 
+Patients received trametinib (2 mg orally) once daily or intravenous dacarbazine 
+(1000 mg per square meter of body-surface area) or paclitaxel (175 mg per square 
+meter) every 3 weeks. Patients in the chemotherapy group who had disease 
+progression were permitted to cross over to receive trametinib. Progression-free 
+survival was the primary end point, and overall survival was a secondary end 
+point.
+RESULTS: Median progression-free survival was 4.8 months in the trametinib group 
+and 1.5 months in the chemotherapy group (hazard ratio for disease progression 
+or death in the trametinib group, 0.45; 95% confidence interval [CI], 0.33 to 
+0.63; P<0.001). At 6 months, the rate of overall survival was 81% in the 
+trametinib group and 67% in the chemotherapy group despite crossover (hazard 
+ratio for death, 0.54; 95% CI, 0.32 to 0.92; P=0.01). Rash, diarrhea, and 
+peripheral edema were the most common toxic effects in the trametinib group and 
+were managed with dose interruption and dose reduction; asymptomatic and 
+reversible reduction in the cardiac ejection fraction and ocular toxic effects 
+occurred infrequently. Secondary skin neoplasms were not observed.
+CONCLUSIONS: Trametinib, as compared with chemotherapy, improved rates of 
+progression-free and overall survival among patients who had metastatic melanoma 
+with a BRAF V600E or V600K mutation. (Funded by GlaxoSmithKline; METRIC 
+ClinicalTrials.gov number, NCT01245062.).
+
+DOI: 10.1056/NEJMoa1203421
+PMID: 22663011 [Indexed for MEDLINE]

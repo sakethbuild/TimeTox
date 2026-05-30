@@ -1,0 +1,120 @@
+12. J Clin Oncol. 2022 Feb 1;40(4):356-368. doi: 10.1200/JCO.21.02293. Epub 2021
+Dec  2.
+
+Randomized Phase III BMT CTN Trial of Calcineurin Inhibitor-Free Chronic 
+Graft-Versus-Host Disease Interventions in Myeloablative Hematopoietic Cell 
+Transplantation for Hematologic Malignancies.
+
+Luznik L(1), Pasquini MC(2), Logan B(2), Soiffer RJ(3), Wu J(4), Devine SM(5), 
+Geller N(6), Giralt S(7), Heslop HE(8), Horowitz MM(2), Jones RJ(1), Litzow 
+MR(9), Mendizabal A(4), Muffly L(10), Nemecek ER(11), O'Donnell L(12), O'Reilly 
+RJ(7), Palencia R(13), Schetelig J(13), Shune L(14), Solomon SR(15), Vasu S(12), 
+Ho VT(3), Perales MA(7).
+
+Author information:
+(1)Johns Hopkins Medical Center, Baltimore, MD.
+(2)Medical College of Wisconsin, Milwaukee, WI.
+(3)Dana Farber Cancer Institute, Boston, MA.
+(4)Emmes Company, Rockville, MD.
+(5)National Marrow Donor Program/Be the Match, Minneapolis, MN.
+(6)National Heart, Lung and Blood Institute, Rockville, MD.
+(7)Memorial Sloan Kettering Cancer Center, New York, NY.
+(8)Baylor College of Medicine, Houston, TX.
+(9)Mayo Clinic, Rochester, MN.
+(10)Stanford University, Palo Alto, CA.
+(11)Oregon Health & Science University, Portland, OR.
+(12)Ohio State University, Columbus, OH.
+(13)DKMS, Dresden, Germany.
+(14)University of Kansas Health Systems, Kansas City, KS.
+(15)BMT Georgia at Northside Hospital, Atlanta, GA.
+
+PURPOSE: Calcineurin inhibitors (CNI) are standard components of 
+graft-versus-host disease (GVHD) prophylaxis after hematopoietic cell 
+transplantation (HCT). Prior data suggested that CNI-free approaches using donor 
+T-cell depletion, either by ex vivo CD34 selection or in vivo post-transplant 
+cyclophosphamide (PTCy) as a single agent, are associated with lower rates of 
+chronic GVHD (cGVHD).
+METHODS: This multicenter phase III trial randomly assigned patients with acute 
+leukemia or myelodysplasia and an HLA-matched donor to receive CD34-selected 
+peripheral blood stem cell, PTCy after a bone marrow (BM) graft, or tacrolimus 
+and methotrexate after BM graft (control). The primary end point was cGVHD 
+(moderate or severe) or relapse-free survival (CRFS).
+RESULTS: Among 346 patients enrolled, 327 received HCT, 300 per protocol. 
+Intent-to-treat rates of 2-year CRFS were 50.6% for CD34 selection (hazard ratio 
+[HR] compared with control, 0.80; 95% CI, 0.56 to 1.15; P = .24), 48.1% for PTCy 
+(HR, 0.86; 0.61 to 1.23; P = .41), and 41.0% for control. Corresponding rates of 
+overall survival were 60.1% (HR, 1.74; 1.09 to 2.80; P = .02), 76.2% (HR, 1.02; 
+0.60 to 1.72; P = .95), and 76.1%. CD34 selection was associated with lower 
+moderate to severe cGVHD (HR, 0.25; 0.12 to 0.52; P = .02) but higher 
+transplant-related mortality (HR, 2.76; 1.26 to 6.06; P = .01). PTCy was 
+associated with comparable cGVHD and survival outcomes to control, and a trend 
+toward lower disease relapse (HR, 0.52; 0.28 to 0.96; P = .037).
+CONCLUSION: CNI-free interventions as performed herein did not result in 
+superior CRFS compared with tacrolimus and methotrexate with BM. Lower rates of 
+moderate and severe cGVHD did not translate into improved survival.
+
+DOI: 10.1200/JCO.21.02293
+PMCID: PMC8797487
+PMID: 34855460 [Indexed for MEDLINE]
+
+Conflict of interest statement: Leo LuznikConsulting or Advisory Role: Gilead 
+Sciences, Talaris Therapheutics, Precision BioSciences, Rubius Therapheutics, 
+WindMiL TherapheuticsResearch Funding: Genentech, Amgen (I)Patents, Royalties, 
+Other Intellectual Property: Patent holder WindMIL therapheuticsUncompensated 
+Relationships: WindMIL therapheutics Marcelo C. PasquiniHonoraria: 
+HonorariaConsulting or Advisory Role: Pfizer, Medigene (Inst), Amgen¸ Bristol 
+Myers SquibbResearch Funding: Kite/Gilead (Inst), Novartis (Inst), Bristol Myers 
+Squibb (Inst) Brent LoganConsulting or Advisory Role: Daiichi Sankyo, Enlivex 
+Therapeutics Ltd, Gamida Cell Robert J. SoifferLeadership: Kiadis Pharma, Be the 
+Match/NMDPConsulting or Advisory Role: Juno Therapeutics, Gilead Sciences, Rheos 
+Medicines, Cugene, Jazz Pharmaceuticals, Precision Biosciences, Takeda, Jasper 
+Therapeutics, Alexion PharmaceuticalsExpert Testimony: PfizerTravel, 
+Accommodations, Expenses: Gilead Sciences Steven M. DevineThis author is a 
+member of the Journal of Clinical Oncology Editorial Board. Journal policy 
+recused the author from having any role in the peer review of this 
+manuscript.Honoraria: Kiadis PharmaConsulting or Advisory Role: Bristol Myers 
+SquibbResearch Funding: Orca Bio (Inst), Kiadis Pharma (Inst)Travel, 
+Accommodations, Expenses: Orca Bio Sergio GiraltThis author is a member of the 
+Journal of Clinical Oncology Editorial Board. Journal policy recused the author 
+from having any role in the peer review of this manuscript.Honoraria: Celgene, 
+Takeda, Amgen, Jazz Pharmaceuticals, SanofiConsulting or Advisory Role: Celgene, 
+Takeda, Sanofi, Jazz Pharmaceuticals, Amgen, Janssen, Actinuum, Bristol Myers 
+Squibb, Johnson & Johnson, PfizerResearch Funding: Celgene (Inst), Takeda, 
+Miltenyi Biotec (Inst), Johnson & Johnson, Amgen, Actinuum, SanofiTravel, 
+Accommodations, Expenses: Celgene, Sanofi, Amgen, Jazz Pharmaceuticals Helen E. 
+HeslopStock and Other Ownership Interests: Marker Therapeutics, Allovir, Fresh 
+Wind BiotechnologiesConsulting or Advisory Role: Gilead Sciences, Novartis, 
+Kiadis Pharma, Tessa Therapeutics, Marker Therapeutics, PACT Pharma, Mesoblast, 
+GlaxoSmithKline, Takara BioResearch Funding: Tessa Therapeutics (Inst) Mary M. 
+HorowitzConsulting or Advisory Role: MedacResearch Funding: Biovitrum (Inst), 
+Jazz Pharmaceuticals (Inst), Magenta Therapeutics (Inst), Novartis (Inst), 
+Kite/Gilead (Inst), Actinium Pharmaceuticals (Inst), Amgen (Inst), Bluebird Bio 
+(Inst), Bristol Myers Squibb (Inst), Chimerix (Inst), CSL Behring¸ Daiichi 
+Sankyo (Inst), Gamida Cell (Inst), GlaxoSmithKline (Inst), Mesoblast (Inst), 
+Miltenyi Biotec (Inst), Oncoimmune (Inst), Pfizer (Inst), Pharmacyclics (Inst), 
+Regeneron (Inst), Sanofi (Inst), Seattle Genetics (Inst), Shire (Inst), Astellas 
+Pharma, Xenikos (Inst) Mark R. LitzowConsulting or Advisory Role: Omeros, Jazz 
+PharmaceuticalsResearch Funding: Amgen, Astellas Pharma, Actinium 
+Pharmaceuticals, Pluristem Therapeutic, AbbVie/Genentech, Tolero 
+Pharmaceuticals, AbbVieOther Relationship: Biosight Lori MufflyStock and Other 
+Ownership Interests: Corvus PharmaceuticalsHonoraria: UpToDateConsulting or 
+Advisory Role: Pfizer, Amgen, medexus, Jazz PharmaceuticalsSpeakers' Bureau: 
+Adaptive BiotechnologiesResearch Funding: Shire, Adaptive Biotechnologies, 
+Astellas Pharma, Jasper Therapeutics Eneida R. NemecekConsulting or Advisory 
+Role: Medexus, Medac, Novartis, Atara Biotherapeutics Richard J. 
+O'ReillyConsulting or Advisory Role: Atara BiotherapeuticsResearch Funding: 
+Atara BiotherapeuticsPatents, Royalties, Other Intellectual Property: I have 
+received royalties following licensure of the EBV-specific T-cell bank by Atara 
+Biotherapeutics Johannes ScheteligHonoraria: Roche, AbbVie, Janssen, Bristol 
+Myers Squibb/Sanofi, Gilead Sciences, AstraZenecaConsulting or Advisory Role: 
+AstraZeneca, AbbVie, Janssen Sumithira VasuConsulting or Advisory Role: Omeros, 
+Johnson and JohnsonResearch Funding: SanofiOpen Payments Link: 
+https://openpaymentsdata.cms.gov/physician/725618 Vincent T. HoConsulting or 
+Advisory Role: Jazz Pharmaceuticals, Janssen, Alexion Pharmaceuticals, 
+OmerosResearch Funding: Jazz Pharmaceuticals Miguel-Angel PeralesStock and Other 
+Ownership Interests: NexImmuneHonoraria: MorphoSysConsulting or Advisory Role: 
+Incyte, Merck, Servier/Pfizer, NexImmune, Novartis, MolMed¸ Medigene, Takeda, 
+Nektar, AbbVie, Cidara Therapeutics, Celgene, Kite/Gilead, Bristol Myers Squibb, 
+Omeros, Vor BiopharmaResearch Funding: Incyte (Inst), Miltenyi Biotec (Inst), 
+Novartis (Inst), Kite, a Gilead company (Inst), Nektar (Inst)No other potential 
+conflicts of interest were reported.

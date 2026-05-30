@@ -1,0 +1,125 @@
+11. JAMA Oncol. 2019 Nov 1;5(11):1582-1588. doi: 10.1001/jamaoncol.2019.2792.
+
+Assessment of Treatment With Sorafenib Plus Doxorubicin vs Sorafenib Alone in 
+Patients With Advanced Hepatocellular Carcinoma: Phase 3 CALGB 80802 Randomized 
+Clinical Trial.
+
+Abou-Alfa GK(1)(2), Shi Q(3), Knox JJ(4), Kaubisch A(5), Niedzwiecki D(6), Posey 
+J(7), Tan BR Jr(8), Kavan P(9), Goel R(10), Lammers PE(11), Bekaii-Saab TS(12), 
+Tam VC(13), Rajdev L(5), Kelley RK(14), El Dika I(1)(2), Zemla T(3), Potaracke 
+RI(3), Balletti J(1), El-Khoueiry AB(15), Harding JJ(1)(2), Suga JM(16), 
+Schwartz LH(17), Goldberg RM(18), Bertagnolli MM(19), Meyerhardt J(20), O'Reilly 
+EM(1)(2), Venook AP(14).
+
+Author information:
+(1)Memorial Sloan Kettering Cancer Center, New York, New York.
+(2)Weill Cornell Medical College, Cornell University, New York, New York.
+(3)Alliance Statistics and Data Center, Mayo Clinic, Rochester, Minnesota.
+(4)Princess Margaret Cancer Centre, Toronto, Ontario, Canada.
+(5)Montefiore Medical Center, New York, New York.
+(6)Department of Biostatistics and Bioinformatics, Duke University, Durham, 
+North Carolina.
+(7)Thomas Jefferson University, Philadelphia, Pennsylvania.
+(8)Washington University School of Medicine, St Louis, Missouri.
+(9)McGill University, Montreal, Quebec, Canada.
+(10)Ottawa Hospital, Ottawa, Ontario, Canada.
+(11)Meharry Medical College, Nashville, Tennessee.
+(12)Mayo Clinic, Scottsdale, Arizona.
+(13)Tom Baker Cancer Centre, Calgary, Alberta, Canada.
+(14)Helen Diller Family Comprehensive Cancer Center, University of California, 
+San Francisco.
+(15)Norris Comprehensive Cancer Center, Keck School of Medicine, University of 
+Southern California, Los Angeles.
+(16)Kaiser Permanente Vallejo Medical Center, Vallejo, California.
+(17)Columbia University Medical Center, New York-Presbyterian Hospital, New 
+York, New York.
+(18)West Virginia University Cancer Institute, Morgantown.
+(19)Brigham and Women's Hospital, Boston, Massachusetts.
+(20)Dana-Farber Cancer Institute, Boston, Massachusetts.
+
+Erratum in
+    JAMA Oncol. 2019 Nov 1;5(11):1643. doi: 10.1001/jamaoncol.2019.4781.
+
+Comment in
+    Ann Transl Med. 2020 Dec;8(24):1693. doi: 10.21037/atm-2020-131.
+    Ann Transl Med. 2020 Dec;8(24):1695. doi: 10.21037/atm-2020-130.
+
+IMPORTANCE: Previous communication has reported significant improvement in 
+overall survival (OS) when using doxorubicin plus sorafenib in the treatment of 
+advanced hepatocellular cancer (HCC).
+OBJECTIVE: To determine if doxorubicin added to sorafenib therapy improves OS, 
+with stratification for locally advanced and metastatic disease.
+DESIGN, SETTING, AND PARTICIPANTS: This unblinded randomized phase 3 clinical 
+trial was led by Alliance in collaboration with Eastern Cooperative Oncology 
+Group-American College of Radiology Imaging Network, Canadian Cancer Trials 
+Group, and Southwest Oncology Group. It was launched in February 2010 and 
+completed in May 2015; data were also analyzed during this time frame. Patients 
+with histologically proven advanced HCC, no prior systemic therapy, Child-Pugh 
+grade A score, Eastern Cooperative Oncology Group performance status of 0 to 2 
+(later amended to 0-1), and adequate hematologic, hepatic, renal, and cardiac 
+function were eligible. The OS primary end point had a final analysis planned 
+with 364 events observed among 480 total patients with 90% power to detect a 37% 
+increase in median OS.
+INTERVENTIONS OR EXPOSURES: Patients received either 60 mg/m2 of doxorubicin 
+every 21 days plus 400 mg of sorafenib orally twice daily or the sorafenib 
+alone, adjusted to half doses for patients with bilirubin levels of 1.3 to 3.0 
+mg/dL.
+MAIN OUTCOMES AND MEASURES: The primary end point was OS, and progression-free 
+survival (PFS) was a secondary end point.
+RESULTS: Of 356 patients included in the study, the mean (SD) age was 62 (10.1) 
+years, and 306 (86.0%) were men. Although it was planned to include 480 
+patients, the study was halted after accrual of 356 patients (180 patients 
+treated with doxorubicin plus sorafenib and 176 with sorafenib alone) with a 
+futility boundary crossed at a planned interim analysis. Median OS was 9.3 
+months (95% CI, 7.3-10.8 months) in the doxorubicin plus sorafenib arm and 9.4 
+months (95% CI, 7.3-12.9 months) in the sorafenib alone arm (hazard ratio, 1.05; 
+95% CI, 0.83-1.31). The median PFS was 4.0 months (95% CI, 3.4-4.9 months) in 
+the doxorubicin plus sorafenib arm and 3.7 months (95% CI, 2.9-4.5 months) in 
+the sorafenib alone arm (hazard ratio, 0.93; 95% CI, 0.75-1.16). Grade 3 or 4 
+neutropenia and thrombocytopenia adverse events occurred in 61 (36.8%) and 29 
+(17.5%) patients, respectively, being treated with doxorubicin plus sorafenib vs 
+1 (0.6%) and 4 (2.4%) patients treated with sorafenib.
+CONCLUSIONS AND RELEVANCE: This multigroup study of the addition of doxorubicin 
+to sorafenib therapy did not show improvement of OS or PFS in patients with HCC.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT01015833.
+
+DOI: 10.1001/jamaoncol.2019.2792
+PMCID: PMC6735405
+PMID: 31486832
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Abou-Alfa 
+reports receiving grants and personal fees from Bayer during the conduct of the 
+study; receiving grants and personal fees from Bristol-Myers Squibb, 
+AstraZeneca, Exelixis, and Eli Lilly, as well as personal fees from Merck and 
+Eisai outside of the submitted work; and was issued a patent 
+(PCT/US2014/031545). Dr Bekaii-Saab reported receiving personal fees from 
+Imugene, Immuneering, Exelixis, Armo, AbbVie, Glenmark, Amgen, and Merck outside 
+of the submitted work; consulting fees from Bayer, Bristol-Myers Squibb, Amgen, 
+Merck, Array BioPharma, Celgene, Incyte, Ipsen, Pfizer, and Genentech/Roche; and 
+research grants from Bayer. Dr El-Khoueiry reports receiving grants from SWOG 
+during the conduct of the study; personal fees from Bristol-Myers Squibb, Bayer, 
+AstraZeneca, Novartis, Genentech/Roche, Merck, Eisai, Exelixis, CytomX, Pieris, 
+EMD Serono, Pfizer, and Agenus; and grants from Astex and AstraZeneca. Dr 
+Harding reports receiving grants from Bristol-Myers Squibb, as well as personal 
+fees from Bristol-Myers Squibb, Eli Lilly, CytomX, and Eisai outside of the 
+submitted work. Dr Kavan reports receiving grants from Jewish General Hospital 
+during the conduct of the study and grants from Bayer outside of the submitted 
+work. Dr Kelley reports receiving grants from Alliance National Clinical Trial 
+Network during the conduct of the study; grants from AstraZeneca, Bristol-Myers 
+Squibb, Bayer, Agios, Adaptimmune, Exelixis, Eli Lilly, Merck, Novartis, QED, 
+and Taiho; and personal fees from Genentech/Roche outside of the submitted work. 
+Dr Knox reports receiving grants from Merck and personal fees from Bristol-Myers 
+Squibb and AstraZeneca outside of the submitted work. Dr Lammers reports 
+receiving personal fees from Pfizer, Merck, Teva, and Sanofi-Aventis outside of 
+the submitted work. Dr Meyerhardt reports receiving personal fees from Ignyta, 
+Taiho, Array BioPharma, and Genentech/Roche outside of the submitted work. Dr 
+O'Reilly reports receiving grants and personal fees from Bristol-Myers Squibb 
+and AstraZeneca, as well as personal fees from Merck outside of the submitted 
+work. Dr Schwartz reported receiving grants from Merck, Novartis, and 
+GlaxoSmithKline, as well as personal fees from Genentech/Roche outside of the 
+submitted work. Dr Tam reports receiving funding from the Canadian Clinical 
+Trials Group during the conduct of the study and grants from Bayer outside of 
+the submitted work. Dr Tan reports receiving grants from the Alliance CALGB 
+Cooperative Group during the conduct of the study. Dr Venook reports receiving 
+grants from the National Cancer Institute during the conduct of the study. No 
+other disclosures were reported.

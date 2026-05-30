@@ -1,0 +1,62 @@
+12. N Engl J Med. 2012 Jun 7;366(23):2189-97. doi: 10.1056/NEJMoa1200966. Epub
+2012  May 2.
+
+Combination chemotherapy in advanced adrenocortical carcinoma.
+
+Fassnacht M(1), Terzolo M, Allolio B, Baudin E, Haak H, Berruti A, Welin S, 
+Schade-Brittinger C, Lacroix A, Jarzab B, Sorbye H, Torpy DJ, Stepan V, 
+Schteingart DE, Arlt W, Kroiss M, Leboulleux S, Sperone P, Sundin A, Hermsen I, 
+Hahner S, Willenberg HS, Tabarin A, Quinkler M, de la Fouchardière C, 
+Schlumberger M, Mantero F, Weismann D, Beuschlein F, Gelderblom H, Wilmink H, 
+Sender M, Edgerly M, Kenn W, Fojo T, Müller HH, Skogseid B; FIRM-ACT Study 
+Group.
+
+Collaborators: Haaf M, Johanssen S, Koschker AC, Laubner K, Sbiera S, Schiemann 
+J, Wortmann S, Haase M, Schott M, Möhlig M, Zopf K, Reisch N, Betz M, Reincke M, 
+Isermann B, Bornstein S, Fottner C, Böse A, Petersenn S, Leitolf H, Klose S, 
+Wolf H, Chougnet C, More J, Nunes ML, Droz JP, Nicolli P, Chabre O, Clergeot A, 
+Schillo F, Penfornis A, Do Cao C, Goldwasser F, Rodien P, Ferrero A, Perotti P, 
+Cicala MV, Anna P, della Casa S, Mannelli M, Piccini V, Dercksen MW, Romijn JA, 
+Ouwerkerk J, DeVries JH, Eriksson B, Janson ET, Granberg D, Öberg K, Ahlman H, 
+Garkavij M, Wall N, Falkmer U, Hammer G, Olney HJ, Bourdeau I, Bourque L, 
+Szpak-Ulczok S, Jarzab M, Holte H, Fosså A, Ploner F, Mansmann U, Schmoll HJ, 
+Simonsson B, Toscano V.
+
+Author information:
+(1)Department of Internal Medicine I, University Hospital, Würzburg, Germany. 
+fassnacht_m@medizin.uni-wuerzburg.de
+
+Comment in
+    Nat Rev Endocrinol. 2012 May 22;8(7):384. doi: 10.1038/nrendo.2012.79.
+
+BACKGROUND: Adrenocortical carcinoma is a rare cancer that has a poor response 
+to cytotoxic treatment.
+METHODS: We randomly assigned 304 patients with advanced adrenocortical 
+carcinoma to receive mitotane plus either a combination of etoposide (100 mg per 
+square meter of body-surface area on days 2 to 4), doxorubicin (40 mg per square 
+meter on day 1), and cisplatin (40 mg per square meter on days 3 and 4) (EDP) 
+every 4 weeks or streptozocin (streptozotocin) (1 g on days 1 to 5 in cycle 1; 2 
+g on day 1 in subsequent cycles) every 3 weeks. Patients with disease 
+progression received the alternative regimen as second-line therapy. The primary 
+end point was overall survival.
+RESULTS: For first-line therapy, patients in the EDP-mitotane group had a 
+significantly higher response rate than those in the streptozocin-mitotane group 
+(23.2% vs. 9.2%, P<0.001) and longer median progression-free survival (5.0 
+months vs. 2.1 months; hazard ratio, 0.55; 95% confidence interval [CI], 0.43 to 
+0.69; P<0.001); there was no significant between-group difference in overall 
+survival (14.8 months and 12.0 months, respectively; hazard ratio, 0.79; 95% CI, 
+0.61 to 1.02; P=0.07). Among the 185 patients who received the alternative 
+regimen as second-line therapy, the median duration of progression-free survival 
+was 5.6 months in the EDP-mitotane group and 2.2 months in the 
+streptozocin-mitotane group. Patients who did not receive the alternative 
+second-line therapy had better overall survival with first-line EDP plus 
+mitotane (17.1 month) than with streptozocin plus mitotane (4.7 months). Rates 
+of serious adverse events did not differ significantly between treatments.
+CONCLUSIONS: Rates of response and progression-free survival were significantly 
+better with EDP plus mitotane than with streptozocin plus mitotane as first-line 
+therapy, with similar rates of toxic events, although there was no significant 
+difference in overall survival. (Funded by the Swedish Research Council and 
+others; FIRM-ACT ClinicalTrials.gov number, NCT00094497.).
+
+DOI: 10.1056/NEJMoa1200966
+PMID: 22551107 [Indexed for MEDLINE]

@@ -1,0 +1,186 @@
+19. Lancet. 2023 May 27;401(10390):1773-1785. doi: 10.1016/S0140-6736(23)00725-0.
+ Epub 2023 Apr 20.
+
+Trastuzumab deruxtecan versus treatment of physician's choice in patients with 
+HER2-positive metastatic breast cancer (DESTINY-Breast02): a randomised, 
+open-label, multicentre, phase 3 trial.
+
+André F(1), Hee Park Y(2), Kim SB(3), Takano T(4), Im SA(5), Borges G(6), Lima 
+JP(7), Aksoy S(8), Gavila Gregori J(9), De Laurentiis M(10), Bianchini G(11), 
+Roylance R(12), Miyoshi Y(13), Armstrong A(14), Sinha R(15), Ruiz Borrego M(16), 
+Lim E(17), Ettl J(18), Yerushalmi R(19), Zagouri F(20), Duhoux FP(21), Fehm 
+T(22), Gambhire D(23), Cathcart J(23), Wu C(23), Chu C(23), Egorov A(23), Krop 
+I(24).
+
+Author information:
+(1)Institut Gustave Roussy, Université Paris Saclay, Villejuif, France.
+(2)Samsung Medical Center, Seoul, South Korea.
+(3)Asan Medical Center, University of Ulsan College of Medicine, Seoul, South 
+Korea.
+(4)The Cancer Institute Hospital of Japanese Foundation for Cancer Research, 
+Tokyo, Japan.
+(5)Seoul National University Hospital, Cancer Research Institute, Seoul National 
+University College of Medicine, Seoul, South Korea.
+(6)Clínica de Neoplasias Litoral, Itajaí, Brazil.
+(7)AC Camargo Cancer Center, São Paulo, Brazil.
+(8)Department of Medical Oncology, Hacettepe University Cancer Institute, 
+Ankara, Türkiye.
+(9)Instituto Valenciano de Oncologia, Valencia, Spain.
+(10)Istituto Nazionale Tumori IRCCS Fondazione G Pascale, Naples, Italy.
+(11)San Raffaele Hospital, Milan, Italy.
+(12)University College London Hospital, London, UK.
+(13)Hyago College of Medicine University Hospital, Hyogo, Japan.
+(14)The Christie Hospital, Manchester, UK.
+(15)Piedmont Cancer Institute, Atlanta, GA, USA.
+(16)Hospital Universitario Virgen del Rocio, Seville, Spain.
+(17)St Vincent's Hospital Sydney, Sydney, NSW, Australia.
+(18)Klinikum rechts der Isar der Technischen Universität München, Munich, 
+Germany.
+(19)Rabin Medical Center-Beilinson Campus, Tel-Aviv University, Tel-Aviv, 
+Israel.
+(20)Alexandra General Hospital, Athens, Greece.
+(21)Cliniques universitaires Saint-Luc, Brussels, Belgium.
+(22)Universitaetsklinikum Düsseldorf, Düsseldorf, Germany.
+(23)Daiichi Sankyo, Basking Ridge, NJ, USA.
+(24)Yale Cancer Center, New Haven, CT, USA. Electronic address: 
+ian.krop@yale.edu.
+
+Erratum in
+    Lancet. 2023 Dec 9;402(10418):2196. doi: 10.1016/S0140-6736(23)02709-5.
+    Lancet. 2024 Mar 9;403(10430):912. doi: 10.1016/S0140-6736(24)00420-3.
+
+Comment in
+    Lancet. 2023 May 27;401(10390):1746-1747. doi: 
+10.1016/S0140-6736(23)00805-X.
+    Nat Rev Clin Oncol. 2023 Jul;20(7):426. doi: 10.1038/s41571-023-00779-6.
+    Transl Cancer Res. 2023 Nov 30;12(11):2979-2983. doi: 10.21037/tcr-23-1431.
+
+BACKGROUND: In the single-arm, phase 2 DESTINY-Breast01 trial, trastuzumab 
+deruxtecan showed robust activity in patients with HER2-positive metastatic 
+breast cancer who were refractory or resistant to trastuzumab emtansine; a 
+population with scarce effective treatments. In DESTINY-Breast02, we aimed to 
+compare the efficacy and safety of trastuzumab deruxtecan with treatment of 
+physician's choice in this patient population.
+METHODS: This randomised, open-label, multicentre, phase 3 trial was conducted 
+at 227 sites (hospitals, university hospitals, clinics, community centres, and 
+private oncology centres) in North America, Europe, Asia, Australia, Brazil, 
+Israel, and Türkiye. Eligible patients were aged 18 years or older, had 
+unresectable or HER2-positive metastatic breast cancer, previously received 
+trastuzumab emtansine, disease progression, an Eastern Cooperative Oncology 
+Group performance status of 0 or 1, and adequate renal and hepatic function. 
+Patients were randomly assigned (2:1) to receive trastuzumab deruxtecan 
+(intravenously at 5·4 mg/kg once every 3 weeks) or treatment of physician's 
+choice using block randomisation. Treatment of physician's choice was either 
+capecitabine (1250 mg/m2; orally twice per day on days 1-14) plus trastuzumab (8 
+mg/kg intravenously on day 1 then 6 mg/kg once per day) or capecitabine (1000 
+mg/m2) plus lapatinib (1250 mg orally once per day on days 1-21), with a 21-day 
+schedule. The primary endpoint was progression-free survival based on blinded 
+independent central review in the full analysis set. This study is registered 
+with ClinicalTrials.gov, NCT03523585.
+FINDINGS: Between Sept 6, 2018, and Dec 31, 2020, 608 patients were randomly 
+assigned to receive trastuzumab deruxtecan (n=406; two did not receive 
+treatment) or treatment of physician's choice (n=202; seven did not receive 
+treatment). 608 (100%) patients were included in the full analysis set. The 
+median age was 54·2 years (IQR 45·5-63·4) in the trastuzumab deruxtecan group 
+and 54·7 years (48·0-63·0) in the treatment of physician's choice group. 384 
+(63%) patients were White, 603 (99%) were female, and five (<1%) were male. The 
+median follow-up was 21·5 months (IQR 15·2-28·4) in the trastuzumab deruxtecan 
+group and 18·6 months (8·8-26·0) in the treatment of physician's choice group. 
+Median progression-free survival by blinded independent central review was 17·8 
+months (95% CI 14·3-20·8) in the trastuzumab deruxtecan group versus 6·9 months 
+(5·5-8·4) in the treatment of physician's choice group (HR 0·36 [0·28-0·45]; 
+p<0·0001). The most common treatment-emergent adverse events were nausea (293 
+[73%] of 404 with trastuzumab deruxtecan vs 73 [37%] of 195 with treatment of 
+physician's choice), vomiting (152 [38%] vs 25 [13%]), alopecia (150 [37%] vs 
+eight [4%]), fatigue (147 [36%] vs 52 [27%]), diarrhoea (109 [27%] vs 105 
+[54%]), and palmar-plantar erythrodysaesthesia (seven [2%] vs 100 [51%]). Grade 
+3 or higher treatment-emergent adverse events occurred in 213 (53%) patients 
+receiving trastuzumab deruxtecan versus 86 (44%) receiving treatment of 
+physician's choice; whereas drug-related interstitial lung disease occurred in 
+42 (10%; including two grade 5 death events) versus one (<1%).
+INTERPRETATION: DESTINY-Breast02 shows the favourable benefit-risk profile of 
+trastuzumab deruxtecan in patients with HER2 positive metastatic breast cancer, 
+as previously reported in DESTINY-Breast01, and is the first randomised study to 
+show that one antibody-drug conjugate can overcome resistance to a previous one.
+FUNDING: Daiichi Sankyo and AstraZeneca.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(23)00725-0
+PMID: 37086745 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests FA reports grants or 
+speaker compensation or advisory board participation for Sanofi, Novartis, 
+Pfizer, Lilly, AstraZeneca, Daiichi Sankyo, and Roche. YHP reports grants from 
+MSD, Pfizer, AstraZeneca, and Roche; consulting fees from AstraZeneca, MSD, 
+Pfizer, Eisai, Lilly, Roche, Bixink, Daiichi Sankyo, Menarini, Everest, and 
+Novartis; honoraria from AstraZeneca, Pfizer, Lilly, MSD, Roche, Daiichi-Sankyo, 
+and Novartis; and advisory board participation for AstraZeneca, Pfizer, Roche, 
+Novartis, and Menarini. S-BK reports grants from Novartis, Sanofi-Aventis, 
+Dongkook Pharmaceutical; payment for expert testimony from Novartis, 
+AstraZeneca, Lilly, Dae Hwa Pharmaceuticals, ISU Abxis, and Daiichi Sankyo; 
+meeting or travel support (or both) from Novartis, AstraZeneca, and Lilly; 
+advisory board participation for Novartis, AstraZeneca, Lilly, and Daiichi 
+Sankyo; and stock in Genopeaks and Neogene Therapeutics. TT reports honoraria 
+for lectures from Daiichi Sankyo, Chugai, Eisai, Eli Lilly, and Celltrion 
+Healthcare. S-AI reports grants from AstraZeneca, Eisai, Daewoong 
+Pharmaceutical, Daiichi Sankyo, Pfizer, Roche, and Boryung Pharmaceutical; and 
+consulting fees from AstraZeneca, Hanmi, Eisai, Lilly, MSD, Idience, Novartis, 
+Pfizer, Roche, GSK, Daiichi Sankyo, and Bertis. JPL reports grants from MSD, 
+Bristol Myers Squibb, Taiho, Janssen, Mink, Agenus, Daiichi Sankyo, AstraZeneca, 
+Roche, and Seagen; payment or honoraria from Bristol Myers Squibb, AstraZeneca, 
+and Daiichi Sankyo; meeting or travel support (or both) from MSD, Bristol Myers 
+Squibb, and AstraZeneca; and stock in Janssen. SA reports honoraria and 
+consulting compensation from AstraZeneca, Bristol Myers Squibb, Lilly, Merck, 
+Novartis, and Pfizer. JGG reports payment or honoraria, meeting or travel 
+support (or both), and advisory board participation for AstraZeneca, Daiichi 
+Sankyo, Novartis, Roche, Lilly, Seagen, and Pfizer. MDL reports payment or 
+honoraria, meeting or travel support (or both), and advisory board participation 
+for AstraZeneca, Eli Lilly, Novartis, Roche, Pfizer, Seagen, Daiichi Sankyo, 
+MSD, GSK, and Sanofi; and payment or honoraria from Celltrion and Organon. FPD 
+reports grants from Fondation Belge Contre le Cancer; consulting fees from 
+Roche, Pfizer, AstraZeneca, Lilly, Novartis, Amgen, Daiichi Sankyo, Pierre 
+Fabre, Gilead Sciences, and Seagen; and meeting or travel support (or both) from 
+Amgen, Roche, Teva, Pfizer, Daiichi Sankyo, and AstraZeneca. GBi reports 
+consulting fees from Roche, AstraZeneca, MSD, Daiichi Sankyo, Gilead, Sanofi, 
+and Seagen; payment or honoraria from Roche, AstraZeneca, Daiichi Sankyo, Lilly, 
+MSD, Chugai, Eisai, Gilead, and Seagen; meeting or travel support (or both) from 
+Roche, Pfizer, MSD, Chugai, Novartis, and AstraZeneca; and advisory board 
+participation for Roche, Pfizer, AstraZeneca, Lilly, Novartis, Amgen, MSD, 
+Chugai, Daiichi Sankyo, Eisai, Gilead, Seagen, Exact Science, and Agendia. RR 
+reports grants from National Institute for Health and Care Research; consulting 
+fees from IQVIA, Eli Lilly, G1 Therapeutics, Daiichi Sankyo, and AstraZeneca; 
+payment or honoraria from Daiichi Sankyo and AstraZeneca; meeting or travel 
+support (or both) from G1 Therapeutics, Roche, Daiichi Sankyo, and Bristol Myers 
+Squibb; and advisory board participation for Pfizer. YM reports grants from 
+Daiichi Sankyo, Eisai, Chugai, MSD, Kyowa-Kirin, Eli Lilly, and Taiho; 
+consulting fees from Daiichi Sankyo; and payment or honoraria from Daiichi 
+Sankyo, Chugai, Eisai, Eli Lilly, AstraZeneca, Pfizer, Taiho, and Kyowa-Kirin. 
+AA reports grants or contracts from AstraZeneca; meeting or travel support (or 
+both) from MSD and Novartis; advisory board participation for MSD; a leadership 
+role for the Royal College of Obstetricians and Gynaecologists Pregnancy and 
+Breast Cancer Guidelines; and stock or stock options with AstraZeneca. EL 
+reports consulting fees from Ellipses; speaker compensation from AstraZeneca, 
+Lilly, Pfizer, Roche, Novartis, and Gilead; meeting or travel support (or both) 
+from AstraZeneca, Novartis, and Gilead; advisory board participation for 
+AstraZeneca, Lilly, Pfizer, Roche, Novartis, Gilead, and Eisai; leadership or 
+fiduciary roles in the Breast Cancer Trials Scientific Advisory Board and 
+University of New South Wales Medicine Faculty Advisory Board; and research 
+support from Novartis and Pfizer. JE reports consulting fees, honoraria, meeting 
+or travel support (or both), and advisory board participation for Daiichi 
+Sankyo, Lilly, Roche, Pfizer, Novartis, Gilead, Seagen, and AstraZeneca. RY 
+reports a research grant from Roche; and consulting fees and honoraria from 
+Roche, Pfizer, Eli Lilly, Novartis, Gilead, Medison, MSD, and AstraZeneca. FZ 
+reports grants, consulting fees, payment or honoraria, advisory board 
+participation for, research support, leadership or fiduciary roles, and stock or 
+stock options in AstraZeneca, Daiichi Sankyo, Eli Lilly, Merck, Novartis, 
+Pfizer, Genesis Pharmaceuticals, and Roche. TF reports advisory board 
+participation for Daiichi Sankyo, Novartis, Roche, Pfizer, MSD, and Teva 
+Pharmaceuticals. CW was an employee of Daiichi Sankyo during the study. DG, JC, 
+CC, and AE report employment by Daiichi Sankyo. AE reports stock in Daiichi 
+Sankyo. IK reports grants from Pfizer, MacroGenics, Genentech (Roche); 
+consulting fees from AstraZeneca, Daiichi Sankyo, Genentech (Roche), Bristol 
+Myers Squibb, MacroGenics, Taiho Oncology, and Seagen; payment or honoraria from 
+AstraZeneca; advisory board participation for Novartis and Merck; and 
+leadership, fiduciary roles, and stock in Puretech. GBo, RS, and MRB declare no 
+competing interests.

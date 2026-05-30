@@ -1,0 +1,121 @@
+14. Lancet Oncol. 2019 Dec;20(12):1655-1669. doi: 10.1016/S1470-2045(19)30634-5. 
+Epub 2019 Oct 4.
+
+Ramucirumab plus erlotinib in patients with untreated, EGFR-mutated, advanced 
+non-small-cell lung cancer (RELAY): a randomised, double-blind, 
+placebo-controlled, phase 3 trial.
+
+Nakagawa K(1), Garon EB(2), Seto T(3), Nishio M(4), Ponce Aix S(5), Paz-Ares 
+L(5), Chiu CH(6), Park K(7), Novello S(8), Nadal E(9), Imamura F(10), Yoh K(11), 
+Shih JY(12), Au KH(13), Moro-Sibilot D(14), Enatsu S(15), Zimmermann A(16), 
+Frimodt-Moller B(17), Visseren-Grul C(18), Reck M(19); RELAY Study 
+Investigators.
+
+Collaborators: Chu Q, Cortot A, Pujol JL, Moro-Sibilot D, Fabre E, Lamour C, 
+Bischoff H, Kollmeier J, Reck M, Kimmich M, Engel-Riedel W, Hammerschmidt S, 
+Schütte W, Syrigos K, Ho JCM, Au KH, Novello S, Ardizzoni A, Pasello G, Gregorc 
+V, Del Conte A, Galetta D, Takahashi T, Nakagawa K, Nishio M, Yoh K, Seto T, 
+Imamura F, Kumagai T, Hotta K, Goto Y, Hosomi Y, Sakai H, Takiguchi Y, Kim YH, 
+Kurata T, Yamaguchi H, Daga H, Okamoto I, Satouchi M, Ikeda S, Kasahara K, Atagi 
+S, Azuma K, Kumagai T, Aoe K, Kumagai T, Aoe K, Horio Y, Yamamoto N, Tanaka H, 
+Watanabe S, Nogami N, Ozaki T, Koyama R, Hirashima T, Kaneda H, Tomii K, Fujita 
+Y, Seike M, Nishimura N, Kato T, Ichiki M, Saka H, Hirano K, Nakahara Y, 
+Sugawara S, Park K, Kim SW, Min YJ, Lee HW, Kang JH, An HJ, Lee KH, Kim JS, Lee 
+GW, Lee SY, Alexandru A, Udrea AA, Juan-Vidal Ó, Nadal-Alforja E, Gil-Bazo I, 
+Ponce-Aix S, Paz-Ares L, Rubio-Viqueira B, Alonso Garcia M, Felip Font E, 
+Fuentes Pradera J, Coves Sarto J, Lin MC, Su WC, Hsia TC, Chang GC, Wei YF, Chiu 
+CH, Shih JY, Su J, Cicin I, Goksel T, Harputluoglu H, Ozyilkan O, Henning I, 
+Popat S, Hatcher O, Mileham K, Acoba J, Garon E, Jung G, Raj M, Martin W, Dakhil 
+S.
+
+Author information:
+(1)Department of Medical Oncology, Kindai University Faculty of Medicine, Osaka, 
+Japan. Electronic address: nakagawa@med.kindai.ac.jp.
+(2)David Geffen School of Medicine at University of California Los Angeles, 
+Translational Research in Oncology US Network, Los Angeles, CA, USA.
+(3)National Hospital Organization Kyushu Cancer Center, Fukuoka, Japan.
+(4)Department of Thoracic Medical Oncology, The Cancer Institute Hospital of the 
+Japanese Foundation for Cancer Research, Tokyo, Japan.
+(5)Hospital Universitario 12 de Octubre, H12O-CNIO Lung Cancer Clinical Research 
+Unit, Universidad Complutense and Ciberonc, Madrid, Spain.
+(6)Department of Chest Medicine, Taipei Veterans General Hospital, Taipei, 
+Taiwan.
+(7)Samsung Medical Center, Division of Hematology and Oncology, Sungkyunkwan 
+University School of Medicine, Seoul, South Korea.
+(8)Department of Oncology, University of Turin, Azienda 
+ospedaliero-universitaria San Luigi, Orbassano, Italy.
+(9)Department of Medical Oncology, Catalan Institute of Oncology, and Clinical 
+Research in Solid Tumors group, Oncobell, l'Institut d'Investigació Biomèdica de 
+Bellvitge, L'Hospitalet, Barcelona, Spain.
+(10)Osaka International Cancer Institute, Osaka, Japan.
+(11)National Cancer Center Hospital East, Kashiwa, Japan.
+(12)Department of Internal Medicine, National Taiwan University Hospital, 
+Taipei, Taiwan.
+(13)Queen Elizabeth Hospital, Kowloon, Hong Kong.
+(14)Grenoble University Hospital, Grenoble, France.
+(15)Eli Lilly Japan KK Kobe, Kobe, Japan.
+(16)Eli Lilly and Company, Indianapolis, IN, USA.
+(17)Eli Lilly and Company, Copenhagen, Denmark.
+(18)Lilly Oncology, Utrecht, Netherlands.
+(19)LungenClinic, Airway Research Center North, German Center for Lung Research, 
+Grosshansdorf, Germany.
+
+Comment in
+    Lancet Oncol. 2019 Dec;20(12):1617-1618. doi: 10.1016/S1470-2045(19)30636-9.
+
+BACKGROUND: Dual blockade of the EGFR and VEGF pathways in EGFR-mutated 
+metastatic non-small-cell lung cancer (NSCLC) is supported by preclinical and 
+clinical data, yet the approach is not widely implemented. RELAY assessed 
+erlotinib, an EGFR tyrosine kinase inhibitor (TKI) standard of care, plus 
+ramucirumab, a human IgG1 VEGFR2 antagonist, or placebo in patients with 
+untreated EGFR-mutated metastatic NSCLC.
+METHODS: This is a worldwide, double-blind, phase 3 trial done in 100 hospitals, 
+clinics, and medical centres in 13 countries. Eligible patients were aged 18 
+years or older (20 years or older in Japan and Taiwan) at the time of study 
+entry, had stage IV NSCLC, with an EGFR exon 19 deletion (ex19del) or exon 21 
+substitution (Leu858Arg) mutation, an Eastern Cooperative Oncology Group 
+performance status of 0 or 1, and no CNS metastases. We randomly assigned 
+eligible patients in a 1:1 ratio to receive oral erlotinib (150 mg/day) plus 
+either intravenous ramucirumab (10 mg/kg) or matching placebo once every 2 
+weeks. Randomisation was done by an interactive web response system with a 
+computer-generated sequence and stratified by sex, geographical region, EGFR 
+mutation type, and EGFR testing method. The primary endpoint was 
+investigator-assessed progression-free survival in the intention-to-treat 
+population. Safety was assessed in all patients who received at least one dose 
+of study treatment. This trial is registered at ClinicalTrials.gov, NCT02411448, 
+and is ongoing for long-term survival follow-up.
+FINDINGS: Between Jan 28, 2016, and Feb 1, 2018, 449 eligible patients were 
+enrolled and randomly assigned to treatment with ramucirumab plus erlotinib 
+(n=224) or placebo plus erlotinib (n=225). Median duration of follow-up was 20·7 
+months (IQR 15·8-27·2). At the time of primary analysis, progression-free 
+survival was significantly longer in the ramucirumab plus erlotinib group (19·4 
+months [95% CI 15·4-21·6]) than in the placebo plus erlotinib group (12·4 months 
+[11·0-13·5]), with a stratified hazard ratio of 0·59 (95% CI 0·46-0·76; 
+p<0·0001). Grade 3-4 treatment-emergent adverse events were reported in 159 
+(72%) of 221 patients in the ramucirumab plus erlotinib group versus 121 (54%) 
+of 225 in the placebo plus erlotinib group. The most common grade 3-4 
+treatment-emergent adverse events in the ramucirumab plus erlotinib group were 
+hypertension (52 [24%]; grade 3 only) and dermatitis acneiform (33 [15%]), and 
+in the placebo plus erlotinib group were dermatitis acneiform (20 [9%]) and 
+increased alanine aminotransferase (17 [8%]). Treatment-emergent serious adverse 
+events were reported in 65 (29%) of 221 patients in the ramucirumab plus 
+erlotinib group and 47 (21%) of 225 in the placebo plus erlotinib group. The 
+most common serious adverse events of any grade in the ramucirumab plus 
+erlotinib group were pneumonia (seven [3%]) and cellulitis and pneumothorax 
+(four [2%], each); the most common in the placebo plus erlotinib group were 
+pyrexia (four [2%]) and pneumothorax (three [1%]). One on-study 
+treatment-related death due to an adverse event occurred (haemothorax after a 
+thoracic drainage procedure for a pleural empyema) in the ramucirumab plus 
+erlotinib group.
+INTERPRETATION: Ramucirumab plus erlotinib demonstrated superior 
+progression-free survival compared with placebo plus erlotinib in patients with 
+untreated EGFR-mutated metastatic NSCLC. Safety was consistent with the safety 
+profiles of the individual compounds in advanced lung cancer. The RELAY regimen 
+is a viable new treatment option for the initial treatment of EGFR-mutated 
+metastatic NSCLC.
+FUNDING: Eli Lilly.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(19)30634-5
+PMID: 31591063 [Indexed for MEDLINE]

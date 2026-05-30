@@ -1,0 +1,82 @@
+3. J Clin Oncol. 2014 Nov 1;32(31):3490-6. doi: 10.1200/JCO.2013.53.9593. Epub
+2014  Sep 29.
+
+Randomized comparison of gemcitabine, dexamethasone, and cisplatin versus 
+dexamethasone, cytarabine, and cisplatin chemotherapy before autologous 
+stem-cell transplantation for relapsed and refractory aggressive lymphomas: 
+NCIC-CTG LY.12.
+
+Crump M(1), Kuruvilla J(2), Couban S(2), MacDonald DA(2), Kukreti V(2), 
+Kouroukis CT(2), Rubinger M(2), Buckstein R(2), Imrie KR(2), Federico M(2), Di 
+Renzo N(2), Howson-Jan K(2), Baetz T(2), Kaizer L(2), Voralia M(2), Olney HJ(2), 
+Turner AR(2), Sussman J(2), Hay AE(2), Djurfeldt MS(2), Meyer RM(2), Chen BE(2), 
+Shepherd LE(2).
+
+Author information:
+(1)Michael Crump, John Kuruvilla, and Vishal Kukreti, Princess Margaret Cancer 
+Centre; Rena Buckstein and Kevin R. Imrie, Odette Cancer Centre and Sunnybrook 
+Health Sciences Centre, Toronto; C. Tom Kouroukis, Jonathan Sussman, and Ralph 
+M. Meyer, Margaret and Charles Juravinski Cancer Centre, Hamilton; Kang 
+Howson-Jan, London Health Sciences Centre, London; Tara Baetz, Cancer Centre of 
+Southeastern Ontario at Kingston General Hospital; Annette E. Hay, Marina S. 
+Djurfeldt, Ralph M. Meyer, Bingshu E. Chen, and Lois E. Shepherd, NCIC Clinical 
+Trials Group, Kingston; Leonard Kaizer, Credit Valley Hospital, Mississauga, 
+Ontario; Stephen Couban and David A. MacDonald, Queen Elizabeth II Health 
+Sciences Centre and Dalhousie University, Halifax, Nova Scotia; Morel Rubinger, 
+Cancercare Manitoba, Winnipeg, Manitoba; Michael Voralia, Saskatoon Cancer 
+Centre, Saskatoon, Saskatchewan; Harold J. Olney, Centre Hospitalier de 
+l'Université de Montréal-Hopital Notre Dame, Montreal, Quebec; A. Robert Turner, 
+Cross Cancer Institute, Edmonton, Alberta, Canada; Massimo Federico, University 
+of Modena and Reggio Emilia, Modena; Nicola Di Renzo, Ospedale Vito Fazzi, 
+Leece, Italy. michael.crump@uhn.on.ca.
+(2)Michael Crump, John Kuruvilla, and Vishal Kukreti, Princess Margaret Cancer 
+Centre; Rena Buckstein and Kevin R. Imrie, Odette Cancer Centre and Sunnybrook 
+Health Sciences Centre, Toronto; C. Tom Kouroukis, Jonathan Sussman, and Ralph 
+M. Meyer, Margaret and Charles Juravinski Cancer Centre, Hamilton; Kang 
+Howson-Jan, London Health Sciences Centre, London; Tara Baetz, Cancer Centre of 
+Southeastern Ontario at Kingston General Hospital; Annette E. Hay, Marina S. 
+Djurfeldt, Ralph M. Meyer, Bingshu E. Chen, and Lois E. Shepherd, NCIC Clinical 
+Trials Group, Kingston; Leonard Kaizer, Credit Valley Hospital, Mississauga, 
+Ontario; Stephen Couban and David A. MacDonald, Queen Elizabeth II Health 
+Sciences Centre and Dalhousie University, Halifax, Nova Scotia; Morel Rubinger, 
+Cancercare Manitoba, Winnipeg, Manitoba; Michael Voralia, Saskatoon Cancer 
+Centre, Saskatoon, Saskatchewan; Harold J. Olney, Centre Hospitalier de 
+l'Université de Montréal-Hopital Notre Dame, Montreal, Quebec; A. Robert Turner, 
+Cross Cancer Institute, Edmonton, Alberta, Canada; Massimo Federico, University 
+of Modena and Reggio Emilia, Modena; Nicola Di Renzo, Ospedale Vito Fazzi, 
+Leece, Italy.
+
+Comment in
+    J Clin Oncol. 2014 Nov 1;32(31):3472-3. doi: 10.1200/JCO.2014.56.6802.
+
+PURPOSE: For patients with relapsed or refractory aggressive lymphoma, we 
+hypothesized that gemcitabine-based therapy before autologous stem-cell 
+transplantation (ASCT) is as effective as and less toxic than standard 
+treatment.
+PATIENTS AND METHODS: We randomly assigned 619 patients with relapsed/refractory 
+aggressive lymphoma to treatment with gemcitabine, dexamethasone, and cisplatin 
+(GDP) or to dexamethasone, cytarabine, and cisplatin (DHAP). Patients with 
+B-cell lymphoma also received rituximab. Responding patients proceeded to 
+stem-cell collection and ASCT. Coprimary end points were response rate after two 
+treatment cycles and transplantation rate. The noninferiority margin for the 
+response rate to GDP relative to DHAP was set at 10%. Secondary end points 
+included event-free and overall survival, treatment toxicity, and quality of 
+life.
+RESULTS: For the intention-to-treat population, the response rate with GDP was 
+45.2%; with DHAP the response rate was 44.0% (95% CI for difference, -9.0% to 
+6.7%), meeting protocol-defined criteria for noninferiority of GDP (P = .005). 
+Similar results were obtained in a per-protocol analysis. The transplantation 
+rates were 52.1% with GDP and 49.3% with DHAP (P = .44). At a median follow-up 
+of 53 months, no differences were detected in event-free survival (HR, 0.99; 
+stratified log-rank P = .95) or overall survival (HR, 1.03; P = .78) between GDP 
+and DHAP. Treatment with GDP was associated with less toxicity (P < .001) and 
+need for hospitalization (P < .001), and preserved quality of life (P = .04).
+CONCLUSION: For patients with relapsed or refractory aggressive lymphoma, in 
+comparison with DHAP, treatment with GDP is associated with a noninferior 
+response rate, similar transplantation rate, event-free survival, and overall 
+survival, less toxicity and hospitalization, and superior quality of life.
+
+© 2014 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2013.53.9593
+PMID: 25267740 [Indexed for MEDLINE]

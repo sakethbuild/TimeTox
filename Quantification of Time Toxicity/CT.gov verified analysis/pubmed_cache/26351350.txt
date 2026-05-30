@@ -1,0 +1,72 @@
+2. J Clin Oncol. 2015 Dec 1;33(34):4066-76. doi: 10.1200/JCO.2015.62.0500. Epub 
+2015 Sep 8.
+
+Randomized, Placebo-Controlled, Phase III Trial of Yeast-Derived 
+Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF) Versus Peptide 
+Vaccination Versus GM-CSF Plus Peptide Vaccination Versus Placebo in Patients 
+With No Evidence of Disease After Complete Surgical Resection of Locally 
+Advanced and/or Stage IV Melanoma: A Trial of the Eastern Cooperative Oncology 
+Group-American College of Radiology Imaging Network Cancer Research Group 
+(E4697).
+
+Lawson DH(1), Lee S(2), Zhao F(2), Tarhini AA(2), Margolin KA(2), Ernstoff 
+MS(2), Atkins MB(2), Cohen GI(2), Whiteside TL(2), Butterfield LH(2), Kirkwood 
+JM(2).
+
+Author information:
+(1)David H. Lawson, Winship Cancer Institute of Emory University, Atlanta, GA; 
+Sandra Lee and Fengmin Zhao, Dana-Farber Cancer Institute; Michael B. Atkins, 
+Beth Israel Deaconess Medical Center, Boston, MA; Ahmad A. Tarhini, Theresa L. 
+Whiteside, Lisa H. Butterfield, and John M. Kirkwood, University of Pittsburgh 
+Medical Center, Pittsburgh, PA; Kim A. Margolin, Seattle Cancer Care Alliance, 
+Seattle, WA; Marc S. Ernstoff, Dartmouth-Hitchcock Medical Center, Lebanon, NH; 
+and Gary I. Cohen, Greater Baltimore Medical Center, Baltimore, MD. 
+dlawson@emory.edu.
+(2)David H. Lawson, Winship Cancer Institute of Emory University, Atlanta, GA; 
+Sandra Lee and Fengmin Zhao, Dana-Farber Cancer Institute; Michael B. Atkins, 
+Beth Israel Deaconess Medical Center, Boston, MA; Ahmad A. Tarhini, Theresa L. 
+Whiteside, Lisa H. Butterfield, and John M. Kirkwood, University of Pittsburgh 
+Medical Center, Pittsburgh, PA; Kim A. Margolin, Seattle Cancer Care Alliance, 
+Seattle, WA; Marc S. Ernstoff, Dartmouth-Hitchcock Medical Center, Lebanon, NH; 
+and Gary I. Cohen, Greater Baltimore Medical Center, Baltimore, MD.
+
+PURPOSE: We conducted a double-blind, placebo-controlled trial to evaluate the 
+effect of granulocyte-macrophage colony-stimulating factor (GM-CSF) and peptide 
+vaccination (PV) on relapse-free survival (RFS) and overall survival (OS) in 
+patients with resected high-risk melanoma.
+PATIENTS AND METHODS: Patients with completely resected stage IV or high-risk 
+stage III melanoma were grouped by human leukocyte antigen (HLA) -A2 status. 
+HLA-A2-positive patients were randomly assigned to receive GM-CSF, PV, both, or 
+placebo; HLA-A2-negative patients, GM-CSF or placebo. Treatment lasted for 1 
+year or until recurrence. Efficacy analyses were conducted in the 
+intent-to-treat population.
+RESULTS: A total of 815 patients were enrolled. There were no significant 
+improvements in OS (stratified log-rank P = .528; hazard ratio, 0.94; 95% 
+repeated CI, 0.77 to 1.15) or RFS (P = .131; hazard ratio, 0.88; 95% CI, 0.74 to 
+1.04) in the patients assigned to GM-CSF (n = 408) versus those assigned to 
+placebo (n = 407). The median OS times with GM-CSF versus placebo treatments 
+were 69.6 months (95% CI, 53.4 to 83.5 months) versus 59.3 months (95% CI, 44.4 
+to 77.3 months); the 5-year OS probability rates were 52.3% (95% CI, 47.3% to 
+57.1%) versus 49.4% (95% CI, 44.3% to 54.3%), respectively. The median RFS times 
+with GM-CSF versus placebo were 11.4 months (95% CI, 9.4 to 14.8 months) versus 
+8.8 months (95% CI, 7.5 to 11.2 months); the 5-year RFS probability rates were 
+31.2% (95% CI, 26.7% to 35.9%) versus 27.0% (95% CI, 22.7% to 31.5%), 
+respectively. Exploratory analyses showed a trend toward improved OS in 
+GM-CSF-treated patients with resected visceral metastases. When survival in 
+HLA-A2-positive patients who received PV versus placebo was compared, RFS and OS 
+were not significantly different. Treatment-related grade 3 or greater adverse 
+events were similar between GM-CSF and placebo groups.
+CONCLUSION: Neither adjuvant GM-CSF nor PV significantly improved RFS or OS in 
+patients with high-risk resected melanoma. Exploratory analyses suggest that 
+GM-CSF may be beneficial in patients with resected visceral metastases; this 
+observation requires prospective validation.
+
+© 2015 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2015.62.0500
+PMCID: PMC4669592
+PMID: 26351350 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest are found in the article online at www.jco.org. Author contributions 
+are found at the end of this article.

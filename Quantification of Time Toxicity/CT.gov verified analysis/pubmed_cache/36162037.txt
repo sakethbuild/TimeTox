@@ -1,0 +1,253 @@
+9. J Clin Oncol. 2023 Jan 20;41(3):517-527. doi: 10.1200/JCO.22.00533. Epub 2022 
+Sep 26.
+
+Adjuvant Therapy of Nivolumab Combined With Ipilimumab Versus Nivolumab Alone in 
+Patients With Resected Stage IIIB-D or Stage IV Melanoma (CheckMate 915).
+
+Weber JS(1), Schadendorf D(2), Del Vecchio M(3), Larkin J(4), Atkinson V(5), 
+Schenker M(6), Pigozzo J(7), Gogas H(8), Dalle S(9), Meyer N(10), Ascierto 
+PA(11), Sandhu S(12), Eigentler T(13), Gutzmer R(14), Hassel JC(15), Robert 
+C(16), Carlino MS(17), Di Giacomo AM(18), Butler MO(19), Muñoz-Couselo E(20), 
+Brown MP(21), Rutkowski P(22), Haydon A(23), Grob JJ(24), Schachter J(25), 
+Queirolo P(26)(27), de la Cruz-Merino L(28), van der Westhuizen A(29), Menzies 
+AM(30), Re S(31), Bas T(31), de Pril V(31), Braverman J(31), Tenney DJ(31), Tang 
+H(31), Long GV(30).
+
+Author information:
+(1)Laura and Isaac Perlmutter Cancer Center, NYU Langone Health, New York, NY.
+(2)Department of Dermatology, University of Essen and the German Cancer 
+Consortium, Partner Site, Essen, Germany.
+(3)Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy.
+(4)The Royal Marsden NHS Foundation Trust, London, United Kingdom.
+(5)Division of Cancer Services, Gallipoli Medical Research Foundation and 
+Princess Alexandra Hospital, University of Queensland, Brisbane, Queensland, 
+Australia.
+(6)Oncology Center Sf Nectarie Ltd, Craiova, Romania.
+(7)Istituto Oncologico Veneto IOV-IRCCS, Padova, Italy.
+(8)National and Kapodistrian University of Athens, Athens, Greece.
+(9)Hospices Civils de Lyon, Lyon, France.
+(10)Institut Universitaire du Cancer and CHU, Toulouse, France.
+(11)Istituto Nazionale Tumori IRCCS Fondazione Pascale, Napoli, Italy.
+(12)Peter MacCallum Cancer Centre and the University of Melbourne, Melbourne, 
+Victoria, Australia.
+(13)Universitätsklinikum und Medizinische Fakultät Tübingen, Tübingen, and 
+Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+and Humboldt Universität zu Berlin, Department of Dermatology, Venerology and 
+Allergology, Berlin, Germany.
+(14)Medizinische Hochschule Hannover, Hannover, and Mühlenkreiskliniken Minden, 
+Ruhr-Universität Bochum, Bochum, Germany.
+(15)Department of Dermatology and National Center for Tumor Diseases, University 
+Hospital Heidelberg, Heidelberg, Germany.
+(16)Gustave Roussy and Paris-Saclay University, Villejuif Cedex, France.
+(17)Westmead and Blacktown Hospitals, University of Sydney, Melanoma Institute 
+Australia, Sydney, New South Wales, Australia.
+(18)Center for Immuno-Oncology, University Hospital of Siena, Siena, Italy.
+(19)Medical Oncology and Hematology, Princess Margaret Cancer Centre, Toronto, 
+Ontario, Canada.
+(20)Vall d'Hebron University, Barcelona, Spain.
+(21)Cancer Trials Unit, Royal Adelaide Hospital, and School of Medicine, The 
+University of Adelaide, Adelaide, Australia.
+(22)Maria Sklodowska-Curie National Institute of Oncology, Warsaw, Poland.
+(23)The Alfred Hospital, Monash University, Melbourne, Australia.
+(24)Department of Dermatology, Aix-Marseille University, Hôpital de la Timone, 
+Marseille, France.
+(25)Sheba Medical Center, IEO European Institute of Oncology, Tel-Hashomer, 
+Israel.
+(26)IEO European Institute of Oncology, IRCCS, Milan, Italy.
+(27)IRCCS San Martino, Genova, Italy.
+(28)Department of Clinical Oncology, Hospital University Virgen Macarena, 
+Seville, Spain.
+(29)Calvary Mater Newcastle Hospital and University of Newcastle. Waratah, New 
+South Wales, Australia.
+(30)Melanoma Institute Australia, University of Sydney, and Royal North Shore 
+and Mater Hospitals, Sydney, New South Wales, Australia.
+(31)Bristol Myers Squibb Company, Princeton, NJ.
+
+Comment in
+    J Clin Oncol. 2023 Jan 20;41(3):443-446. doi: 10.1200/JCO.22.01770.
+    Ann Transl Med. 2023 Aug 30;11(10):370. doi: 10.21037/atm-23-754.
+
+PURPOSE: Ipilimumab and nivolumab have each shown treatment benefit for 
+high-risk resected melanoma. The phase III CheckMate 915 trial evaluated 
+adjuvant nivolumab plus ipilimumab versus nivolumab alone in patients with 
+resected stage IIIB-D or IV melanoma.
+PATIENTS AND METHODS: In this randomized, double-blind, phase III trial, 1,833 
+patients received nivolumab 240 mg once every 2 weeks plus ipilimumab 1 mg/kg 
+once every 6 weeks (916 patients) or nivolumab 480 mg once every 4 weeks (917 
+patients) for ≤ 1 year. After random assignment, patients were stratified by 
+tumor programmed death ligand 1 (PD-L1) expression and stage. Dual primary end 
+points were recurrence-free survival (RFS) in randomly assigned patients and in 
+the tumor PD-L1 expression-level < 1% subgroup.
+RESULTS: At a minimum follow-up of approximately 23.7 months, there was no 
+significant difference between treatment groups for RFS in the all-randomly 
+assigned patient population (hazard ratio, 0.92; 95% CI, 0.77 to 1.09; P = .269) 
+or in patients with PD-L1 expression < 1% (hazard ratio, 0.91; 95% CI, 0.73 to 
+1.14). In all patients, 24-month RFS rates were 64.6% (combination) and 63.2% 
+(nivolumab). Treatment-related grade 3 or 4 adverse events were reported in 
+32.6% of patients in the combination group and 12.8% in the nivolumab group. 
+Treatment-related deaths were reported in 0.4% of patients in the combination 
+group and in no nivolumab-treated patients.
+CONCLUSION: Nivolumab 240 mg once every 2 weeks plus ipilimumab 1 mg/kg once 
+every 6 weeks did not improve RFS versus nivolumab 480 mg once every 4 weeks in 
+patients with stage IIIB-D or stage IV melanoma. Nivolumab showed efficacy 
+consistent with previous adjuvant studies in a population resembling current 
+practice using American Joint Committee on Cancer eighth edition, reaffirming 
+nivolumab as a standard of care for melanoma adjuvant treatment.
+
+DOI: 10.1200/JCO.22.00533
+PMCID: PMC9870220
+PMID: 36162037 [Indexed for MEDLINE]
+
+Conflict of interest statement: Jeffrey S. Weber Stock and Other Ownership 
+Interests: Biond, OncoC4, Instil Bio, Evaxion Biotech, Nexlmmune Honoraria: 
+Bristol Myers Squibb, Merck, Genentech, AstraZeneca, Daiichi Sankyo, 
+GlaxoSmithKline, Amgen, Roche, Celldex, CytomX Therapeutics, Novartis, Sellas 
+Life Sciences, WindMIL, Takeda, Moderna Therapeutics, Jounce Therapeutics, Kirin 
+Pharmaceuticals, Regeneron, Idera, Oncosec, Incyte, Nexlmmune, Instil Bio, 
+Ultimovacs, OncoC4, Biond Biologics, Pfizer Consulting or Advisory Role: 
+Celldex, Bristol Myers Squibb, Merck, Genentech, Roche, Amgen, AstraZeneca, 
+GlaxoSmithKline, Daiichi Sankyo Recipient, CytomX Therapeutics Recipient, 
+Novartis, Sellas Life Sciences, WindMIL Recipient, Jounce Therapeutics 
+Recipient, Moderna Therapeutics, Kirin Pharmaceuticals Recipient, Protean 
+Biodiagnostics, Idera, Oncosec, OncoC4, Incyte, Instil Bio, Biond Biologics, 
+Ultimovacs Recipient, Pfizer, Nexlmmune Research Funding: Bristol Myers Squibb 
+(Inst), Merck (Inst), GlaxoSmithKline (Inst), Genentech (Inst), Astellas Pharma 
+(Inst), Incyte (Inst), Roche (Inst), Novartis (Inst), NextCure (Inst), Moderna 
+Therapeutics (Inst) Patents, Royalties, Other Intellectual Property: Named on a 
+patent submitted by Moffitt Cancer Center for an IPILIMUMAB biomarker, named on 
+a patent from Biodesix for a PD-1 antibody biomarker, named on a patent for 41BB 
+induced TIL by Moffitt Cancer Center Travel, Accommodations, Expenses: Bristol 
+Myers Squibb, GlaxoSmithKline, Roche, Celldex, Amgen, Merck, AstraZeneca, 
+Genentech, Novartis, Merck Sharp & Dohme Michele Del Vecchio Consulting or 
+Advisory Role: Novartis, Bristol Myers Squibb, Merck, Pierre Fabre James Larkin 
+Honoraria: Bristol Myers Squibb, Pfizer, Novartis, Incyte, Merck Serono, Eisai, 
+touchlME, touchEXPERTS, Royal College of Physicians, Cambridge Healthcare 
+research, RCGP, VJOncology, Agence Unik Consulting or Advisory Role: Bristol 
+Myers Squibb, Incyte, iOnctura, Apple Tree Partners, Merck Serono, Eisai, 
+Debiopharm Group, Pierre Fabre, Ipsen, Roche, EUSA Pharma, Novartis, Aptitude 
+Health, AstraZeneca, GlaxoSmithKline, Calithera Biosciences, Ultimovacs, Seattle 
+Genetics, eCancer, Insel Gruppe, Pfizer, Goldman Sachs, MSD Oncology, Agence 
+Unik Research Funding: Pfizer (Inst), Novartis (Inst), MSD Recipient (Inst), 
+Bristol Myers Squibb (Inst), Achilles Therapeutics (Inst), Roche (Inst), Nektar 
+(Inst), Covance (Inst), Immunocore (Inst), AVEO (Inst), Pharmacyclics (Inst) 
+Travel, Accommodations, Expenses: Roche/Genentech, GlaxoSmithKline, Pierre Fabre 
+Victoria Atkinson Honoraria: Bristol Myers Squibb, Novartis, Merck Sharp & 
+Dohme, Fabre, Roche/Genentech, Merck Serono, Nektar, QBiotics, Provectus 
+Biopharmaceuticals Consulting or Advisory Role: Bristol Myers Squibb, Merck 
+Sharp & Dohme, Novartis, Merck Serono, Pierre Fabre, Roche, QBiotics Speakers' 
+Bureau: Roche/Genentech, Bristol Myers Squibb, Novartis, Merck Sharp & Dohme, 
+Merck Serono Expert Testimony: Bristol Myers Squibb/Celgene Travel, 
+Accommodations, Expenses: Bristol Myers Squibb, OncoSec, Derek Sharp & Dohme, 
+Fabre Michael Schenker Research Funding: Bristol Myers Squibb, Roche, NISD, 
+Amgen, Pfizer/EMD Serono, Lilly, Astellas Pharma, AstraZeneca, GlaxoSmith Kline, 
+Regeneron, Novartis, AbbVie, Gilead Sciences, Sanofi/Regeneron, Dylan, BIOVEN, 
+Clovis Oncology, Tesaro, Five Prime Therapeutics Travel, Accommodations, 
+Expenses: Bristol Myers Squibb Helen Gogas Honoraria: Bristol Myers Squibb, USD 
+Oncology, Pierre Fabre, Sanofi/Regeneron Consulting or Advisory Role: Bristol 
+Myers Squibb, USD Oncology, Amgen, Fabre, Sanofi/Regeneron Research Funding: 
+Bristol Myers Squibb (Inst), Roche (Inst), USD Oncology (Inst), Amgen (Inst), 
+Novartis (Inst), lovance Biotherapeutics (Inst) Travel, Accommodations, 
+Expenses: Bristol Myers Squibb, USD, Amgen, Pfizer Stéphane Dalle Employment: 
+Sanofi Pasteur (I) Stock and Other Ownership Interests: Sanofi (I) Consulting or 
+Advisory Role: Bristol Myers Squibb (Inst), N!SD (Inst) Speakers' Bureau: 
+Bristol Myers Squibb (Inst), N!SD (Inst) Research Funding: Bristol- Myers Squibb 
+(Inst), Merck Sharp & Dohme (Inst), Roche (Inst) Travel, Accommodations, 
+Expenses: Bristol Myers Squibb Nicolas Meyer Consulting or Advisory Role: 
+Bristol Myers Squibb, USD Oncology, Novartis, Pierre Fabre, Sun Pharma, Nlerckle 
+GmbH Research Funding: Bristol Myers Squibb (Inst), USD Oncology (Inst) Paolo A. 
+Ascierto Stock and Other Ownership Interests: PrimeVax Consulting or Advisory 
+Role: Bristol Myers Squibb, Roche/Genentech, Merck Sharp & Dohme, Novartis, 
+Array BioPharma, Merck Serono, Pierre Fabre, Incyte, Medlmmune, Astra Zeneca, 
+Sun Pharma, Sanofi, Idera, Ultimovacs, Sandoz, Immunocore, 4SC, AIkermes, 
+Italfarmaco, Nektar, Boehringer Ingelheim, Eisai, Regeneron, Daiichi Sankyo, 
+Pfizer, OncoSec, Nouscom, Ta kis Biotech, Lunaphore Technologies, Seattle 
+Genetics, ITeos Therapeutics, N!edicenna, Bio-AI Health, ValoTx Research 
+Funding: Bristol Myers Squibb (Inst), Roche/Genentech (Inst), Array BioPharma 
+(Inst), Sanofi (Inst), Pfizer (Inst) Travel, Accommodations, Expenses: Merck 
+Sharp & Dohme, Pfizer Shahneen Sandhu Honoraria: Bristol Myers Squibb (Inst), 
+Derek (Inst), Astra Zeneca (Inst) Consulting or Advisory Role: Astra Zeneca 
+(Inst), Merck Sharpe & Dohme (Inst), Bristol Myers Squibb/Roche (Inst) Speakers' 
+Bureau: Bristol Myers Squibb (Inst), Nlerck (Inst), Roche/Genentech, Astra 
+Zeneca (Inst) Research Funding: Amgen (Inst), Astra Zeneca (Inst), Merck (Inst), 
+Endocyte/Advanced Accelerator Applications (Inst), Genentech/Roche (Inst), 
+Novartis (Inst), Pfizer (Inst), Senhwa Biosciences (Inst), Roche/Genentech 
+(Inst) Uncompensated Relationships: AAA/Endocyte/Novartis (Inst) Thomas 
+Eigentler Honoraria: Bristol Myers Squibb, Novartis Consulting or Advisory Role: 
+Bristol- Myers Squibb, Novartis, Sanofi, Pierre Fabre Ralf Gutzmer Honoraria: 
+Bristol-Myers Squibb, Merck Sharp & Dohme, Roche/Genentech, Novartis, Derek 
+Serono, AImirall Hermal GmbH, Amgen, Sun Pharma, Fabre, Sanofi/Regeneron, 
+Immunocore Consulting or Advisory Role: Bristol Myers Squibb, Derek Sharp & 
+Dohme, Roche/Genentech, Novartis, AImirall Hermal GmbH, 4SC, Amgen, Fabre, Merck 
+Serono, Sun Pharma, Sanofi, Immunocore Research Funding: Pfizer (Inst), Novartis 
+(Inst), Johnson & Johnson (Inst), Amgen (Inst), Merck Serono (Inst), Sun Pharma 
+(Inst), Sanofi (Inst) Travel, Accommodations, Expenses: Bristol Myers Squibb, 
+Roche, Merck Serono, Fabre, Sun Pharma Jessica C. Hassel Honoraria: USD, 
+Novartis, Sanofi, AImirall Hermal GmbH, Sun Pharma, Roche Pharma AG, Bristol 
+Myers Squibb Foundation, Kline, Amgen, Fabre Consulting or Advisory Role: Sun 
+Pharma, Sanofi Aventis GmbH, MSD Research Funding: Bristol Myers Squibb (Inst), 
+Novartis (Inst), Immunocore (Inst), BioNTech (Inst), 4SC (Inst), Philogen 
+(Inst), Idera (Inst), Genentech/Roche (Inst), lovance Biotherapeutics (Inst), 
+Pierre Fabre (Inst), Regeneron (Inst), Sanofi (Inst), Nektar (Inst), Sun Pharma 
+(Inst) Caroline Robert Stock and Other Ownership Interests: RiboNexus Consulting 
+or Advisory Role: Bristol Myers Squibb, Roche, Novartis, Pierre Fabre, MSD, 
+Sanofi, AstraZeneca, Pfizer Research Funding: Novartis (Inst), Phio 
+Pharmaeutical (Inst) Matteo S. Carlino Honoraria: Bristol Myers Squibb, USD, 
+Novartis Consulting or Advisory Role: Bristol Myers Squibb, USD, Amgen, 
+Novartis, Fabre, Roche, IDEAYA Biosciences, Sanofi, Merck Serono, Regeneron, 
+QBiotics, OncoSec, Nektar Anna Maria Di Giacomo Consulting or Advisory Role: 
+Bristol Myers Squibb, Pierre Fabre, Sanofi, MSD Oncology, GlaxoSmith Kline 
+Travel, Accommodations, Expenses: Pierre Fabre, Bristol Myers Squibb Marcus O. 
+Butler Honoraria: Roche, Merck, Bristol Myers Squibb, Novartis Consulting or 
+Advisory Role: Merck, Bristol Myers Squibb, Novartis, Immunovaccine, Immunocore, 
+Adaptimmune, EMD Serono, GlaxoSmith Kline, Genzyme, GlaxoSmith Kline, Sanofi, La 
+Roche Posay, Sun Pharma, Instil Bio, lovance Biotherapeutics, Pfizer, 
+Adaptimmune, Medison Research Funding: Merck, Takara Bio Expert Testimony: Merck 
+Eva Muñoz-Couselo Honoraria: BMS, Novartis, Pierre Fabre, Roche, Sanofi, MSD 
+Consulting or Advisory Role: Bristol Myers Squibb/Celgene, Novartis, Roche, 
+Pierre Fabre, USD, MSD, Sanofi Speakers' Bureau: Bristol Myers Squibb/Celgene, 
+Fabre, Sanofi, USD, Novartis Michael P. Brown Honoraria: BNS Australia, USD 
+Oncology, Novartis Consulting or Advisory Role: Bristol Myers Squibb (Inst), 
+Merck Sharp & Dohme (Inst), Novartis (Inst), Cartherics (Inst) Research Funding: 
+Bristol Myers Squibb (Inst), Merck Sharp & Dohme (Inst), Pharmaust (Inst), 
+Zucero Therapeutics (Inst), CStone Pharmaceuticals (Inst) Piotr Rutkowski 
+Honoraria: Bristol Myers Squibb, MSD, Novartis, Roche, Pfizer, Pierre Fabre, 
+Sanofi, Merck Consulting or Advisory Role: Novartis, Blueprint Medicines, 
+Bristol Myers Squibb, Pierre Fabre, MSD, Amgen Speakers' Bureau: Pfizer, 
+Novartis, Pierre Fabre Research Funding: Novartis (Inst), Roche (Inst), Bristol 
+Myers Squibb (Inst) Travel, Accommodations, Expenses: Orphan Europe, Pierre 
+Fabre Andrew Haydon Honoraria: Novartis, Merck, Novartis Consulting or Advisory 
+Role: Novartis, Merck Sharp & Dohme, Bristol Myers Squibb Speakers' Bureau: 
+Novartis, Derek, Bristol Myers Squibb Expert Testimony: BUS Jean-Jacques Grob 
+Consulting or Advisory Role: BMS, MSD Oncology, Roche/Genentech, Novartis, 
+Amgen, Pierre Fabre, Merck KGaA, Sun Pharma, Sanofi, Roche, Philogen, Ultmovacs 
+Speakers' Bureau: Novartis Travel, Accommodations, Expenses: BMS, USD Oncology, 
+Novartis, Pierre Fabre Jacob Schachter Honoraria: Bristol Myers Squibb, MSD 
+Consulting or Advisory Role: MSD, Bristol Myers Squibb Travel, Accommodations, 
+Expenses: Bristol Myers Squibb Paola Queirolo Consulting or Advisory Role: 
+Roche/Genentech, Novartis, USD, Bristol Myers Squibb, Pierre Fabre, Sanofi, Sun 
+Pharma Advanced Research Company, Merck Serono Travel, Accommodations, Expenses: 
+MSD Oncology, Sanofi/Regeneron Luis de la Cruz-Merino Consulting or Advisory 
+Role: Roche, MSD Oncology, Bristol Myers Squibb, Gilead Sciences, AstraZeneca, 
+Incyte Research Funding: Roche (Inst), Celgene (Inst) Travel, Accommodations, 
+Expenses: Roche Andre van der Westhuizen Consulting or Advisory Role: MSD 
+Oncology, Novartis Research Funding: Merck Serono Travel, Accommodations, 
+Expenses: Bristol Myers Squibb, Roche/Genentech, Novartis Alexander M. Menzies 
+Consulting or Advisory Role: USD Oncology, Novartis, Pierre Fabre, Bristol Myers 
+Squibb, Roche, QBiotics Sandra Re Stock and Other Ownership Interests: Bristol 
+Myers Squibb Tuba Bas Employment: Bristol Myers Squibb, Merck, Fiore Healthcare 
+Advisors (I) Stock and Other Ownership Interests: Merck Sharp & Dohme, Bristol 
+Myers Squibb (I) Consulting or Advisory Role: Healthcare Advisors (I) Travel, 
+Accommodations, Expenses: Merck Sharp & Dohme, Fiore Healthcare Advisors (I) 
+Veerle de Pril Employment: Bristol Myers Squibb Stock and Other Ownership 
+Interests: Bristol Myers Squibb Julia Braverman Employment: Bristol Myers Squibb 
+Stock and Other Ownership Interests: Bristol Myers Squibb Travel, 
+Accommodations, Expenses: Bristol Myers Squibb Daniel J. Tenney Employment: 
+Bristol Myers Squibb Foundation Stock and Other Ownership Interests: Bristol 
+Myers Squibb Foundation Travel, Accommodations, Expenses: Bristol Myers 
+Squibb/Celgene Hao Tang Employment: Bristol Myers Squibb Stock and Other 
+Ownership Interests: Bristol Myers Squibb Georgina V. Long Honoraria: BMS, Fabre 
+Consulting or Advisory Role: Agenus, Amgen, Array BioPharma, Boehringer 
+Ingelheim, Bristol Myers Squibb, Evaxion Biotech, Hexal AG (Sandoz Company), 
+Highlight Therapeutics, Innovent USA Inc, Merck Sharp & Dohme, Novartis, OncoSec 
+Medical Australia, PHMR Limited, Pierre Fabre, Provectus, QBiotics, Regeneron No 
+other potential conflicts of interest were reported.

@@ -1,0 +1,126 @@
+2. Transl Lung Cancer Res. 2019 Dec;8(6):989-999. doi: 10.21037/tlcr.2019.12.23.
+
+Biosimilar candidate IBI305 plus paclitaxel/carboplatin for the treatment of 
+non-squamous non-small cell lung cancer.
+
+Yang Y(1), Wu B(2), Huang L(3), Shi M(4), Liu Y(5), Zhao Y(6), Wang L(7), Lu 
+S(8), Chen G(9), Li B(10), Xie C(11), Fang J(12), Yang N(13), Zhang Y(14), Cui 
+J(15), Song Y(16), Zhang C(17), Mei X(18), Cao B(19), Yang L(20), Cheng Y(21), 
+Ying K(22), Sun T(23), Ren B(24), Yu Q(25), Liao Z(26), Pei Z(27), Wang M(28), 
+Zhou J(29), Yu S(30), Feng G(31), Wan H(32), Wang H(33), Gao S(34), Wang J(35), 
+An G(36), Geng Y(37), Ji Y(38), Yuan Y(39), Ma S(40), Jia Z(41), Hu M(42), Zhou 
+H(43), Yu J(43), Sun X(43), Zhang L(1).
+
+Author information:
+(1)Department of Medical Oncology, State Key Laboratory of Oncology in South 
+China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen 
+University Cancer Center, Guangzhou 510000, China.
+(2)Department of Respiratory Medicine, Affiliated Hospital of Guangdong Medical 
+University, Zhanjiang 524002, China.
+(3)Department of Respiratory Medicine, The First Affiliated Hospital of Bengbu 
+Medical College, Bangbu 233000, China.
+(4)Department of Oncology, Jiangsu Cancer Hospital, Nanjing 210009, China.
+(5)Department of Oncology, The First Hospital of China Medical University, 
+Shenyang 110001, China.
+(6)Department of Respiratory Medicine, Henan Cancer Hospital, Zhengzhou 450003, 
+China.
+(7)Department of Tumor radiotherapy, The Second Affiliated Hospital of Xingtai 
+Medical College, Xingtai 054000, China.
+(8)Department of Oncology, Shanghai Chest Hospital, Shanghai 200030, China.
+(9)Department of Oncology, Harbin Medical University Cancer Hospital, Harbin 
+150081, China.
+(10)General Department, Beijing Chest Hospital, Capital Medical University, 
+Beijing 101149, China.
+(11)Department of Oncology, Zhongnan Hospital of Wuhan University, Wuhan 430071, 
+China.
+(12)Department of Oncology, Peking University Cancer Hospital, Beijing 100142, 
+China.
+(13)Department of Pulmonary Gastroenterology, Hunan Cancer Hospital, Changsha 
+410006, China.
+(14)Department of Oncology, Zhejiang Cancer Hospital, Hangzhou 310022, China.
+(15)Department of Oncology, The First Hospital of Jilin University, Changchun 
+130000, China.
+(16)Department of Respiratory Medicine, General Hospital of Eastern Theater 
+Command, Nanjing 210002, China.
+(17)Department of Oncology, Inner Mongolia People's Hospital, Hohhot 010017, 
+China.
+(18)Department of Respiratory Medicine, An Hui Provincial Hospital, Hefei 
+230000, China.
+(19)Department of Oncology, Peking Friendship Hospital, Capital Medical 
+University, Beijing 100050, China.
+(20)Department of Respiratory Medicine, The First Affiliated Hospital of Xi'an 
+Jiaotong University, Xi'an 710061, China.
+(21)Department of Oncology, Jilin Cancer Hospital, Changchun 130000, China.
+(22)Department of Respiratory Medicine, Sir Run Shaw Hospital of Zhejiang 
+University School of Medicine, Hangzhou 310016, China.
+(23)Department of Internal Medicine, Liaoning Cancer Hospital & Institute, 
+Shenyang 110046, China.
+(24)Department of Respiratory Medicine, Chongqing three Gorges Central Hospital, 
+Chongqing 404000, China.
+(25)Department of Oncology, The Cancer Hospital of Guangxi Zhuang Autonomous 
+Region, Nanning 530000, China.
+(26)Department of Internal Medicine, Shaanxi Provincial Tumor Hospital, Xi'an 
+710061, China.
+(27)Department of Oncology, Luoyang Central Hospital Affiliated To Zhengzhou 
+University, Luoyang 471009, China.
+(28)Department of Respiratory Medicine, Peking Union Medical College Hospital, 
+Beijing 100005, China.
+(29)Department of Respiratory Medicine, The First Affiliated Hospital Zhejiang 
+University, Hangzhou 310003, China.
+(30)Department of Oncology, Tongji Hospital Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan 430000, China.
+(31)Department of Chemotherapy, The People's Hospital of Guangxi Zhuang 
+Autonomous Region, Nanning 530000, China.
+(32)Department of Oncology, Jiangxi People's Hospital, Nanchang 330000, China.
+(33)Department of Oncology, Tianjin People's Hospital, Tianjin 300121, China.
+(34)Department of Oncology, First Affiliated Hospital of Henan University of 
+Science and Technology, Luoyang 471000, China.
+(35)Department of Oncology, General Hospital of PLA, Beijing 100853, China.
+(36)Department of Oncology, Beijing Chao-Yang Hospital, Beijing 100020, China.
+(37)Department of Oncology, Baoji Central Hospital, Baoji 721008, China.
+(38)Department of Oncology, Handan Central Hospital, Handan 056001, China.
+(39)Department of Oncology, The Second Affiliated Hospital Zhejiang University, 
+Hangzhou 310009, China.
+(40)Department of Oncology, Hangzhou First People's Hospital, Hangzhou 310002, 
+China.
+(41)Department of Oncology, Linyi People's Hospital, Linyi 276003, China.
+(42)Department of Chest Surgery, Xuanwu Hospital Capital Medical University, 
+Beijing 100053, China.
+(43)Innovent Biologics, Inc., Suzhou 215123, China.
+
+BACKGROUND: Bevacizumab is a monoclonal antibody (mAb) against vascular 
+endothelial growth factor (VEGF) and used for treatments of various cancers. Due 
+to the high costs of bevacizumab treatments, a biosimilar provides an affordable 
+alternative therapy for cancer patients.
+METHODS: In this randomized, double-blind, multicenter, phase 3 study, locally 
+advanced, metastatic or recurrent non-squamous non-small cell lung cancer 
+(NSCLC) patients with wild-type epidermal growth factor receptor were enrolled 
+and randomized (1:1) into IBI305 or bevacizumab groups. Patients received 6 
+cycles of paclitaxel/carboplatin plus IBI305 or bevacizumab 15 mg/kg 
+intravenously followed by IBI305 or bevacizumab 7.5 mg/kg maintenance until 
+disease progression, unacceptable toxicity or death. The primary endpoint was 
+confirmed objective response rate (ORR) by an independent radiological review 
+committee (IRRC) and secondary endpoints included disease control rate (DCR), 
+progression-free survival (PFS), duration of response (DOR), overall survival 
+(OS) and safety.
+RESULTS: A total of 450 NSCLC patients were enrolled (224 in IBI305 group and 
+226 in bevacizumab group). ORRs were 44.3% for IBI305 and 46.4% for bevacizumab, 
+and the ORR ratio was 0.95 (90% CI: 0.803 to 1.135), within the predefined 
+equivalence margin of 0.75 to 1.33. No significant difference in PFS (7.64 vs. 
+7.77 m, P=0.9987) was observed between the 2 groups. Serious adverse events 
+(AEs) occurred in 33.5% (75/224) of patients in the IBI305 group and 37.6% 
+(85/226) in the bevacizumab group. AEs ≥ grade 3 were similar in the IBI305 and 
+bevacizumab groups [84.4% (189/224) vs. 89.8% (203/226), P=0.085].
+CONCLUSIONS: IBI305 is similar to bevacizumab in terms of efficacy and safety.
+TRIAL REGISTRATION: Clinicaltrials.org Identifier: NCT02954172. Registered on 3 
+November 2016. Https://clinicaltrials.gov/.
+
+2019 Translational Lung Cancer Research. All rights reserved.
+
+DOI: 10.21037/tlcr.2019.12.23
+PMCID: PMC6976344
+PMID: 32010577
+
+Conflict of interest statement: Conflicts of Interest: L Zhang received research 
+grants from Eli Lily and Pfizer. H Zhou, J Yu and X Sun are staff of Innovent 
+Biologics, Inc. The other authors have no conflicts of interest to declare.

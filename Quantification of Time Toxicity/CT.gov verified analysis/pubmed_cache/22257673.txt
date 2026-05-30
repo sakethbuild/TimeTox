@@ -1,0 +1,99 @@
+10. Lancet. 2012 Feb 18;379(9816):633-40. doi: 10.1016/S0140-6736(11)61847-3.
+Epub  2012 Jan 17.
+
+Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): a 
+randomised, open-label, multicentre, phase 3 trial.
+
+Baselga J(1), Bradbury I, Eidtmann H, Di Cosimo S, de Azambuja E, Aura C, Gómez 
+H, Dinh P, Fauria K, Van Dooren V, Aktan G, Goldhirsch A, Chang TW, Horváth Z, 
+Coccia-Portugal M, Domont J, Tseng LM, Kunz G, Sohn JH, Semiglazov V, Lerzo G, 
+Palacova M, Probachai V, Pusztai L, Untch M, Gelber RD, Piccart-Gebhart M; 
+NeoALTTO Study Team.
+
+Collaborators: Lerzo G, Fein L, Varela M, Zarba J, Blajman C, Piccart M, 
+Wildiers H, Vuylsteke P, Nouwynck C, Pinczowski H, Vinholes JJ, Oliveira C, Roy 
+JA, Palacova M, Donocikova B, Bendova M, Domont J, Petit T, Cure H, Achille M, 
+Eidtmann H, Keil E, Tomé O, Kuemmel S, Hackmann J, Kunz G, Kloepper E, Reimer T, 
+Thomssen C, Schwedler K, Ng WM, Kwong A, Chow L, Láng I, Dasappa L, Chopra R, 
+Mehta A, Gupta S, Ferro A, Visini M, Del Mastro L, Colleoni M, Miglietta L, 
+Bidoli P, Kim SB, Sohn JH, Im YH, Ciceniene A, Naume B, Wist E, Gomez H, de 
+Mendoza FH, Eniu A, Gorbunova V, Semiglazov V, Shomova M, Manikhas A, 
+Coccia-Portugal M, Pirjol A, Dreosti L, Moodley S, Baselga J, Ciruelos E, Di 
+Cosimo S, Llombart A, Mora MA, Peña JC, Borrego MR, Martín AG, López R, Holmberg 
+S, Tseng LM, Chang TW, Huang CS, Hsieh RK, Chen DR, Hickish T, Patel A, Chan S, 
+Roylance R.
+
+Author information:
+(1)Massachusetts General Hospital Cancer Center, Harvard Medical School, Boston, 
+MA 02114, USA. jbaselga@partners.org
+
+Erratum in
+    Lancet. 2012 Feb 18;379(9816):616. Dosage error in published abstract; 
+MEDLINE/PubMed abstract corrected.
+
+Comment in
+    Lancet. 2012 Feb 18;379(9816):596-8. doi: 10.1016/S0140-6736(12)60068-3.
+    Lancet. 2012 Jun 16;379(9833):2237; author reply 2238. doi: 
+10.1016/S0140-6736(12)60970-2.
+    Lancet. 2012 Jun 16;379(9833):2237; author reply 2238. doi: 
+10.1016/S0140-6736(12)60971-4.
+
+BACKGROUND: The anti-HER2 monoclonal antibody trastuzumab and the tyrosine 
+kinase inhibitor lapatinib have complementary mechanisms of action and 
+synergistic antitumour activity in models of HER2-overexpressing breast cancer. 
+We argue that the two anti-HER2 agents given together would be better than 
+single-agent therapy.
+METHODS: In this parallel groups, randomised, open-label, phase 3 study 
+undertaken between Jan 5, 2008, and May 27, 2010, women from 23 countries with 
+HER2-positive primary breast cancer with tumours greater than 2 cm in diameter 
+were randomly assigned to oral lapatinib (1500 mg), intravenous trastuzumab 
+(loading dose 4 mg/kg [DOSAGE ERROR CORRECTED], subsequent doses 2 mg/kg), or 
+lapatinib (1000 mg) plus trastuzumab. Treatment allocation was by stratified, 
+permuted blocks randomisation, with four stratification factors. Anti-HER2 
+therapy alone was given for the first 6 weeks; weekly paclitaxel (80 mg/m(2)) 
+was then added to the regimen for a further 12 weeks, before definitive surgery 
+was undertaken. After surgery, patients received adjuvant chemotherapy followed 
+by the same targeted therapy as in the neoadjuvant phase to 52 weeks. The 
+primary endpoint was the rate of pathological complete response (pCR), analysed 
+by intention to treat. This trial is registered with ClinicalTrials.gov, 
+NCT00553358.
+FINDINGS: 154 patients received lapatinib, 149 trastuzumab, and 152 the 
+combination. pCR rate was significantly higher in the group given lapatinib and 
+trastuzumab (78 of 152 patients [51·3%; 95% CI 43·1-59·5]) than in the group 
+given trastuzumab alone (44 of 149 patients [29·5%; 22·4-37·5]; difference 
+21·1%, 9·1-34·2, p=0·0001). We recorded no significant difference in pCR between 
+the lapatinib (38 of 154 patients [24·7%, 18·1-32·3]) and the trastuzumab 
+(difference -4·8%, -17·6 to 8·2, p=0·34) groups. No major cardiac dysfunctions 
+occurred. Frequency of grade 3 diarrhoea was higher with lapatinib (36 patients 
+[23·4%]) and lapatinib plus trastuzumab (32 [21·1%]) than with trastuzumab 
+(three [2·0%]). Similarly, grade 3 liver-enzyme alterations were more frequent 
+with lapatinib (27 [17·5%]) and lapatinib plus trastuzumab (15 [9·9%]) than with 
+trastuzumab (11 [7·4%]).
+INTERPRETATION: Dual inhibition of HER2 might be a valid approach to treatment 
+of HER2-positive breast cancer in the neoadjuvant setting.
+FUNDING: GlaxoSmithKline.
+
+Copyright Â© 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(11)61847-3
+PMCID: PMC5705192
+PMID: 22257673 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest JB has received honoraria 
+from Roche. IB’s institution has received funding from GlaxoSmithKline and 
+Roche. HE has been a speaker and received travel grants from GlaxoSmithKline. 
+SDC has been a speaker for GlaxoSmithKline. EdA has served on an advisory board 
+and received a travelling grant from GlaxoSmithKline, and has been a speaker for 
+Roche. KF’s institution has received travelling grants from GlaxoSmithKline. 
+VVD’s and T-WC’s institutions have received research funding from 
+GlaxoSmithKline. AG has received honoraria from GlaxoSmithKline and Roche. T-WC 
+has been a speaker for GlaxoSmithKline, Roche, Novartis, and Amgen; and has 
+received consultancy funding from GlaxoSmithKline, Roche, Abbott, AstraZeneca, 
+Novartis, and Amgen. LP has received consultancy fees from Pfizer, Sanofi, and 
+Bristol-Myers Squibb; and research grants from Bristol-Myers Squibb and 
+AstraZeneca. RDG’s institution has received research funding from 
+GlaxoSmithKline and Roche. MP-G has received honoraria from GlaxoSmithKline and 
+Roche, and her institution has received research funding from GlaxoSmithKline. 
+GA is a salaried employee of GlaxoSmithKline and retains stock and stock options 
+at the company. The other authors declare that they have no conflicts of 
+interest.

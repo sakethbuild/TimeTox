@@ -1,0 +1,61 @@
+7. Oral Oncol. 2019 Aug;95:170-177. doi: 10.1016/j.oraloncology.2019.06.021. Epub
+ 2019 Jun 25.
+
+Standard of care vs reduced-dose chemoradiation after induction chemotherapy in 
+HPV+ oropharyngeal carcinoma patients: The Quarterback trial.
+
+Misiukiewicz K(1), Gupta V(2), Miles BA(3), Bakst R(4), Genden E(5), Selkridge 
+I(6), Surgeon JT(6), Rainey H(6), Camille N(6), Roy E(6), Zhang D(7), Ye F(7), 
+Jia R(8), Moshier E(8), Bonomi M(9), Hwang M(10), Som P(11), Posner MR(12).
+
+Author information:
+(1)The Tisch Cancer Institute in the Icahn School of Medicine at Mount Sinai, 
+USA; The Departments of Hematology/Oncology in the Icahn School of Medicine at 
+Mount Sinai, USA; Medicine in the Icahn School of Medicine at Mount Sinai, USA.
+(2)Radiation Oncology in the Icahn School of Medicine at Mount Sinai, USA.
+(3)The Tisch Cancer Institute in the Icahn School of Medicine at Mount Sinai, 
+USA; Otolaryngology in the Icahn School of Medicine at Mount Sinai, USA.
+(4)The Tisch Cancer Institute in the Icahn School of Medicine at Mount Sinai, 
+USA; Radiation Oncology in the Icahn School of Medicine at Mount Sinai, USA.
+(5)Otolaryngology in the Icahn School of Medicine at Mount Sinai, USA.
+(6)The Tisch Cancer Institute in the Icahn School of Medicine at Mount Sinai, 
+USA.
+(7)Pathology in the Icahn School of Medicine at Mount Sinai, USA.
+(8)The Tisch Cancer Institute in the Icahn School of Medicine at Mount Sinai, 
+USA; Biostatistics in the Icahn School of Medicine at Mount Sinai, USA.
+(9)The Departments of Hematology/Oncology in the Icahn School of Medicine at 
+Mount Sinai, USA; Medicine in the Icahn School of Medicine at Mount Sinai, USA.
+(10)Medicine in the Icahn School of Medicine at Mount Sinai, USA.
+(11)Radiology in the Icahn School of Medicine at Mount Sinai, USA.
+(12)The Tisch Cancer Institute in the Icahn School of Medicine at Mount Sinai, 
+USA; The Departments of Hematology/Oncology in the Icahn School of Medicine at 
+Mount Sinai, USA; Medicine in the Icahn School of Medicine at Mount Sinai, USA. 
+Electronic address: marshall.posner@mssm.edu.
+
+BACKGROUND: Human Papillomavirus oropharyngeal carcinoma (HPVOPC) has better 
+progression free (PFS) and overall survival (OS) than non-HPVOPC. Standard-dose 
+chemoradiotherapy (sdCRT) results in significant acute toxicity and late 
+morbidity. We hypothesized that after induction chemotherapy (IC), reduced dose 
+chemoradiation (rdCRT) would result in equivalent PFS and OS compared to sdCRT 
+plus IC in HPVOPC and would reduce toxicity.
+METHODS: Patients with p16+, previously untreated, locally advanced HPVOPC and 
+≤20 pack years smoking history received 3 cycles of IC with docetaxel, cisplatin 
+and fluorouracil (TPF). Clinical responders who were HPV positive by 
+type-specific PCR were randomized 1:2 to sdCRT (7000 cGy) or rdCRT (5600 cGy) 
+with weekly carboplatin. The endpoints of the study were 3 year PFS and OS.
+RESULTS: 23 patients were enrolled, 22 were evaluable for TPF toxicity and 20 
+were randomized, 8 to sdCRT and 12 to rdCRT. Sixteen (80%) were HPV 16+ and 4 
+(20%) were other high risk (HR) variants. Fourteen (70%) had high risk features: 
+T4, N2c, or N3. Median follow up was 56 months (range 42-70). Three-year PFS/OS 
+for sdCRT and rdCRT are 87.5% vs 83.3% (log-rank test p = 0.85), respectively. 
+All 3 failures are locoregional within 4 months of completion of CRT; 2 were in 
+HR variants (50%).
+CONCLUSIONS: rdCRT after IC resulted in similar PFS/OS compared sdCRT. These 
+data support Phase 3 clinical trials of radiation dose reduction after IC as a 
+treatment strategy in HPVOPC. Molecular HPV with variant testing and smoking 
+history are necessary for de-escalation trials.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2019.06.021
+PMID: 31345387 [Indexed for MEDLINE]

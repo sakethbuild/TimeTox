@@ -1,0 +1,53 @@
+20. J Clin Oncol. 2012 Oct 10;30(29):3596-603. doi: 10.1200/JCO.2012.42.6031.
+Epub  2012 Sep 10.
+
+Cediranib plus FOLFOX/CAPOX versus placebo plus FOLFOX/CAPOX in patients with 
+previously untreated metastatic colorectal cancer: a randomized, double-blind, 
+phase III study (HORIZON II).
+
+Hoff PM(1), Hochhaus A, Pestalozzi BC, Tebbutt NC, Li J, Kim TW, Koynov KD, 
+Kurteva G, Pintér T, Cheng Y, van Eyll B, Pike L, Fielding A, Robertson JD, 
+Saunders MP.
+
+Author information:
+(1)FACP, Instituto do Câncer do Estado de São Paulo, Faculdade de Medicina da 
+Universidade de São Paulo, Av. Dr. Arnaldo 251, São Paulo, Brazil. 
+paulo.hoff@icesp.org.br
+
+Comment in
+    Nat Rev Clin Oncol. 2012 Nov;9(11):609. doi: 10.1038/nrclinonc.2012.172.
+
+PURPOSE: Cediranib is a highly potent inhibitor of vascular endothelial growth 
+factor (VEGF) signaling with activity against all three VEGF receptors. HORIZON 
+II [Cediranib (AZD2171, RECENTIN) in Addition to Chemotherapy Versus Placebo 
+Plus Chemotherapy in Patients With Untreated Metastatic Colorectal Cancer] 
+assessed infusional fluorouracil, leucovorin, and oxaliplatin/capecitabine and 
+oxaliplatin (FOLFOX/CAPOX) with or without cediranib in patients with previously 
+untreated metastatic colorectal cancer (mCRC).
+PATIENTS AND METHODS: Eligible patients were initially randomly assigned 1:1:1 
+to receive cediranib (20 or 30 mg per day) or placebo plus FOLFOX/CAPOX. In an 
+early analysis of this and two other cediranib studies (HORIZON I [Cediranib 
+Plus FOLFOX6 Versus Bevacizumab Plus FOLFOX6 in Patients With Previously Treated 
+Metastatic Colorectal Cancer] and HORIZON III [Cediranib Plus FOLFOX6 Versus 
+Bevacizumab Plus FOLFOX6 in Patients With Untreated Metastatic Colorectal 
+Cancer]), the 20-mg dose met the predefined criteria for continuation. 
+Subsequent patients were randomly assigned 2:1 to the cediranib 20 mg or placebo 
+arms. Progression-free survival (PFS) and overall survival (OS) were coprimary 
+end points.
+RESULTS: In all, 860 patients received cediranib 20 mg (n = 502) or placebo (n = 
+358). The addition of cediranib to FOLFOX/CAPOX resulted in PFS prolongation 
+(hazard ratio [HR], 0.84; 95% CI, 0.73 to 0.98; P = .0121; median PFS, 8.6 
+months for cediranib v 8.3 months for placebo) but had no impact on OS (HR, 
+0.94; 95% CI, 0.79 to 1.12; P = .5707; median OS, 19.7 months for cediranib v 
+18.9 months for placebo). There were no significant differences in the secondary 
+end points of objective response rate, duration of response, or liver resection 
+rate. Median chemotherapy dose-intensity was decreased by approximately 10% in 
+patients treated with cediranib. Adverse events (AEs) associated with cediranib 
+were manageable. CONCLUSION Addition of cediranib 20 mg to FOLFOX/CAPOX resulted 
+in a modest PFS prolongation, but no significant difference in OS. The cediranib 
+AE profile was consistent with those from previous studies. Because of the lack 
+of improvement in OS, cediranib plus an oxaliplatin-based regimen cannot be 
+recommended as a treatment for patients with mCRC.
+
+DOI: 10.1200/JCO.2012.42.6031
+PMID: 22965965 [Indexed for MEDLINE]

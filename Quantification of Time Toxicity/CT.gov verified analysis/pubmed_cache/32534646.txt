@@ -1,0 +1,81 @@
+16. Lancet. 2020 Jun 13;395(10240):1835-1844. doi: 10.1016/S0140-6736(20)30934-X.
+
+Atezolizumab, vemurafenib, and cobimetinib as first-line treatment for 
+unresectable advanced BRAF(V600) mutation-positive melanoma (IMspire150): 
+primary analysis of the randomised, double-blind, placebo-controlled, phase 3 
+trial.
+
+Gutzmer R(1), Stroyakovskiy D(2), Gogas H(3), Robert C(4), Lewis K(5), Protsenko 
+S(6), Pereira RP(7), Eigentler T(8), Rutkowski P(9), Demidov L(10), Manikhas 
+GM(11), Yan Y(12), Huang KC(12), Uyei A(12), McNally V(13), McArthur GA(14), 
+Ascierto PA(15).
+
+Author information:
+(1)Haut-Tumor-Zentrum Hannover, Klinik für Dermatologie, Allergologie und 
+Venerologie, Medizinische Hochschule Hannover, Hannover, Germany. Electronic 
+address: gutzmer.ralf@mh-hannover.de.
+(2)Moscow City Oncology Hospital Number 62 of Moscow Healthcare Department, 
+Moscow, Russia.
+(3)First Department of Medicine, Laiko General Hospital, National and 
+Kapodistrian University of Athens, Greece.
+(4)Gustave Roussy and Université Paris-Saclay, Villejuif-Paris, France.
+(5)University of Colorado Comprehensive Cancer Center, Aurora, CO, USA.
+(6)Department of Chemotherapy and Innovative Technologies, NN Petrov National 
+Medical Research Center of Oncology, St Petersburg, Russia.
+(7)Hospital de Clínicas de Porto Alegre, Porto Alegre, Brazil.
+(8)University Hospital Tübingen, Tübingen, Germany.
+(9)Department of Soft Tissue-Bone Sarcoma and Melanoma, Maria Sklodowska-Curie 
+National Research Institute of Oncology, Warsaw, Poland.
+(10)NN Blokhin Russian Cancer Research Center, Ministry of Health, Moscow, 
+Russia.
+(11)St Petersburg Oncology Hospital, St Petersburg, Russia.
+(12)Genentech, South San Francisco, CA, USA.
+(13)Roche Products, Welwyn Garden City, UK.
+(14)Melanoma and Skin Service and Cancer Therapeutics Program, Peter MacCallum 
+Cancer Centre, Melbourne, VIC, Australia.
+(15)Istituto Nazionale Tumori IRCCS Fondazione G Pascale, Naples, Italy.
+
+Erratum in
+    Lancet. 2020 Aug 15;396(10249):466. doi: 10.1016/S0140-6736(20)31721-9.
+
+Comment in
+    Lancet. 2020 Jun 13;395(10240):1814-1815. doi: 
+10.1016/S0140-6736(20)31285-X.
+
+BACKGROUND: IMspire150 aimed to evaluate first-line combination treatment with 
+BRAF plus MEK inhibitors and immune checkpoint therapy in BRAFV600 
+mutation-positive advanced or metastatic melanoma.
+METHODS: IMspire150 was a randomised, double-blind, placebo-controlled phase 3 
+study done at 112 institutes in 20 countries. Patients with unresectable stage 
+IIIc-IV, BRAFV600 mutation-positive melanoma were randomly assigned 1:1 to 
+28-day cycles of atezolizumab, vemurafenib, and cobimetinib (atezolizumab group) 
+or atezolizumab placebo, vemurafenib, and cobimetinib (control group). In cycle 
+1, all patients received vemurafenib and cobimetinib only; atezolizumab placebo 
+was added from cycle 2 onward. Randomisation was stratified by lactate 
+dehydrogenase concentration and geographical region. Blinding for atezolizumab 
+was achieved by means of an identical intravenous placebo, and blinding for 
+vemurafenib was achieved by means of a placebo tablet. The primary outcome was 
+investigator-assessed progression-free survival. This trial (ClinicalTrials.gov, 
+NCT02908672) is ongoing but no longer recruiting patients.
+FINDINGS: Between Jan 13, 2017, and April 26, 2018, 777 patients were screened 
+and 514 were enrolled and randomly assigned to the atezolizumab group (n=256) or 
+control group (n=258). At a median follow-up of 18·9 months (IQR 10·4-23·8), 
+progression-free survival as assessed by the study investigator was 
+significantly prolonged with atezolizumab versus control (15·1 vs 10·6 months; 
+hazard ratio [HR] 0·78; 95% CI 0·63-0·97; p=0·025). Common treatment-related 
+adverse events (>30%) in the atezolizumab and control groups were blood 
+creatinine phosphokinase increased (51·3% vs 44·8%), diarrhoea (42·2% vs 46·6%), 
+rash (40·9%, both groups), arthralgia (39·1% vs 28·1%), pyrexia (38·7% vs 
+26·0%), alanine aminotransferase increased (33·9% vs 22·8%), and lipase 
+increased (32·2% vs 27·4%); 13% of patients in the atezolizumab group and 16% in 
+the control group stopped all treatment because of adverse events.
+INTERPRETATION: The addition of atezolizumab to targeted therapy with 
+vemurafenib and cobimetinib was safe and tolerable and significantly increased 
+progression-free survival in patients with BRAFV600 mutation-positive advanced 
+melanoma.
+FUNDING: F Hoffmann-La Roche and Genentech.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(20)30934-X
+PMID: 32534646 [Indexed for MEDLINE]

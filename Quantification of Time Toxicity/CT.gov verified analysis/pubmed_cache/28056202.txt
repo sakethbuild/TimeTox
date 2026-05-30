@@ -1,0 +1,63 @@
+16. J Clin Oncol. 2017 Jan 10;35(2):141-148. doi: 10.1200/JCO.2016.67.4887. Epub 
+2016 Nov 7.
+
+Trastuzumab Emtansine With or Without Pertuzumab Versus Trastuzumab Plus Taxane 
+for Human Epidermal Growth Factor Receptor 2-Positive, Advanced Breast Cancer: 
+Primary Results From the Phase III MARIANNE Study.
+
+Perez EA(1), Barrios C(1), Eiermann W(1), Toi M(1), Im YH(1), Conte P(1), Martin 
+M(1), Pienkowski T(1), Pivot X(1), Burris H 3rd(1), Petersen JA(1), Stanzel 
+S(1), Strasak A(1), Patre M(1), Ellis P(1).
+
+Author information:
+(1)Edith A. Perez, Mayo Clinic, Jacksonville, FL; Howard Burris III, Sarah 
+Cannon Research Institute and Tennessee Oncology, Nashville, TN; Jennifer A. 
+Petersen, Genentech, South San Francisco, CA; Carlos Barrios, Pontifícia 
+Universidade Católica do Rio Grande do Sul School of Medicine, Porto Alegre, 
+Brazil; Wolfgang Eiermann, Interdisciplinary Oncology Center, Munich, Germany; 
+Masakazu Toi, Graduate School of Medicine, Kyoto University, Kyoto, Japan; 
+Young-Hyuck Im, Samsung Medical Centre, Seoul, Korea; Pierfranco Conte, 
+University of Padova and Istituto Oncologico Veneto, Padova, Italy; Miguel 
+Martin, Facultad de Medicina, Universidad Complutense, Madrid, Spain; Tadeusz 
+Pienkowski, Postgraduate Medical Education Center, Warsaw, Poland; Xavier Pivot, 
+University Hospital Jean Minjoz, Besançon, France; Sven Stanzel, Alexander 
+Strasak, Monika Patre, F. Hoffmann-La Roche, Basel, Switzerland; and Paul Ellis, 
+Guys Hospital and Sarah Cannon Research Institute, London, United Kingdom.
+
+Erratum in
+    J Clin Oncol. 2017 Jul 10;35(20):2342. doi: 10.1200/JCO.2017.74.3971.
+    J Clin Oncol. 2019 Feb 1;37(4):358. doi: 10.1200/JCO.18.02271.
+
+Comment in
+    J Clin Oncol. 2017 Jan 10;35(2):127-130. doi: 10.1200/JCO.2016.70.2712.
+
+Purpose Trastuzumab and pertuzumab are human epidermal growth factor receptor 2 
+(HER2) -targeted monoclonal antibodies, and trastuzumab emtansine (T-DM1) is an 
+antibody-drug conjugate that combines the properties of trastuzumab with the 
+cytotoxic activity of DM1. T-DM1 demonstrated encouraging efficacy and safety in 
+a phase II study of patients with previously untreated HER2-positive metastatic 
+breast cancer. Combination T-DM1 and pertuzumab showed synergistic activity in 
+cell culture models and had an acceptable safety profile in a phase Ib and II 
+study. Methods In the MARIANNE study, 1,095 patients with centrally assessed, 
+HER2-positive, advanced breast cancer and no prior therapy for advanced disease 
+were randomly assigned 1:1:1 to control (trastuzumab plus taxane), T-DM1 plus 
+placebo, hereafter T-DM1, or T-DM1 plus pertuzumab at standard doses. Primary 
+end point was progression-free survival (PFS), as assessed by independent 
+review. Results T-DM1 and T-DM1 plus pertuzumab showed noninferior PFS compared 
+with trastuzumab plus taxane (median PFS: 13.7 months with trastuzumab plus 
+taxane, 14.1 months with T-DM1, and 15.2 months with T-DM1 plus pertuzumab). 
+Neither experimental arm showed PFS superiority to trastuzumab plus taxane. 
+Response rate was 67.9% in patients who were treated with trastuzumab plus 
+taxane, 59.7% with T-DM1, and 64.2% with T-DM1 plus pertuzumab; median response 
+duration was 12.5 months, 20.7 months, and 21.2 months, respectively. The 
+incidence of grade ≥ 3 adverse events was numerically higher in the control arm 
+(54.1%) versus the T-DM1 arm (45.4%) and T-DM1 plus pertuzumab arm (46.2%). 
+Numerically fewer patients discontinued treatment because of adverse events in 
+the T-DM1 arms, and health-related quality of life was maintained for longer in 
+the T-DM1 arms. Conclusion T-DM1 showed noninferior, but not superior, efficacy 
+and better tolerability than did taxane plus trastuzumab for first-line 
+treatment of HER2-positive, advanced breast cancer.
+
+DOI: 10.1200/JCO.2016.67.4887
+PMCID: PMC5455677
+PMID: 28056202 [Indexed for MEDLINE]

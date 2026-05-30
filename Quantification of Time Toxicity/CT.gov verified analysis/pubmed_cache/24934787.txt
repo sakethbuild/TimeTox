@@ -1,0 +1,71 @@
+20. J Clin Oncol. 2014 Aug 1;32(22):2311-7. doi: 10.1200/JCO.2013.53.7142. Epub
+2014  Jun 16.
+
+Comparison of doxorubicin and cyclophosphamide versus single-agent paclitaxel as 
+adjuvant therapy for breast cancer in women with 0 to 3 positive axillary nodes: 
+CALGB 40101 (Alliance).
+
+Shulman LN(1), Berry DA(2), Cirrincione CT(2), Becker HP(2), Perez EA(2), 
+O'Regan R(2), Martino S(2), Shapiro CL(2), Schneider CJ(2), Kimmick G(2), 
+Burstein HJ(2), Norton L(2), Muss H(2), Hudis CA(2), Winer EP(2).
+
+Author information:
+(1)Lawrence N. Shulman, Harold J. Burstein, Eric P. Winer, Dana-Farber Cancer 
+Institute, Boston, MA; Donald A. Berry, MD Anderson Cancer Center, Houston, TX; 
+Constance T. Cirrincione, Gretchen Kimmick, Duke University Medical Center, 
+Durham; Hyman Muss, University of North Carolina at Chapel Hill, Chapel Hill, 
+NC; Heather P. Becker, University of Chicago, Chicago, IL; Edith A. Perez, Mayo 
+Clinic, Jacksonville, FL; Ruth O'Regan, Emory University, Atlanta, GA; Silvana 
+Martino, The Angeles Clinic and Research Institute, Los Angeles, CA; Charles L. 
+Shapiro, The James Cancer Center, Ohio State University, Columbus, OH; Charles 
+J. Schneider, Christiana Healthcare Services, Wilmington, DE; Larry Norton, 
+Clifford A. Hudis, Memorial Sloan-Kettering Cancer Center, New York, NY. 
+Lawrence_Shulman@dfci.harvard.edu.
+(2)Lawrence N. Shulman, Harold J. Burstein, Eric P. Winer, Dana-Farber Cancer 
+Institute, Boston, MA; Donald A. Berry, MD Anderson Cancer Center, Houston, TX; 
+Constance T. Cirrincione, Gretchen Kimmick, Duke University Medical Center, 
+Durham; Hyman Muss, University of North Carolina at Chapel Hill, Chapel Hill, 
+NC; Heather P. Becker, University of Chicago, Chicago, IL; Edith A. Perez, Mayo 
+Clinic, Jacksonville, FL; Ruth O'Regan, Emory University, Atlanta, GA; Silvana 
+Martino, The Angeles Clinic and Research Institute, Los Angeles, CA; Charles L. 
+Shapiro, The James Cancer Center, Ohio State University, Columbus, OH; Charles 
+J. Schneider, Christiana Healthcare Services, Wilmington, DE; Larry Norton, 
+Clifford A. Hudis, Memorial Sloan-Kettering Cancer Center, New York, NY.
+
+Comment in
+    J Clin Oncol. 2014 Aug 1;32(22):2284-6. doi: 10.1200/JCO.2014.55.9344.
+    J Clin Oncol. 2015 Jan 20;33(3):290. doi: 10.1200/JCO.2014.58.7923.
+    J Clin Oncol. 2015 Jan 20;33(3):291. doi: 10.1200/JCO.2014.59.1875.
+
+PURPOSE: Optimal adjuvant chemotherapy for early-stage breast cancer balances 
+efficacy and toxicity. We sought to determine whether single-agent paclitaxel 
+(T) was inferior to doxorubicin and cyclophosphamide (AC), when each was 
+administered for four or six cycles of therapy, and whether it offered less 
+toxicity.
+PATIENTS AND METHODS: Patients with operable breast cancer with 0 to 3 positive 
+nodes were enrolled onto the study to address the noninferiority of single-agent 
+T to AC, defined as the one-sided 95% upper-bound CI (UCB) of hazard ratio (HR) 
+of T versus AC less than 1.30 for the primary end point of relapse-free survival 
+(RFS). As a 2 × 2 factorial design, duration of therapy was also addressed and 
+was previously reported.
+RESULTS: With 3,871 patients enrolled onto the trial, a median follow-up period 
+of 6.1 years, and 437 RFS events, we achieved an HR of 1.26 (one sided 95% UCB, 
+1.48; favoring AC does not allow a conclusion of noninferiority of T with AC; 
+UCB > 1.3). With 266 patient deaths, the HR for overall survival (OS) was 1.27 
+favoring AC (UCB, 1.56). The estimated absolute advantage of AC at 5 years is 3% 
+for RFS (91 v 88%) and 1% for OS (95 v 94%). All nine treatment-related deaths 
+were patients receiving AC and are included in the analyses of both RFS and OS. 
+Hematologic toxicity was more common in patients treated with AC, and neuropathy 
+was more common in patients treated with T.
+CONCLUSION: This trial did not show noninferiority of T to AC, a conclusion that 
+is unlikely to change with additional events and follow-up. T was less toxic 
+than AC.
+
+© 2014 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2013.53.7142
+PMCID: PMC4105484
+PMID: 24934787 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

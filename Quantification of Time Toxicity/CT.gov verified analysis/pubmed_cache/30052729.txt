@@ -1,0 +1,80 @@
+20. Ann Oncol. 2018 Oct 1;29(10):2052-2060. doi: 10.1093/annonc/mdy264.
+
+Phase III, randomised trial of avelumab versus physician's choice of 
+chemotherapy as third-line treatment of patients with advanced gastric or 
+gastro-oesophageal junction cancer: primary analysis of JAVELIN Gastric 300.
+
+Bang YJ(1), Ruiz EY(2), Van Cutsem E(3), Lee KW(4), Wyrwicz L(5), Schenker M(6), 
+Alsina M(7), Ryu MH(8), Chung HC(9), Evesque L(10), Al-Batran SE(11), Park 
+SH(12), Lichinitser M(13), Boku N(14), Moehler MH(15), Hong J(16), Xiong H(16), 
+Hallwachs R(17), Conti I(16), Taieb J(18).
+
+Author information:
+(1)Department of Internal Medicine, Seoul National University College of 
+Medicine, Seoul, South Korea. Electronic address: bangyj@snu.ac.kr.
+(2)Universidad de la Frontera, Temuco, Chile.
+(3)Department of Digestive Oncology, University Hospitals Gasthuisberg/Leuven, 
+KU Leuven, Leuven, Belgium.
+(4)Department of Internal Medicine, Seoul National University College of 
+Medicine, Seoul National University Bundang Hospital, Seongnam, South Korea.
+(5)Department of Gastrointestinal Cancer, M. Sklodowska-Curie Memorial Cancer 
+Center, Warsaw, Poland.
+(6)Centrul de Oncologie Sf. Nectarie, Craiova, Romania.
+(7)Department of Medical Oncology, Vall d'Hebron University Hospital and Vall 
+d'Hebron Institute of Oncology, Barcelona, Spain.
+(8)Department of Oncology, University of Ulsan College of Medicine, Asan Medical 
+Center, Seoul, South Korea.
+(9)Division of Medical Oncology, Yonsei Cancer Center, Yonsei University College 
+of Medicine, Yonsei University Health System, Seoul, South Korea.
+(10)Department of Medical Oncology, Centre Antoine Lacassagne, Nice, France.
+(11)Department of Clinical Oncology and Hematology, Krankenhaus Nordwest, 
+Frankfurt, Germany.
+(12)Department of Medicine, Samsung Medical Center, Seoul, South Korea.
+(13)Department of Chemotherapy and Combined Therapy, N. N. Blokhin Russian 
+Oncological Scientific Center, Russian Academy of Medical Sciences, Moscow, 
+Russian Federation.
+(14)Department of Gastrointestinal Medical Oncology Division, National Cancer 
+Center Hospital, Tokyo, Japan.
+(15)Department of Internal Medicine, Johannes Gutenberg University Mainz, Mainz, 
+Germany.
+(16)Global Clinical Development Immuno-Oncology, EMD Serono, Billerica, USA.
+(17)Global Research & Development, Merck KGaA, Darmstadt, Germany.
+(18)Department of Gastroenterology and Digestive Oncology, Université Sorbonne 
+Paris Cité, Paris Descartes University, Georges Pompidou European Hospital, 
+Paris, France.
+
+Comment in
+    Ann Oncol. 2018 Oct 1;29(10):2027-2028. doi: 10.1093/annonc/mdy331.
+    Ann Oncol. 2019 Feb 1;30(2):159-161. doi: 10.1093/annonc/mdy555.
+
+BACKGROUND: There currently are no internationally recognised treatment 
+guidelines for patients with advanced gastric cancer/gastro-oesophageal junction 
+cancer (GC/GEJC) in whom two prior lines of therapy have failed. The randomised, 
+phase III JAVELIN Gastric 300 trial compared avelumab versus physician's choice 
+of chemotherapy as third-line therapy in patients with advanced GC/GEJC.
+PATIENTS AND METHODS: Patients with unresectable, recurrent, locally advanced, 
+or metastatic GC/GEJC were recruited at 147 sites globally. All patients were 
+randomised to receive either avelumab 10 mg/kg by intravenous infusion every 
+2 weeks or physician's choice of chemotherapy (paclitaxel 80 mg/m2 on days 1, 8, 
+and 15 or irinotecan 150 mg/m2 on days 1 and 15, each of a 4-week treatment 
+cycle); patients ineligible for chemotherapy received best supportive care. The 
+primary end point was overall survival (OS). Secondary end points included 
+progression-free survival (PFS), objective response rate (ORR), and safety.
+RESULTS: A total of 371 patients were randomised. The trial did not meet its 
+primary end point of improving OS {median, 4.6 versus 5.0 months; hazard ratio 
+(HR)=1.1 [95% confidence interval (CI) 0.9-1.4]; P = 0.81} or the secondary end 
+points of PFS [median, 1.4 versus 2.7 months; HR=1.73 (95% CI 1.4-2.2); 
+P > 0.99] or ORR (2.2% versus 4.3%) in the avelumab versus chemotherapy arms, 
+respectively. Treatment-related adverse events (TRAEs) of any grade occurred in 
+90 patients (48.9%) and 131 patients (74.0%) in the avelumab and chemotherapy 
+arms, respectively. Grade ≥3 TRAEs occurred in 17 patients (9.2%) in the 
+avelumab arm and in 56 patients (31.6%) in the chemotherapy arm.
+CONCLUSIONS: Treatment of patients with GC/GEJC with single-agent avelumab in 
+the third-line setting did not result in an improvement in OS or PFS compared 
+with chemotherapy. Avelumab showed a more manageable safety profile than 
+chemotherapy.
+TRIAL REGISTRATION: ClinicalTrials.gov: NCT02625623.
+
+DOI: 10.1093/annonc/mdy264
+PMCID: PMC6225815
+PMID: 30052729 [Indexed for MEDLINE]

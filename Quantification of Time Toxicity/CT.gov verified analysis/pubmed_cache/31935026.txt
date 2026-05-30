@@ -1,0 +1,112 @@
+1. JAMA. 2020 Jan 14;323(2):140-148. doi: 10.1001/jama.2019.20207.
+
+Effect of a Behavioral Intervention to Increase Vegetable Consumption on Cancer 
+Progression Among Men With Early-Stage Prostate Cancer: The MEAL Randomized 
+Clinical Trial.
+
+Parsons JK(1), Zahrieh D(2), Mohler JL(3), Paskett E(4), Hansel DE(5), Kibel 
+AS(6), Liu H(2), Seisler DK(2), Natarajan L(7), White M(7), Hahn O(8), Taylor 
+J(8), Hartman SJ(9), Stroup SP(10), Van Veldhuizen P(11), Hall L(12), Small 
+EJ(13), Morris MJ(14), Pierce JP(9), Marshall J(15).
+
+Author information:
+(1)Department of Urology, UC San Diego Moores Comprehensive Cancer Center and VA 
+San Diego Healthcare System, La Jolla, California.
+(2)Alliance Statistics and Data Center, Mayo Clinic, Rochester, Minnesota.
+(3)Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New 
+York.
+(4)Comprehensive Cancer Center, Department of Medicine, The Ohio State 
+University College of Medicine, Columbus.
+(5)Department of Pathology, University of California, San Diego, La Jolla.
+(6)Division of Urology, Dana-Farber/Brigham and Women's Cancer Center, Harvard 
+Medical School, Boston, Massachusetts.
+(7)Division of Biostatistics and Bioinformatics, Department of Family Medicine 
+and Public Health and UC San Diego Moores Comprehensive Cancer Center, La Jolla, 
+California.
+(8)Alliance Central Protocol Operations, University of Chicago, Chicago, 
+Illinois.
+(9)Moores Cancer Center, Department of Family Medicine and Public Health, 
+University of California, San Diego, La Jolla.
+(10)Department of Urology, Naval Medical Center San Diego, San Diego, 
+California.
+(11)Menorah Medical Center, Midwest Oncology Associates, Overland Park, Kansas.
+(12)Siteman Cancer Center, Department of Radiation Oncology, Washington 
+University, St Peters, Missouri.
+(13)UCSF Helen Diller Family Comprehensive Cancer Center, San Francisco, 
+California.
+(14)Memorial Sloan Kettering Cancer Center, New York, New York.
+(15)Department of Prevention and Population Sciences, Roswell Park Comprehensive 
+Cancer Center, Buffalo, New York.
+
+Comment in
+    J Urol. 2020 Jul;204(1):185. doi: 10.1097/JU.0000000000001056.
+    JAMA. 2020 Jun 23;323(24):2528-2529. doi: 10.1001/jama.2020.6726.
+    JAMA. 2020 Jun 23;323(24):2529-2530. doi: 10.1001/jama.2020.6729.
+    J Urol. 2020 Sep;204(3):608. doi: 10.1097/JU.0000000000001171.
+
+IMPORTANCE: Guidelines endorsing vegetable-enriched diets to improve outcomes 
+for prostate cancer survivors are based on expert opinion, preclinical studies, 
+and observational data.
+OBJECTIVE: To determine the effect of a behavioral intervention that increased 
+vegetable intake on cancer progression in men with early-stage prostate cancer.
+DESIGN, SETTING, AND PARTICIPANTS: The Men's Eating and Living (MEAL) Study 
+(CALGB 70807 [Alliance]) was a randomized clinical trial conducted at 91 US 
+urology and medical oncology clinics that enrolled 478 men aged 50 to 80 years 
+with biopsy-proven prostate adenocarcinoma (International Society of Urological 
+Pathology grade group = 1 in those <70 years and ≤2 in those ≥70 years), stage 
+cT2a or less, and serum prostate-specific antigen (PSA) level less than 10 
+ng/mL. Enrollment occurred from January 2011 to August 2015; 24-month follow-up 
+occurred from January 2013 to August 2017.
+INTERVENTIONS: Patients were randomized to a counseling behavioral intervention 
+by telephone promoting consumption of 7 or more daily vegetable servings (MEAL 
+intervention; n = 237) or a control group, which received written information 
+about diet and prostate cancer (n = 241).
+MAIN OUTCOMES AND MEASURES: The primary outcome was time to progression; 
+progression was defined as PSA level of 10 ng/mL or greater, PSA doubling time 
+of less than 3 years, or upgrading (defined as increase in tumor volume or 
+grade) on follow-up prostate biopsy.
+RESULTS: Among 478 patients randomized (mean [SD] age, 64 [7] years; mean [SD] 
+PSA level, 4.9 [2.1] ng/mL), 443 eligible patients (93%) were included in the 
+primary analysis. There were 245 progression events (intervention: 124; control: 
+121). There were no significant differences in time to progression (unadjusted 
+hazards ratio, 0.96 [95% CI, 0.75 to 1.24]; adjusted hazard ratio, 0.97 [95% CI, 
+0.76 to 1.25]). The 24-month Kaplan-Meier progression-free percentages were 
+43.5% [95% CI, 36.5% to 50.6%] and 41.4% [95% CI, 34.3% to 48.7%] for the 
+intervention and control groups, respectively (difference, 2.1% [95% CI, -8.1% 
+to 12.2%]).
+CONCLUSIONS AND RELEVANCE: Among men with early-stage prostate cancer managed 
+with active surveillance, a behavioral intervention that increased vegetable 
+consumption did not significantly reduce the risk of prostate cancer 
+progression. The findings do not support use of this intervention to decrease 
+prostate cancer progression in this population, although the study may have been 
+underpowered to identify a clinically important difference.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01238172.
+
+DOI: 10.1001/jama.2019.20207
+PMCID: PMC6990696
+PMID: 31935026 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Parsons 
+reported receiving grants from the National Cancer Institute (NCI) and personal 
+fees from Endocare and INSIGHTEC outside the submitted work and owning stock in 
+Pfizer and Johnson & Johnson. Dr Mohler reported receiving grants from the NCI, 
+US Department of Defense, and the Prostate Cancer Foundation during the conduct 
+of the study and grants from the NCI, Department of Defense, and the National 
+Institute of Diabetes and Digestive and Kidney Diseases and personal fees from 
+the National Comprehensive Cancer Network outside the submitted work. Dr Paskett 
+reported receiving grants from the NCI during the conduct of the study and 
+grants from the Merck Foundation outside the submitted work, and owning stock in 
+Pfizer. Dr Kibel reported receiving personal fees from Janssen, Bristol-Myers 
+Squibb, Merck, INSIGHTEC, and Profound outside the submitted work. Dr Hahn 
+reported receiving personal fees from Via Oncology outside the submitted work. 
+Dr Stroup reported receiving CALGB 70807 funding paid through the Henry Jackson 
+Foundation. Dr Small reported receiving personal fees from Janssen 
+Pharmaceuticals, Harpoon Therapeutics, Fortis Therapeutics, and BeiGene 
+Therapeutics outside the submitted work. Dr Morris reported receiving personal 
+fees from Blue Earth Diagnostics, Advanced Accelerator Applications, Tokai 
+Pharmaceuticals, and ORIC Pharmaceuticals outside the submitted work and travel 
+funding from Bayer, Endocyte, and Fujifilm, as well as funding paid to his 
+institution for his participation in clinical trials for Bayer, Endocyte, 
+Progenics Pharmaceuticals, Corcept Therapeutics, Roche, and Janssen. Dr Pierce 
+reported receiving grants from the NCI and Alliance Cooperative Group during the 
+conduct of the study. No other disclosures were reported.

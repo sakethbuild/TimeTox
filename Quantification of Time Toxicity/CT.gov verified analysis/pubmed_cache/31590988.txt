@@ -1,0 +1,128 @@
+13. Lancet. 2019 Nov 23;394(10212):1929-1939. doi: 10.1016/S0140-6736(19)32222-6.
+ Epub 2019 Oct 4.
+
+Durvalumab plus platinum-etoposide versus platinum-etoposide in first-line 
+treatment of extensive-stage small-cell lung cancer (CASPIAN): a randomised, 
+controlled, open-label, phase 3 trial.
+
+Paz-Ares L(1), Dvorkin M(2), Chen Y(3), Reinmuth N(4), Hotta K(5), Trukhin D(6), 
+Statsenko G(7), Hochmair MJ(8), Özgüroğlu M(9), Ji JH(10), Voitko O(11), 
+Poltoratskiy A(12), Ponce S(13), Verderame F(14), Havel L(15), Bondarenko I(16), 
+Kazarnowicz A(17), Losonczy G(18), Conev NV(19), Armstrong J(20), Byrne N(20), 
+Shire N(21), Jiang H(21), Goldman JW(22); CASPIAN investigators.
+
+Collaborators: Batagelj E, Casarini I, Pastor AV, Sena SN, Zarba JJ, Burghuber 
+O, Hartl S, Hochmair MJ, Lamprecht B, Studnicka M, Alberto Schlittler L, Augusto 
+Martinelli de Oliveira F, Calabrich A, Colagiovanni Girotto G, Dos Reis P, 
+Fausto Nino Gorini C, Rafael Martins De Marchi P, Serodio da Rocha Baldotto C, 
+Sette C, Zukin M, Conev NV, Dudov A, Ilieva R, Koynov K, Krasteva R, Tonev I, 
+Valev S, Venkova V, Bi M, Chen C, Chen Y, Chen Z, Fang J, Feng J, Han Z, Hu J, 
+Hu Y, Li W, Liang Z, Lin Z, Ma R, Ma S, Nan K, Shu Y, Wang K, Wang M, Wu G, Yang 
+N, Yang Z, Zhang H, Zhang W, Zhao J, Zhao Y, Zhou C, Zhou J, Zhou X, Havel L, 
+Kolek V, Koubkova L, Roubec J, Skrickova J, Zemanova M, Chouaid C, Hilgers W, 
+Lena H, Moro-Sibilot D, Robinet G, Souquet PJ, Alt J, Bischoff H, Grohe C, Laack 
+E, Lang S, Panse J, Reinmuth N, Schulz C, Bogos K, Csánky E, Fülöp A, Horváth Z, 
+Kósa J, Laczó I, Losonczy G, Pajkos G, Pápai Z, Pápai Székely Z, Sárosi V, 
+Somfay A, Somogyiné Ezer É, Telekes A, Bar J, Gottfried M, Heching NI, Zer Kuch 
+A, Bartolucci R, Bettini AC, Delmonte A, Garassino MC, Minelli M, Roila F, 
+Verderame F, Atagi S, Azuma K, Goto H, Goto K, Hara Y, Hayashi H, Hida T, Hotta 
+K, Kanazawa K, Kanda S, Kim YH, Kuyama S, Maeda T, Morise M, Nakahara Y, Nishio 
+M, Nogami N, Okamoto I, Saito H, Shinoda M, Umemura S, Yoshida T, Claessens N, 
+Cornelissen R, Heniks L, Hiltermann J, Smit E, Staal van den Brekel A, 
+Kazarnowicz A, Kowalski D, Mańdziuk S, Mróz R, Wojtukiewicz M, Ciuleanu T, Ganea 
+D, Ungureanu A, Dvorkin M, Luft A, Moiseenko V, Poltoratskiy A, Sakaeva D, 
+Smolin A, Statsenko G, Vasilyev A, Vladimirova L, Anasina I, Chovanec J, Demo P, 
+Godal R, Kasan P, Stresko M, Urda M, Cho EK, Ji JH, Kim JH, Kim SW, Lee GW, Lee 
+JS, Lee KH, Lee KH, Lee YG, Amelia Insa Molla M, Domine Gomez M, Ignacio Delgado 
+Mingorance J, Isla Casado D, Lopez Brea M, Majem Tarruella M, Morán Bueno T, 
+Navarro Mendivil A, Paz-Ares Rodríguez L, Ponce Aix S, Rosario Garcia Campelo M, 
+Chang GC, Chen YH, Chiu CH, Hsia TC, Lee KY, Li CT, Wang CC, Wei YF, Wu SY, 
+Alacacıoğlu A, Çiçin I, Demirkazik A, Erman M, Göksel T, Özgüroğlu M, Adamchuk 
+H, Bondarenko I, Kolesnik O, Kryzhanivska A, Ostapenko Y, Shevnia S, Shparyk Y, 
+Trukhin D, Ursol G, Voitko N, Voitko O, Vynnychenko I, Babu S, Chen Y, Chiang A, 
+Chua W, Dakhil S, Dowlati A, Goldman JW, Haque B, Jamil R, Knoble J, Lakhanpal 
+S, Mi K, Nikolinakos P, Powell S, Ross H, Schaefer E, Schneider J, Spahr J, 
+Spigel D, Stilwill J, Sumey C, Williamson M.
+
+Author information:
+(1)Department of Medical Oncology, Hospital Universitario 12 de Octubre, 
+H120-CNIO Lung Cancer Unit, Universidad Complutense and Ciberonc, Madrid, Spain. 
+Electronic address: lpazaresr@seom.org.
+(2)BHI of Omsk Region Clinical Oncology Dispensary, Omsk, Russia.
+(3)Cancer and Hematology Centers of Western Michigan, Grand Rapids, MI, USA.
+(4)Asklepios Lung Clinic, Munich-Gauting, Germany.
+(5)Okayama University Hospital, Okayama, Japan.
+(6)Odessa National Medical University, Odessa, Ukraine.
+(7)Omsk Regional Cancer Center, Omsk, Russia.
+(8)Karl Landsteiner Institute of Lung Research and Pulmonary Oncology, 
+Krankenhaus Nord, Vienna, Austria.
+(9)Istanbul University-Cerrahpaşa, Cerrahpaşa School of Medicine, Istanbul, 
+Turkey.
+(10)Samsung Changwon Hospital, Sungkyunkwan University School of Medicine, 
+Changwon, South Korea.
+(11)Kyiv City Clinical Oncological Centre, Kiev, Ukraine.
+(12)Petrov Research Institute of Oncology, St Petersburg, Russia.
+(13)Department of Medical Oncology, Hospital Universitario 12 de Octubre, 
+H120-CNIO Lung Cancer Unit, Universidad Complutense and Ciberonc, Madrid, Spain.
+(14)AO Ospedali Riuniti PO Vincenzo Cervello, Palermo, Italy.
+(15)Thomayer Hospital, First Faculty of Medicine, Charles University, Prague, 
+Czechia.
+(16)Dnipropetrovsk Medical Academy, Dnipro, Ukraine.
+(17)Tuberculosis and Lung Disease Hospital, Olsztyn, Poland.
+(18)Semmelweis University, Budapest, Hungary.
+(19)Clinic of Medical Oncology, UMHAT St Marina, Varna, Bulgaria.
+(20)AstraZeneca, Cambridge, UK.
+(21)AstraZeneca, Gaithersburg, MD, USA.
+(22)David Geffen School of Medicine at UCLA, Los Angeles, CA, USA.
+
+Comment in
+    Lancet. 2019 Nov 23;394(10212):1884-1885. doi: 
+10.1016/S0140-6736(19)32235-4.
+
+BACKGROUND: Most patients with small-cell lung cancer (SCLC) have 
+extensive-stage disease at presentation, and prognosis remains poor. Recently, 
+immunotherapy has demonstrated clinical activity in extensive-stage SCLC 
+(ES-SCLC). The CASPIAN trial assessed durvalumab, with or without tremelimumab, 
+in combination with etoposide plus either cisplatin or carboplatin 
+(platinum-etoposide) in treatment-naive patients with ES-SCLC.
+METHODS: This randomised, open-label, phase 3 trial was done at 209 sites across 
+23 countries. Eligible patients were adults with untreated ES-SCLC, with WHO 
+performance status 0 or 1 and measurable disease as per Response Evaluation 
+Criteria in Solid Tumors, version 1.1. Patients were randomly assigned (in a 
+1:1:1 ratio) to durvalumab plus platinum-etoposide; durvalumab plus tremelimumab 
+plus platinum-etoposide; or platinum-etoposide alone. All drugs were 
+administered intravenously. Platinum-etoposide consisted of etoposide 80-100 
+mg/m2 on days 1-3 of each cycle with investigator's choice of either carboplatin 
+area under the curve 5-6 mg/mL per min or cisplatin 75-80 mg/m2 (administered on 
+day 1 of each cycle). Patients received up to four cycles of platinum-etoposide 
+plus durvalumab 1500 mg with or without tremelimumab 75 mg every 3 weeks 
+followed by maintenance durvalumab 1500 mg every 4 weeks in the immunotherapy 
+groups and up to six cycles of platinum-etoposide every 3 weeks plus 
+prophylactic cranial irradiation (investigator's discretion) in the 
+platinum-etoposide group. The primary endpoint was overall survival in the 
+intention-to-treat population. We report results for the durvalumab plus 
+platinum-etoposide group versus the platinum-etoposide group from a planned 
+interim analysis. Safety was assessed in all patients who received at least one 
+dose of their assigned study treatment. This study is registered at 
+ClinicalTrials.gov, NCT03043872, and is ongoing.
+FINDINGS: Patients were enrolled between March 27, 2017, and May 29, 2018. 268 
+patients were allocated to the durvalumab plus platinum-etoposide group and 269 
+to the platinum-etoposide group. Durvalumab plus platinum-etoposide was 
+associated with a significant improvement in overall survival, with a hazard 
+ratio of 0·73 (95% CI 0·59-0·91; p=0·0047]); median overall survival was 13·0 
+months (95% CI 11·5-14·8) in the durvalumab plus platinum-etoposide group versus 
+10·3 months (9·3-11·2) in the platinum-etoposide group, with 34% (26·9-41·0) 
+versus 25% (18·4-31·6) of patients alive at 18 months. Any-cause adverse events 
+of grade 3 or 4 occurred in 163 (62%) of 265 treated patients in the durvalumab 
+plus platinum-etoposide group and 166 (62%) of 266 in the platinum-etoposide 
+group; adverse events leading to death occurred in 13 (5%) and 15 (6%) patients.
+INTERPRETATION: First-line durvalumab plus platinum-etoposide significantly 
+improved overall survival in patients with ES-SCLC versus a clinically relevant 
+control group. Safety findings were consistent with the known safety profiles of 
+all drugs received.
+FUNDING: AstraZeneca.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(19)32222-6
+PMID: 31590988 [Indexed for MEDLINE]

@@ -1,0 +1,97 @@
+14. J Clin Oncol. 2015 May 10;33(14):1574-83. doi: 10.1200/JCO.2014.56.9590. Epub
+ 2015 Mar 16.
+
+Lapatinib or Trastuzumab Plus Taxane Therapy for Human Epidermal Growth Factor 
+Receptor 2-Positive Advanced Breast Cancer: Final Results of NCIC CTG MA.31.
+
+Gelmon KA(1), Boyle FM(2), Kaufman B(2), Huntsman DG(2), Manikhas A(2), Di Leo 
+A(2), Martin M(2), Schwartzberg LS(2), Lemieux J(2), Aparicio S(2), Shepherd 
+LE(2), Dent S(2), Ellard SL(2), Tonkin K(2), Pritchard KI(2), Whelan TJ(2), 
+Nomikos D(2), Nusch A(2), Coleman RE(2), Mukai H(2), Tjulandin S(2), Khasanov 
+R(2), Rizel S(2), Connor AP(2), Santillana SL(2), Chapman JA(2), Parulekar 
+WR(2).
+
+Author information:
+(1)Karen A. Gelmon, David G. Huntsman, and Samuel Aparicio, British Columbia 
+Cancer Agency, Vancouver Cancer Centre, Vancouver; Susan L. Ellard, British 
+Columbia Cancer Agency, Cancer Centre for the Southern Interior, Kelowna, 
+British Columbia; Julie Lemieux, Centre Hospitalier Affilié Hopital Du St 
+Sacrement, Quebec City, Quebec; Lois E. Shepherd, Dora Nomikos, Judith-Anne W. 
+Chapman, and Wendy R. Parulekar, NCIC Clinical Trials Group, Queen's University, 
+Kingston; Susan Dent, Ottawa Health Research Institute, Ottawa; Kathleen I. 
+Pritchard, Odette Cancer Centre, Sunnybrook Health Sciences Centre, Toronto; 
+Timothy J. Whelan, Juravinski Cancer Centre at Hamilton Health Sciences, 
+Hamilton, Ontario; Katia Tonkin, Cross Cancer Institute, Edmonton, Alberta, 
+Canada; Frances M. Boyle, Patricia Ritchie Centre for Cancer Care and Research, 
+Mater Hospital, North Sydney, New South Wales, Australia; Bella Kaufman, Sheba 
+Medical Centre, Tel Hashomer; Shulamith Rizel, Rabin Medical Center, Petach 
+Tikva, Israel; Alexey Manikhas, City Clinical Oncological Dispensery, St 
+Petersburg; Sergei Tjulandin, Russian Cancer Research Center, Moscow; Rustem 
+Khasanov, Clinical Oncology Dispensary, Kazan, Russia; Angelo Di Leo, Sandro 
+Pitgliani Medical Oncology Unit, Prato, Italy; Miguel Martin, Servicio Oncologia 
+Hospital Gregorio Marañon, Madrid, Spain; Lee S. Schwartzberg, West Clinic, 
+Memphis, TN; Arnd Nusch, Praxis, Velbert, Germany; Robert E. Coleman, Weston 
+Park Hospital, Cancer Research Centre, Sheffield, United Kingdom; Hirofumi 
+Mukai, National Cancer Center Hospital East, Kashiwa-shi, Japan; Anne P. Connor, 
+GlaxoSmithKline, Collegeville, PA; and Sergio L. Santillana, GlaxoSmithKline, 
+Rio de Janeiro, Brazil. kgelmon@bccancer.bc.ca.
+(2)Karen A. Gelmon, David G. Huntsman, and Samuel Aparicio, British Columbia 
+Cancer Agency, Vancouver Cancer Centre, Vancouver; Susan L. Ellard, British 
+Columbia Cancer Agency, Cancer Centre for the Southern Interior, Kelowna, 
+British Columbia; Julie Lemieux, Centre Hospitalier Affilié Hopital Du St 
+Sacrement, Quebec City, Quebec; Lois E. Shepherd, Dora Nomikos, Judith-Anne W. 
+Chapman, and Wendy R. Parulekar, NCIC Clinical Trials Group, Queen's University, 
+Kingston; Susan Dent, Ottawa Health Research Institute, Ottawa; Kathleen I. 
+Pritchard, Odette Cancer Centre, Sunnybrook Health Sciences Centre, Toronto; 
+Timothy J. Whelan, Juravinski Cancer Centre at Hamilton Health Sciences, 
+Hamilton, Ontario; Katia Tonkin, Cross Cancer Institute, Edmonton, Alberta, 
+Canada; Frances M. Boyle, Patricia Ritchie Centre for Cancer Care and Research, 
+Mater Hospital, North Sydney, New South Wales, Australia; Bella Kaufman, Sheba 
+Medical Centre, Tel Hashomer; Shulamith Rizel, Rabin Medical Center, Petach 
+Tikva, Israel; Alexey Manikhas, City Clinical Oncological Dispensery, St 
+Petersburg; Sergei Tjulandin, Russian Cancer Research Center, Moscow; Rustem 
+Khasanov, Clinical Oncology Dispensary, Kazan, Russia; Angelo Di Leo, Sandro 
+Pitgliani Medical Oncology Unit, Prato, Italy; Miguel Martin, Servicio Oncologia 
+Hospital Gregorio Marañon, Madrid, Spain; Lee S. Schwartzberg, West Clinic, 
+Memphis, TN; Arnd Nusch, Praxis, Velbert, Germany; Robert E. Coleman, Weston 
+Park Hospital, Cancer Research Centre, Sheffield, United Kingdom; Hirofumi 
+Mukai, National Cancer Center Hospital East, Kashiwa-shi, Japan; Anne P. Connor, 
+GlaxoSmithKline, Collegeville, PA; and Sergio L. Santillana, GlaxoSmithKline, 
+Rio de Janeiro, Brazil.
+
+Comment in
+    J Clin Oncol. 2015 May 10;33(14):1530-3. doi: 10.1200/JCO.2014.60.1427.
+
+PURPOSE: The efficacy of lapatinib versus trastuzumab combined with taxanes in 
+the first-line setting of human epidermal growth factor receptor 2 (HER2) 
+-positive metastatic breast cancer (BC) is unknown.
+PATIENTS AND METHODS: The MA.31 trial compared a combination of first-line 
+anti-HER2 therapy (lapatinib or trastuzumab) and taxane therapy for 24 weeks, 
+followed by the same anti-HER2 monotherapy until progression. Stratification was 
+by prior (neo)adjuvant anti-HER2 therapy, prior (neo)adjuvant taxane, planned 
+taxane, and liver metastases. The primary end point was intention-to-treat (ITT) 
+progression-free survival (PFS), defined as time from random assignment to 
+progression by RECIST (version 1.0) criteria, or death for patients with locally 
+assessed HER2-positive tumors. The primary test statistic was a stratified 
+log-rank test for noninferiority. PFS was also assessed for patients with 
+centrally confirmed HER2-positive tumors.
+RESULTS: From July 17, 2008, to December 1, 2011, 652 patients were accrued from 
+21 countries, resulting in 537 patients with centrally confirmed HER2-positive 
+tumors. Median follow-up was 21.5 months. Median ITT PFS was 9.0 months with 
+lapatinib and 11.3 months with trastuzumab. By ITT analysis, PFS was inferior 
+for lapatinib compared with trastuzumab, with a stratified hazard ratio (HR) of 
+1.37 (95% CI, 1.13 to 1.65; P = .001). In patients with centrally confirmed 
+HER2-positive tumors, median PFS was 9.1 months with lapatinib and 13.6 months 
+with trastuzumab (HR, 1.48; 95% CI, 1.20 to 1.83; P < .001). More grade 3 or 4 
+diarrhea and rash were observed with lapatinib (P < .001). PFS results were 
+supported by the secondary end point of overall survival, with an ITT HR of 1.28 
+(95% CI, 0.95 to 1.72; P = .11); in patients with centrally confirmed 
+HER2-positive tumors, the HR was 1.47 (95% CI, 1.03 to 2.09; P = .03).
+CONCLUSION: As first-line therapy for HER2-positive metastatic BC, lapatinib 
+combined with taxane was associated with shorter PFS and more toxicity compared 
+with trastuzumab combined with taxane.
+
+© 2015 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2014.56.9590
+PMID: 25779558 [Indexed for MEDLINE]

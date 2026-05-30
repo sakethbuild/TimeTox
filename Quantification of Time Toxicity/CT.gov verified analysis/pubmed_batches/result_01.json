@@ -1,0 +1,314 @@
+[
+ {
+  "filename": "PMID 24081940 a_Summary_SoE.pdf",
+  "pmid": "24081940",
+  "trial_design_summary": "2x2 factorial of venlafaxine and soy protein vs placebo/milk protein for hot flashes",
+  "arms": [
+   {"arm_name": "Arm D (Casein protein powder + Placebo pill)", "designation": "control", "evidence": "milk protein powder and placebo pill, venlafaxine and milk protein powder, soy protein powder and placebo pill, or venlafaxine and soy"},
+   {"arm_name": "Arm A (Soy protein powder + Placebo pill)", "designation": "intervention", "evidence": "Neither venlafaxine nor soy protein alone or in combination had a significant effect on HFSSS"},
+   {"arm_name": "Arm B (Casein protein powder + Effexor XR)", "designation": "intervention", "evidence": "Neither venlafaxine nor soy protein alone or in combination had a significant effect on HFSSS"},
+   {"arm_name": "Arm C (Soy protein powder + Effexor XR)", "designation": "intervention", "evidence": "venlafaxine and soy protein powder"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24101040 a_Summary_SoE.pdf",
+  "pmid": "24101040",
+  "trial_design_summary": "Standard vs dose-dense temozolomide for newly diagnosed glioblastoma",
+  "arms": [
+   {"arm_name": "Arm 1 (Standard Arm: RT + TMZ 5/28)", "designation": "control", "evidence": "Patients were randomly assigned to standard temozolomide (arm 1) or DD temozolomide (arm 2)"},
+   {"arm_name": "Arm 2 (Experimental Arm: RT + TMZ 21/28)", "designation": "intervention", "evidence": "This trial tested whether DD temozolomide improves overall survival (OS) or progression-free survival"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24297950 a_Summary_SoE.pdf",
+  "pmid": "24297950",
+  "trial_design_summary": "Temsirolimus vs sorafenib as second-line therapy in metastatic RCC",
+  "arms": [
+   {"arm_name": "Arm B (Sorafenib)", "designation": "control", "evidence": "second-line temsirolimus did not demonstrate a PFS advantage compared with sorafenib"},
+   {"arm_name": "Arm A (Temsirolimus)", "designation": "intervention", "evidence": "Investigating Torisel As Second-Line Therapy... second-line temsirolimus did not demonstrate a PFS advantage compared with sorafenib"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24297951 a_Summary_SoE.pdf",
+  "pmid": "24297951",
+  "trial_design_summary": "IV calcium/magnesium vs placebo to prevent oxaliplatin neurotoxicity",
+  "arms": [
+   {"arm_name": "Arm 2: Placebo before and after FOLFOX", "designation": "control", "evidence": "randomly assigned to intravenous calcium/magnesium before and after oxaliplatin, a placebo before and after"},
+   {"arm_name": "Arm 1: CaMg before and after FOLFOX", "designation": "intervention", "evidence": "This trial was designed to definitively test whether calcium/magnesium decreases oxaliplatin-related neurotoxicity"},
+   {"arm_name": "Arm 3: CaMg before and placebo after FOLFOX", "designation": "intervention", "evidence": "calcium/magnesium before and placebo after"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24401022 a_Summary_SoE.pdf",
+  "pmid": "24401022",
+  "trial_design_summary": "Obinutuzumab-chlorambucil vs rituximab-chlorambucil vs chlorambucil alone in CLL",
+  "arms": [
+   {"arm_name": "Arm C (Clb: Chlorambucil alone)", "designation": "control", "evidence": "obinutuzumab-chlorambucil or rituximab-chlorambucil, as compared with chlorambucil monotherapy, increased response rates"},
+   {"arm_name": "Arm B (RClb: Rituximab + Chlorambucil)", "designation": "control", "evidence": "obinutuzumab was superior to rituximab when each was combined with chlorambucil"},
+   {"arm_name": "Arm A (GClb: Obinutuzumab + Chlorambucil)", "designation": "intervention", "evidence": "We investigated the benefit of the type 2, glycoengineered antibody obinutuzumab... as compared with that of rituximab"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24450857 a_Summary_SoE.pdf",
+  "pmid": "24450857",
+  "trial_design_summary": "Idelalisib plus rituximab vs placebo plus rituximab in relapsed CLL",
+  "arms": [
+   {"arm_name": "Arm B (Placebo + Rituximab)", "designation": "control", "evidence": "idelalisib... in combination with rituximab versus rituximab plus placebo"},
+   {"arm_name": "Arm A (Idelalisib + Rituximab)", "designation": "intervention", "evidence": "we assessed the efficacy and safety of idelalisib... in combination with rituximab versus rituximab plus placebo"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24552320 a_Summary_SoE.pdf",
+  "pmid": "24552320",
+  "trial_design_summary": "2x2 factorial of chemotherapy backbone and bevacizumab in advanced cervical cancer",
+  "arms": [
+   {"arm_name": "Regimen I (Cisplatin + Paclitaxel)", "designation": "control", "evidence": "the addition of bevacizumab to chemotherapy was associated with increased overall survival"},
+   {"arm_name": "Regimen II (Cisplatin + Paclitaxel + Bevacizumab)", "designation": "intervention", "evidence": "the addition of bevacizumab to chemotherapy was associated with increased overall survival"},
+   {"arm_name": "Regimen III (Topotecan + Paclitaxel)", "designation": "intervention", "evidence": "We evaluated the effectiveness of bevacizumab and nonplatinum combination chemotherapy"},
+   {"arm_name": "Regimen IV (Topotecan + Paclitaxel + Bevacizumab)", "designation": "intervention", "evidence": "We evaluated the effectiveness of bevacizumab and nonplatinum combination chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24733799 a_Summary_SoE.pdf",
+  "pmid": "24733799",
+  "trial_design_summary": "Doxepin oral rinse vs placebo (crossover) for radiotherapy-induced oral mucositis pain",
+  "arms": [
+   {"arm_name": "Doxepin then Placebo Crossover", "designation": "intervention", "evidence": "to test the efficacy of doxepin hydrochloride in the reduction of radiotherapy-induced OM pain"},
+   {"arm_name": "Placebo then Doxepin Crossover", "designation": "control", "evidence": "patients were randomly allocated to a doxepin oral rinse or a placebo"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24881463 a_Summary_SoE.pdf",
+  "pmid": "24881463",
+  "trial_design_summary": "Adjuvant exemestane plus ovarian suppression in premenopausal breast cancer (abstract body not available)",
+  "arms": [
+   {"arm_name": "SOFT Arm A (Tamoxifen alone)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "TEXT Arm A (GnRH analogue + Tamoxifen)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "SOFT Arm B & C (OFS + Tamoxifen/Exemestane)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "TEXT Arm A & B (GnRH analogue + Tamoxifen/Exemestane)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "TEXT Arm A (GnRH analogue plus Tamoxifen)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "TEXT Arm B (GnRH analogue plus Exemestane)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 24888818 a_Summary_SoE.pdf",
+  "pmid": "24888818",
+  "trial_design_summary": "CTC-guided early switch of chemotherapy vs continued therapy in metastatic breast cancer (SWOG S0500)",
+  "arms": [
+   {"arm_name": "Arm A (Low Risk Group - Regular Treatment)", "designation": "control", "evidence": "Patients with MBC who did not have increased CTCs at baseline remained on initial therapy until progression (arm A)"},
+   {"arm_name": "Arm B (Moderate Risk Group - Maintain Current Therapy)", "designation": "control", "evidence": "Patients with initially increased CTCs that decreased after 21 days of therapy remained on initial therapy (arm B)"},
+   {"arm_name": "Arm C1 (High Risk Group - Maintain Current Therapy)", "designation": "control", "evidence": "randomly assigned to continue initial therapy (arm C1) or change to an alternative chemotherapy (arm C2)"},
+   {"arm_name": "Arm C2 (High Risk Group - Switch Therapy)", "designation": "intervention", "evidence": "tested whether changing chemotherapy after one cycle of first-line chemotherapy would improve the primary outcome of overall survival"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 24934787 a_Summary_SoE.pdf",
+  "pmid": "24934787",
+  "trial_design_summary": "Single-agent paclitaxel vs doxorubicin-cyclophosphamide as adjuvant breast cancer therapy (CALGB 40101)",
+  "arms": [
+   {"arm_name": "Arm 1: Cyclophosphamide and Doxorubicin (CA)", "designation": "control", "evidence": "whether single-agent paclitaxel (T) was inferior to doxorubicin and cyclophosphamide (AC)"},
+   {"arm_name": "Arm 2: Paclitaxel (T)", "designation": "intervention", "evidence": "to address the noninferiority of single-agent T to AC"},
+   {"arm_name": "Arm 2: Paclitaxel", "designation": "intervention", "evidence": "to address the noninferiority of single-agent T to AC"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25092781 a_Summary_SoE.pdf",
+  "pmid": "25092781",
+  "trial_design_summary": "Standard chemotherapy with or without gemtuzumab ozogamicin in pediatric AML (AAML0531)",
+  "arms": [
+   {"arm_name": "Arm A (Standard chemotherapy)", "designation": "control", "evidence": "randomly assigned to either standard five-course chemotherapy alone or to the same chemotherapy with two doses of GO"},
+   {"arm_name": "Arm B (Standard chemotherapy + GMTZ)", "designation": "intervention", "evidence": "determine whether adding GO to standard chemotherapy improved event-free survival (EFS) and overall survival"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25184863 a_Summary_SoE.pdf",
+  "pmid": "25184863",
+  "trial_design_summary": "Lenalidomide-dexamethasone (continuous or 18 cycles) vs melphalan-prednisone-thalidomide in transplant-ineligible myeloma (FIRST)",
+  "arms": [
+   {"arm_name": "Arm C (MPT for 12 cycles)", "designation": "control", "evidence": "melphalan-prednisone-thalidomide (MPT) is considered a standard therapy for patients with myeloma who are ineligible for stem-cell transplantation"},
+   {"arm_name": "Arm A (Rd until PD)", "designation": "intervention", "evidence": "The primary end point was progression-free survival with continuous lenalidomide-dexamethasone versus MPT"},
+   {"arm_name": "Arm B (Rd for 18 cycles)", "designation": "intervention", "evidence": "lenalidomide and dexamethasone in 28-day cycles until disease progression... to the same combination for 72 weeks (18 cycles; 541 patients)"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25267740 a_Summary_SoE.pdf",
+  "pmid": "25267740",
+  "trial_design_summary": "Gemcitabine-based GDP vs standard DHAP before autologous transplant in relapsed/refractory lymphoma (LY.12)",
+  "arms": [
+   {"arm_name": "Arm S2 (DHAP +/- Rituximab)", "designation": "control", "evidence": "gemcitabine-based therapy before autologous stem-cell transplantation (ASCT) is as effective as and less toxic than standard treatment"},
+   {"arm_name": "Arm S1 (GDP)", "designation": "intervention", "evidence": "we hypothesized that gemcitabine-based therapy before autologous stem-cell transplantation (ASCT) is as effective as and less toxic than standard treatment"},
+   {"arm_name": "Arm S2 (DHAP)", "designation": "control", "evidence": "treatment with GDP is associated with a noninferior response rate... less toxicity and hospitalization"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25311218 a_Summary_SoE.pdf",
+  "pmid": "25311218",
+  "trial_design_summary": "Response-based therapy adjustment (RT omission for rapid responders, DECA augmentation for slow responders) in pediatric Hodgkin lymphoma (AHOD0031)",
+  "arms": [
+   {"arm_name": "RER Standard (ABVE-PC x4 + IFRT)", "designation": "control", "evidence": "RERs with CR were randomly assigned to involved-field radiotherapy (IFRT) or no additional therapy"},
+   {"arm_name": "SER Standard (ABVE-PC x4 + IFRT)", "designation": "control", "evidence": "Slow early responders (SERs) were randomly assigned to receive two additional ABVE-PC cycles with or without two cycles of... DECA"},
+   {"arm_name": "RER Reduced (ABVE-PC x4)", "designation": "intervention", "evidence": "omitting radiotherapy in RERs with CR"},
+   {"arm_name": "SER Augmented (ABVE-PC x2 + DECA x2 + ABVE-PC x2 + IFRT)", "designation": "intervention", "evidence": "augmenting chemotherapy in SERs with PET-positive disease"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25332243 a_Summary_SoE.pdf",
+  "pmid": "25332243",
+  "trial_design_summary": "High-dose interferon vs biochemotherapy as adjuvant therapy in high-risk melanoma (SWOG S0008)",
+  "arms": [
+   {"arm_name": "Arm 1 (High-Dose Interferon Alpha-2b)", "designation": "control", "evidence": "High-dose interferon (IFN) for 1 year (HDI) is the US Food and Drug Administration-approved adjuvant therapy"},
+   {"arm_name": "Arm 2 (Biochemotherapy: CVD + IL-2 + IFN + G-CSF)", "designation": "intervention", "evidence": "We sought to determine whether a shorter course of biochemotherapy would be more effective"},
+   {"arm_name": "Arm 1 (One Year High-Dose Interferon Alpha-2b)", "designation": "control", "evidence": "High-dose interferon (IFN) for 1 year (HDI) is the US Food and Drug Administration-approved adjuvant therapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25354103 a_Summary_SoE.pdf",
+  "pmid": "25354103",
+  "trial_design_summary": "Single-unit vs double-unit cord-blood transplantation for hematologic cancers",
+  "arms": [
+   {"arm_name": "Arm A (Single Umbilical Cord Blood Transplantation)", "designation": "control", "evidence": "we hypothesized that the greater numbers of hematopoietic cells in two units of cord blood would be associated with improved outcomes"},
+   {"arm_name": "Arm B (Double Umbilical Cord Blood Transplantation)", "designation": "intervention", "evidence": "we hypothesized that the greater numbers of hematopoietic cells in two units of cord blood would be associated with improved outcomes after transplantation"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25366680 a_Summary_SoE.pdf",
+  "pmid": "25366680",
+  "trial_design_summary": "Accelerated vs standard fractionation radiotherapy with concurrent cisplatin in head and neck cancer (RTOG 0129)",
+  "arms": [
+   {"arm_name": "Arm 1 (Standard Fractionation + Cisplatin)", "designation": "control", "evidence": "We tested the efficacy and toxicity of cisplatin plus accelerated fractionation with a concomitant boost (AFX-C) versus standard fractionation (SFX)"},
+   {"arm_name": "Arm 2 (Accelerated Fractionation + Cisplatin)", "designation": "intervention", "evidence": "We tested the efficacy and toxicity of cisplatin plus accelerated fractionation with a concomitant boost (AFX-C) versus standard fractionation"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25422488 a_Summary_SoE.pdf",
+  "pmid": "25422488",
+  "trial_design_summary": "2x2 factorial of anthracycline and taxane schedules in high-risk early breast cancer; arms differ by paclitaxel schedule (SWOG S0221)",
+  "arms": [
+   {"arm_name": "Arm 5 (AC q2w x 4 -> Paclitaxel q2w x 6)", "designation": "control", "evidence": "that paclitaxel once per week was superior to six cycles of paclitaxel once every 2 weeks"},
+   {"arm_name": "Arm 6 (AC q2w x 4 -> Paclitaxel weekly x 12)", "designation": "intervention", "evidence": "that paclitaxel once per week was superior to six cycles of paclitaxel once every 2 weeks"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25470694 a_Summary_SoE.pdf",
+  "pmid": "25470694",
+  "trial_design_summary": "First-line crizotinib vs platinum-pemetrexed chemotherapy in ALK-positive NSCLC (PROFILE 1014)",
+  "arms": [
+   {"arm_name": "Arm B (Chemotherapy - Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)", "designation": "control", "evidence": "Crizotinib was superior to standard first-line pemetrexed-plus-platinum chemotherapy"},
+   {"arm_name": "Arm A (Crizotinib)", "designation": "intervention", "evidence": "The efficacy of the ALK inhibitor crizotinib as compared with standard chemotherapy as first-line treatment... is unknown"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25495490 a_Summary_SoE.pdf",
+  "pmid": "25495490",
+  "trial_design_summary": "Adjuvant ovarian suppression in premenopausal breast cancer (abstract body not available)",
+  "arms": [
+   {"arm_name": "Arm A (Tamoxifen alone)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm B (OFS plus Tamoxifen)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm C (OFS plus Exemestane)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 25671254 a_Summary_SoE.pdf",
+  "pmid": "25671254",
+  "trial_design_summary": "Lenvatinib vs placebo in radioiodine-refractory thyroid cancer (SELECT)",
+  "arms": [
+   {"arm_name": "Arm B (Placebo)", "designation": "control", "evidence": "we randomly assigned 261 patients to receive lenvatinib... and 131 patients to receive placebo"},
+   {"arm_name": "Arm A (Lenvatinib)", "designation": "intervention", "evidence": "Lenvatinib, as compared with placebo, was associated with significant improvements in progression-free survival"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25682602 a_Summary_SoE.pdf",
+  "pmid": "25682602",
+  "trial_design_summary": "Lower-dose vs standard-dose initial prednisone for acute graft-versus-host disease",
+  "arms": [
+   {"arm_name": "Higher-dose prednisone (1 or 2 mg/kg/day)", "designation": "control", "evidence": "randomized to start treatment with prednisone at 1 mg/kg/day or 0.5 mg/kg/day... at 2 mg/kg/day or 1 mg/kg/day"},
+   {"arm_name": "Lower-dose prednisone (0.5 or 1 mg/kg/day)", "designation": "intervention", "evidence": "prednisone is effective and safe for patients with newly diagnosed acute graft-versus-host disease"},
+   {"arm_name": "Higher-dose prednisone (1 or 2 mg/kg/day)", "designation": "control", "evidence": "a 50% decrease in the initial dose of prednisone... would suffice to control graft-versus-host disease"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25713428 a_Summary_SoE.pdf",
+  "pmid": "25713428",
+  "trial_design_summary": "Gemcitabine-docetaxel plus bevacizumab vs plus placebo in metastatic uterine leiomyosarcoma",
+  "arms": [
+   {"arm_name": "Regimen I (Gemcitabine + Docetaxel + Placebo + G-CSF)", "designation": "control", "evidence": "randomly assigned to gemcitabine-docetaxel plus bevacizumab or gemcitabine-docetaxel plus placebo"},
+   {"arm_name": "Regimen II (Gemcitabine + Docetaxel + Bevacizumab + G-CSF)", "designation": "intervention", "evidence": "whether the addition of bevacizumab to gemcitabine-docetaxel increases progression-free survival"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25779558 a_Summary_SoE.pdf",
+  "pmid": "25779558",
+  "trial_design_summary": "Lapatinib vs trastuzumab plus taxane in HER2-positive advanced breast cancer (MA.31)",
+  "arms": [
+   {"arm_name": "Arm 2 (Trastuzumab + Taxane)", "designation": "control", "evidence": "PFS was inferior for lapatinib compared with trastuzumab, with a stratified hazard ratio (HR) of 1.37"},
+   {"arm_name": "Arm 1 (Lapatinib + Taxane)", "designation": "intervention", "evidence": "The efficacy of lapatinib versus trastuzumab combined with taxanes in the first-line setting... is unknown"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 25891173 a_Summary_SoE.pdf",
+  "pmid": "25891173",
+  "trial_design_summary": "Pembrolizumab (every 2 or 3 weeks) vs ipilimumab in advanced melanoma (KEYNOTE-006)",
+  "arms": [
+   {"arm_name": "Ipilimumab Q3W (3 mg/kg every 3 weeks for 4 doses)", "designation": "control", "evidence": "The immune checkpoint inhibitor ipilimumab is the standard-of-care treatment for patients with advanced melanoma"},
+   {"arm_name": "MK-3475 Q3W (10 mg/kg every 3 weeks)", "designation": "intervention", "evidence": "the anti-PD-1 antibody pembrolizumab prolonged progression-free survival and overall survival... versus ipilimumab"},
+   {"arm_name": "MK-3475 Q2W (10 mg/kg every 2 weeks)", "designation": "intervention", "evidence": "P<0.001 for both pembrolizumab regimens versus ipilimumab"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26027431 a_Summary_SoE.pdf",
+  "pmid": "26027431",
+  "trial_design_summary": "Nivolumab, nivolumab plus ipilimumab, or ipilimumab alone in untreated melanoma (CheckMate 067)",
+  "arms": [
+   {"arm_name": "Arm C (Ipilimumab monotherapy)", "designation": "control", "evidence": "nivolumab alone or nivolumab plus ipilimumab was compared with ipilimumab alone"},
+   {"arm_name": "Arm A (Nivolumab monotherapy)", "designation": "intervention", "evidence": "nivolumab alone or combined with ipilimumab resulted in significantly longer progression-free survival than ipilimumab alone"},
+   {"arm_name": "Arm B (Nivolumab + Ipilimumab)", "designation": "intervention", "evidence": "nivolumab alone or combined with ipilimumab resulted in significantly longer progression-free survival than ipilimumab alone"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26028407 a_Summary_SoE.pdf",
+  "pmid": "26028407",
+  "trial_design_summary": "Nivolumab vs docetaxel in advanced squamous-cell NSCLC (CheckMate 017)",
+  "arms": [
+   {"arm_name": "Arm B (Docetaxel)", "designation": "control", "evidence": "evaluated the efficacy and safety of nivolumab... as compared with docetaxel in this patient population"},
+   {"arm_name": "Arm A (Nivolumab)", "designation": "intervention", "evidence": "overall survival, response rate, and progression-free survival were significantly better with nivolumab than with docetaxel"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26040499 a_Summary_SoE.pdf",
+  "pmid": "26040499",
+  "trial_design_summary": "Adjuvant denosumab vs placebo in breast cancer (ABCSG-18) (abstract body not available)",
+  "arms": [
+   {"arm_name": "Placebo (Q6M)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Denosumab (60mg Q6M)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ }
+]

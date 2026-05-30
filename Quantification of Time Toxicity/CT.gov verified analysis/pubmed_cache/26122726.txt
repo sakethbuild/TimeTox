@@ -1,0 +1,58 @@
+20. Ann Oncol. 2015 Sep;26(9):1948-1953. doi: 10.1093/annonc/mdv281. Epub 2015
+Jun  28.
+
+Comparison of EP2006, a filgrastim biosimilar, to the reference: a phase III, 
+randomized, double-blind clinical study in the prevention of severe neutropenia 
+in patients with breast cancer receiving myelosuppressive chemotherapy.
+
+Blackwell K(1), Semiglazov V(2), Krasnozhon D(3), Davidenko I(4), Nelyubina 
+L(5), Nakov R(6), Stiegler G(6), Singh P(6), Schwebig A(6), Kramer S(6), Harbeck 
+N(7).
+
+Author information:
+(1)Duke University, DUMC, Durham, USA. Electronic address: 
+kimberly.blackwell@duke.edu.
+(2)'Railway Clinical Hospital of OJSC "RZhD"', Non-State Healthcare Institution 
+(NSHI), Saint Petersburg.
+(3)'Leningrad Regional Oncological Dispensary' at the Surgery Department #2, 
+State Healthcare Institution (SHI), Saint Petersburg.
+(4)'Clinical Oncological Dispensary No. 1' of Healthcare Department of Krasnodar 
+Territory, State Healthcare Institution (SHI), Krasnodar.
+(5)Institution of the Russian Academy of Medical Sciences, 'Russian Oncology 
+Research Center n.a. N.N. Blochin of RAMS', Moscow, Russia.
+(6)Hexal AG, Holzkirchen.
+(7)Breast Center, University of Munich, Munich, Germany.
+
+BACKGROUND: Biosimilars of filgrastim are in widespread clinical use in Europe. 
+This phase III study compares biosimilar filgrastim (EP2006), with the 
+US-licensed reference product, Neupogen(®), in breast cancer patients receiving 
+(neo)adjuvant myelosuppressive chemotherapy (TAC).
+PATIENTS AND METHODS: A total of 218 patients receiving 5 µg/kg/day filgrastim 
+over six chemotherapy cycles were randomized 1:1:1:1 into four arms. Two arms 
+received only one product (nonalternating), biosimilar or reference, and two 
+arms (alternating) received alternating treatments during each cycle (biosimilar 
+then reference or vice versa). The primary end point was duration of severe 
+neutropenia (DSN) during cycle 1.
+RESULTS: The baseline characteristics were balanced between the four treatment 
+arms. Noninferiority of biosimilar versus the reference was demonstrated: DSN 
+(days) in cycle 1 was 1.17 ± 1.11 (biosimilar, N = 101) and 1.20 ± 1.02 
+(reference, N = 103), 97.5% confidence interval lower boundary for the 
+difference was -0.26 days (above the predefined limit of -1 day). No clinically 
+meaningful differences were observed regarding any other efficacy parameter: 
+incidence of febrile neutropenia (FN); hospitalization due to FN; incidence of 
+infections; depth and time of absolute neutrophil count (ANC) nadir and time to 
+ANC recovery during cycle 1 and across all cycles. The pattern and frequency of 
+adverse events were similar across all treatments.
+CONCLUSION: This study demonstrates that biosimilar and the reference filgrastim 
+are similar with no clinically meaningful differences regarding efficacy and 
+safety in prevention of severe neutropenia. Biosimilar filgrastim could 
+represent an important alternative to the reference product, potentially 
+benefiting public health by increasing access to filgrastim treatment.
+STUDY NUMBER: NCT01519700.
+
+© The Author 2015. Published by Oxford University Press on behalf of the 
+European Society for Medical Oncology.
+
+DOI: 10.1093/annonc/mdv281
+PMCID: PMC4551159
+PMID: 26122726 [Indexed for MEDLINE]

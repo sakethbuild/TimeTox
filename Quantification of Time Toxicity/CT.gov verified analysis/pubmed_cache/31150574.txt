@@ -1,0 +1,107 @@
+2. N Engl J Med. 2019 Jul 4;381(1):13-24. doi: 10.1056/NEJMoa1903307. Epub 2019
+May  31.
+
+Apalutamide for Metastatic, Castration-Sensitive Prostate Cancer.
+
+Chi KN(1), Agarwal N(1), Bjartell A(1), Chung BH(1), Pereira de Santana Gomes 
+AJ(1), Given R(1), Juárez Soto Á(1), Merseburger AS(1), Özgüroğlu M(1), Uemura 
+H(1), Ye D(1), Deprince K(1), Naini V(1), Li J(1), Cheng S(1), Yu MK(1), Zhang 
+K(1), Larsen JS(1), McCarthy S(1), Chowdhury S(1); TITAN Investigators.
+
+Collaborators: Batagelj E, Bayo S, Bella S, De Romedi ML, Fein L, Greco MA, Kahl 
+S, Korbenfeld E, Montes de Oca LF, Richardet M, Salvatierra A, Staneloni E, 
+Varela M, Zarba JJ, Begbie S, Hocking C, Krieger L, Steer C, Carcano F, Coelho 
+de Andrade CJ, Crippa A, Cruz F, Damião R, Delgado G, Dettino A, Faccio A, 
+Franke F, Freitas M, Gomes AJ, Marinho G, Martins S, Nahas W, Odebrecht R, 
+Panhoca R, Paula A, Smaletz O, van Eyll B, Chi K, Fleshner N, Fradet Y, Shayegan 
+B, Siemens R, Gotto G, Chen Z, Du C, Guo H, He D, Hu Q, Huang J, Jin J, Luo H, 
+Ma L, Pu J, Qiu M, Sun Z, Tian Y, Wan B, Xia S, Xu E, Yang Y, Ye D, Ye Z, Zou Q, 
+Andel I, Brodak M, Capoun O, Dvorak J, Holeckova P, Jarolim L, Matouskova M, 
+Mecl J, Perkova H, Stanek R, Student V, Vanasek J, Zachoval R, Bennamoun M, Guy 
+L, Lebret T, Ruffion A, Spaeth D, Tazi Y, Timsit MO, Eckert R, Feyerabend S, 
+Hammerer P, May M, Merseburger A, Suttmann H, Szymula S, von Klot C, Bodoky G, 
+Géczi L, Kulcsár D, Nyirády P, Torzsok F, Trautmann T, Kejzman D, Mermershtain 
+W, Peer A, Rosenbaum E, Sella A, Caserta C, Galli L, Hamzaj A, Milella M, 
+Morelli F, Mosca A, Mucciarini C, Procopio G, Scagliotti G, Sciarra A, Arai G, 
+Fukasawa S, Hashine K, Iijima K, Matsumoto R, Nishimura K, Nomura T, Sakai H, 
+Suzuki H, Tsukino H, Tsumura H, Uemura H, Uemura H, Yamaguchi A, Calvo D, Castro 
+A, Rodriguez A, Hernandez N, Kuri R, Martinez I, Murillo E, Garcia L, Humanski 
+P, Jarzemski J, Marcheluk A, Oszukowska E, Skoneczna I, Zaremba M, Byun S, Chung 
+B, Hong SJ, Kang S, Kim CS, Kwak C, Kwon D, Kwon T, Lee JY, Lee K, Seo S, Song 
+KH, Jinga V, Lungulescu D, Militaru C, Alekseev B, Budnik N, Chistyakov V, 
+Gafanov R, Karyakin O, Khvorostenko D, Kolesnikov G, Kopyltsov E, Kovalskiy S, 
+Kulikov E, Izmaylov A, Lykov A, Mamonov M, Mangushlo A, Matveev V, Semenov A, 
+Shirshov V, Shkolnik M, Skopin P, Smirnov R, Tishchenko A, Varlamov S, Veliev E, 
+Vladimirov V, Garcia Donas J, Juarez A, Leivar A, Llorente C, Requena MJ, 
+Rodríguez-Antolín A, Andren O, Bjartell A, Damber JE, Elwaheidy A, Haggman M, 
+Ljungberg B, Norming U, Akdogan B, Arslan C, Baltaci S, Cal C, Cicin I, 
+Ozguroglu M, Sozen S, Yaman Sezer E, Yalcin B, Yigitbasi O, Bondarenko I, 
+Gotsuliak I, Hodos V, Hotko E, Ivashchenko P, Khareba G, Kostiuk O, Lychkovskyy 
+O, Lyulko O, Paramonov V, Pidmurnyak O, Pryanikov V, Sakalo V, Sonnyk I, 
+Stakhovsky E, Stus V, Aning J, Chowdhury S, Dixit S, Jones R, Kumar A, Leaning 
+D, Nabi G, Natale S, Protheroe A, Sayers I, Agarwal N, Agrawal M, Babu S, Bailen 
+J, Bardot S, Belkoff L, Bylow K, Chu F, Cochran J, DeGuenther M, Doshi G, 
+Dunshee C, Frankel J, Gartrell B, Gervasi L, Given R, Goodman M, Hafron J, Hauke 
+R, Jalkut M, Karsh L, Lewis B, Mannuel H, Mehlhaff B, Morris D, Pfanzelter N, 
+Pieczonka C, Sieber P, Saltzstein D, Schiffman Z, Sharifi R, Tutrone R.
+
+Author information:
+(1)From BC Cancer and Vancouver Prostate Centre, Vancouver, Canada (K.N.C.); 
+Huntsman Cancer Institute, University of Utah, Salt Lake City (N.A.); Skåne 
+University Hospital, Lund University, Malmö, Sweden (A.B.); Yonsei University 
+College of Medicine and Gangnam Severance Hospital, Seoul, South Korea (B.H.C.); 
+Liga Norte Riograndense Contra o Câncer, Natal, Brazil (A.J.P.S.G.); Urology of 
+Virginia, Eastern Virginia Medical School, Norfolk (R.G.); Hospital 
+Universitario de Jerez de la Frontera, Cadiz, Spain (A.J.S.); University 
+Hospital Schleswig-Holstein, Campus Lübeck, Lübeck, Germany (A.S.M.); Istanbul 
+University-Cerrahpaşa, Cerrahpaşa School of Medicine, Istanbul, Turkey (M.O.); 
+Kindai University Hospital Faculty of Medicine, Osaka, Japan (H.U.); Fudan 
+University Shanghai Cancer Center, Shanghai, China (D.Y.); Janssen Research and 
+Development, Beerse, Belgium (K.D.); Janssen Research and Development, San Diego 
+(V.N., J.L., K.Z.), and Janssen Research and Development, Los Angeles (M.K.Y., 
+J.S.L.) - both in California; Janssen Research and Development, Raritan, NJ (S. 
+Cheng, S.M.); and Guy's, King's, and St. Thomas' Hospitals and the Sarah Cannon 
+Research Institute, London (S. Chowdhury).
+
+Comment in
+    N Engl J Med. 2019 Jul 4;381(1):84-86. doi: 10.1056/NEJMe1905891.
+    J Urol. 2019 Oct;202(4):661. doi: 10.1097/01.JU.0000577260.12278.1c.
+    Ann Transl Med. 2019 Dec;7(Suppl 8):S362. doi: 10.21037/atm.2019.09.53.
+    Ann Transl Med. 2019 Dec;7(Suppl 8):S364. doi: 10.21037/atm.2019.09.21.
+    Aktuelle Urol. 2020 Feb;51(1):10. doi: 10.1055/a-0962-6290.
+
+BACKGROUND: Apalutamide is an inhibitor of the ligand-binding domain of the 
+androgen receptor. Whether the addition of apalutamide to androgen-deprivation 
+therapy (ADT) would prolong radiographic progression-free survival and overall 
+survival as compared with placebo plus ADT among patients with metastatic, 
+castration-sensitive prostate cancer has not been determined.
+METHODS: In this double-blind, phase 3 trial, we randomly assigned patients with 
+metastatic, castration-sensitive prostate cancer to receive apalutamide (240 mg 
+per day) or placebo, added to ADT. Previous treatment for localized disease and 
+previous docetaxel therapy were allowed. The primary end points were 
+radiographic progression-free survival and overall survival.
+RESULTS: A total of 525 patients were assigned to receive apalutamide plus ADT 
+and 527 to receive placebo plus ADT. The median age was 68 years. A total of 
+16.4% of the patients had undergone prostatectomy or received radiotherapy for 
+localized disease, and 10.7% had received previous docetaxel therapy; 62.7% had 
+high-volume disease, and 37.3% had low-volume disease. At the first interim 
+analysis, with a median of 22.7 months of follow-up, the percentage of patients 
+with radiographic progression-free survival at 24 months was 68.2% in the 
+apalutamide group and 47.5% in the placebo group (hazard ratio for radiographic 
+progression or death, 0.48; 95% confidence interval [CI], 0.39 to 0.60; 
+P<0.001). Overall survival at 24 months was also greater with apalutamide than 
+with placebo (82.4% in the apalutamide group vs. 73.5% in the placebo group; 
+hazard ratio for death, 0.67; 95% CI, 0.51 to 0.89; P = 0.005). The frequency of 
+grade 3 or 4 adverse events was 42.2% in the apalutamide group and 40.8% in the 
+placebo group; rash was more common in the apalutamide group.
+CONCLUSIONS: In this trial involving patients with metastatic, 
+castration-sensitive prostate cancer, overall survival and radiographic 
+progression-free survival were significantly longer with the addition of 
+apalutamide to ADT than with placebo plus ADT, and the side-effect profile did 
+not differ substantially between the two groups. (Funded by Janssen Research and 
+Development; TITAN ClinicalTrials.gov number, NCT02489318.).
+
+Copyright © 2019 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa1903307
+PMID: 31150574 [Indexed for MEDLINE]

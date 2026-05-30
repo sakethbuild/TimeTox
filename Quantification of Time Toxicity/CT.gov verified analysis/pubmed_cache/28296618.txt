@@ -1,0 +1,79 @@
+18. N Engl J Med. 2017 Mar 16;376(11):1027-1037. doi: 10.1056/NEJMoa1611977.
+
+Short-Course Radiation plus Temozolomide in Elderly Patients with Glioblastoma.
+
+Perry JR(1), Laperriere N(1), O'Callaghan CJ(1), Brandes AA(1), Menten J(1), 
+Phillips C(1), Fay M(1), Nishikawa R(1), Cairncross JG(1), Roa W(1), Osoba D(1), 
+Rossiter JP(1), Sahgal A(1), Hirte H(1), Laigle-Donadey F(1), Franceschi E(1), 
+Chinot O(1), Golfinopoulos V(1), Fariselli L(1), Wick A(1), Feuvret L(1), Back 
+M(1), Tills M(1), Winch C(1), Baumert BG(1), Wick W(1), Ding K(1), Mason WP(1); 
+Trial Investigators.
+
+Collaborators: Mulroy LA, Naz F, Mathieu D, Vincent F, Kavan P, Masucci GL, 
+Chung C, Macdonald DR, Pitz MW, Easaw J, Mckenzie M, Agranovich AL, Pai HH, 
+Meijnders P, Bouttens F, Eekers D, Truc G, van den Bent MJ, Gijtenbeek J, Niel 
+C, Kortmann R-D, Hanse M, Wiggenraad RGJ, Kantor G, Enting R, Steinbach J, 
+Baurain J-F, Weytjens R, Reni M, Bolla M, De Jong M, Fabbro M, Grosu A, Bozec L, 
+Tabatabai G, Servagi-Vernat S, Chapman R, Dally M, Fay M, Foote M, Ludbrook J, 
+Hill J, Potter A, Skala M, Joseph D, James M, Yamasaki F.
+
+Author information:
+(1)From Odette Cancer Centre, Sunnybrook Health Sciences Centre (J.R.P., A.S.) 
+and Princess Margaret Cancer Centre (N.L., W.P.M.), Toronto, the Canadian Cancer 
+Trials Group, Queens University, Kingston, ON (C.J.O., C.W., K.D.), University 
+of Calgary, Calgary, AB (J.G.C.), University of Alberta, Edmonton (W.R.), 
+Quality of Life Consulting, West Vancouver, BC (D.O.), Queen's University, 
+Kingston General Hospital, Kingston, ON (J.P.R.), and Juravinski Cancer Centre, 
+Hamilton, ON (H.H.) - all in Canada; Azienda Unità Sanitaria Locale- Istituto di 
+Ricovero e Cura a Carattere Scientifico Istituto delle Scienze Neurologiche, 
+Bologna (A.A.B., E.F.), and Fondazione Istituto Neurologico Carlo Besta, Milan 
+(L. Fariselli) - both in Italy; University Hospital Gasthuisberg, Leuven, 
+Belgium (J.M.); Peter MacCallum Cancer Centre, Melbourne, VIC (C.P.), University 
+of Newcastle, Newcastle, NSW (M.F.), University of Queensland, Brisbane (M.F.), 
+and Royal North Shore Hospital, Sydney (M.B.) - all in Australia; Saitama 
+Medical University International Medical Center, Saitama, Japan (R.N.); Hôpital 
+de la Pitié-Salpêtrière (F.L.-D., L. Feuvret), Paris, and Aix-Marseille 
+University, Assistance Publique-Hôpitaux de Marseille, Centre Hospitalier 
+Universitaire Timone, Marseilles (O.C.) - both in France; the European 
+Organization for Research and Treatment of Cancer, Brussels (V.G.); the 
+Neurology Clinic, University of Heidelberg, Heidelberg, Germany (A.W., W.W.); 
+Tauranga Hospital, Tauranga, New Zealand (M.T.); and Maastricht University 
+Medical Center and School for Oncology and Developmental Biology, Maastricht, 
+the Netherlands (B.G.B.).
+
+Comment in
+    Strahlenther Onkol. 2017 Jun;193(6):510-512. doi: 10.1007/s00066-017-1134-9.
+    Neuro Oncol. 2017 Jul 1;19(7):879. doi: 10.1093/neuonc/nox075.
+    N Engl J Med. 2017 Jun 1;376(22):2195-2197. doi: 10.1056/NEJMc1704726.
+
+BACKGROUND: Glioblastoma is associated with a poor prognosis in the elderly. 
+Survival has been shown to increase among patients 70 years of age or younger 
+when temozolomide chemotherapy is added to standard radiotherapy (60 Gy over a 
+period of 6 weeks). In elderly patients, more convenient shorter courses of 
+radiotherapy are commonly used, but the benefit of adding temozolomide to a 
+shorter course of radiotherapy is unknown.
+METHODS: We conducted a trial involving patients 65 years of age or older with 
+newly diagnosed glioblastoma. Patients were randomly assigned to receive either 
+radiotherapy alone (40 Gy in 15 fractions) or radiotherapy with concomitant and 
+adjuvant temozolomide.
+RESULTS: A total of 562 patients underwent randomization, 281 to each group. The 
+median age was 73 years (range, 65 to 90). The median overall survival was 
+longer with radiotherapy plus temozolomide than with radiotherapy alone (9.3 
+months vs. 7.6 months; hazard ratio for death, 0.67; 95% confidence interval 
+[CI], 0.56 to 0.80; P<0.001), as was the median progression-free survival (5.3 
+months vs. 3.9 months; hazard ratio for disease progression or death, 0.50; 95% 
+CI, 0.41 to 0.60; P<0.001). Among 165 patients with methylated 
+O6-methylguanine-DNA methyltransferase (MGMT) status, the median overall 
+survival was 13.5 months with radiotherapy plus temozolomide and 7.7 months with 
+radiotherapy alone (hazard ratio for death, 0.53; 95% CI, 0.38 to 0.73; 
+P<0.001). Among 189 patients with unmethylated MGMT status, the median overall 
+survival was 10.0 months with radiotherapy plus temozolomide and 7.9 months with 
+radiotherapy alone (hazard ratio for death, 0.75; 95% CI, 0.56 to 1.01; P=0.055; 
+P=0.08 for interaction). Quality of life was similar in the two trial groups.
+CONCLUSIONS: In elderly patients with glioblastoma, the addition of temozolomide 
+to short-course radiotherapy resulted in longer survival than short-course 
+radiotherapy alone. (Funded by the Canadian Cancer Society Research Institute 
+and others; ClinicalTrials.gov number, NCT00482677 .).
+
+DOI: 10.1056/NEJMoa1611977
+PMID: 28296618 [Indexed for MEDLINE]

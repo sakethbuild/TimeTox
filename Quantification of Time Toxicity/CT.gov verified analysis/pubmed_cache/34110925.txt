@@ -1,0 +1,100 @@
+2. J Clin Oncol. 2021 Aug 20;39(24):2685-2697. doi: 10.1200/JCO.20.02730. Epub
+2021  Jun 10.
+
+Children's Oncology Group Phase III Trial of Reduced-Dose and Reduced-Volume 
+Radiotherapy With Chemotherapy for Newly Diagnosed Average-Risk Medulloblastoma.
+
+Michalski JM(1), Janss AJ(2), Vezina LG(3), Smith KS(4), Billups CA(5), Burger 
+PC(6), Embry LM(7), Cullen PL(8), Hardy KK(9), Pomeroy SL(10), Bass JK(11), 
+Perkins SM(1), Merchant TE(12), Colte PD(13), Fitzgerald TJ(14), Booth TN(15), 
+Cherlow JM(16), Muraszko KM(17), Hadley J(4), Kumar R(4), Han Y(5), Tarbell 
+NJ(18), Fouladi M(19), Pollack IF(20), Packer RJ(21), Li Y(5), Gajjar A(22), 
+Northcott PA(4).
+
+Author information:
+(1)Department of Radiation Oncology, Washington University School of Medicine, 
+St Louis, MO.
+(2)Department of Pediatrics, Emory University School of Medicine, Atlanta, GA.
+(3)Division of Diagnostic Imaging and Radiology, Children's National Medical 
+Center, Washington, DC.
+(4)Department of Developmental Neurobiology, St Jude Children's Research 
+Hospital, Memphis, TN.
+(5)Department of Biostatistics, St Jude Children's Research Hospital, Memphis, 
+TN.
+(6)Department of Neuropathology, Johns Hopkins University, Baltimore, MD.
+(7)Department of Pediatrics, University of Texas Health Science Center at San 
+Antonio, San Antonio, TX.
+(8)Loretto Heights School of Nursing, Regis University, Denver, CO.
+(9)Division of Neuropsychology, Children's National Medical Center, Washington, 
+DC.
+(10)Department of Neurology, Harvard Medical School, Boston, MA.
+(11)Department of Rehabilitation Services, St Jude's Children's Research 
+Hospital, Memphis, TN.
+(12)Department of Radiation Oncology, St Jude's Children's Research Hospital, 
+Memphis, TN.
+(13)Division of Hematology/Oncology/BMT, Primary Children's Hospital, Aurora, 
+CO.
+(14)Image and Radiation Oncology Core-Rhode Island, Lincoln, RI.
+(15)Department of Radiology, UT Southwestern/Simmons Cancer Center, Dallas, TX.
+(16)Department of Radiation Oncology, Miller Children's and Women's Hospital 
+Long Beach, Long Beach, CA.
+(17)Department of Neurosurgery, University of Michigan, Ann Arbor, MI.
+(18)Department of Radiation Oncology, Massachusetts General Hospital Cancer 
+Center, Boston, MA.
+(19)Department of Pediatrics, University of Cincinnati, Cincinnati, OH.
+(20)Department of Neurosurgery, Children's Hospital of Pittsburgh, University of 
+Pittsburgh Medical Center, Pittsburgh, PA.
+(21)Center for Neuroscience and Behavioral Medicine, Children's National Medical 
+Center, Washington, DC.
+(22)Department of Oncology, St Jude's Children's Research Hospital, Memphis, TN.
+
+PURPOSE: Children with average-risk medulloblastoma (MB) experience survival 
+rates of ≥ 80% at the expense of adverse consequences of treatment. Efforts to 
+mitigate these effects include deintensification of craniospinal irradiation 
+(CSI) dose and volume.
+METHODS: ACNS0331 (ClinicalTrials.gov identifier: NCT00085735) randomly assigned 
+patients age 3-21 years with average-risk MB to receive posterior fossa 
+radiation therapy (PFRT) or involved field radiation therapy (IFRT) following 
+CSI. Young children (3-7 years) were also randomly assigned to receive 
+standard-dose CSI (SDCSI; 23.4 Gy) or low-dose CSI (LDCSI; 18 Gy). Post hoc 
+molecular classification and mutational analysis contextualized outcomes 
+according to known biologic subgroups (Wingless, Sonic Hedgehog, group 3, and 
+group 4) and genetic biomarkers. Neurocognitive changes and ototoxicity were 
+monitored over time.
+RESULTS: Five hundred forty-nine patients were enrolled on study, of which 464 
+were eligible and evaluable to compare PFRT versus IFRT and 226 for SDCSI versus 
+LDCSI. The five-year event-free survival (EFS) was 82.5% (95% CI, 77.2 to 87.8) 
+and 80.5% (95% CI, 75.2 to 85.8) for the IFRT and PFRT regimens, respectively, 
+and 71.4% (95% CI, 62.8 to 80) and 82.9% (95% CI, 75.6 to 90.2) for the LDCSI 
+and SDCSI regimens, respectively. IFRT was not inferior to PFRT (hazard ratio, 
+0.97; 94% upper CI, 1.32). LDCSI was inferior to SDCSI (hazard ratio, 1.67%; 80% 
+upper CI, 2.10). Improved EFS was observed in patients with Sonic Hedgehog MB 
+who were randomly assigned to the IFRT arm (P = .018). Patients with group 4 MB 
+receiving LDCSI exhibited inferior EFS (P = .047). Children receiving SDCSI 
+exhibited greater late declines in IQ (estimate = 5.87; P = .021).
+CONCLUSION: Reducing the radiation boost volume in average-risk MB is safe and 
+does not compromise survival. Reducing CSI dose in young children with 
+average-risk MB results in inferior outcomes, possibly in a subgroup-dependent 
+manner, but is associated with better neurocognitive outcome. Molecularly 
+informed patient selection warrants further exploration for children with MB to 
+be considered for late-effect sparing approaches.
+
+DOI: 10.1200/JCO.20.02730
+PMCID: PMC8376317
+PMID: 34110925 [Indexed for MEDLINE]
+
+Conflict of interest statement: Jeff M. MichalskiStock and Other Ownership 
+Interests: ViewRayConsulting or Advisory Role: Mevion Medical Systems, Boston 
+Scientific, Merck Sharp & Dohme, Blue Earth DiagnosticsResearch Funding: Merck 
+Sharp & DohmeTravel, Accommodations, Expenses: Boston Scientific, Merck Sharp & 
+DohmeOpen Payments Link: https://openpaymentsdata.cms.gov/physician/221723 
+Kristina K. HardyEmployment: BayerHonoraria: BayerSpeakers' Bureau: BayerTravel, 
+Accommodations, Expenses: Bayer Stephanie M. PerkinsConsulting or Advisory Role: 
+Mevion Medical Systems Thomas E. MerchantTravel, Accommodations, Expenses: 
+Philips Healthcare Nancy J. TarbellConsulting or Advisory Role: Mevion Medical 
+Systems, Advanced OncoPatents, Royalties, Other Intellectual Property: Spouse is 
+an editor for UpToDate Maryam FouladiResearch Funding: PTC Therapeutics, Bayer 
+Schering Pharma Roger J. PackerHonoraria: NovartisConsulting or Advisory Role: 
+Novartis, AstraZeneca Amar GajjarConsulting or Advisory Role: Roche/Genentech, 
+QED TherapeuticsResearch Funding: Genentech, Kazia TherapeuticsNo other 
+potential conflicts of interest were reported.

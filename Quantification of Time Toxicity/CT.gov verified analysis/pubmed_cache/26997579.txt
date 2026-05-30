@@ -1,0 +1,42 @@
+7. Future Oncol. 2016 Jun;12(12):1469-81. doi: 10.2217/fon-2016-0070. Epub 2016
+Mar  21.
+
+APF530 (granisetron injection extended-release) in a three-drug regimen for 
+delayed CINV in highly emetogenic chemotherapy.
+
+Schnadig ID(1), Agajanian R(2), Dakhil C(3), Gabrail NY(4), Smith RE Jr(5), 
+Taylor C(6), Wilks ST(7), Schwartzberg LS(8), Cooper W(9), Mosier MC(10), Payne 
+JY(11), Klepper MJ(12), Vacirca JL(13).
+
+Author information:
+(1)Compass Oncology, US Oncology Research, Tualatin, OR, USA.
+(2)The Oncology Institute of Hope & Innovation, Whittier, CA, USA.
+(3)Cancer Center of Kansas, Wichita, KS, USA.
+(4)Gabrail Cancer Center, Canton, OH, USA.
+(5)South Carolina Oncology Associates, Columbia, SC, USA.
+(6)Tulsa Cancer Institute, Tulsa, OK, USA.
+(7)Cancer Care Centers of South Texas, San Antonio, TX, USA.
+(8)The West Clinic, Memphis, TN, USA.
+(9)TFS, Princeton, NJ, USA.
+(10)EMB Statistical Solutions, LLC, Overland Park, KS, USA.
+(11)Heron Therapeutics, Inc., San Diego, CA, USA (at time of study).
+(12)Drug Safety Navigator, LLC, Durham, NC, USA.
+(13)North Shore Hematology Oncology, East Setauket, NY, USA.
+
+AIM: APF530, extended-release granisetron, provides sustained release for ≥5 
+days for acute- and delayed-phase chemotherapy-induced nausea and vomiting 
+(CINV). We compared efficacy and safety of APF530 versus ondansetron for delayed 
+CINV after highly emetogenic chemotherapy (HEC), following a 
+guideline-recommended three-drug regimen.
+METHODS: HEC patients received APF530 500 mg subcutaneously or ondansetron 0.15 
+mg/kg intravenously, with dexamethasone and fosaprepitant. Primary end point was 
+delayed-phase complete response (no emesis or rescue medication).
+RESULTS: A higher percentage of APF530 versus ondansetron patients had 
+delayed-phase complete response (p = 0.014). APF530 was generally well 
+tolerated; treatment-emergent adverse event incidence was similar across arms, 
+mostly mild-to-moderate injection-site reactions.
+CONCLUSION: APF530 versus the standard three-drug regimen provided superior 
+control of delayed-phase CINV following HEC. ClinicalTrials.gov : NCT02106494.
+
+DOI: 10.2217/fon-2016-0070
+PMID: 26997579 [Indexed for MEDLINE]

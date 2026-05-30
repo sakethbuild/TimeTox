@@ -1,0 +1,112 @@
+16. Lancet Oncol. 2021 Apr;22(4):499-511. doi: 10.1016/S1470-2045(20)30754-3.
+Epub  2021 Mar 4.
+
+Pembrolizumab versus investigator-choice chemotherapy for metastatic 
+triple-negative breast cancer (KEYNOTE-119): a randomised, open-label, phase 3 
+trial.
+
+Winer EP(1), Lipatov O(2), Im SA(3), Goncalves A(4), Muñoz-Couselo E(5), Lee 
+KS(6), Schmid P(7), Tamura K(8), Testa L(9), Witzel I(10), Ohtani S(11), Turner 
+N(12), Zambelli S(13), Harbeck N(14), Andre F(15), Dent R(16), Zhou X(17), 
+Karantza V(17), Mejia J(17), Cortes J(5); KEYNOTE-119 investigators.
+
+Author information:
+(1)Division of Breast Oncology, Dana-Farber Cancer Institute, Boston, MA, USA. 
+Electronic address: eric_winer@dfci.harvard.edu.
+(2)Medical Oncology, Republican Clinical Oncology Dispensary, Ufa, Republic of 
+Bashkortostan, Russia.
+(3)Internal Medicine, Seoul National University, Seoul, South Korea.
+(4)Department of Medical Oncology, Institut Paoli-Calmettes, Centre de Recherche 
+en Cancérologie de Marseille, Aix-Marseille University, Centre National de la 
+Recherche Scientifique, French National Institute of Health and Medical 
+Research, Marseille, France.
+(5)International Breast Cancer Center, Quiron Group, Madrid and Barcelona, 
+Spain; Vall d'Hebron Institute of Oncology, Barcelona, Spain.
+(6)Center for Breast Cancer, National Cancer Center, Goyang, South Korea.
+(7)Centre for Experimental Cancer Medicine, Barts Cancer Institute, Queen Mary 
+University London, London, UK.
+(8)Department of Breast and Medical Oncology, National Cancer Center Hospital, 
+Tokyo, Japan.
+(9)Breast Medical Oncology, Instituto do Câncer do Estado de São Paulo, 
+Faculdade de Medicina da Universidade do Estado do São Paulo, São Paulo, Brazil.
+(10)Department of Gynaecology, University Medical Center Hamburg, Hamburg, 
+Germany.
+(11)Surgical Oncology, Hiroshima City Hiroshima Citizens Hospital, Hiroshima, 
+Japan.
+(12)Breast Unit, Royal Marsden National Health Service Foundation Trust, London, 
+UK.
+(13)Medical Oncology, Istituto di Ricovero e Cura a Carattere Scientifico 
+Ospedale San Raffaele, Milan, Italy.
+(14)Breast Center, Ludwig-Maximilians-University, University Hospital, Munich, 
+Germany.
+(15)Faculté de Medicine Paris-Sud XI, Gustave Roussy, Villejuif, France.
+(16)Division of Medical Oncology, National Cancer Centre Singapore, Singapore.
+(17)Division of Medical Oncology, Merck, Kenilworth, NJ, USA.
+
+Comment in
+    Lancet Oncol. 2021 Jun;22(6):e224. doi: 10.1016/S1470-2045(21)00249-7.
+
+BACKGROUND: Pembrolizumab showed durable antitumour activity and manageable 
+safety in metastatic triple-negative breast cancer in the single-arm KEYNOTE-012 
+and KEYNOTE-086 trials. In this study, we compared pembrolizumab with 
+chemotherapy for second-line or third-line treatment of patients with metastatic 
+triple-negative breast cancer.
+METHODS: KEYNOTE-119 was a randomised, open-label, phase 3 trial done at 150 
+medical centres (academic medical centres, community cancer centres, and 
+community hospitals) in 31 countries. Patients aged 18 years or older, with 
+centrally confirmed metastatic triple-negative breast cancer, Eastern 
+Cooperative Oncology Group performance status of 0 or 1, who had received one or 
+two previous systemic treatments for metastatic disease, had progression on 
+their most recent therapy, and had previous treatment with an anthracycline or 
+taxane were eligible. Patients were randomly assigned (1:1) using a block method 
+(block size of four) and an interactive voice-response system with integrated 
+web-response to receive intravenous pembrolizumab 200 mg once every 3 weeks for 
+35 cycles (pembrolizumab group), or to single-drug chemotherapy per 
+investigator's choice of capecitabine, eribulin, gemcitabine, or vinorelbine 
+(60% enrolment cap for each; chemotherapy group). Randomisation was stratified 
+by PD-L1 tumour status (positive [combined positive score (CPS) ≥1] vs negative 
+[CPS <1]) and history of previous neoadjuvant or adjuvant treatment versus 
+de-novo metastatic disease at initial diagnosis. Primary endpoints were overall 
+survival in participants with a PD-L1 combined positive score (CPS) of 10 or 
+more, those with a CPS of 1 or more, and all participants; superiority of 
+pembrolizumab versus chemotherapy was tested in all participants only if shown 
+in those with a CPS of one or more. The primary endpoint was analysed in the 
+intention-to-treat population; safety was analysed in the 
+all-subjects-as-treated population. This Article describes the final analysis of 
+the trial, which is now completed. This trial is registered with 
+ClinicalTrials.gov, number NCT02555657.
+FINDINGS: From Nov 25, 2015, to April 11, 2017, 1098 participants were assessed 
+for eligibility and 622 (57%) were randomly assigned to receive either 
+pembrolizumab (312 [50%]) or chemotherapy (310 [50%]). Median study follow-up 
+was 31·4 months (IQR 27·8-34·4) for the pembrolizumab group and 31·5 months 
+(27·8-34·6) for the chemotherapy group. Median overall survival in patients with 
+a PD-L1 CPS of 10 or more was 12·7 months (95% CI 9·9-16·3) for the 
+pembrolizumab group and 11·6 months (8·3-13·7) for the chemotherapy group 
+(hazard ratio [HR] 0·78 [95% CI 0·57-1·06]; log-rank p=0·057). In participants 
+with a CPS of 1 or more, median overall survival was 10·7 months (9·3-12·5) for 
+the pembrolizumab group and 10·2 months (7·9-12·6) for the chemotherapy group 
+(HR 0·86 [95% CI 0·69-1·06]; log-rank p=0·073). In the overall population, 
+median overall survival was 9·9 months (95% CI 8·3-11·4) for the pembrolizumab 
+group and 10·8 months (9·1-12·6) for the chemotherapy group (HR 0·97 [95% CI 
+0·82-1·15]). The most common grade 3-4 treatment-related adverse events were 
+anaemia (three [1%] patients in the pembrolizumab group vs ten [3%] in the 
+chemotherapy group), decreased white blood cells (one [<1%] vs 14 [5%]), 
+decreased neutrophil count (one [<1%] vs 29 [10%]), and neutropenia (0 vs 39 
+[13%]). 61 (20%) patients in the pembrolizumab group and 58 (20%) patients in 
+the chemotherapy group had serious adverse events. Three (<1%) of 601 
+participants had treatment-related adverse events that led to death (one [<1%] 
+in the pembrolizumab group due to circulatory collapse; two [1%] in the 
+chemotherapy group, one [<1%] due to pancytopenia and sepsis and one [<1%] 
+haemothorax).
+INTERPRETATION: Pembrolizumab did not significantly improve overall survival in 
+patients with previously treated metastatic triple-negative breast cancer versus 
+chemotherapy. These findings might inform future research of pembrolizumab 
+monotherapy for selected subpopulations of patients, specifically those with 
+PD-L1-enriched tumours, and inform a combinatorial approach for the treatment of 
+patients with metastatic triple-negative breast cancer.
+FUNDING: Merck Sharp & Dohme.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(20)30754-3
+PMID: 33676601 [Indexed for MEDLINE]

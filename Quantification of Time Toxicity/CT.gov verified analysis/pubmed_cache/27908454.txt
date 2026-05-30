@@ -1,0 +1,84 @@
+12. Lancet. 2016 Dec 17;388(10063):2997-3005. doi: 10.1016/S0140-6736(16)32389-3.
+ Epub 2016 Nov 29.
+
+Fulvestrant 500 mg versus anastrozole 1 mg for hormone receptor-positive 
+advanced breast cancer (FALCON): an international, randomised, double-blind, 
+phase 3 trial.
+
+Robertson JFR(1), Bondarenko IM(2), Trishkina E(3), Dvorkin M(4), Panasci L(5), 
+Manikhas A(6), Shparyk Y(7), Cardona-Huerta S(8), Cheung KL(9), Philco-Salas 
+MJ(10), Ruiz-Borrego M(11), Shao Z(12), Noguchi S(13), Rowbottom J(14), Stuart 
+M(14), Grinsted LM(15), Fazal M(16), Ellis MJ(17).
+
+Author information:
+(1)Division of Medical Sciences and Graduate Entry Medicine, School of Medicine, 
+University of Nottingham, Royal Derby Hospital Centre, Derby, UK. Electronic 
+address: john.robertson@nottingham.ac.uk.
+(2)Oncology Department, Dnipropetrovsk State Medical Academy, Dnipropetrovsk, 
+Ukraine.
+(3)Leningrad Regional Oncology Dispensary, St Petersburg, Russia.
+(4)Clinical Oncology Dispensary, Omsk, Russia.
+(5)Department of Oncology, Jewish General Hospital, Montreal, Canada.
+(6)City Clinical Oncology Dispensary, St Petersburg, Russia.
+(7)Lviv State Oncology Regional Treatment and Diagnostic Centre, Lviv, Ukraine.
+(8)Breast Cancer Center, Tecnológico de Monterrey, Monterrey, Mexico.
+(9)Division of Medical Sciences and Graduate Entry Medicine, School of Medicine, 
+University of Nottingham, Royal Derby Hospital Centre, Derby, UK.
+(10)Unidad de Investigación, Instituto Oncológico de Lima, Lima, Peru.
+(11)Hospital Universitario Virgen del Rocío, Seville, Spain.
+(12)Fudan University Shanghai Cancer Center, Shanghai, China.
+(13)Department of Breast and Endocrine Surgery, Osaka University Graduate School 
+of Medicine, Osaka, Japan.
+(14)AstraZeneca, Alderley Park, Macclesfield, UK.
+(15)AstraZeneca, Cambridge, UK.
+(16)AstraZeneca, Gaithersburg, MD, USA.
+(17)Lester and Sue Smith Breast Center, Baylor College of Medicine, Houston, 
+Texas, USA.
+
+Comment in
+    Lancet. 2017 Dec 17;388(10063):2961-2962. doi: 
+10.1016/S0140-6736(16)32418-7.
+
+BACKGROUND: Aromatase inhibitors are a standard of care for hormone 
+receptor-positive locally advanced or metastatic breast cancer. We investigated 
+whether the selective oestrogen receptor degrader fulvestrant could improve 
+progression-free survival compared with anastrozole in postmenopausal patients 
+who had not received previous endocrine therapy.
+METHODS: In this phase 3, randomised, double-blind trial, we recruited eligible 
+patients with histologically confirmed oestrogen receptor-positive or 
+progesterone receptor-positive, or both, locally advanced or metastatic breast 
+cancer from 113 academic hospitals and community centres in 20 countries. 
+Eligible patients were endocrine therapy-naive, with WHO performance status 0-2, 
+and at least one measurable or non-measurable lesion. Patients were randomly 
+assigned (1:1) to fulvestrant (500 mg intramuscular injection; on days 0, 14, 
+28, then every 28 days thereafter) or anastrozole (1 mg orally daily) using a 
+computer-generated randomisation scheme. The primary endpoint was 
+progression-free survival, determined by Response Evaluation Criteria in Solid 
+Tumors version 1·1, intervention by surgery or radiotherapy because of disease 
+deterioration, or death from any cause, assessed in the intention-to-treat 
+population. Safety outcomes were assessed in all patients who received at least 
+one dose of randomised treatment (including placebo). This trial is registered 
+with ClinicalTrials.gov, number NCT01602380.
+FINDINGS: Between Oct 17, 2012, and July 11, 2014, 524 patients were enrolled to 
+this study. Of these, 462 patients were randomised (230 to receive fulvestrant 
+and 232 to receive anastrozole). Progression-free survival was significantly 
+longer in the fulvestrant group than in the anastrozole group (hazard ratio [HR] 
+0·797, 95% CI 0·637-0·999, p=0·0486). Median progression-free survival was 16·6 
+months (95% CI 13·83-20·99) in the fulvestrant group versus 13·8 months 
+(11·99-16·59) in the anastrozole group. The most common adverse events were 
+arthralgia (38 [17%] in the fulvestrant group vs 24 [10%] in the anastrozole 
+group) and hot flushes (26 [11%] in the fulvestrant group vs 24 [10%] in the 
+anastrozole group). 16 (7%) of 228 patients in in the fulvestrant group and 11 
+(5%) of 232 patients in the anastrozole group discontinued because of adverse 
+events.
+INTERPRETATION: Fulvestrant has superior efficacy and is a preferred treatment 
+option for patients with hormone receptor-positive locally advanced or 
+metastatic breast cancer who have not received previous endocrine therapy 
+compared with a third-generation aromatase inhibitor, a standard of care for 
+first-line treatment of these patients.
+FUNDING: AstraZeneca.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(16)32389-3
+PMID: 27908454 [Indexed for MEDLINE]

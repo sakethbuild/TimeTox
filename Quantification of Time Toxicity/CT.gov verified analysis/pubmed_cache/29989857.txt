@@ -1,0 +1,64 @@
+18. J Clin Oncol. 2018 Aug 20;36(24):2538-2544. doi: 10.1200/JCO.2017.77.4273.
+Epub  2018 Jul 10.
+
+Patient-Reported Toxicity During Pelvic Intensity-Modulated Radiation Therapy: 
+NRG Oncology-RTOG 1203.
+
+Klopp AH(1), Yeung AR(1), Deshmukh S(1), Gil KM(1), Wenzel L(1), Westin SN(1), 
+Gifford K(1), Gaffney DK(1), Small W Jr(1), Thompson S(1), Doncals DE(1), 
+Cantuaria GHC(1), Yaremko BP(1), Chang A(1), Kundapur V(1), Mohan DS(1), Haas 
+ML(1), Kim YB(1), Ferguson CL(1), Pugh SL(1), Kachnic LA(1), Bruner DW(1).
+
+Author information:
+(1)Ann H. Klopp, Shannon N. Westin, and Kent Gifford, MD Anderson Cancer Center, 
+Houston, TX; Anamaria R. Yeung, University of Florida, Gainsville, FL; Snehal 
+Deshmukh and Stephanie L. Pugh, NRG Oncology Statistics and Data Management 
+Center, Philadelphia, PA; Karen M. Gil, Summa Health System; Desiree E. Doncals, 
+Summa Akron City Hospital, Akron, OH; Lari Wenzel, University of California 
+Medical Center at Irvine, Irvine, CA; David K. Gaffney, University of Utah, Salt 
+Lake City, UT; William Small Jr, Loyola University Medical Center, Maywood, IL; 
+Spencer Thompson, University of Oklahoma Health Sciences Center, Oklahoma City, 
+OK; Guilherme H.C. Cantuaria, Northside Hospital, Atlanta, GA; Brian P. Yaremko, 
+London Regional Cancer Program, London, Ontario; Vijayananda Kundapur, Saskatoon 
+Cancer Centre, Saskatoon, Saskatchewan, Canada; Amy Chang, Pamela Youde 
+Nethersole Eastern Hospital, Chai Wan, Hong Kong; Dasarahally S. Mohan, Kaiser 
+Permanente Cancer Treatment Center, South San Francisco, CA; Michael L. Haas, 
+Reading Hospital, West Reading, PA; Yong Bae Kim, Yonsei University Health 
+System-Severance Hospital, Seoul, South Korea; Catherine L. Ferguson, Georgia 
+Regents University, Augusta; Deborah W. Bruner, Emory University, Atlanta, GA; 
+and Lisa A. Kachnic, Vanderbilt University, Nashville, TN.
+
+Erratum in
+    J Clin Oncol. 2019 Mar 20;37(9):761. doi: 10.1200/JCO.19.00369.
+    J Clin Oncol. 2020 Apr 1;38(10):1118. doi: 10.1200/JCO.20.00346.
+
+Comment in
+    Int J Radiat Oncol Biol Phys. 2019 Oct 1;105(2):237-241. doi: 
+10.1016/j.ijrobp.2019.05.015.
+
+Purpose NRG Oncology/RTOG 1203 was designed to compare patient-reported acute 
+toxicity and health-related quality of life during treatment with standard 
+pelvic radiation or intensity-modulated radiation therapy (IMRT) in women with 
+cervical and endometrial cancer. Methods Patients were randomly assigned to 
+standard four-field radiation therapy (RT) or IMRT radiation treatment. The 
+primary end point was change in patient-reported acute GI toxicity from baseline 
+to the end of RT, measured with the bowel domain of the Expanded Prostate Cancer 
+Index Composite (EPIC). Secondary end points included change in patient-reported 
+urinary toxicity, change in GI toxicity measured with the Patient-Reported 
+Outcome Common Terminology Criteria for Adverse Events, and quality of life 
+measured with the Trial Outcome Index. Results From 2012 to 2015, 289 patients 
+were enrolled, of whom 278 were eligible. Between baseline and end of RT, the 
+mean EPIC bowel score declined 23.6 points in the standard RT group and 18.6 
+points in the IMRT group ( P = .048), the mean EPIC urinary score declined 10.4 
+points in the standard RT group and 5.6 points in the IMRT group ( P = .03), and 
+the mean Trial Outcome Index score declined 12.8 points in the standard RT group 
+and 8.8 points in the IMRT group ( P = .06). At the end of RT, 51.9% of women 
+who received standard RT and 33.7% who received IMRT reported frequent or almost 
+constant diarrhea ( P = .01), and more patients who received standard RT were 
+taking antidiarrheal medications four or more times daily (20.4% v 7.8%; P = 
+.04). Conclusion Pelvic IMRT was associated with significantly less GI and 
+urinary toxicity than standard RT from the patient's perspective.
+
+DOI: 10.1200/JCO.2017.77.4273
+PMCID: PMC6097832
+PMID: 29989857 [Indexed for MEDLINE]

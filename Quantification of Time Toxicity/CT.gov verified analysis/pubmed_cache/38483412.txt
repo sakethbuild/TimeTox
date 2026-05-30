@@ -1,0 +1,111 @@
+10. JAMA Oncol. 2024 May 1;10(5):584-591. doi: 10.1001/jamaoncol.2023.7291.
+
+Noninferiority of Hypofractionated vs Conventional Postprostatectomy 
+Radiotherapy for Genitourinary and Gastrointestinal Symptoms: The NRG-GU003 
+Phase 3 Randomized Clinical Trial.
+
+Buyyounouski MK(1), Pugh SL(2), Chen RC(3), Mann MJ(4), Kudchadker RJ(5), Konski 
+AA(6), Mian OY(7), Michalski JM(8), Vigneault E(9), Valicenti RK(10), Barkati 
+M(11), Lawton CAF(12), Potters L(13), Monitto DC(14), Kittel JA(15), Schroeder 
+TM(16), Hannan R(17), Duncan CE(18), Rodgers JP(2), Feng F(19), Sandler HM(20).
+
+Author information:
+(1)Department of Radiation Oncology, Stanford University School of Medicine, 
+Stanford, California.
+(2)NRG Oncology Statistics and Data Management Center, Philadelphia, 
+Pennsylvania.
+(3)University of Kansas Cancer Center, Kansas City.
+(4)Thomas Jefferson University Hospital, Philadelphia, Pennsylvania.
+(5)MD Anderson Cancer Center, The University of Texas, Houston.
+(6)University of Pennsylvania, Philadelphia.
+(7)Cleveland Clinic Foundation, Cleveland, Ohio.
+(8)Washington University School of Medicine in St Louis, St Louis, Missouri.
+(9)Radiation Oncology, CHU de Québec-Hôpital Enfant Jésus de Quebec, Quebec 
+City, Quebec, Canada.
+(10)University of California, Davis Comprehensive Cancer Center, Sacramento.
+(11)Centre Hospitalier de l'Université de Montréal, Montreal, Quebec, Canada.
+(12)Medical College of Wisconsin, Milwaukee.
+(13)Northwell Health NCORP, Lake Success, New York.
+(14)Upstate Carolina Consortium Community Oncology Research Program, 
+Spartanburg, South Carolina.
+(15)Aurora National Cancer Institute Community Oncology Research Program, 
+Milwaukee, Wisconsin.
+(16)New Mexico Minority Underserved NCORP, Albuquerque.
+(17)Harold C. Simmons Comprehensive Cancer Center, The University of Texas 
+Southwestern Medical Center, Dallas.
+(18)Heartland Cancer Research NCORP, Decatur, Illinois.
+(19)University of San Francisco, San Francisco, California.
+(20)Cedars-Sinai Medical Center, Los Angeles, California.
+
+Erratum in
+    JAMA Oncol. 2024 Jun 1;10(6):833. doi: 10.1001/jamaoncol.2024.1062.
+    JAMA Oncol. 2025 Dec 1;11(12):1555. doi: 10.1001/jamaoncol.2025.4707.
+
+Comment in
+    JAMA Oncol. 2024 May 1;10(5):591-593. doi: 10.1001/jamaoncol.2023.6697.
+    Nat Rev Urol. 2024 May;21(5):257. doi: 10.1038/s41585-024-00883-x.
+
+IMPORTANCE: No prior trial has compared hypofractionated postprostatectomy 
+radiotherapy (HYPORT) to conventionally fractionated postprostatectomy (COPORT) 
+in patients primarily treated with prostatectomy.
+OBJECTIVE: To determine if HYPORT is noninferior to COPORT for patient-reported 
+genitourinary (GU) and gastrointestinal (GI) symptoms at 2 years.
+DESIGN, SETTING, AND PARTICIPANTS: In this phase 3 randomized clinical trial, 
+patients with a detectable prostate-specific antigen (PSA; ≥0.1 ng/mL) 
+postprostatectomy with pT2/3pNX/0 disease or an undetectable PSA (<0.1 ng/mL) 
+with either pT3 disease or pT2 disease with a positive surgical margin were 
+recruited from 93 academic, community-based, and tertiary medical sites in the 
+US and Canada. Between June 2017 and July 2018, a total of 296 patients were 
+randomized. Data were analyzed in December 2020, with additional analyses 
+occurring after as needed.
+INTERVENTION: Patients were randomized to receive 62.5 Gy in 25 fractions 
+(HYPORT) or 66.6 Gy in 37 fractions (COPORT).
+MAIN OUTCOMES AND MEASURES: The coprimary end points were the 2-year change in 
+score from baseline for the bowel and urinary domains of the Expanded Prostate 
+Cancer Composite Index questionnaire. Secondary objectives were to compare 
+between arms freedom from biochemical failure, time to progression, local 
+failure, regional failure, salvage therapy, distant metastasis, prostate 
+cancer-specific survival, overall survival, and adverse events.
+RESULTS: Of the 296 patients randomized (median [range] age, 65 [44-81] years; 
+100% male), 144 received HYPORT and 152 received COPORT. At the end of RT, the 
+mean GU change scores among those in the HYPORT and COPORT arms were neither 
+clinically significant nor different in statistical significance and remained so 
+at 6 and 12 months. The mean (SD) GI change scores for HYPORT and COPORT were 
+both clinically significant and different in statistical significance at the end 
+of RT (-15.52 [18.43] and -7.06 [12.78], respectively; P < .001). However, the 
+clinically and statistically significant differences in HYPORT and COPORT mean 
+GI change scores were resolved at 6 and 12 months. The 24-month differences in 
+mean GU and GI change scores for HYPORT were noninferior to COPORT using 
+noninferiority margins of -5 and -6, respectively, rejecting the null hypothesis 
+of inferiority (mean [SD] GU score: HYPORT, -5.01 [15.10] and COPORT, -4.07 
+[14.67]; P = .005; mean [SD] GI score: HYPORT, -4.17 [10.97] and COPORT, -1.41 
+[8.32]; P = .02). With a median follow-up for censored patients of 2.1 years, 
+there was no difference between HYPORT vs COPORT for biochemical failure, 
+defined as a PSA of 0.4 ng/mL or higher and rising (2-year rate, 12% vs 8%; 
+P = .28).
+CONCLUSIONS AND RELEVANCE: In this randomized clinical trial, HYPORT was 
+associated with greater patient-reported GI toxic effects compared with COPORT 
+at the completion of RT, but both groups recovered to baseline levels within 6 
+months. At 2 years, HYPORT was noninferior to COPORT in terms of 
+patient-reported GU or GI toxic effects. HYPORT is a new acceptable practice 
+standard for patients receiving postprostatectomy radiotherapy.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03274687.
+
+DOI: 10.1001/jamaoncol.2023.7291
+PMCID: PMC10941019
+PMID: 38483412 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Chen 
+reports personal fees from Janssen, Bayer, and Seagen outside the submitted 
+work. Dr Vigneault reports personal fees from AbbVie, TerSera, Janssen, Tolmar, 
+Knight Therapeutics, and Astellas outside the submitted work. Dr Barkati reports 
+personal fees from AbbVie, Knight Therapeutics, TerSera, and Tolmar outside the 
+submitted work. Dr Schroeder reports grants from the National Institutes of 
+Health during the conduct of the study. Dr Hannan reports grants from NRG 
+Oncology during the conduct of the study. Dr Feng reports personal fees from 
+Janssen, Myovant, Roivant, Bayer, Novartis, Bristol Myers Squibb, Astellas, and 
+Sanofi, as well as work on the scientific advisory boards for Serimmune, Artera, 
+and ClearNote Genomics outside the submitted work. Dr Sandler reports grants 
+from the American College of Radiology/NRG Oncology during the conduct of the 
+study, personal fees from Janssen outside the submitted work, and work on the 
+ASTRO board of directors. No other disclosures were reported.

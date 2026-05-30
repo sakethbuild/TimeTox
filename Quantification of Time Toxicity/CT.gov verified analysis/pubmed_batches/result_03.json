@@ -1,0 +1,310 @@
+[
+ {
+  "filename": "PMID 29169877 CT_Summary_SoE.pdf",
+  "pmid": "29169877",
+  "trial_design_summary": "Cetuximab added to chemo (+/- bevacizumab) vs chemo alone in NSCLC",
+  "arms": [
+   {"arm_name": "Arm 1b (Carboplatin/Paclitaxel)", "designation": "control", "evidence": "either with cetuximab (...cetuximab group) or without (control group)"},
+   {"arm_name": "Arm 1a (Carboplatin/Paclitaxel/Bevacizumab)", "designation": "control", "evidence": "either with cetuximab (...cetuximab group) or without (control group)"},
+   {"arm_name": "Arm 1a (Carboplatin/Paclitaxel/Bevacizumab)", "designation": "control", "evidence": "either with cetuximab (...cetuximab group) or without (control group)"},
+   {"arm_name": "Arm 2a (Carboplatin/Paclitaxel/Bevacizumab/Cetuximab)", "designation": "intervention", "evidence": "explore the activity of cetuximab with chemotherapy in patients with advanced NSCLC who are EGFR FISH-positive"},
+   {"arm_name": "Arm 2b (Carboplatin/Paclitaxel/Cetuximab)", "designation": "intervention", "evidence": "explore the activity of cetuximab with chemotherapy in patients with advanced NSCLC who are EGFR FISH-positive"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29238824 a_Summary_SoE.pdf",
+  "pmid": "29238824",
+  "trial_design_summary": "Perioperative gabapentin vs active placebo for postoperative pain",
+  "arms": [
+   {"arm_name": "Placebo Arm", "designation": "control", "evidence": "active placebo (lorazepam, 0.5 mg) preoperatively followed by inactive placebo postoperatively for 72 hours"},
+   {"arm_name": "Observational Arm", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Gabapentin Arm", "designation": "intervention", "evidence": "To determine the effect of perioperative gabapentin on remote postoperative time to pain resolution and opioid cessation"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29244528 a_Summary_SoE.pdf",
+  "pmid": "29244528",
+  "trial_design_summary": "Dual HER2 blockade (lapatinib+trastuzumab+AI) vs trastuzumab+AI vs lapatinib+AI",
+  "arms": [
+   {"arm_name": "Arm B (Trastuzumab + AI)", "designation": "control", "evidence": "primary end point was progression-free survival ... with LAP + TRAS + AI versus TRAS + AI"},
+   {"arm_name": "Arm C (Lapatinib + AI)", "designation": "intervention", "evidence": "median PFS with LAP + AI versus TRAS + AI was 8.3 versus 5.7 months (hazard ratio, 0.71"},
+   {"arm_name": "Arm A (Lapatinib + Trastuzumab + AI)", "designation": "intervention", "evidence": "superior PFS was observed with LAP + TRAS + AI versus TRAS + AI (median PFS, 11 v 5.7 months"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29477665 CT_Summary_SoE.pdf",
+  "pmid": "29477665",
+  "trial_design_summary": "Adjuvant vemurafenib vs placebo in resected BRAF-mutant melanoma",
+  "arms": [
+   {"arm_name": "Arm A (Placebo)", "designation": "control", "evidence": "double-blind, placebo-controlled study ... receive twice-daily adjuvant oral vemurafenib 960 mg tablets or matching placebo"},
+   {"arm_name": "Arm B (Vemurafenib)", "designation": "intervention", "evidence": "The BRIM8 study evaluated adjuvant vemurafenib monotherapy in patients with resected, BRAFV600 mutation-positive melanoma"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29522138 a_Summary_SoE.pdf",
+  "pmid": "29522138",
+  "trial_design_summary": "Pacritinib (two schedules) vs best available therapy in myelofibrosis",
+  "arms": [
+   {"arm_name": "Arm C (Best Available Therapy [BAT])", "designation": "control", "evidence": "To compare the efficacy and safety of JAK2 inhibitor pacritinib with that of best available therapy (BAT)"},
+   {"arm_name": "Arm A (Pacritinib 400 mg QD)", "designation": "intervention", "evidence": "compare the efficacy and safety of JAK2 inhibitor pacritinib with that of best available therapy (BAT), including ruxolitinib"},
+   {"arm_name": "Arm B (Pacritinib 200 mg BID)", "designation": "intervention", "evidence": "Pacritinib twice daily led to significant improvements in both end points over BAT"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29562156 a_Summary_SoE.pdf",
+  "pmid": "29562156",
+  "trial_design_summary": "Venetoclax+rituximab vs bendamustine+rituximab in relapsed/refractory CLL",
+  "arms": [
+   {"arm_name": "Arm B (Bendamustine + Rituximab)", "designation": "control", "evidence": "venetoclax plus rituximab resulted in significantly higher rates of progression-free survival than bendamustine plus rituximab"},
+   {"arm_name": "Arm A (Venetoclax + Rituximab)", "designation": "intervention", "evidence": "We evaluated the efficacy of venetoclax in combination with rituximab in patients with relapsed or refractory chronic lymphocytic leukemia"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29573941 a_Summary_SoE.pdf",
+  "pmid": "29573941",
+  "trial_design_summary": "Encorafenib+binimetinib or encorafenib vs vemurafenib in BRAF-mutant melanoma",
+  "arms": [
+   {"arm_name": "Vemurafenib (960mg BID)", "designation": "control", "evidence": "primary endpoint was progression-free survival ... for encorafenib plus binimetinib versus vemurafenib"},
+   {"arm_name": "Vemurafenib (960mg BID)", "designation": "control", "evidence": "primary endpoint was progression-free survival ... for encorafenib plus binimetinib versus vemurafenib"},
+   {"arm_name": "Combo 450 (Encorafenib 450mg QD + Binimetinib 45mg BID)", "designation": "intervention", "evidence": "We investigated encorafenib ... alone or in combination with the MEK inhibitor binimetinib, versus vemurafenib"},
+   {"arm_name": "LGX818 (Encorafenib 300mg QD)", "designation": "intervention", "evidence": "We investigated encorafenib, a BRAF inhibitor with unique target-binding properties, alone or in combination with ... binimetinib, versus vemurafenib"},
+   {"arm_name": "Combo 300 (Encorafenib 300mg QD + Binimetinib 45mg BID)", "designation": "intervention", "evidence": "We investigated encorafenib ... in combination with the MEK inhibitor binimetinib, versus vemurafenib"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29625879 CT_Summary_SoE.pdf",
+  "pmid": "29625879",
+  "trial_design_summary": "Tivantinib vs placebo in second-line MET-high hepatocellular carcinoma",
+  "arms": [
+   {"arm_name": "Placebo", "designation": "control", "evidence": "randomised, double-blind, placebo-controlled study ... receive oral tivantinib (120 mg twice daily) or placebo"},
+   {"arm_name": "Tivantinib (ARQ 197)", "designation": "intervention", "evidence": "Tivantinib (ARQ 197), a selective, oral MET inhibitor, improved overall survival and progression-free survival compared with placebo"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29856685 a_Summary_SoE.pdf",
+  "pmid": "29856685",
+  "trial_design_summary": "Ibrutinib+rituximab vs placebo+rituximab in Waldenstrom's macroglobulinemia",
+  "arms": [
+   {"arm_name": "Arm B (Placebo + Rituximab)", "designation": "control", "evidence": "randomly assigned 150 symptomatic patients to receive ibrutinib plus rituximab or placebo plus rituximab"},
+   {"arm_name": "Arm A (Ibrutinib + Rituximab)", "designation": "intervention", "evidence": "We evaluated the effect of adding ibrutinib to rituximab in patients with this disease"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29866475 CT_Summary_SoE.pdf",
+  "pmid": "29866475",
+  "trial_design_summary": "Once-weekly vs twice-weekly carfilzomib dosing in relapsed/refractory myeloma",
+  "arms": [
+   {"arm_name": "Arm B (Twice-weekly Carfilzomib with Dexamethasone)", "designation": "control", "evidence": "Twice a week carfilzomib at 27 mg/m2 is approved for treatment of relapsed or refractory multiple myeloma"},
+   {"arm_name": "Arm A (Once-weekly Carfilzomib with Dexamethasone)", "designation": "intervention", "evidence": "Phase 1/2 CHAMPION-1, the first study exploring once-weekly carfilzomib dosing ... Once weekly carfilzomib ... significantly prolonged progression-free survival versus the twice weekly schedule"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29989857 a_Summary_SoE.pdf",
+  "pmid": "29989857",
+  "trial_design_summary": "IMRT vs standard four-field pelvic radiation in cervical/endometrial cancer",
+  "arms": [
+   {"arm_name": "Arm 2 (4-field pelvic radiation treatment)", "designation": "control", "evidence": "compare patient-reported acute toxicity ... during treatment with standard pelvic radiation or intensity-modulated radiation therapy (IMRT)"},
+   {"arm_name": "Arm 1 (IMRT pelvic radiation treatment)", "designation": "intervention", "evidence": "Pelvic IMRT was associated with significantly less GI and urinary toxicity than standard RT"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30040523 a_Summary_SoE.pdf",
+  "pmid": "30040523",
+  "trial_design_summary": "Adjuvant chemotherapy with or without bevacizumab in breast cancer",
+  "arms": [
+   {"arm_name": "Arm A (Placebo + AC -> Placebo + Paclitaxel)", "designation": "control", "evidence": "receive placebo with doxorubicin and cyclophosphamide (AC) followed by weekly paclitaxel (arm A)"},
+   {"arm_name": "Arm B (Bevacizumab + AC -> Bevacizumab + Paclitaxel)", "designation": "intervention", "evidence": "E5103 tested the effect of bevacizumab in the adjuvant setting ... bevacizumab only during AC and paclitaxel (arm B)"},
+   {"arm_name": "Arm C/D (Bevacizumab + AC -> Bevacizumab + Paclitaxel -> Bevacizumab Monotherapy)", "designation": "intervention", "evidence": "bevacizumab during AC and paclitaxel followed by bevacizumab monotherapy for 10 cycles (arm C)"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30052729 CT_Summary_SoE.pdf",
+  "pmid": "30052729",
+  "trial_design_summary": "Avelumab vs physician's choice of chemotherapy in third-line gastric cancer",
+  "arms": [
+   {"arm_name": "Arm D (Physician's Choice - BSC Only)", "designation": "control", "evidence": "physician's choice of chemotherapy ... patients ineligible for chemotherapy received best supportive care"},
+   {"arm_name": "Arm C (Physician's Choice - Irinotecan + BSC)", "designation": "control", "evidence": "physician's choice of chemotherapy (paclitaxel ... or irinotecan 150 mg/m2 on days 1 and 15"},
+   {"arm_name": "Arm B (Physician's Choice - Paclitaxel + BSC)", "designation": "control", "evidence": "physician's choice of chemotherapy (paclitaxel 80 mg/m2 on days 1, 8, and 15"},
+   {"arm_name": "Arm A (Avelumab + Best Supportive Care)", "designation": "intervention", "evidence": "The randomised, phase III JAVELIN Gastric 300 trial compared avelumab versus physician's choice of chemotherapy as third-line therapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30072745 a_Summary_SoE.pdf",
+  "pmid": "30072745",
+  "trial_design_summary": "S-1 plus cisplatin vs cisplatin alone in cervical cancer",
+  "arms": [
+   {"arm_name": "Arm B (single-agent Cisplatin)", "designation": "control", "evidence": "randomised (1:1) to S-1 plus cisplatin (study group) or cisplatin alone (control group)"},
+   {"arm_name": "Arm A (S-1 + Cisplatin)", "designation": "intervention", "evidence": "evaluated efficacy and safety of S-1 plus cisplatin vs. cisplatin alone as first-line chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30105668 a_Summary_SoE.pdf",
+  "pmid": "30105668",
+  "trial_design_summary": "Abstract describes momelotinib + nab-paclitaxel/gemcitabine dose-escalation; arm labels (VMP/D-VMP) absent from abstract",
+  "arms": [
+   {"arm_name": "Arm A (VMP)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm B (D-VMP)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 30280657 a_Summary_SoE.pdf",
+  "pmid": "30280657",
+  "trial_design_summary": "Brigatinib vs crizotinib in ALK-positive NSCLC (no prior ALK inhibitor)",
+  "arms": [
+   {"arm_name": "Arm B (Crizotinib)", "designation": "control", "evidence": "The efficacy of brigatinib, as compared with crizotinib, in patients with advanced ALK-positive NSCLC who have not previously received an ALK inhibitor"},
+   {"arm_name": "Arm A (Brigatinib)", "designation": "intervention", "evidence": "Brigatinib, a next-generation anaplastic lymphoma kinase (ALK) inhibitor, has robust efficacy in patients ... refractory to crizotinib"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30355453 CT_Summary_SoE.pdf",
+  "pmid": "30355453",
+  "trial_design_summary": "Trifluridine/tipiracil vs placebo in heavily pretreated metastatic gastric cancer",
+  "arms": [
+   {"arm_name": "Placebo + Best Supportive Care (BSC)", "designation": "control", "evidence": "receive either oral trifluridine/tipiracil ... plus best supportive care or placebo plus best supportive care"},
+   {"arm_name": "TAS-102 + Best Supportive Care (BSC)", "designation": "intervention", "evidence": "Trifluridine/tipiracil significantly improved overall survival compared with placebo"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30415629 a_Summary_SoE.pdf",
+  "pmid": "30415629",
+  "trial_design_summary": "2x2 factorial vitamin D and n-3 fatty acids vs placebos for cancer/CVD prevention",
+  "arms": [
+   {"arm_name": "Arm 4: Placebo Vitamin D3 + Placebo Fish Oil", "designation": "control", "evidence": "randomized, placebo-controlled trial, with a two-by-two factorial design, of vitamin D3 ... and marine n-3 ... fatty acids ... for the prevention of cancer"},
+   {"arm_name": "Arm 1: Vitamin D3 (2000 IU/d) + Omacor® Fish Oil (840 mg EPA+DHA)", "designation": "intervention", "evidence": "vitamin D3 (cholecalciferol) at a dose of 2000 IU per day and marine n-3 ... fatty acids at a dose of 1 g per day for the prevention of cancer"},
+   {"arm_name": "Arm 2: Vitamin D3 (2000 IU/d) + Fish Oil Placebo", "designation": "intervention", "evidence": "vitamin D3 (cholecalciferol) at a dose of 2000 IU per day ... for the prevention of cancer and cardiovascular disease"},
+   {"arm_name": "Arm 3: Placebo Vitamin D3 + Omacor® Fish Oil (840 mg EPA+DHA)", "designation": "intervention", "evidence": "marine n-3 (also called omega-3) fatty acids at a dose of 1 g per day for the prevention of cancer and cardiovascular disease"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30449625 CT_Summary_SoE.pdf",
+  "pmid": "30449625",
+  "trial_design_summary": "Radiotherapy plus cetuximab vs radiotherapy plus cisplatin in HPV+ oropharyngeal cancer",
+  "arms": [
+   {"arm_name": "Arm 1 (Accelerated IMRT + Cisplatin)", "designation": "control", "evidence": "Patients ... have high survival when treated with radiotherapy plus cisplatin. Whether replacement of cisplatin with cetuximab ... can preserve high survival"},
+   {"arm_name": "Arm 2 (Accelerated IMRT + Cetuximab)", "designation": "intervention", "evidence": "Whether replacement of cisplatin with cetuximab ... can preserve high survival and reduce treatment toxicity is unknown"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30501481 a_Summary_SoE.pdf",
+  "pmid": "30501481",
+  "trial_design_summary": "Ibrutinib regimens vs bendamustine+rituximab chemoimmunotherapy in older untreated CLL",
+  "arms": [
+   {"arm_name": "Arm 1 (Bendamustine plus Rituximab)", "designation": "control", "evidence": "Ibrutinib ... has not been compared with chemoimmunotherapy ... treatment with ibrutinib was superior to treatment with bendamustine plus rituximab"},
+   {"arm_name": "Arm 2 (Ibrutinib Alone)", "designation": "intervention", "evidence": "evaluate the efficacy of ibrutinib, either alone or in combination with rituximab, relative to chemoimmunotherapy"},
+   {"arm_name": "Arm 3 (Ibrutinib plus Rituximab)", "designation": "intervention", "evidence": "evaluate the efficacy of ibrutinib, either alone or in combination with rituximab, relative to chemoimmunotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30522969 CT_Summary_SoE.pdf",
+  "pmid": "30522969",
+  "trial_design_summary": "Ibrutinib+obinutuzumab vs chlorambucil+obinutuzumab in first-line CLL",
+  "arms": [
+   {"arm_name": "Arm B (Chlorambucil + Obinutuzumab)", "designation": "control", "evidence": "We compared the efficacy of the combination of ibrutinib plus obinutuzumab with chlorambucil plus obinutuzumab in first-line"},
+   {"arm_name": "Arm A (Ibrutinib + Obinutuzumab)", "designation": "intervention", "evidence": "median progression-free survival was significantly longer in the ibrutinib plus obinutuzumab group ... than in the chlorambucil plus obinutuzumab group"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30653422 a_Summary_SoE.pdf",
+  "pmid": "30653422",
+  "trial_design_summary": "Tandem transplant or AHCT+RVD vs single autologous transplant, all with lenalidomide, in myeloma",
+  "arms": [
+   {"arm_name": "Arm B (Single Autologous Transplant followed by Lenalidomide Maintenance)", "designation": "control", "evidence": "Single AHCT and len should remain as the standard approach for this population"},
+   {"arm_name": "Arm A (Tandem Autologous Transplants followed by Lenalidomide Maintenance)", "designation": "intervention", "evidence": "test additional interventions to improve PFS by comparing AHCT, tandem AHCT (AHCT/AHCT), and AHCT and four subsequent cycles of ... RVD"},
+   {"arm_name": "Arm C (Single Autologous Transplant plus RVD Consolidation followed by Lenalidomide Maintenance)", "designation": "intervention", "evidence": "Second AHCT or RVD consolidation as post-AHCT interventions ... did not improve PFS or OS"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30665869 CT_Summary_SoE.pdf",
+  "pmid": "30665869",
+  "trial_design_summary": "Ramucirumab vs placebo (both with BSC) in hepatocellular carcinoma with high AFP",
+  "arms": [
+   {"arm_name": "Arm B (Placebo + Best Supportive Care)", "designation": "control", "evidence": "randomly assigned (2:1) ... to 8 mg/kg intravenous ramucirumab every 2 weeks or placebo. All patients received best supportive care"},
+   {"arm_name": "Arm A (Ramucirumab + Best Supportive Care)", "designation": "intervention", "evidence": "We aimed to establish the efficacy of ramucirumab in patients with advanced hepatocellular carcinoma"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30763730 CT_Summary_SoE.pdf",
+  "pmid": "30763730",
+  "trial_design_summary": "Osimertinib plus durvalumab vs osimertinib monotherapy in EGFR T790M+ NSCLC",
+  "arms": [
+   {"arm_name": "Arm A (AZD9291 Monotherapy)", "designation": "control", "evidence": "investigated osimertinib plus durvalumab versus osimertinib monotherapy in patients with EGFR-TKI sensitizing and EGFR T790M mutation-positive advanced NSCLC"},
+   {"arm_name": "Arm B (AZD9291 + MEDI4736 Combination)", "designation": "intervention", "evidence": "investigated osimertinib plus durvalumab versus osimertinib monotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30777794 a_Summary_SoE.pdf",
+  "pmid": "30777794",
+  "trial_design_summary": "Bortezomib-thalidomide-prednisolone vs thalidomide-prednisolone consolidation after ASCT in myeloma",
+  "arms": [
+   {"arm_name": "Arm A (Thalidomide-Prednisolone)", "designation": "control", "evidence": "randomized (1:1) to consolidation with TP (thalidomide ...; prednisolone ...) or VTP (subcutaneous bortezomib ... plus TP)"},
+   {"arm_name": "Arm B (Bortezomib-Thalidomide-Prednisolone)", "designation": "intervention", "evidence": "Addition of bortezomib to TP consolidation was associated with limited additional toxicity but did not significantly improve efficacy versus TP"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30786186 a_Summary_SoE.pdf",
+  "pmid": "30786186",
+  "trial_design_summary": "Rivaroxaban vs placebo for thromboprophylaxis in high-risk ambulatory cancer patients",
+  "arms": [
+   {"arm_name": "Arm B (Placebo)", "designation": "control", "evidence": "double-blind, randomized trial ... we randomly assigned patients ... to receive rivaroxaban (at a dose of 10 mg) or placebo daily"},
+   {"arm_name": "Arm A (Rivaroxaban)", "designation": "intervention", "evidence": "the benefit of thromboprophylaxis in these patients is uncertain ... assigned patients ... to receive rivaroxaban (at a dose of 10 mg)"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30811280 a_Summary_SoE.pdf",
+  "pmid": "30811280",
+  "trial_design_summary": "Nivolumab3+ipilimumab1 vs approved nivolumab1+ipilimumab3 in advanced melanoma",
+  "arms": [
+   {"arm_name": "Arm B (N1I3: Nivolumab 1 mg/kg + Ipilimumab 3 mg/kg)", "designation": "control", "evidence": "Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg (NIVO1+IPI3) is approved for first-line treatment of patients with advanced melanoma"},
+   {"arm_name": "Arm A (N3I1: Nivolumab 3 mg/kg + Ipilimumab 1 mg/kg)", "designation": "intervention", "evidence": "to determine if nivolumab 3 mg/kg plus ipilimumab 1 mg/kg (NIVO3+IPI1) improves the safety profile of the combination"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30817251 CT_Summary_SoE.pdf",
+  "pmid": "30817251",
+  "trial_design_summary": "PROSTVAC alone or with GM-CSF vs placebo in metastatic castration-resistant prostate cancer",
+  "arms": [
+   {"arm_name": "Arm P (Double placebo)", "designation": "control", "evidence": "study design was a superiority trial of PROSTVAC (Arm V or Arm VG) versus Arm P"},
+   {"arm_name": "Arm V+G (PROSTVAC-V/F plus GM-CSF)", "designation": "intervention", "evidence": "PROSTVAC plus granulocyte-macrophage colony-stimulating factor (Arm VG ... superiority trial of PROSTVAC (Arm V or Arm VG) versus Arm P"},
+   {"arm_name": "Arm V (PROSTVAC-V/F plus GM-CSF placebo)", "designation": "intervention", "evidence": "PROSTVAC, a viral vector-based immunotherapy ... superiority trial of PROSTVAC (Arm V or Arm VG) versus Arm P"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30939090 a_Summary_SoE.pdf",
+  "pmid": "30939090",
+  "trial_design_summary": "Dose-adjusted EPOCH-R vs standard R-CHOP frontline for diffuse large B-cell lymphoma",
+  "arms": [
+   {"arm_name": "Arm A (R-CHOP)", "designation": "control", "evidence": "compared dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (DA-EPOCH-R) with standard ... R-CHOP"},
+   {"arm_name": "Arm A (R-CHOP)", "designation": "control", "evidence": "compared dose-adjusted ... (DA-EPOCH-R) with standard rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP)"},
+   {"arm_name": "Arm B (DA-EPOCH-R)", "designation": "intervention", "evidence": "the more intensive, infusional DA-EPOCH-R was more toxic and did not improve PFS or OS compared with R-CHOP"}
+  ],
+  "abstract_states_roles": true
+ }
+]

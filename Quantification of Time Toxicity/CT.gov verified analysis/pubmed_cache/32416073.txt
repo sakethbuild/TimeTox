@@ -1,0 +1,114 @@
+12. Lancet Oncol. 2020 Jun;21(6):832-842. doi: 10.1016/S1470-2045(20)30110-8.
+Epub  2020 May 13.
+
+Camrelizumab versus investigator's choice of chemotherapy as second-line therapy 
+for advanced or metastatic oesophageal squamous cell carcinoma (ESCORT): a 
+multicentre, randomised, open-label, phase 3 study.
+
+Huang J(1), Xu J(2), Chen Y(3), Zhuang W(4), Zhang Y(5), Chen Z(6), Chen J(7), 
+Zhang H(8), Niu Z(9), Fan Q(10), Lin L(11), Gu K(12), Liu Y(13), Ba Y(14), Miao 
+Z(15), Jiang X(16), Zeng M(17), Chen J(18), Fu Z(19), Gan L(20), Wang J(21), 
+Zhan X(22), Liu T(23), Li Z(24), Shen L(25), Shu Y(26), Zhang T(27), Yang Q(27), 
+Zou J(27); ESCORT Study Group.
+
+Collaborators: Luo S, Peng F, Wu G, Xu N, Zhao L, Ma D, Qin S, Ren W, Li E, Lu 
+H, Pan Y, Xiong J, Yuan Y, Bai Y, Chen L, Hu Y, Zhang L, Gao Y.
+
+Author information:
+(1)Department of Medical Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer, Chinese Academy of Medical Sciences and Peking Union 
+Medical College, Beijing, China.
+(2)Department of Gastrointestinal Oncology, Cancer Center, Fifth Medical Center 
+General Hospital of PLA, Beijing, China. Electronic address: jmxu2003@yahoo.com.
+(3)Department of Radiation Oncology, Shanghai Cancer Center, Fudan University, 
+Shanghai, China.
+(4)Department of Thoracic Medical Oncology, Fujian Province Cancer Hospital, 
+Fuzhou, China.
+(5)Department of Thoracic Oncology, Zhejiang Cancer Hospital, Hangzhou, China.
+(6)Oncology Department, The Second Affiliated Hospital of Anhui Medical 
+University, Anhui Medical University, Hefei, China.
+(7)Department of Oncology, Jiangsu Cancer Hospital, Nanjing, China.
+(8)Oncology Department, Tangdu Hospital of the Fourth Military Medical 
+University, Xi'an, China.
+(9)Internal Medicine Ward 4, Shandong Cancer Hospital, Jinan, China.
+(10)Medical Oncology, The First Affiliated Hospital of Zhengzhou University, 
+Zhengzhou, China.
+(11)Oncology Center, The First Affiliated Hospital of Guangzhou Medical 
+University, Guangzhou, China.
+(12)Medical Oncology, The First Affiliated Hospital of Anhui Medical University, 
+Anhui Medical University, Hefei, China.
+(13)Medical Oncology, Henan Cancer Hospital, The Affiliated Cancer Hospital of 
+Zhengzhou University, Zhengzhou, China.
+(14)Medical Oncology, Tianjin Cancer Hospital, Tianjin, China.
+(15)Oncology Department, The First Affiliated Hospital of Xinxiang Medical 
+University, Xinxiang, China.
+(16)Oncology Department, The First People's Hospital of Lianyungang, 
+Lianyungang, China.
+(17)Oncology Center, Sichuan Academy of Medical Sciences & Sichuan Provincial 
+People's Hospital, Chengdu, China.
+(18)Department of Medical Oncology, Cancer Hospital of Central South University, 
+Changsha, China.
+(19)Department of Radiotherapy, 900 Hospital of the Joint Logistics Team, 
+Fuzhou, China.
+(20)The Oncology Department, The First Affiliated Hospital of Chongqing Medical 
+University, Chongqing, China.
+(21)Department of Radiotherapy, The Fourth Hospital of Hebei Medical University, 
+Shijiazhuang, China.
+(22)Department of Medical Oncology, Changhai Hospital, Second Military Medical 
+University, Shanghai, China.
+(23)Department of Oncology, Zhongshan Hospital, Fudan University, Shanghai, 
+China.
+(24)Integrated Chinese and Western Medical Oncology, Jiangxi Cancer Hospital, 
+Nanchang, China.
+(25)Department of Gastrointestinal Oncology, Peking University Cancer Hospital 
+and Institute, Beijing, China.
+(26)Medical Oncology, Jiangsu Province Hospital, Nanjing, China.
+(27)Jiangsu Hengrui Medicine, Shanghai, China.
+
+BACKGROUND: Patients with advanced or metastatic oesophageal squamous cell 
+carcinoma have poor prognosis and few treatment options after first-line 
+therapy. We aimed to assess efficacy and safety of the anti-PD-1 antibody 
+camrelizumab versus investigator's choice of chemotherapy in previously treated 
+patients.
+METHODS: ESCORT is a randomised, open-label, phase 3 study of patients aged 18 
+to 75 years with a histological or cytological diagnosis of advanced or 
+metastatic oesophageal squamous cell carcinoma done at 43 hospitals in China. 
+Eligible patients had an Eastern Cooperative Oncology Group (ECOG) performance 
+status of 0 or 1, and had progressed on, or were intolerant to, first-line 
+standard therapy. Patients were randomly assigned (1:1) to camrelizumab (200 mg 
+every 2 weeks) or chemotherapy with docetaxel (75 mg/m2 every 3 weeks) or 
+irinotecan (180 mg/m2 every 2 weeks), all given intravenously. Central 
+randomisation was done using the Randomization and Trial Supply Management 
+system with block size randomly generated as four or six and stratified by 
+disease and ECOG performance status. The primary endpoint was overall survival, 
+assessed in randomised patients who had received at least one dose of treatment. 
+Safety was assessed in all treated patients. The trial is registered with 
+ClinicalTrials.gov, NCT03099382, and is closed to new participants.
+FINDINGS: From May 10, 2017, to July 24, 2018, 457 (75%) of 607 screened 
+patients were randomly assigned to treatment, of whom 228 received camrelizumab 
+treatment and 220 received chemotherapy. As of data cutoff on May 6, 2019, with 
+a median follow-up time of 8·3 months (IQR 4·1-12·8) in the camrelizumab group 
+and 6·2 months (3·6-10·1) in the chemotherapy group, median overall survival was 
+8·3 months (95% CI 6·8-9·7) in the camrelizumab group and 6·2 months (5·7-6·9) 
+in the chemotherapy group (hazard ratio 0·71 [95% CI 0·57-0·87]; two-sided 
+p=0·0010). The most common treatment-related adverse events of grade 3 or worse 
+were anaemia (camrelizumab vs chemotherapy: six [3%] vs 11 [5%]), abnormal 
+hepatic function (four [2%] vs one [<1%]), and diarrhoea (three [1%] vs nine 
+[4%]). Serious treatment-related adverse events occurred in 37 (16%) of 228 
+patients in the camrelizumab group, and in 32 (15%) of 220 patients in the 
+chemotherapy group. Ten treatment-related deaths occurred, seven (3%) in the 
+camrelizumab group (three deaths from unknown causes, one enterocolitis, one 
+hepatic function abnormal, one pneumonitis, and one myocarditis) and three (1%) 
+in the chemotherapy group (two deaths from unknown causes, and one 
+gastrointestinal haemorrhage).
+INTERPRETATION: Second-line camrelizumab significantly improved overall survival 
+in patients with advanced or metastatic oesophageal squamous cell carcinoma 
+compared with chemotherapy, with a manageable safety profile. It might represent 
+a potential option of standard second-line treatment for patients with 
+oesophageal squamous cell carcinoma in China.
+FUNDING: Jiangsu Hengrui Medicine.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(20)30110-8
+PMID: 32416073 [Indexed for MEDLINE]

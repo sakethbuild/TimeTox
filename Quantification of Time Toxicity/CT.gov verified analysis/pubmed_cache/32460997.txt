@@ -1,0 +1,85 @@
+14. Gynecol Oncol. 2020 Aug;158(2):354-360. doi: 10.1016/j.ygyno.2020.05.013.
+Epub  2020 May 24.
+
+An international randomized phase III trial of pulse actinomycin-D versus 
+multi-day methotrexate for the treatment of low risk gestational trophoblastic 
+neoplasia; NRG/GOG 275.
+
+Schink JC(1), Filiaci V(2), Huang HQ(3), Tidy J(4), Winter M(5), Carter J(6), 
+Anderson N(7), Moxley K(8), Yabuno A(9), Taylor SE(10), Kushnir C(11), Horowitz 
+N(12), Miller DS(13).
+
+Author information:
+(1)Cancer Treatment Centers of America, Comprehensive Care and Research Center, 
+Chicago, IL, USA. Electronic address: Julian.schink@CTCA-hope.com.
+(2)NRG Oncology Statistics and Data Management Center, Roswell Park 
+Comprehensive Cancer Center, Buffalo, NY, USA. Electronic address: 
+FiliaciV@NRGOncology.org.
+(3)NRG Oncology Statistics and Data Management Center, Roswell Park 
+Comprehensive Cancer Center, Buffalo, NY, USA. Electronic address: 
+HuangH@NRGOncology.org.
+(4)Sheffield Teaching Hospitals, NHS Trust, Royal Hallamshire Hospital, Glossop 
+Rd, Sheffield S10 2JF, UK. Electronic address: John.Tidy@sth.nhs.uk.
+(5)Sheffield Teaching Hospitals, NHS Trust, Royal Hallamshire Hospital, Glossop 
+Rd, Sheffield S10 2JF, UK. Electronic address: matthew.winter@sth.nhs.uk.
+(6)Memorial Sloan Kettering Cancer Center, 641 Lexington Avenue, New York, NY, 
+USA. Electronic address: carterj@mskcc.org.
+(7)Northwestern University, Chicago, IL, USA. Electronic address: 
+naanders@nm.org.
+(8)Oklahoma University Health Science Center, Oklahoma City, OK, USA. Electronic 
+address: Katherine-Moxley@ouhsc.edu.
+(9)Saitama Medical University International Medical Center, Saitama, Japan. 
+Electronic address: yabunoakira@yahoo.co.jp.
+(10)Gynecologic Oncology, Magee-Womens Hospital of University of Pittsburgh 
+Medical Center, Pittsburgh, PA, USA. Electronic address: taylorse@upmc.edu.
+(11)Gynecologic Oncology, Women's Cancer Center of Nevada, Las Vegas, NV, USA. 
+Electronic address: ckushnir@wccenter.com.
+(12)Harvard Medical School, Massachusetts General Hospital, Boston, MA, USA. 
+Electronic address: nhorowitz@partners.org.
+(13)University of Texas Southwestern Medical Center, Dallas, TX, USA. Electronic 
+address: david.miller@utsouthwestern.edu.
+
+OBJECTIVES: Methotrexate and actinomycin-D are both effective first-line drugs 
+for low-risk (WHO score 0-6) Gestational Trophoblastic Neoplasia (GTN) with 
+considerable debate about which is more effective, less toxic, and better 
+tolerated. The primary trial objective was to test if treatment with multi-day 
+methotrexate (MTX) was inferior to pulse actinomycin-D (ACT-D). Secondary 
+objectives included evaluation of severity and frequency of adverse events, and 
+impact on quality of life (QOL).
+METHODS: This was a prospective international cooperative group randomized phase 
+III two arm non-inferiority study (Clinical Trials Identifier: (NCT01535053). 
+The control arm was ACT-D; the experimental arm was multi-day MTX regimen 
+(institutional preference of 5 or 8 day). Outcome measures included complete 
+response rate, recurrence rate, toxicity, and QOL as measured by FACT-G and 
+FACIT supplemental items.
+RESULTS: The complete response rates for multi-day methotrexate and pulse 
+actinomycin-D were 88% (23/26 patients) and 79% (22/28 patients) (p = NS) 
+respectively, there were two recurrences in each arm, and 100% of patients 
+survived. Significant toxicity was minimal, but mouth sores (mucositis), and eye 
+pain were significantly more common in the MTX arm (p = 0.001 and 0.01 
+respectively). Quality of life showed no significant difference in overall 
+quality of life, body image, sexual function, or treatment related side effects. 
+The study was closed for low accrual rate (target 384, actual accrual 57), 
+precluding statistical analysis of the primary objective.
+CONCLUSIONS: The complete response rate for multi-day methotrexate was higher 
+than actinomycin-D, but did not reach statistical significance. The multi-day 
+MTX regimens were associated with significantly more mucositis and were 
+significantly less convenient.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygyno.2020.05.013
+PMCID: PMC7432963
+PMID: 32460997 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Dr. Julian 
+Schink, Dr. Jeanne Carter, Dr. Matthew Winter, Dr. Nancy Anderson, Dr. Katherine 
+Moxley, Dr. Akira Yabucoa, Dr. Sarah Taylor, Dr. Christina Kushnir, Dr. Neil 
+Horowitz and Ms. Helen Huang have nothing to disclose. Dr. Virginia Filiaci 
+reports grants from NIH, during the conduct of the study; grants from GOG 
+Foundation, Inc., from null, outside the submitted work. Dr. Tidy reports 
+personal fees from Zilico Ltd., outside of the submitted work. Dr. David Miller 
+reports personal fees received as consultant for Tesaro, Eisai, Incyte, 
+Karyopharm and Genentech. Dr. Miller also reports money was paid to his 
+institution by Merck and grants received from nVision Medical, Advenchen, Forty 
+Seven, Merck and Syros

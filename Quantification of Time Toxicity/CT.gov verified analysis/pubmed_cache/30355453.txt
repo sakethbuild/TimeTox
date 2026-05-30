@@ -1,0 +1,93 @@
+4. Lancet Oncol. 2018 Nov;19(11):1437-1448. doi: 10.1016/S1470-2045(18)30739-3. 
+Epub 2018 Oct 21.
+
+Trifluridine/tipiracil versus placebo in patients with heavily pretreated 
+metastatic gastric cancer (TAGS): a randomised, double-blind, 
+placebo-controlled, phase 3 trial.
+
+Shitara K(1), Doi T(2), Dvorkin M(3), Mansoor W(4), Arkenau HT(5), Prokharau 
+A(6), Alsina M(7), Ghidini M(8), Faustino C(9), Gorbunova V(10), Zhavrid E(11), 
+Nishikawa K(12), Hosokawa A(13), Yalçın Ş(14), Fujitani K(15), Beretta GD(16), 
+Cutsem EV(17), Winkler RE(18), Makris L(19), Ilson DH(20), Tabernero J(7).
+
+Author information:
+(1)National Cancer Center Hospital East, Chiba, Japan. Electronic address: 
+kshitara@east.ncc.go.jp.
+(2)National Cancer Center Hospital East, Chiba, Japan.
+(3)Omsk Regional Clinical Centre of Oncology, Omsk, Russia.
+(4)The Christie NHS Foundation Trust, Manchester, UK.
+(5)Sarah Cannon Research Institute, Cancer Institute, University College London, 
+London, UK.
+(6)Minsk City Clinical Oncology Dispensary, Minsk, Belarus.
+(7)Vall d'Hebron University Hospital and Institute of Oncology, Barcelona, 
+Spain.
+(8)Azienda Ospedaliera di Cremona, Cremona, Italy.
+(9)Instituto Português de Oncologia do Porto Francisco Gentil, Porto, Portugal.
+(10)N N Blokhin Russian Cancer Research Center, Moscow, Russia.
+(11)Alexandrov National Cancer Centre of Belarus, Minsk, Belarus.
+(12)Osaka National Hospital, Osaka, Japan.
+(13)University of Toyoma, Toyoma, Japan.
+(14)Hacettepe University, Ankara, Turkey.
+(15)Osaka General Medical Center, Osaka, Japan.
+(16)Humanitas Gavazzeni, Bergamo, Italy.
+(17)University Hospitals and KU Leuven, Leuven, Belgium.
+(18)Taiho Oncology, Princeton, NJ, USA.
+(19)Stathmi, New Hope, PA, USA.
+(20)Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+
+Erratum in
+    Lancet Oncol. 2018 Dec;19(12):e668. doi: 10.1016/S1470-2045(18)30843-X.
+
+Comment in
+    Lancet Oncol. 2018 Nov;19(11):1418-1419. doi: 10.1016/S1470-2045(18)30752-6.
+    Lancet Oncol. 2019 Jan;20(1):e8. doi: 10.1016/S1470-2045(18)30908-2.
+
+BACKGROUND: Trifluridine/tipiracil showed activity and was well tolerated in a 
+phase 2 study of pretreated patients with advanced gastric cancer done in Japan. 
+We investigated whether the treatment was efficacious compared with placebo in a 
+global population.
+METHODS: TAGS was a randomised, double-blind, placebo-controlled, phase 3 trial 
+done in 110 academic hospitals in 17 countries. Patients aged 18 years or older 
+with histologically confirmed, non-resectable, metastatic gastric adenocarcinoma 
+(including adenocarcinoma of the gastroesophageal junction) as defined by the 
+American Joint Committee on Cancer staging classification (7th edition) who had 
+received at least two previous chemotherapy regimens and had experienced 
+radiological disease progression were eligible for inclusion. Patients were 
+randomly assigned (2:1) via dynamic randomisation from a centralised interactive 
+voice-response system to receive either oral trifluridine/tipiracil (35 mg/m2 
+twice daily on days 1-5 and days 8-12 every 28 days) plus best supportive care 
+or placebo plus best supportive care. Participants were allocated to groups by 
+study-site personnel. Randomisation was stratified by region (Japan vs rest of 
+world), ECOG performance status (0 vs 1), and previous treatment with 
+ramucirumab (yes vs no). Both patients and investigators were masked to 
+treatment allocation. The primary endpoint was overall survival. Efficacy was 
+assessed in the intention-to-treat population and safety in all patients who 
+received at least one dose of treatment. This trial is registered with 
+ClinicalTrials.gov, number NCT02500043. The trial, including follow-up of all 
+participants, has been completed.
+FINDINGS: Between Feb 24, 2016, and Jan 5, 2018, 507 patients were enrolled and 
+randomly assigned, 337 to the trifluridine/tipiracil group and 170 to the 
+placebo group. Median overall survival was 5·7 months (95% CI 4·8-6·2) in the 
+trifluridine/tipiracil group and 3·6 months (3·1-4·1) in the placebo group 
+(hazard ratio 0·69 [95% CI 0·56-0·85]; one-sided p=0·00029, two-sided 
+p=0·00058). Grade 3 or worse adverse events of any cause occurred in 267 (80%) 
+patients in the trifluridine/tipiracil group and 97 (58%) in the placebo group. 
+The most frequent grade 3 or worse adverse events of any cause were neutropenia 
+(n=114 [34%]) and anaemia (n=64 [19%]) in the trifluridine/tipiracil group and 
+abdominal pain (n=15 [9%]) and general deterioration of physical health (n=15 
+[9%]) in the placebo group. Serious adverse events of any cause were reported in 
+143 (43%) patients in the trifluridine/tipiracil group and 70 (42%) in the 
+placebo group. One treatment-related death was reported in each group (because 
+of cardiopulmonary arrest in the trifluridine/tipiracil group and because of 
+toxic hepatitis in the placebo group).
+INTERPRETATION: Trifluridine/tipiracil significantly improved overall survival 
+compared with placebo and was well tolerated in this heavily pretreated 
+population of patients with advanced gastric cancer. Trifluridine/tipiracil 
+could be a new treatment option in this population who represent a high unmet 
+medical need.
+FUNDING: Taiho Oncology and Taiho Pharmaceutical.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(18)30739-3
+PMID: 30355453 [Indexed for MEDLINE]

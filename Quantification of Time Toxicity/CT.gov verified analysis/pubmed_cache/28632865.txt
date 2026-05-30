@@ -1,0 +1,86 @@
+2. JAMA. 2017 Jun 20;317(23):2392-2401. doi: 10.1001/jama.2017.7105.
+
+Effect of First-Line Chemotherapy Combined With Cetuximab or Bevacizumab on 
+Overall Survival in Patients With KRAS Wild-Type Advanced or Metastatic 
+Colorectal Cancer: A Randomized Clinical Trial.
+
+Venook AP(1), Niedzwiecki D(2), Lenz HJ(3), Innocenti F(4), Fruth B(5), 
+Meyerhardt JA(6), Schrag D(6), Greene C(1), O'Neil BH(7), Atkins JN(8), Berry 
+S(9), Polite BN(10), O'Reilly EM(11), Goldberg RM(12), Hochster HS(13), Schilsky 
+RL(14), Bertagnolli MM(15), El-Khoueiry AB(3), Watson P(16), Benson AB 3rd(17), 
+Mulkerin DL(18), Mayer RJ(6), Blanke C(19).
+
+Author information:
+(1)University of California, San Francisco.
+(2)Department of Biostatistics and Bioinformatics and Alliance Statistics and 
+Data Center, Duke University Medical Center, Durham, North Carolina.
+(3)University of Southern California, Los Angeles.
+(4)University of North Carolina at Chapel Hill.
+(5)Alliance Statistics and Data Center, Mayo Clinic Cancer Center, Rochester, 
+Minnesota.
+(6)Dana-Farber/Partners CancerCare, Boston, Massachusetts.
+(7)Indiana University, Simon Cancer Center, Indianapolis.
+(8)National Surgical Adjuvant Breast and Bowel Project/NRG Oncology, and 
+Southeastern Medical Oncology Center, Goldsboro, North Carolina.
+(9)Sunnybrook Odette Cancer Centre, University of Toronto, Toronto, Canada.
+(10)University of Chicago Comprehensive Cancer Center, Chicago, Illinois.
+(11)Memorial Sloan Kettering Cancer Center, New York, New York.
+(12)Ohio State University Comprehensive Cancer Center, Arthur G. James Cancer 
+Hospital, Columbus.
+(13)Department of Medical Oncology, Yale University School of Medicine, New 
+Haven, Connecticut.
+(14)American Society of Clinical Oncology, Alexandria, Virginia.
+(15)Brigham and Women's Hospital, Boston, Massachusetts.
+(16)Lenoir Memorial Hospital/Kinston Medical Specialists PA, Kinston, North 
+Carolina.
+(17)Robert H. Lurie Comprehensive Cancer Center, Northwestern University, 
+Chicago, Illinois.
+(18)University of Wisconsin, Madison.
+(19)Southwest Oncology Group Chair's Office and Knight Cancer Institute, Oregon 
+Health & Science University, Portland.
+
+Comment in
+    JAMA. 2017 Jun 20;317(23):2376-2378. doi: 10.1001/jama.2017.6673.
+
+IMPORTANCE: Combining biologic monoclonal antibodies with chemotherapeutic 
+cytotoxic drugs provides clinical benefit to patients with advanced or 
+metastatic colorectal cancer, but the optimal choice of the initial biologic 
+therapy in previously untreated patients is unknown.
+OBJECTIVE: To determine if the addition of cetuximab vs bevacizumab to the 
+combination of leucovorin, fluorouracil, and oxaliplatin (mFOLFOX6) regimen or 
+the combination of leucovorin, fluorouracil, and irinotecan (FOLFIRI) regimen is 
+superior as first-line therapy in advanced or metastatic KRAS wild-type (wt) 
+colorectal cancer.
+DESIGN, SETTING, AND PARTICIPANTS: Patients (≥18 years) enrolled at community 
+and academic centers throughout the National Clinical Trials Network in the 
+United States and Canada (November 2005-March 2012) with previously untreated 
+advanced or metastatic colorectal cancer whose tumors were KRAS wt chose to take 
+either the mFOLFOX6 regimen or the FOLFIRI regimen as chemotherapy and were 
+randomized to receive either cetuximab (n = 578) or bevacizumab (n = 559). The 
+last date of follow-up was December 15, 2015.
+INTERVENTIONS: Cetuximab vs bevacizumab combined with either mFOLFOX6 or FOLFIRI 
+chemotherapy regimen chosen by the treating physician and patient.
+MAIN OUTCOMES AND MEASURES: The primary end point was overall survival. 
+Secondary objectives included progression-free survival and overall response 
+rate, site-reported confirmed or unconfirmed complete or partial response.
+RESULTS: Among 1137 patients (median age, 59 years; 440 [39%] women), 1074 (94%) 
+of patients met eligibility criteria. As of December 15, 2015, median follow-up 
+for 263 surviving patients was 47.4 months (range, 0-110.7 months), and 82% of 
+patients (938 of 1137) experienced disease progression. The median overall 
+survival was 30.0 months in the cetuximab-chemotherapy group and 29.0 months in 
+the bevacizumab-chemotherapy group with a stratified hazard ratio (HR) of 0.88 
+(95% CI, 0.77-1.01; P = .08). The median progression-free survival was 10.5 
+months in the cetuximab-chemotherapy group and 10.6 months in the 
+bevacizumab-chemotherapy group with a stratified HR of 0.95 (95% CI, 0.84-1.08; 
+P = .45). Response rates were not significantly different, 59.6% vs 55.2% for 
+cetuximab and bevacizumab, respectively (difference, 4.4%, 95% CI, 1.0%-9.0%, 
+P = .13).
+CONCLUSIONS AND RELEVANCE: Among patients with KRAS wt untreated advanced or 
+metastatic colorectal cancer, there was no significant difference in overall 
+survival between the addition of cetuximab vs bevacizumab to chemotherapy as 
+initial biologic treatment.
+TRIAL REGISTRATION: clinicaltrials.gov identifier: NCT00265850.
+
+DOI: 10.1001/jama.2017.7105
+PMCID: PMC5545896
+PMID: 28632865 [Indexed for MEDLINE]

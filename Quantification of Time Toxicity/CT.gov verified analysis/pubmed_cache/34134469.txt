@@ -1,0 +1,55 @@
+4. Haematologica. 2022 Feb 1;107(2):500-509. doi: 10.3324/haematol.2020.274803.
+
+Efficacy and safety assessment of prolonged maintenance with subcutaneous 
+rituximab in patients with relapsed or refractory indolent non-Hodgkin lymphoma: 
+results of the phase III MabCute study.
+
+Rule S(1), Barreto WG(2), Briones J(3), Carella AM(4), Casasnovas O(5), Pocock 
+C(6), Wendtner CM(7), Zaja F(8), Robson S(9), MacGregor L(9), Tschopp RR(9), 
+Nick S(9), Dreyling M(10).
+
+Author information:
+(1)Derriford Hospital and Plymouth University Medical School, Plymouth, United 
+Kingdom.
+(2)Hemocentro Ribeirão Preto, University of São Paulo, São Paulo, Brazil.
+(3)Hospital de la Santa Creu i Sant Pau, Barcelona, Spain.
+(4)IRCCS AOU San Martino-IST, Genova, Italy.
+(5)Centre Hospitalier Universitaire François Mitterand, Dijon, France.
+(6)Kent and Canterbury Hospital, Canterbury, United Kingdom.
+(7)Munich Clinic Schwabing, Academic Teaching Hospital, Ludwig-Maximilians 
+University, Munich, Germany.
+(8)DSM, University of Trieste, Trieste, Italy.
+(9)F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+(10)Klinikum der Universität München, Munich, Germany. 
+martin.dreyling@med.uni-muenchen.de.
+
+Comment in
+    Haematologica. 2022 Feb 01;107(2):353-354. doi: 
+10.3324/haematol.2021.279101.
+
+Rituximab plus chemotherapy induction followed by rituximab maintenance for up 
+to 2 years confers a long-term benefit in terms of progression-free survival in 
+patients with indolent non-Hodgkin lymphoma. It is not known whether further 
+prolonged maintenance with rituximab provides additional benefit. The phase III 
+MabCute study enrolled 692 patients with relapsed or refractory indolent 
+non-Hodgkin lymphoma. Patients who responded to induction with rituximab plus 
+chemotherapy and were still responding after up to 2 years' initial maintenance 
+with subcutaneous rituximab were randomized to extended maintenance with 
+subcutaneous rituximab (n=138) or observation only (n=138). The primary endpoint 
+of investigator-assessed progression-free survival in the randomized population 
+was un-addressed by the end of study because of an insufficient number of events 
+(129 events were needed for 80% power at 5% significance if approximately 330 
+patients were randomized). In total, there were 46 progression-free survival 
+events, 19 and 27 in the rituximab and observation arms, respectively (P=0.410 
+by stratified log-rank test; hazard ratio 0.76 [95% confidence interval: 0.37- 
+1.53]). The median progression-free survival was not reached in either 
+randomized arm. There were no new safety signals; however, adverse events were 
+seen slightly more frequently with rituximab than with observation during 
+extended maintenance. Maintenance for up to 2 years with rituximab after 
+response to initial induction therefore remains the standard of care in patients 
+with relapsed or refractory indolent non- Hodgkin lymphoma. (Clinicaltrials.gov 
+identifier: NCT01461928).
+
+DOI: 10.3324/haematol.2020.274803
+PMCID: PMC8804572
+PMID: 34134469 [Indexed for MEDLINE]

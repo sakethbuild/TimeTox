@@ -1,0 +1,197 @@
+18. J Clin Oncol. 2019 Jun 1;37(16):1391-1402. doi: 10.1200/JCO.18.01460. Epub
+2019  Apr 17.
+
+Final Results of a Randomized, Phase III Study of Rituximab With or Without 
+Idelalisib Followed by Open-Label Idelalisib in Patients With Relapsed Chronic 
+Lymphocytic Leukemia.
+
+Sharman JP(1), Coutre SE(2), Furman RR(3), Cheson BD(4), Pagel JM(5), Hillmen 
+P(6), Barrientos JC(7), Zelenetz AD(8), Kipps TJ(9), Flinn IW(10), Ghia P(11), 
+Eradat H(12), Ervin T(13), Lamanna N(14), Coiffier B(15)(16), Pettitt AR(17), Ma 
+S(18), Tausch E(19), Cramer P(20), Huang J(21), Mitra S(21), Hallek M(20), 
+O'Brien SM(22), Stilgenbauer S(19).
+
+Author information:
+(1)1 Willamette Valley Cancer Institute and Research Center, US Oncology 
+Research, Springfield, OR.
+(2)2 Stanford School of Medicine, Stanford, CA.
+(3)3 Weill Cornell Medical College, New York, NY.
+(4)4 Georgetown University Hospital, Washington DC.
+(5)5 Swedish Cancer Institute, Seattle, WA.
+(6)6 St James's University Hospital, Leeds, United Kingdom.
+(7)7 Zucher School of Medicine at Hofstra/Northwell, New Hyde Park, NY.
+(8)8 Memorial Sloan Kettering Cancer Center, New York, NY.
+(9)9 University of California, San Diego, Moores Cancer Center, La Jolla, CA.
+(10)10 Sarah Cannon Research Institute/Tennessee Oncology, Nashville, TN.
+(11)11 Università Vita-Salute San Raffaele and Istituto Di Ricovero e Cura a 
+Carattere Scientifico Ospedale San Raffaele, Milan, Italy.
+(12)12 David Geffen School of Medicine at University of California, Los Angeles, 
+Los Angeles, CA.
+(13)13 Venice Regional Bayfront Health, Venice, FL.
+(14)14 Herbert Irving Comprehensive Cancer Center, Columbia University Medical 
+Center, New York, NY.
+(15)15 Centre Hospitalier Lyon-Sud, Pierre Benite, France.
+(16)† Deceased.
+(17)16 University of Liverpool, Liverpool, United Kingdom.
+(18)17 Robert H. Lurie Comprehensive Cancer Center, Northwestern University, 
+Chicago, IL.
+(19)18 Ulm University, Ulm, Germany.
+(20)19 University Hospital of Cologne, Cologne, Germany.
+(21)20 Gilead Sciences, Foster City, CA.
+(22)21 University of California, Irvine, Orange, CA.
+
+Comment in
+    Lancet Oncol. 2019 Jun;20(6):e294. doi: 10.1016/S1470-2045(19)30250-5.
+
+PURPOSE: A randomized, double-blind, phase III study of idelalisib (IDELA) plus 
+rituximab versus placebo plus rituximab in patients with relapsed chronic 
+lymphocytic leukemia (CLL) was terminated early because of superior efficacy of 
+the IDELA-plus-rituximab (IDELA/R) arm. Patients in either arm could then enroll 
+in an extension study to receive IDELA monotherapy. Here, we report the 
+long-term efficacy and safety data for IDELA-treated patients across the primary 
+and extension studies.
+PATIENTS AND METHODS: Patients were randomly assigned to receive rituximab in 
+combination with either IDELA 150 mg twice daily (IDELA/R; n = 110) or placebo 
+(placebo/R; n = 110). Key end points were progression-free survival (PFS), 
+overall response rate (ORR), overall survival (OS), and safety.
+RESULTS: The long-term efficacy and safety of treatment with IDELA was assessed 
+in 110 patients who received at least one dose of IDELA in the primary study, 75 
+of whom enrolled in the extension study. The IDELA/R-to-IDELA group had a median 
+PFS of 20.3 months (95% CI, 17.3 to 26.3 months) after a median follow-up time 
+of 18 months (range, 0.3 to 67.6 months). The ORR was 85.5% (94 of 110 patients; 
+n = 1 complete response). The median OS was 40.6 months (95% CI, 28.5 to 57.3 
+months) and 34.6 months (95% CI, 16.0 months to not reached) for patients 
+randomly assigned to the IDELA/R and placebo/R groups, respectively. Prolonged 
+exposure to IDELA increased the incidence of all-grade, grade 2, and grade 3 or 
+greater diarrhea (46.4%, 17.3%, and 16.4%, respectively), all-grade and grade 3 
+or greater colitis (10.9% and 8.2%, respectively) and all-grade and grade 3 or 
+greater pneumonitis (10.0% and 6.4%, respectively) but did not increase the 
+incidence of elevated hepatic aminotransferases.
+CONCLUSION: IDELA improved PFS and OS compared with rituximab alone in patients 
+with relapsed CLL. Long-term IDELA was effective and had an expected safety 
+profile. No new IDELA-related adverse events were identified with longer 
+exposure.
+
+DOI: 10.1200/JCO.18.01460
+PMCID: PMC10448866
+PMID: 30995176 [Indexed for MEDLINE]
+
+Conflict of interest statement: FINAL RESULTS OF A RANDOMIZED, PHASE III STUDY 
+OF RITUXIMAB WITH OR WITHOUT IDELALISIB FOLLOWED BY OPEN-LABEL IDELALISIB IN 
+PATIENTS WITH RELAPSED CHRONIC LYMPHOCYTIC LEUKEMIA: The following represents 
+disclosure information provided by authors of this manuscript. All relationships 
+are considered compensated. Relationships are self-held unless noted. I = 
+Immediate Family Member, Inst = My Institution. Relationships may not relate to 
+the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+jco.ascopubs.org/site/ifc. JEFF P. SHARMAN: Leadership: US Oncology Consulting 
+or Advisory Role: Pharmacyclics, Celgene, TG Therapeutics, Genentech, Abbvie, 
+Acerta Pharma, AstraZeneca Research Funding: Pharmacyclics (Inst), Genentech 
+(Inst), Celgene (Inst), Acerta Pharma (Inst), Gilead Sciences (Inst), Seattle 
+Genetics (Inst), TG Therapeutics (Inst), Merck (Inst), Takeda (Inst) Expert 
+Testimony: Gilead Sciences STEVEN E. COUTRE: Stock and Other Ownership 
+Interests: Pharmacyclics (I) Consulting or Advisory Role: Genentech, Roche, 
+Celgene, Pharmacyclics, Gilead Sciences, Abbvie, Novartis, Janssen Oncology, 
+BeiGene Research Funding: Celgene (Inst), Pharmacyclics (Inst), Gilead Sciences 
+(Inst), Abbvie (Inst), Janssen Oncology (Inst), Acerta Pharma (Inst), 
+AstraZeneca (Inst), Millenium Pharmaceuticals (Inst) Travel, Accommodations, 
+Expenses: Celgene, Gilead Sciences, Novartis, Abbvie, Pharmacyclics, Janssen 
+Oncology, BeiGene RICHARD R. FURMAN: Honoraria: Janssen, Pharmacyclics, 
+Genentech, Roche Consulting or Advisory Role: Pharmacyclics, Janssen Biotech, 
+Gilead Sciences, Genentech, Roche, Abbvie, Sunesis Pharmaceuticals, Loxo, TG 
+Therapeutics, Verastem, Acerta Pharma, AstraZeneca Research Funding: Acerta 
+Pharma, TG Therapeutics Expert Testimony: Abbvie Other Relationship: Incyte, 
+Janssen Biotech, Abbvie BRUCE D. CHESON: Consulting or Advisory Role: Acerta 
+Pharma, TG Therapeutics, Bayer, Roche, Genentech, Abbvie, Pharmacyclics, 
+Janssen, Morphosys, Sunesis Pharmaceuticals, Celgene Research Funding: Roche 
+(Inst), Genentech (Inst), Acerta Pharma (Inst), Gilead Sciences (Inst), Abbvie 
+(Inst), TG Therapeutics (Inst) JOHN M. PAGEL: Consulting or Advisory Role: 
+Pharmacyclics, Gilead Sciences PETER HILLMEN: Honoraria: Janssen, Abbvie, Roche 
+Research Funding: Janssen (Inst), Pharmacyclics (Inst), Roche (Inst), Gilead 
+Sciences (Inst) Travel, Accommodations, Expenses: Janssen, Abbvie JACQUELINE C. 
+BARRIENTOS: Honoraria: Janssen Consulting or Advisory Role: Pharmacyclics, 
+Abbvie, Gilead Sciences, Genentech, Bayer Research Funding: Pharmacyclics (Inst) 
+Travel, Accommodations, Expenses: Janssen ANDREW D. ZELENETZ: Stock and Other 
+Ownership Interests: Adaptive Biotechnologies Honoraria: National Comprehensive 
+Cancer Network, Clinical Care Options, Physician Education Resource, Oncology 
+Information Group Consulting or Advisory Role: Gilead Sciences, Amgen, 
+Genentech, Roche, Celgene, Medscape, AstraZeneca, DAVA Oncology, MorphoSys, 
+BeiGene, Cancer Support Community, Janssen, MEI Pharma, Novartis, Pfizer, Prime 
+Education, TRM Oncology, Vaniam Group, Verastem, Pharmacyclics, Karyopharm 
+Therapeutics Research Funding: Genentech, Roche, Gilead Sciences, MEI Pharma, 
+BeiGene BERTRAND COIFFIER: Honoraria: Celgene, Mundipharma, Gilead Sciences, 
+AstraZeneca, Pfizer, Celltrion, Novartis Consulting or Advisory Role: Celgene, 
+Mundipharma, Gilead Sciences, AstraZeneca, Pfizer,Celltrion, Novartis THOMAS J. 
+KIPPS: Employment: University of California, San Diego, Health Moores Cancer 
+Center Honoraria: Pharmacyclics, AbbVie, Janssen, Celgene, Genentech, Roche, 
+Gilead, DAVA Oncology Consulting or Advisory Role: AbbVie, Pharmacyclics, 
+Celgene, Genentech, Roche, Janssen, DAVA Oncology, Gilead Sciences Speakers' 
+Bureau: Verastem, Pharmacyclics IAN W. FLINN: Consulting or Advisory Role: 
+Abbvie (Inst), Seattle Genetics (Inst), TG Therapeutics (Inst), Verastem (Inst) 
+Research Funding : Acerta Pharma (Inst), Agios (Inst), Calithera Biosciences 
+(Inst), Celgene (Inst), Constellation Pharmaceuticals (Inst), Genentech (Inst), 
+Gilead Sciences (Inst), Incyte (Inst), Infinity Pharmaceuticals (Inst), Janssen 
+(Inst), Karyopharm Therapeutics (Inst), Kite Pharma (Inst), Novartis (Inst), 
+Pharmacyclics (Inst), Portola Pharmaceuticals (Inst), Roche (Inst), TG 
+Therapeutics (Inst), Trillium Therapeutics (Inst), Abbvie (Inst), ArQule (Inst), 
+BeiGene (Inst), Curis (Inst), FORMA Therapeutics (Inst), Forty Seven (Inst), 
+Merck (Inst), Pfizer (Inst), Takeda (Inst), Teva (Inst), Verastem (Inst), Gilead 
+Sciences (Inst), AstraZeneca (Inst), Juno Therapeutics (Inst), Unum Therapeutics 
+(Inst), MorphoSys (Inst) PAOLO GHIA: Honoraria: Abbvie, BeiGene, Janssen 
+Oncology, Gilead Sciences, Juno Therapeutics, Sunesis Pharmaceuticals, Roche 
+Consulting or Advisory Role: Abbvie, BeiGene, Janssen, Gilead Sciences, Sunesis 
+Pharmaceuticals, Juno Therapeutics Speakers' Bureau: Gilead Sciences Research 
+Funding: Abbvie, Janssen Oncology, Gilead Sciences, Sunesis Pharmaceuticals, 
+Novartis HERBERT ERADAT: Honoraria: Genentech, Roche, Abbvie, Gilead Sciences 
+Consulting or Advisory Role: Genentech, Roche, Abbvie, Gilead Sciences, 
+Pharmacyclics Speakers' Bureau: Genentech, Roche, Abbvie, Gilead Sciences, 
+Pharmacyclics Research Funding: Abbvie, Genentech, Roche, Gilead Sciences, 
+Seattle Genetics, Celgene, miRagen, Pharmacyclics Travel, Accommodations, 
+Expenses: Genentech, Roche, Abbvie NICOLE LAMANNA: Consulting or Advisory Role: 
+Celgene, Genentech, Abbvie, ProNAi, Pharmacyclics, Juno Therapeutics, Roche, 
+Janssen, AstraZeneca, Gilead Sciences Research Funding: Genentech (Inst), Abbvie 
+(Inst), Infinity Pharmaceuticals (Inst), Gilead Sciences (Inst), ProNAi (Inst), 
+BeiGene (Inst), AstraZeneca (Inst), Verastem (Inst), Juno Therapeutics (Inst), 
+TG Therapeutics (Inst), Acerta Pharma (Inst), Loxo (Inst) BERTRAND COIFFIER: 
+Honoraria: Celgene, Mundipharma, Gilead Sciences, AstraZeneca, Pfizer, 
+Celltrion, Novartis Consulting or Advisory Role: Celgene, Mundipharma, Gilead 
+Sciences, AstraZeneca, Pfizer, Celltrion, Novartis ANDREW R. PETTITT: Research 
+Funding: Celgene (Inst), Gilead Sciences (Inst), Roche (Inst), NAPP 
+Pharmaceuticals (Inst), GlaxoSmithKline (Inst), Novartis (Inst), Verastem (Inst) 
+Travel, Accommodations, Expenses: Gilead, Kite, Celgene SHUO MA: Consulting or 
+Advisory Role: Genentech, Roche, Gilead Sciences, Abbvie, Novartis, 
+Pharmacyclics, Janssen Oncology, AstraZeneca, Bioverativ, Omniprex Speakers' 
+Bureau: Pharmacyclics, Genentech, Roche, Janssen Oncology, AstraZeneca Research 
+Funding: Pharmacyclics (Inst), Gilead Sciences (Inst), Acerta Pharma (Inst), 
+Abbvie (Inst), Novartis (Inst), Incyte (Inst) EUGEN TAUSCH: Consulting or 
+Advisory Role: Roche Speakers' Bureau: Roche, Abbvie Travel, Accommodations, 
+Expenses: Abbvie PAULA CRAMER: Honoraria: Abbvie, Acerta Pharma, AstraZeneca, 
+Janssen-Cilag Research Funding: Acerta Pharma (Inst), Gilead Sciences (Inst), 
+Janssen-Cilag (Inst), Roche (Inst), Novartis (Inst) Travel, Accommodations, 
+Expenses: Abbvie, Roche, Janssen-Cilag JULIE HUANG: Employment: Gilead Sciences 
+Stock and Other Ownership Interests: Gilead Sciences SIDDHARTHA MITRA: 
+Employment: Five Prime Therapeutics, Gilead Sciences Stock and Other Ownership 
+Interests: Gilead Sciences, Five Prime Therapeutics MICHAEL HALLEK: Honoraria: 
+Roche, Janssen, Abbvie, Gilead Sciences Consulting or Advisory Role: Janssen, 
+Abbvie, Gilead Sciences, Genentech, Roche Speakers' Bureau: Janssen, Abbvie, 
+Gilead Sciences, Roche, Genentech Research Funding: Roche, Abbvie, Janssen, 
+Gilead Sciences Travel, Accommodations, Expenses: Roche, Janssen SUSAN M. 
+O’BRIEN: Employment: University of California, Irvine Honoraria: Celgene, 
+Janssen, Pharmacyclics, Gilead Sciences, Pfizer, Amgen, Astellas Pharma, 
+GlaxoSmithKline, Aptose Biosciences, Vaniam Group, Abbvie, Sunesis 
+Pharmaceuticals, Alexion Pharmaceuticals, Loxo, Eisai, TG Therapeutics 
+Consulting or Advisory Role: Amgen, Celgene, GlaxoSmithKline, Janssen Oncology, 
+Aptose Biosciences, Vaniam Group, Abbvie, Genentech, Sunesis Pharmaceuticals, 
+Alexion Pharmacewuticals, Astellas Pharma, Gilead Sciences, Pharmacyclics, TG 
+Therapeutics, Pfizer Research Funding: Acerta Pharma (Inst), Regeneron (Inst), 
+Gilead Sciences (Inst), Pfizer (Inst), TG Therapeutics (Inst), Pharmacyclics 
+(Inst), Kite Pharma (Inst), Sunesis Pharmaceuticals (Inst) Travel, 
+Accommodations, Expenses: Celgene, Janssen, Gilead Sciences, Regeneron STEPHAN 
+STILGENBAUER: Honoraria: AbbVie, AstraZeneca, Celgene, Gilead, GlaxoSmithKline, 
+Hoffmann La-Roche, Janssen Consulting or Advisory Role: AbbVie, AstraZeneca, 
+Celgene, Gilead, GlaxoSmithKline, Hoffmann La-Roche, Janssen Speakers' Bureau: 
+AbbVie, AstraZeneca, Celgene, Gilead, GlaxoSmithKline, Hoffmann La-Roche, 
+Janssen Research Funding: AbbVie, AstraZeneca, Celgene, Gilead, GlaxoSmithKline, 
+Hoffmann La-Roche, Janssen Travel, Accommodations, Expenses: AbbVie, 
+AstraZeneca, Celgene, Gilead, GlaxoSmithKline, Hoffmann La-Roche, Janssen No 
+other potential conflicts of interest were reported.

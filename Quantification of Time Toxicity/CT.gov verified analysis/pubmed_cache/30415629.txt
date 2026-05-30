@@ -1,0 +1,93 @@
+5. N Engl J Med. 2019 Jan 3;380(1):33-44. doi: 10.1056/NEJMoa1809944. Epub 2018
+Nov  10.
+
+Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease.
+
+Manson JE(1), Cook NR(1), Lee IM(1), Christen W(1), Bassuk SS(1), Mora S(1), 
+Gibson H(1), Gordon D(1), Copeland T(1), D'Agostino D(1), Friedenberg G(1), 
+Ridge C(1), Bubes V(1), Giovannucci EL(1), Willett WC(1), Buring JE(1); VITAL 
+Research Group.
+
+Collaborators: Baron J, Holick M, Hollis B, Albert CM, Gold D, LeBoff M, Okereke 
+O, Pradhan A, Sesso H, Chen W, Chandler P, Gaziano JM, Demler O, Rexrode K, 
+Costenbader K, Forman J, Alexander E, Friedman S, Katz J, Zhang S, Lin J, Walter 
+J, Duszlak J, Kalan K, MacFadyen J, Gomelskaya N, Bates D, Sarkissian A, Breen 
+M, Andrade Y, Vinayagamoorthy M, Li C, Kim E, Giulianini F, Kotler G, Van 
+Denburgh M, Dushkes R, Liu Y, Pereira E, Fields-Johnson L, Menjin G, Liu L, 
+Girard L, Zeller S, Riches N, Hasson K, Bhang E, Revilla M, McCarthy E, Moran A, 
+Haise K, Arsenault L, Quinn P, Grimes S, Fitchorov I, Schwerin K, Curry S, 
+Murray A, Zhang A, Walrond-Williams D, Weinberg A, Pfeffer C, Haubourg M, Nguyen 
+V, Ouellette H, Rodriguez R, Montgomery T, Morse K, Guzman V, Perry M, Weekes S, 
+Smith D, Clar A, Curran S, Fonge Y, Hibbert D, Paine L, Royce K, Splaine C, 
+McMahon J, Eldridge D, Hand L, Inandan K, Werden MR, Samuelson H, Hrbek A, Mele 
+M, Bowes E, Ryan MA, Camargo C, Danik J, Thadhani R, Wang T, Shah RC, Albert MA, 
+Kase C, Vesper H, Botelho J, Wenger N, Cohen LS, Colton T, Espeland MA, 
+Henderson C, Lichtenstein AH, Silliman RA, Boyington J, Costello R, Davis C, 
+Greenwald P, Riscuta G, Seifried H.
+
+Author information:
+(1)From the Department of Medicine, Brigham and Women's Hospital and Harvard 
+Medical School (J.E.M., N.R.C., I.-M.L., W.C., S.S.B., S.M., H.G., D.G., T.C., 
+D.D., G.F., C.R., V.B., E.L.G., W.C.W., J.E.B.), and the Departments of 
+Epidemiology (J.E.M., N.R.C., I.-M.L., W.C.W., J.E.B.) and Nutrition (E.L.G., 
+W.C.W.), Harvard T.H. Chan School of Public Health - all in Boston.
+
+Comment in
+    N Engl J Med. 2019 Jan 3;380(1):91-93. doi: 10.1056/NEJMe1814933.
+    MMW Fortschr Med. 2019 Apr;161(6):33. doi: 10.1007/s15006-019-0349-3.
+    Strahlenther Onkol. 2019 Jul;195(7):693-694. doi: 
+10.1007/s00066-019-01455-4.
+    Eur Rev Med Pharmacol Sci. 2019 Apr;23(7):3142-3147. doi: 
+10.26355/eurrev_201904_17599.
+    N Engl J Med. 2019 Apr 25;380(17):1677. doi: 10.1056/NEJMc1902165.
+    N Engl J Med. 2019 Apr 25;380(17):1678. doi: 10.1056/NEJMc1902165.
+    J Urol. 2019 Aug;202(2):211-212. doi: 10.1097/01.JU.0000559602.40778.1d.
+    N Engl J Med. 2019 May 9;380(19):1878. doi: 10.1056/NEJMc1902636.
+    N Engl J Med. 2019 May 9;380(19):1878. doi: 10.1056/NEJMc1902636.
+    N Engl J Med. 2019 May 9;380(19):1878-1879. doi: 10.1056/NEJMc1902636.
+    N Engl J Med. 2019 May 9;380(19):1879. doi: 10.1056/NEJMc1902636.
+    N Engl J Med. 2019 Jul 18;381(3):285-286. doi: 10.1056/NEJMe1906559.
+
+BACKGROUND: It is unclear whether supplementation with vitamin D reduces the 
+risk of cancer or cardiovascular disease, and data from randomized trials are 
+limited.
+METHODS: We conducted a nationwide, randomized, placebo-controlled trial, with a 
+two-by-two factorial design, of vitamin D3 (cholecalciferol) at a dose of 2000 
+IU per day and marine n-3 (also called omega-3) fatty acids at a dose of 1 g per 
+day for the prevention of cancer and cardiovascular disease among men 50 years 
+of age or older and women 55 years of age or older in the United States. Primary 
+end points were invasive cancer of any type and major cardiovascular events (a 
+composite of myocardial infarction, stroke, or death from cardiovascular 
+causes). Secondary end points included site-specific cancers, death from cancer, 
+and additional cardiovascular events. This article reports the results of the 
+comparison of vitamin D with placebo.
+RESULTS: A total of 25,871 participants, including 5106 black participants, 
+underwent randomization. Supplementation with vitamin D was not associated with 
+a lower risk of either of the primary end points. During a median follow-up of 
+5.3 years, cancer was diagnosed in 1617 participants (793 in the vitamin D group 
+and 824 in the placebo group; hazard ratio, 0.96; 95% confidence interval [CI], 
+0.88 to 1.06; P=0.47). A major cardiovascular event occurred in 805 participants 
+(396 in the vitamin D group and 409 in the placebo group; hazard ratio, 0.97; 
+95% CI, 0.85 to 1.12; P=0.69). In the analyses of secondary end points, the 
+hazard ratios were as follows: for death from cancer (341 deaths), 0.83 (95% CI, 
+0.67 to 1.02); for breast cancer, 1.02 (95% CI, 0.79 to 1.31); for prostate 
+cancer, 0.88 (95% CI, 0.72 to 1.07); for colorectal cancer, 1.09 (95% CI, 0.73 
+to 1.62); for the expanded composite end point of major cardiovascular events 
+plus coronary revascularization, 0.96 (95% CI, 0.86 to 1.08); for myocardial 
+infarction, 0.96 (95% CI, 0.78 to 1.19); for stroke, 0.95 (95% CI, 0.76 to 
+1.20); and for death from cardiovascular causes, 1.11 (95% CI, 0.88 to 1.40). In 
+the analysis of death from any cause (978 deaths), the hazard ratio was 0.99 
+(95% CI, 0.87 to 1.12). No excess risks of hypercalcemia or other adverse events 
+were identified.
+CONCLUSIONS: Supplementation with vitamin D did not result in a lower incidence 
+of invasive cancer or cardiovascular events than placebo. (Funded by the 
+National Institutes of Health and others; VITAL ClinicalTrials.gov number, 
+NCT01169259 .).
+
+DOI: 10.1056/NEJMoa1809944
+PMCID: PMC6425757
+PMID: 30415629 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: All authors 
+completed and submitted the ICMJE Form for Disclosure of Potential Conflicts of 
+Interest.

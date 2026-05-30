@@ -1,0 +1,63 @@
+5. N Engl J Med. 2010 Jul 29;363(5):411-22. doi: 10.1056/NEJMoa1001294.
+
+Sipuleucel-T immunotherapy for castration-resistant prostate cancer.
+
+Kantoff PW(1), Higano CS, Shore ND, Berger ER, Small EJ, Penson DF, Redfern CH, 
+Ferrari AC, Dreicer R, Sims RB, Xu Y, Frohlich MW, Schellhammer PF; IMPACT Study 
+Investigators.
+
+Collaborators: Ahmed T, Amin A, Arseneau J, Barth N, Bernstein G, Bracken B, 
+Burch P, Caggiano V, Chin J, Chodak G, Chu F, Corman J, Curti B, Dawson N, 
+Deeken JF, Dubernet T, Fishman M, Flanigan R, Gailani F, Garbo L, Gardner T, 
+Gelmann E, George D, Godfrey T, Gomella L, Guerra M, Hall S, Hanson J, Israeli 
+R, Jancis E, Jewett MA, Kassabian V, Katz J, Klotz L, Koeneman K, Koh H, Kratzke 
+R, Lance R, Lech J, Leichman L, Lemon R, Liang J, Libertino J, Lilly M, Malik I, 
+Martin SE, McCaffrey J, McLeod D, McNeel D, Miles B, Murdock M, Nabhan C, 
+Nemunaitis J, Notter D, Pantuck A, Perrotte P, Pessis D, Petrylak D, Polikoff J, 
+Pommerville P, Ramanathan S, Rarick M, Richards J, Rifkin R, Rohatgi N, 
+Rosenbluth R, Santucci R, Sayegh A, Seigne J, Shapira I, Shedhadeh N, Shepherd 
+D, Sridhar S, Stephenson R, Teigland C, Thaker N, Vacirca J, Villa L Jr, 
+Vogelzang N, Wertheim M, Wolff JH, Wurzel R, Yang C, Young J.
+
+Author information:
+(1)Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA 02115, USA. 
+philip_kantoff@dfci.harvard.edu
+
+Comment in
+    N Engl J Med. 2010 Jul 29;363(5):479-81. doi: 10.1056/NEJMe1006300.
+    N Engl J Med. 2010 Nov 11;363(20):1966; author reply 1967-8. doi: 
+10.1056/NEJMc1009982.
+    Expert Rev Anticancer Ther. 2011 Jan;11(1):25-8. doi: 10.1586/era.10.180.
+    Cancer Biol Ther. 2014 Oct;15(10):1299-300. doi: 10.4161/cbt.29928.
+
+BACKGROUND: Sipuleucel-T, an autologous active cellular immunotherapy, has shown 
+evidence of efficacy in reducing the risk of death among men with metastatic 
+castration-resistant prostate cancer.
+METHODS: In this double-blind, placebo-controlled, multicenter phase 3 trial, we 
+randomly assigned 512 patients in a 2:1 ratio to receive either sipuleucel-T 
+(341 patients) or placebo (171 patients) administered intravenously every 2 
+weeks, for a total of three infusions. The primary end point was overall 
+survival, analyzed by means of a stratified Cox regression model adjusted for 
+baseline levels of serum prostate-specific antigen (PSA) and lactate 
+dehydrogenase.
+RESULTS: In the sipuleucel-T group, there was a relative reduction of 22% in the 
+risk of death as compared with the placebo group (hazard ratio, 0.78; 95% 
+confidence interval [CI], 0.61 to 0.98; P=0.03). This reduction represented a 
+4.1-month improvement in median survival (25.8 months in the sipuleucel-T group 
+vs. 21.7 months in the placebo group). The 36-month survival probability was 
+31.7% in the sipuleucel-T group versus 23.0% in the placebo group. The treatment 
+effect was also observed with the use of an unadjusted Cox model and a log-rank 
+test (hazard ratio, 0.77; 95% CI, 0.61 to 0.97; P=0.02) and after adjustment for 
+use of docetaxel after the study therapy (hazard ratio, 0.78; 95% CI, 0.62 to 
+0.98; P=0.03). The time to objective disease progression was similar in the two 
+study groups. Immune responses to the immunizing antigen were observed in 
+patients who received sipuleucel-T. Adverse events that were more frequently 
+reported in the sipuleucel-T group than in the placebo group included chills, 
+fever, and headache.
+CONCLUSIONS: The use of sipuleucel-T prolonged overall survival among men with 
+metastatic castration-resistant prostate cancer. No effect on the time to 
+disease progression was observed. (Funded by Dendreon; ClinicalTrials.gov 
+number, NCT00065442.)
+
+DOI: 10.1056/NEJMoa1001294
+PMID: 20818862 [Indexed for MEDLINE]

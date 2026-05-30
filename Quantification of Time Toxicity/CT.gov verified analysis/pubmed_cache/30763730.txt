@@ -1,0 +1,73 @@
+11. J Thorac Oncol. 2019 May;14(5):933-939. doi: 10.1016/j.jtho.2019.02.001. Epub
+ 2019 Feb 11.
+
+Osimertinib Plus Durvalumab versus Osimertinib Monotherapy in EGFR 
+T790M-Positive NSCLC following Previous EGFR TKI Therapy: CAURAL Brief Report.
+
+Yang JC(1), Shepherd FA(2), Kim DW(3), Lee GW(4), Lee JS(5), Chang GC(6), Lee 
+SS(7), Wei YF(8), Lee YG(9), Laus G(10), Collins B(10), Pisetzky F(11), Horn 
+L(12).
+
+Author information:
+(1)Department of Oncology, National Taiwan University Hospital, Taipei, Taiwan, 
+Republic of China. Electronic address: chihyang@ntu.edu.tw.
+(2)Department of Medical Oncology and Hematology, Princess Margaret Cancer 
+Centre and the University of Toronto, Toronto, Ontario, Canada.
+(3)Department of Internal Medicine, Seoul National University Hospital, Seoul, 
+Republic of Korea.
+(4)Department of Internal Medicine, Gyeongsang National University Hospital, 
+Gyeongsang National University College of Medicine, Jinju, Republic of Korea.
+(5)Department of Internal Medicine, Seoul National University Bundang Hospital, 
+Seoul National University College of Medicine, Seongnam, Republic of Korea.
+(6)Division of Chest Medicine, Department of Internal Medicine, Taichung 
+Veterans General Hospital, Taichung, Taiwan, Republic of China; Faculty of 
+Medicine, School of Medicine, National Yang-Ming University, Taipei, Republic of 
+China.
+(7)Hematology-Oncology, Inje University College of Medicine, Busan, Republic of 
+Korea.
+(8)Department of Internal Medicine, E-Da Hospital/I-Shou University, Kaohsiung, 
+Taiwan, Republic of China.
+(9)Department of Internal Medicine, Kangbuk Samsung Hospital, Sungkyunkwan 
+University School of Medicine, Seoul, Republic of Korea.
+(10)AstraZeneca, Cambridge, United Kingdom.
+(11)AstraZeneca, Den Haag, The Netherlands.
+(12)Thoracic Oncology Program, Vanderbilt University Medical Center, Nashville, 
+Tennessee.
+
+Comment in
+    J Thorac Oncol. 2019 May;14(5):766-767. doi: 10.1016/j.jtho.2019.03.005.
+
+INTRODUCTION: Osimertinib is a third-generation EGFR-tyrosine kinase inhibitor 
+(TKI). Durvalumab is an anti-programmed death ligand 1 monoclonal antibody. The 
+phase III open-label CAURAL trial (NCT02454933) investigated osimertinib plus 
+durvalumab versus osimertinib monotherapy in patients with EGFR-TKI sensitizing 
+and EGFR T790M mutation-positive advanced NSCLC and disease progression after 
+EGFR-TKI therapy.
+METHODS: Patients were randomly assigned 1:1 to receive orally administered 
+osimertinib (80 mg once daily) with or without durvalumab (10 mg/kg administered 
+intravenously every 2 weeks) until progression. Treatment could continue beyond 
+progression, providing clinical benefit continued (judged by the investigator). 
+The amended primary objective was to assess the safety and tolerability of 
+osimertinib plus durvalumab; efficacy was an exploratory objective.
+RESULTS: CAURAL recruitment was terminated early because of increased incidence 
+of interstitial lung disease-like events in the osimertinib plus durvalumab arm 
+from the separate phase Ib TATTON trial (NCT02143466). At termination of CAURAL 
+recruitment, 15 patients had been randomly assigned to treatment with 
+osimertinib and 14 to treatment with osimertinib plus durvalumab. The most 
+common AEs were diarrhea (53% [grade ≥3 in 6% of patients]) in the osimertinib 
+arm and rash (67% [grade ≥3 in 0 patients]) in the combination arm. One patient 
+who had been randomized to the combination arm reported grade 2 interstitial 
+lung disease while receiving osimertinib monotherapy (after discontinuing 
+durvalumab therapy after one dose). The objective response rates were 80% in the 
+osimertinib arm and 64% in the combination arm.
+CONCLUSION: Limited patient numbers preclude formal safety and efficacy 
+comparisons between the two treatment arms. The combination of programmed cell 
+death 1/programmed death ligand 1 inhibitors and EGFR-TKIs as therapy for NSCLC 
+is not well understood, but it requires a careful approach if considered in the 
+future.
+
+Copyright © 2019 International Association for the Study of Lung Cancer. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jtho.2019.02.001
+PMID: 30763730 [Indexed for MEDLINE]

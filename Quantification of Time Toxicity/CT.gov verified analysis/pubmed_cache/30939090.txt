@@ -1,0 +1,71 @@
+16. J Clin Oncol. 2019 Jul 20;37(21):1790-1799. doi: 10.1200/JCO.18.01994. Epub
+2019  Apr 2.
+
+Dose-Adjusted EPOCH-R Compared With R-CHOP as Frontline Therapy for Diffuse 
+Large B-Cell Lymphoma: Clinical Outcomes of the Phase III Intergroup Trial 
+Alliance/CALGB 50303.
+
+Bartlett NL(1), Wilson WH(2), Jung SH(3), Hsi ED(4), Maurer MJ(5), Pederson 
+LD(5), Polley MC(5), Pitcher BN(3), Cheson BD(6), Kahl BS(1), Friedberg JW(7), 
+Staudt LM(2), Wagner-Johnston ND(1), Blum KA(8), Abramson JS(9), Reddy NM(10), 
+Winter JN(11), Chang JE(12), Gopal AK(13), Chadburn A(14), Mathew S(14), Fisher 
+RI(15), Richards KL(16), Schöder H(17), Zelenetz AD(17), Leonard JP(14).
+
+Author information:
+(1)1 Washington University School of Medicine, St Louis, MO.
+(2)2 National Cancer Institute, National Institutes of Health, Bethesda, MD.
+(3)3 Duke University, Durham, NC.
+(4)4 Cleveland Clinic, Cleveland, OH.
+(5)5 Mayo Clinic, Rochester, MN.
+(6)6 MedStar Georgetown University Hospital, Washington, DC.
+(7)7 University of Rochester, Rochester, NY.
+(8)8 The Ohio State University Comprehensive Cancer Center, Columbus, OH.
+(9)9 Massachusetts General Hospital Cancer Center, Boston, MA.
+(10)10 Vanderbilt University Medical Center, Nashville, TN.
+(11)11 Northwestern University, Chicago, IL.
+(12)12 University of Wisconsin, Madison, WI.
+(13)13 Univeristy of Washington, Seattle, WA.
+(14)14 Cornell University Medical College, New York, NY.
+(15)15 Fox Chase Cancer Center, Philadelphia, PA.
+(16)16 University of North Carolina, Chapel Hill, NC.
+(17)17 Memorial Sloan Kettering Cancer Center, New York, NY.
+
+Comment in
+    J Clin Oncol. 2019 Nov 1;37(31):2953. doi: 10.1200/JCO.19.01617.
+    J Clin Oncol. 2019 Nov 1;37(31):2952. doi: 10.1200/JCO.19.01259.
+
+PURPOSE: Alliance/CALGB 50303 (NCT00118209), an intergroup, phase III study, 
+compared dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, 
+doxorubicin, and rituximab (DA-EPOCH-R) with standard rituximab, 
+cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) as frontline 
+therapy for diffuse large B-cell lymphoma.
+PATIENTS AND METHODS: Patients received six cycles of DA-EPOCH-R or R-CHOP. The 
+primary objective was progression-free survival (PFS); secondary clinical 
+objectives included response rate, overall survival (OS), and safety.
+RESULTS: Between 2005 and 2013, 524 patients were registered; 491 eligible 
+patients were included in the final analysis. Most patients (74%) had stage III 
+or IV disease; International Prognostic Index (IPI) risk groups included 26% IPI 
+0 to 1, 37% IPI 2, 25% IPI 3, and 12% IPI 4 to 5. At a median follow-up of 5 
+years, PFS was not statistically different between the arms (hazard ratio, 0.93; 
+95% CI, 0.68 to 1.27; P = .65), with a 2-year PFS rate of 78.9% (95% CI, 73.8% 
+to 84.2%) for DA-EPOCH-R and 75.5% (95% CI, 70.2% to 81.1%) for R-CHOP. OS was 
+not different (hazard ratio, 1.09; 95% CI, 0.75 to 1.59; P = .64), with a 2-year 
+OS rate of 86.5% (95% CI, 82.3% to 91%) for DA-EPOCH-R and 85.7% (95% CI, 81.4% 
+to 90.2%) for R-CHOP. Grade 3 and 4 adverse events were more common (P < .001) 
+in the DA-EPOCH-R arm than the R-CHOP arm, including infection (16.9% v 10.7%, 
+respectively), febrile neutropenia (35.0% v 17.7%, respectively), mucositis 
+(8.4% v 2.1%, respectively), and neuropathy (18.6% v 3.3%, respectively). Five 
+treatment-related deaths (2.1%) occurred in each arm.
+CONCLUSION: In the 50303 study population, the more intensive, infusional 
+DA-EPOCH-R was more toxic and did not improve PFS or OS compared with R-CHOP. 
+The more favorable results with R-CHOP compared with historical controls suggest 
+a potential patient selection bias and may preclude generalizability of results 
+to specific risk subgroups.
+
+DOI: 10.1200/JCO.18.01994
+PMCID: PMC6774813
+PMID: 30939090 [Indexed for MEDLINE]
+
+Conflict of interest statement: The content is solely the responsibility of the 
+authors and does not necessarily represent the official views of the National 
+Institutes of Health.

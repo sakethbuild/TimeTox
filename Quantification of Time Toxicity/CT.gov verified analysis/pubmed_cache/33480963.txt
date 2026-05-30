@@ -1,0 +1,192 @@
+10. JAMA Oncol. 2021 Apr 1;7(4):573-584. doi: 10.1001/jamaoncol.2020.7932.
+
+Efficacy of Margetuximab vs Trastuzumab in Patients With Pretreated 
+ERBB2-Positive Advanced Breast Cancer: A Phase 3 Randomized Clinical Trial.
+
+Rugo HS(1), Im SA(2), Cardoso F(3), Cortés J(4)(5), Curigliano G(6), Musolino 
+A(7), Pegram MD(8), Wright GS(9), Saura C(10), Escrivá-de-Romaní S(10), De 
+Laurentiis M(11), Levy C(12), Brown-Glaberman U(13), Ferrero JM(14), de Boer 
+M(15), Kim SB(16), Petráková K(17), Yardley DA(18), Freedman O(19), Jakobsen 
+EH(20), Kaufman B(21), Yerushalmi R(22), Fasching PA(23), Nordstrom JL(24), 
+Bonvini E(24), Koenig S(24), Edlich S(24), Hong S(24), Rock EP(24), Gradishar 
+WJ(25); SOPHIA Study Group.
+
+Author information:
+(1)University of California San Francisco Helen Diller Family Comprehensive 
+Cancer Center.
+(2)Seoul National University Hospital, Cancer Research Institute, Seoul National 
+University College of Medicine, Seoul, Korea.
+(3)Champalimaud Clinical Center/Champalimaud Foundation, Breast Unit, Lisbon, 
+Portugal.
+(4)IOB Institute of Oncology, Quironsalud Group, Madrid and Barcelona, Spain.
+(5)Vall d'Hebron Institute of Oncology (VHIO), Barcelona, Spain.
+(6)European Institute of Oncology, IRCCS, Division of Early Drug Development, 
+University of Milano, Milan, Italy.
+(7)Department of Medicine and Surgery, University of Parma, Medical Oncology and 
+Breast Unit, University Hospital of Parma, Parma, Italy.
+(8)Stanford Comprehensive Cancer Institute, Stanford University School of 
+Medicine, Stanford, California.
+(9)Florida Cancer Specialists & Research Institute, New Port Richey.
+(10)Vall d'Hebron University Hospital and Vall d'Hebron Institute of Oncology 
+(VHIO), Medical Oncology Service, Barcelona, Spain.
+(11)Department of Breast and Thoracic Oncology, Istituto Nazionale Tumori 
+"Fondazione Pascale", Naples, Italy.
+(12)Centre François Baclesse, Institut Normand du Sein, Caen, France.
+(13)Division of Hematology/Oncology, University of New Mexico Comprehensive 
+Cancer Center, Albuquerque.
+(14)Centre Antoine Lacassagne, Department of Medical Oncology, University Côte 
+d'Azur, Nice, France.
+(15)Maastricht University Medical Center, Division of Medical Oncology, 
+Department of Internal Medicine, GROW-School of Oncology and Developmental 
+Biology, Maastricht, the Netherlands.
+(16)Department of Oncology, Asan Medical Center, Seoul, Korea.
+(17)Department of Comprehensive Cancer Care, Masaryk Memorial Cancer Institute, 
+Brno, Czech Republic.
+(18)Sarah Cannon Research Institute, Tennessee Oncology PLLC, Nashville.
+(19)RS McLaughlin Durham Regional Cancer Centre, Lakeridge Health, Oshawa, 
+Ontario, Canada.
+(20)Department of Oncology, Vejle Hospital, Vejle, Denmark.
+(21)Chaim Sheba Medical Center, Breast Oncology Institute, Ramat Gan, Israel.
+(22)Davidoff Cancer Center, Rabin Medical Center, Beilinson Hospital, Petah 
+Tikva, Israel.
+(23)Erlangen University Hospital, Department of Gynecology and Obstetrics, 
+Comprehensive Cancer Center Erlangen-EMN, Department of Gynecology and 
+Obstetrics, Friedrich Alexander University of Erlangen-Nuremberg, Erlangen, 
+Germany.
+(24)MacroGenics, Inc, Rockville, Maryland.
+(25)Division of Hematology/Oncology, Northwestern University, Chicago, Illinois.
+
+IMPORTANCE: ERRB2 (formerly HER2)-positive advanced breast cancer (ABC) remains 
+typically incurable with optimal treatment undefined in later lines of therapy. 
+The chimeric antibody margetuximab shares ERBB2 specificity with trastuzumab but 
+incorporates an engineered Fc region to increase immune activation.
+OBJECTIVE: To compare the clinical efficacy of margetuximab vs trastuzumab, each 
+with chemotherapy, in patients with pretreated ERBB2-positive ABC.
+DESIGN, SETTING, AND PARTICIPANTS: The SOPHIA phase 3 randomized open-label 
+trial of margetuximab plus chemotherapy vs trastuzumab plus chemotherapy 
+enrolled 536 patients from August 26, 2015, to October 10, 2018, at 166 sites in 
+17 countries. Eligible patients had disease progression on 2 or more prior 
+anti-ERBB2 therapies and 1 to 3 lines of therapy for metastatic disease. Data 
+were analyzed from February 2019 to October 2019.
+INTERVENTIONS: Investigators selected chemotherapy before 1:1 randomization to 
+margetuximab, 15 mg/kg, or trastuzumab, 6 mg/kg (loading dose, 8 mg/kg), each in 
+3-week cycles. Stratification factors were metastatic sites (≤2, >2), lines of 
+therapy (≤2, >2), and chemotherapy choice.
+MAIN OUTCOMES AND MEASURES: Sequential primary end points were progression-free 
+survival (PFS) by central blinded analysis and overall survival (OS). All α was 
+allocated to PFS, followed by OS. Secondary end points were 
+investigator-assessed PFS and objective response rate by central blinded 
+analysis.
+RESULTS: A total of 536 patients were randomized to receive margetuximab 
+(n = 266) or trastuzumab (n = 270). The median age was 56 (27-86) years; 266 
+(100%) women were in the margetuximab group, while 267 (98.9%) women were in the 
+trastuzumab group. Groups were balanced. All but 1 patient had received prior 
+pertuzumab, and 489 (91.2%) had received prior ado-trastuzumab emtansine. 
+Margetuximab improved primary PFS over trastuzumab with 24% relative risk 
+reduction (hazard ratio [HR], 0.76; 95% CI, 0.59-0.98; P = .03; median, 5.8 [95% 
+CI, 5.5-7.0] months vs 4.9 [95% CI, 4.2-5.6] months; October 10, 2018). After 
+the second planned interim analysis of 270 deaths, median OS was 21.6 months 
+with margetuximab vs 19.8 months with trastuzumab (HR, 0.89; 95% CI, 0.69-1.13; 
+P = .33; September 10, 2019), and investigator-assessed PFS showed 29% relative 
+risk reduction favoring margetuximab (HR, 0.71; 95% CI, 0.58-0.86; P < .001; 
+median, 5.7 vs 4.4 months; September 10, 2019). Margetuximab improved objective 
+response rate over trastuzumab: 22% vs 16% (P = .06; October 10, 2018), and 25% 
+vs 14% (P < .001; September 10, 2019). Incidence of infusion-related reactions, 
+mostly in cycle 1, was higher with margetuximab (35 [13.3%] vs 9 [3.4%]); 
+otherwise, safety was comparable.
+CONCLUSIONS AND RELEVANCE: In this phase 3 randomized clinical trial, 
+margetuximab plus chemotherapy had acceptable safety and a statistically 
+significant improvement in PFS compared with trastuzumab plus chemotherapy in 
+ERBB2-positive ABC after progression on 2 or more prior anti-ERBB2 therapies. 
+Final OS analysis is expected in 2021.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02492711.
+
+DOI: 10.1001/jamaoncol.2020.7932
+PMCID: PMC7823434
+PMID: 33480963 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Rugo 
+reported receiving grants from MacroGenics during the conduct of the study; and 
+grants from Roche, Pfizer, Novartis, Lilly, Merck, Seattle Genetics, Odonate 
+Therapeutics, Eisai, Sermonix Pharmaceuticals, Immunomedics, and Daiichi Sankyo 
+and personal fees from Puma and Samsung outside the submitted work. Dr Im 
+reported receiving grants from Daewoong Pharmaceutical; grants and personal fees 
+from AstraZeneca, Pfizer, and Roche; and personal fees from Amgen, Eisai, Hanmi 
+Pharmaceutical, Novartis, Lilly, and Merck Sharp & Dohme outside the submitted 
+work. Dr Cardoso reported receiving personal fees from MacroGenics during the 
+conduct of the study; and personal fees from Amgen, Astellas/Medivation, 
+AstraZeneca, Celgene, Daiichi Sankyo, Eisai, GE Oncology, Genentech, 
+GlaxoSmithKline, MacroGenics, Medscape, Merck Sharp & Dohme, Merus BV, Mylan, 
+Mundipharma, Novartis, Pfizer, Pierre Fabre, prIME Oncology, Roche, Sanofi, 
+Samsung Bioepis, Seattle Genetics, and Teva outside the submitted work. Dr 
+Cortés reported receiving personal fees from Roche, Celgene, AstraZeneca, 
+Cellestia, Biothera Pharmaceuticals, Merus, Seattle Genetics, Daiichi Sankyo, 
+Erytech Pharma, Athenex, Polyphor, Lilly, Servier, Merck Sharp & Dohme, 
+GlaxoSmithKline, Leuko, Bioasis Technologies, Clovis Oncology, Boehringer 
+Ingelheim, Novartis, Eisai, Pfizer, and Samsung Bioepis; honoraria from Samsung 
+Bioepis, Pfizer, Eisai, Novartis, Roche, Celgene, Daiichi Sankyo, Lilly, Merck 
+Sharp & Dohme; serving on advisory boards for Boehringer Ingelheim, Clovis 
+Oncology, Bioasis, Leuko, GlaxoSmithKline, Merck Sharp & Dohme, Servier, Lilly, 
+Polyphor, Athenex, Erytech, Daiichi Sankyo, Seattle Genetics, Merus, Biothera, 
+Cellestia, AstraZeneca, Celgene, and Roche; and owning stock from MedSIR outside 
+the submitted work; and travel, accommodation, and expenses from Roche, 
+Novartis, Eisai, Pfizer, and Daiichi Sankyo. Dr Curigliano reported receiving 
+travel grants from Roche; serving on advisory boards for Pfizer, Seattle 
+Genetics, Novartis, AstraZeneca, Lilly, Merck Sharp & Dohme, Daichi Sankyo, 
+Genomic Health, and Ellipsis; and serving as a steering committee member for 
+Bristol Myers Squibb outside the submitted work. Dr Musolino reported receiving 
+personal fees from MacroGenics during the conduct of the study; and grants and 
+personal fees from Roche and Eisai and personal fees from Novartis and Lilly 
+outside the submitted work. Dr Pegram reported receiving personal fees from 
+MacroGenics and Roche during the conduct of the study. Dr Wright reported 
+receiving payment to Sarah Cannon Research Institute for conduct of clinical 
+trial from MacroGenics during the conduct of the study; and payment to Sarah 
+Cannon Research Institute for conduct of clinical trial from AbbVie, Incyte, 
+Genentech, Novartis, Lilly, Janssen, Astellas, Celgene, AstraZeneca, Bristol 
+Myers Squibb, Boehringer Ingelheim, G1 Therapeutics, Medivation, Merrimack, 
+Pfizer, Tesaro, and Odonate Therapeutics outside the submitted work. Dr Saura 
+reported receiving personal fees from AstraZeneca, Celgene, Daiichi Sankyo, 
+Eisai, F. Hoffmann-La Roche Ltd, Genomic Health, Merck, Sharp and Dohme España 
+SA, Novartis, Odonate Therapeutics, Pfizer, Philips HealthWork, Pierre Fabre, 
+prIME Oncology, Puma, Synthon, and Sanofi Aventis outside the submitted work. Dr 
+Escrivá-de-Romaní reported receiving grants from MacroGenics during the conduct 
+of the study; and grants from Synthon and Zymeworks; grants, personal fees, and 
+nonfinancial support from Roche; personal fees and nonfinancial support from 
+Pierre Fabre; personal fees from Eisai, Kyowa Kirin, and Esteve; and 
+nonfinancial support from Daiichi Sankyo outside the submitted work. Dr De 
+Laurentiis reported receiving grants from MacroGenics during the conduct of the 
+study; and grants from Daiichi Sankyo; grants and personal fees from Roche, 
+Novartis, Pfizer, Eli Lilly, Pierre Fabre, and AstraZeneca; personal fees from 
+Celgene, Eisai, Genomic Health, and Amgen outside the submitted work. Dr 
+Brown-Glaberman reported receiving personal fees from Novartis, Eisai, 
+Biotheranostics, and Seattle Genetics outside the submitted work. Dr de Boer 
+reported receiving grants from Parexel during the conduct of the study; and 
+grants from Novartis, Pfizer, and Eli Lilly and grants and personal fees from 
+Roche outside the submitted work. Dr Kim reported participation as a consultant 
+in advisory boards for Novartis, AstraZeneca, Lilly, Enzychem Lifesciences, Dae 
+Hwa Pharmaceutical Co Ltd, ISU Abxis, and Daiichi Sankyo and receiving research 
+funding (paid to institution) from Novartis, Sanofi-Aventis, and DongKook 
+Pharmaceutical Co Ltd outside the submitted work. Dr Petráková reported 
+receiving personal fees from Novartis, Roche, Merck Sharp & Dohme, and Pfizer 
+outside the submitted work. Dr Yardley reported a consultant/advisory role (paid 
+to institution) for Bristol Myers Squibb, Genentech/Roche, Eisai, 
+Biotheranostics, Daiichi Sankyo/Lilly, Celgene, Novartis, NanoString Technology, 
+and MacroGenics; research funding (paid to institution) from Daiichi Sankyo, 
+Clovis Oncology, AstraZeneca, Genentech/Roche, InventisBio, Syndax, Lilly, 
+MedImmune, Pfizer, Eisai, Novartis, Medivation, Tesaro, Immunomedics, AbbVie, 
+Merck, and Oncothyreon; and participation in speakers bureaus and 
+travel/accommodations/expenses for Novartis and Genentech/Roche outside the 
+submitted work. Dr Jakobsen reported receiving financial support from Cascadian 
+Therapeutics during the conduct of the study; and grants from Cascadian 
+Therapeutics and grants and personal fees from Roche, Novartis, Lilly, and 
+Pfizer outside the submitted work. Dr Kaufman reported receiving personal fees 
+from Pfizer and AstraZeneca outside the submitted work. Dr Fasching reported 
+receiving personal fees from MacroGenics during the conduct of the study; and 
+grants from Cepheid and personal fees from Novartis, Pfizer, Daiichi Sankyo, 
+AstraZeneca, Eisai, Merck Sharp & Dohme, Lilly, Pierre Fabre, and Seattle 
+Genetics outside the submitted work. Dr Bonvini reported receiving salary, 
+stocks, and stock options from MacroGenics as compensation as a condition of 
+employment. Dr Koenig is an employee of MacroGenics and reported holding a 
+patent to US20180298100 pending and a patent to US20160257761 pending. Drs 
+Nordstrom, Hong, and Rock and Mr Edlich are or were employees of MacroGenics. No 
+other disclosures were reported.

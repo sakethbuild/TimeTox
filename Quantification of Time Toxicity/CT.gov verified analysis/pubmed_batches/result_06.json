@@ -1,0 +1,624 @@
+[
+ {
+  "filename": "PMID 33667670 CT_Summary_SoE.pdf",
+  "pmid": "33667670",
+  "trial_design_summary": "Mirvetuximab soravtansine vs investigator's choice chemotherapy in platinum-resistant ovarian cancer",
+  "arms": [
+   {
+    "arm_name": "Arm 2 (Investigator's Choice - Paclitaxel)",
+    "designation": "control",
+    "evidence": "study FORWARD I compared MIRV and investigator's choice chemotherapy"
+   },
+   {
+    "arm_name": "Arm 1 (Mirvetuximab Soravtansine)",
+    "designation": "intervention",
+    "evidence": "study FORWARD I compared MIRV and investigator's choice chemotherapy"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33676601 CT_Summary_SoE.pdf",
+  "pmid": "33676601",
+  "trial_design_summary": "Pembrolizumab vs investigator-choice chemotherapy in metastatic triple-negative breast cancer",
+  "arms": [
+   {
+    "arm_name": "TPC Arm (Capecitabine)",
+    "designation": "control",
+    "evidence": "single-drug chemotherapy per investigator's choice of capecitabine, eribulin, gemcitabine, or vinorelbine"
+   },
+   {
+    "arm_name": "TPC Arm (Gemcitabine or Eribulin)",
+    "designation": "control",
+    "evidence": "single-drug chemotherapy per investigator's choice of capecitabine, eribulin, gemcitabine, or vinorelbine"
+   },
+   {
+    "arm_name": "TPC Arm (Vinorelbine)",
+    "designation": "control",
+    "evidence": "single-drug chemotherapy per investigator's choice of capecitabine, eribulin, gemcitabine, or vinorelbine"
+   },
+   {
+    "arm_name": "Pembrolizumab Arm",
+    "designation": "intervention",
+    "evidence": "we compared pembrolizumab with chemotherapy for second-line or third-line treatment"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33739848 a_Summary_SoE.pdf",
+  "pmid": "33739848",
+  "trial_design_summary": "Radiation alone vs radiation plus concurrent trastuzumab for HER2-positive DCIS",
+  "arms": [
+   {
+    "arm_name": "Group 1 (Radiation Therapy alone)",
+    "designation": "control",
+    "evidence": "assess the efficacy of RT alone vs concurrent RT plus T in preventing recurrence"
+   },
+   {
+    "arm_name": "Group 2 (Radiation Therapy + Trastuzumab)",
+    "designation": "intervention",
+    "evidence": "Addition of T to RT did not achieve the objective of 36% reduction in IBTR rate"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33821899a_Summary_SoE.pdf",
+  "pmid": "33821899",
+  "trial_design_summary": "Celecoxib vs placebo added to adjuvant FOLFOX in stage III colon cancer",
+  "arms": [
+   {
+    "arm_name": "Arm A (12 cycles FOLFOX + Placebo)",
+    "designation": "control",
+    "evidence": "addition of celecoxib for 3 years, compared with placebo, to standard adjuvant chemotherapy"
+   },
+   {
+    "arm_name": "Arm A (12 cycles of FOLFOX + placebo daily)",
+    "designation": "control",
+    "evidence": "addition of celecoxib for 3 years, compared with placebo, to standard adjuvant chemotherapy"
+   },
+   {
+    "arm_name": "Arm C (6 cycles FOLFOX + Placebo)",
+    "designation": "control",
+    "evidence": "addition of celecoxib for 3 years, compared with placebo, to standard adjuvant chemotherapy"
+   },
+   {
+    "arm_name": "Arm D (6 cycles FOLFOX + Celecoxib)",
+    "designation": "intervention",
+    "evidence": "addition of celecoxib to adjuvant chemotherapy with fluorouracil, leucovorin, and oxaliplatin (FOLFOX)"
+   },
+   {
+    "arm_name": "Arm B (12 cycles FOLFOX + Celecoxib)",
+    "designation": "intervention",
+    "evidence": "addition of celecoxib to adjuvant chemotherapy with fluorouracil, leucovorin, and oxaliplatin (FOLFOX)"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34051178a_Summary_SoE.pdf",
+  "pmid": "34051178",
+  "trial_design_summary": "Pembrolizumab alone or with chemotherapy vs chemotherapy alone in advanced urothelial carcinoma",
+  "arms": [
+   {
+    "arm_name": "Chemotherapy Alone",
+    "designation": "control",
+    "evidence": "pembrolizumab alone or combined with chemotherapy versus chemotherapy for patients with previously untreated advanced urothelial carcinoma"
+   },
+   {
+    "arm_name": "Pembrolizumab Monotherapy",
+    "designation": "intervention",
+    "evidence": "we assessed outcomes with first-line pembrolizumab alone or combined with chemotherapy versus chemotherapy"
+   },
+   {
+    "arm_name": "Pembrolizumab plus Chemotherapy",
+    "designation": "intervention",
+    "evidence": "pembrolizumab 200 mg every 3 weeks for a maximum of 35 cycles plus intravenous chemotherapy"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34092112 a_Summary_SoE.pdf",
+  "pmid": "34092112",
+  "trial_design_summary": "Platinum-based chemotherapy vs capecitabine in residual triple-negative breast cancer after neoadjuvant therapy",
+  "arms": [
+   {
+    "arm_name": "Arm A (Observation)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm B (Platinum-based chemotherapy)",
+    "designation": "intervention",
+    "evidence": "iDFS would not be inferior but improved in patients with basal subtype TNBC treated with adjuvant platinum compared with capecitabine"
+   },
+   {
+    "arm_name": "Arm C (Capecitabine)",
+    "designation": "control",
+    "evidence": "high-risk for recurrence, which is reduced by adjuvant capecitabine"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34102137 a_Summary_SoE.pdf",
+  "pmid": "34102137",
+  "trial_design_summary": "First-line nivolumab plus chemotherapy vs chemotherapy alone for advanced gastric/GEJ/oesophageal adenocarcinoma",
+  "arms": [
+   {
+    "arm_name": "XELOX alone",
+    "designation": "control",
+    "evidence": "nivolumab plus chemotherapy versus chemotherapy alone"
+   },
+   {
+    "arm_name": "FOLFOX alone",
+    "designation": "control",
+    "evidence": "nivolumab plus chemotherapy versus chemotherapy alone"
+   },
+   {
+    "arm_name": "Nivolumab + XELOX",
+    "designation": "intervention",
+    "evidence": "nivolumab ... plus chemotherapy (capecitabine and oxaliplatin every 3 weeks or leucovorin, fluorouracil, and oxaliplatin)"
+   },
+   {
+    "arm_name": "Nivolumab + FOLFOX",
+    "designation": "intervention",
+    "evidence": "nivolumab ... plus chemotherapy (capecitabine and oxaliplatin every 3 weeks or leucovorin, fluorouracil, and oxaliplatin)"
+   },
+   {
+    "arm_name": "Nivolumab + FOLFOX",
+    "designation": "intervention",
+    "evidence": "nivolumab ... plus chemotherapy (capecitabine and oxaliplatin every 3 weeks or leucovorin, fluorouracil, and oxaliplatin)"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34110925 a_Summary_SoE.pdf",
+  "pmid": "34110925",
+  "trial_design_summary": "Standard-dose/volume vs reduced-dose/volume craniospinal radiotherapy in average-risk medulloblastoma",
+  "arms": [
+   {
+    "arm_name": "Arm A (Standard-dose CSRT 23.40 Gy + Standard Volume Boost)",
+    "designation": "control",
+    "evidence": "Efforts to mitigate these effects include deintensification of craniospinal irradiation (CSI) dose and volume"
+   },
+   {
+    "arm_name": "Arm B (Reduced-dose CSRT 18.00 Gy + Limited Target Volume Boost)",
+    "designation": "intervention",
+    "evidence": "Reducing CSI dose in young children with average-risk MB results in inferior outcomes"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34133211 a_Summary_SoE.pdf",
+  "pmid": "34133211",
+  "trial_design_summary": "Neoadjuvant DOS plus surgery and adjuvant S-1 vs surgery and adjuvant S-1 in resectable gastric cancer",
+  "arms": [
+   {
+    "arm_name": "Arm 2 (SC Arm: Surgery + Chemotherapy)",
+    "designation": "control",
+    "evidence": "D2 surgery followed by adjuvant S-1 ... SC group ... versus standard treatment"
+   },
+   {
+    "arm_name": "Arm 1 (CSC Arm: Chemotherapy + Surgery + Chemotherapy)",
+    "designation": "intervention",
+    "evidence": "whether neoadjuvant docetaxel, oxaliplatin, and S-1 (DOS) followed by surgery and adjuvant S-1 could improve outcomes versus standard treatment"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34134469 CT_Summary_SoE.pdf",
+  "pmid": "34134469",
+  "trial_design_summary": "Prolonged subcutaneous rituximab maintenance vs observation in relapsed/refractory indolent NHL",
+  "arms": [
+   {
+    "arm_name": "Arm B (Observation)",
+    "designation": "control",
+    "evidence": "randomized to extended maintenance with subcutaneous rituximab (n=138) or observation only (n=138)"
+   },
+   {
+    "arm_name": "Arm A (Prolonged SC Rituximab Maintenance)",
+    "designation": "intervention",
+    "evidence": "whether further prolonged maintenance with rituximab provides additional benefit"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34143970 CT_Summary_SoE.pdf",
+  "pmid": "34143970",
+  "trial_design_summary": "Avelumab alone or with PLD vs PLD alone in platinum-resistant/refractory ovarian cancer",
+  "arms": [
+   {
+    "arm_name": "Arm C (PLD alone)",
+    "designation": "control",
+    "evidence": "objective to show whether avelumab alone or avelumab plus PLD is superior to PLD"
+   },
+   {
+    "arm_name": "Arm A (avelumab alone)",
+    "designation": "intervention",
+    "evidence": "objective to show whether avelumab alone or avelumab plus PLD is superior to PLD"
+   },
+   {
+    "arm_name": "Arm B (avelumab plus PLD)",
+    "designation": "intervention",
+    "evidence": "objective to show whether avelumab alone or avelumab plus PLD is superior to PLD"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34170389 CT_Summary_SoE.pdf",
+  "pmid": "34170389",
+  "trial_design_summary": "Pharmacodynamic comparison of two pegaspargase doses (2500 vs 3500 IU/m2) in childhood ALL",
+  "arms": [
+   {
+    "arm_name": "Arm B (Conventional Dose PEG-asparaginase, Standard/High-Risk)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm A (Higher Dose PEG-asparaginase, Standard/High-Risk)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Low-Risk (LR)",
+    "designation": "unresolved",
+    "evidence": ""
+   }
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 34219000 a_Summary_SoE.pdf",
+  "pmid": "34219000",
+  "trial_design_summary": "First-line paclitaxel with or without atezolizumab in advanced triple-negative breast cancer",
+  "arms": [
+   {
+    "arm_name": "Arm B (Placebo + Paclitaxel)",
+    "designation": "control",
+    "evidence": "randomised 2:1 to atezolizumab 840 mg or placebo (days 1, 15), both with paclitaxel"
+   },
+   {
+    "arm_name": "Arm A (Atezolizumab + Paclitaxel)",
+    "designation": "intervention",
+    "evidence": "adding atezolizumab to paclitaxel did not improve investigator-assessed PFS"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34320285 a_Summary_SoE.pdf",
+  "pmid": "34320285",
+  "trial_design_summary": "Duration of adjuvant anastrozole (2 vs 5 years) in postmenopausal breast cancer (abstract body not provided)",
+  "arms": [
+   {
+    "arm_name": "Arm B (Anastrozole 5 years)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm A (Anastrozole 2 years)",
+    "designation": "unresolved",
+    "evidence": ""
+   }
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 34363762 CT_Summary_SoE.pdf",
+  "pmid": "34363762",
+  "trial_design_summary": "Chemotherapy with or without avelumab followed by avelumab maintenance vs chemotherapy alone in untreated ovarian cancer",
+  "arms": [
+   {
+    "arm_name": "Arm A (Chemotherapy alone followed by observation)",
+    "designation": "control",
+    "evidence": "chemotherapy followed by observation (control group)"
+   },
+   {
+    "arm_name": "Arm B (Chemotherapy alone followed by avelumab maintenance)",
+    "designation": "intervention",
+    "evidence": "chemotherapy (six cycles ...) followed by avelumab maintenance ... avelumab maintenance group"
+   },
+   {
+    "arm_name": "Arm C (Avelumab in combination with chemotherapy followed by avelumab maintenance)",
+    "designation": "intervention",
+    "evidence": "chemotherapy plus avelumab ... followed by avelumab maintenance (avelumab combination group)"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34383006 a_Summary_SoE.pdf",
+  "pmid": "34383006",
+  "trial_design_summary": "Accelerated hypofractionated image-guided radiotherapy vs conventional radiotherapy in stage II/III NSCLC",
+  "arms": [
+   {
+    "arm_name": "Arm B (Conventional radiation)",
+    "designation": "control",
+    "evidence": "traditionally relegated to receiving only conventionally fractionated radiotherapy (CFRT)"
+   },
+   {
+    "arm_name": "Arm A (Accelerated hypofractionated IGRT)",
+    "designation": "intervention",
+    "evidence": "whether hypofractionated image-guided radiotherapy (IGRT) would improve overall survival"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34652968 a_Summary_SoE.pdf",
+  "pmid": "34652968",
+  "trial_design_summary": "Standard five-drug chemotherapy vs addition of vincristine-topotecan-cyclophosphamide in nonmetastatic Ewing sarcoma",
+  "arms": [
+   {
+    "arm_name": "Regimen A (VDC1200/IE)",
+    "designation": "control",
+    "evidence": "randomly assigned to receive standard five-drug interval compressed chemotherapy (regimen A)"
+   },
+   {
+    "arm_name": "Regimen B (VTC250/IE/VDC1200)",
+    "designation": "intervention",
+    "evidence": "experimental therapy with five cycles of VTC within the 17 cycles (regimen B)"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34855460 a_Summary_SoE.pdf",
+  "pmid": "34855460",
+  "trial_design_summary": "CD34-selected PBSC or post-transplant cyclophosphamide vs tacrolimus/methotrexate for GVHD prophylaxis",
+  "arms": [
+   {
+    "arm_name": "Arm C (Control - BM/Tac/Mtx)",
+    "designation": "control",
+    "evidence": "tacrolimus and methotrexate after BM graft (control)"
+   },
+   {
+    "arm_name": "Arm A (CD34 Selected PBSC)",
+    "designation": "intervention",
+    "evidence": "CNI-free approaches using donor T-cell depletion, either by ex vivo CD34 selection"
+   },
+   {
+    "arm_name": "Arm B (BM/PTCy)",
+    "designation": "intervention",
+    "evidence": "in vivo post-transplant cyclophosphamide (PTCy) as a single agent, are associated with lower rates of chronic GVHD"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34882169 a_Summary_SoE.pdf",
+  "pmid": "34882169",
+  "trial_design_summary": "Armodafinil (150 mg or 250 mg) vs placebo for cancer-related fatigue in high-grade glioma",
+  "arms": [
+   {
+    "arm_name": "Placebo",
+    "designation": "control",
+    "evidence": "randomized to receive armodafinil daily (150 mg or 250 mg) or placebo over 8 weeks"
+   },
+   {
+    "arm_name": "Armodafinil 150mg",
+    "designation": "intervention",
+    "evidence": "To determine whether armodafinil reduces fatigue in patients with HGG"
+   },
+   {
+    "arm_name": "Armodafinil 250mg",
+    "designation": "intervention",
+    "evidence": "To determine whether armodafinil reduces fatigue in patients with HGG"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34890060 CT_Summary_SoE.pdf",
+  "pmid": "34890060",
+  "trial_design_summary": "Previsit and/or within-visit decision aids vs usual care for localized prostate cancer",
+  "arms": [
+   {
+    "arm_name": "Arm D (Usual Care)",
+    "designation": "control",
+    "evidence": "4 sites provided usual care (50 patients)"
+   },
+   {
+    "arm_name": "Arm A (Pre- and During-consultation Decision Aids)",
+    "designation": "intervention",
+    "evidence": "test the effectiveness of within-visit and previsit DAs for localized prostate cancer"
+   },
+   {
+    "arm_name": "Arm B (Pre-consultation Decision Aid only)",
+    "designation": "intervention",
+    "evidence": "test the effectiveness of within-visit and previsit DAs for localized prostate cancer"
+   },
+   {
+    "arm_name": "Arm C (During-consultation Decision Aid only)",
+    "designation": "intervention",
+    "evidence": "test the effectiveness of within-visit and previsit DAs for localized prostate cancer"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34914339 a_Summary_SoE.pdf",
+  "pmid": "34914339",
+  "trial_design_summary": "Endocrine therapy alone vs chemoendocrine therapy in node-positive breast cancer with recurrence score <=25",
+  "arms": [
+   {
+    "arm_name": "Arm 2 (Endocrine Therapy alone)",
+    "designation": "control",
+    "evidence": "randomly assigned women ... to endocrine therapy only or to chemotherapy plus endocrine (chemoendocrine) therapy"
+   },
+   {
+    "arm_name": "Arm 1 (Chemotherapy plus Endocrine Therapy)",
+    "designation": "intervention",
+    "evidence": "to determine the effect of chemotherapy on invasive disease-free survival"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 34997889 CT_Summary_SoE.pdf",
+  "pmid": "34997889",
+  "trial_design_summary": "CarbEV vs CycEV chemotherapy for high-risk choroid plexus tumors (no established standard)",
+  "arms": [
+   {
+    "arm_name": "Carboplatin Arm (Carboplatin, Etoposide, Vincristine)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Cyclophosphamide Arm (Cyclophosphamide, Etoposide, Vincristine)",
+    "designation": "unresolved",
+    "evidence": ""
+   }
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 35007153 a_Summary_SoE.pdf",
+  "pmid": "35007153",
+  "trial_design_summary": "Paclitaxel/carboplatin tested for noninferiority vs active comparator paclitaxel/ifosfamide in carcinosarcoma",
+  "arms": [
+   {
+    "arm_name": "Regimen II (Ifosfamide, Mesna, and Paclitaxel)",
+    "designation": "control",
+    "evidence": "PC was not inferior to the active regimen PI and should be standard treatment for UCS"
+   },
+   {
+    "arm_name": "Regimen I (Paclitaxel plus Carboplatin)",
+    "designation": "intervention",
+    "evidence": "tested the null hypothesis that paclitaxel and carboplatin (PC) is inferior to paclitaxel and ifosfamide (PI)"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 35030011 a_Summary_SoE.pdf",
+  "pmid": "35030011",
+  "trial_design_summary": "Spartalizumab plus dabrafenib/trametinib vs placebo plus dabrafenib/trametinib in BRAF V600 melanoma",
+  "arms": [
+   {
+    "arm_name": "Arm 2 (Placebo + Dabrafenib + Trametinib)",
+    "designation": "control",
+    "evidence": "versus placebo plus dabrafenib and trametinib (placebo-DabTram)"
+   },
+   {
+    "arm_name": "Arm 1 (PDR001 + Dabrafenib + Trametinib)",
+    "designation": "intervention",
+    "evidence": "evaluating spartalizumab, an anti-programmed death receptor 1 antibody, in combination with dabrafenib and trametinib"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 35038433 CT_Summary_SoE.pdf",
+  "pmid": "35038433",
+  "trial_design_summary": "Trastuzumab added to trimodality chemoradiotherapy plus surgery vs chemoradiotherapy plus surgery in HER2-positive oesophageal adenocarcinoma",
+  "arms": [
+   {
+    "arm_name": "Arm 2 (Chemoradiation + Surgery)",
+    "designation": "control",
+    "evidence": "chemoradiotherapy followed by surgery, with or without intravenous trastuzumab"
+   },
+   {
+    "arm_name": "Arm 1 (Trastuzumab + Chemoradiation + Surgery + Maintenance Trastuzumab)",
+    "designation": "intervention",
+    "evidence": "whether trastuzumab improves disease-free survival when combined with trimodality treatment"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 35213496 CT_Summary_SoE.pdf",
+  "pmid": "35213496",
+  "trial_design_summary": "Deep vs moderate neuromuscular block during laparoscopic gastrectomy in obese gastric cancer patients",
+  "arms": [
+   {
+    "arm_name": "Group MB (Moderate Neuromuscular block)",
+    "designation": "control",
+    "evidence": "randomized 1:1 ratio to the deep or moderate NMB groups"
+   },
+   {
+    "arm_name": "Group DB (Deep Neuromuscular block)",
+    "designation": "intervention",
+    "evidence": "whether deep NMB improves the oncologic quality of laparoscopic cancer surgery in obese patients"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 35290101 a_Summary_SoE.pdf",
+  "pmid": "35290101",
+  "trial_design_summary": "Olaparib or olaparib/cediranib vs standard platinum-based chemotherapy in recurrent platinum-sensitive ovarian cancer",
+  "arms": [
+   {
+    "arm_name": "Arm I (Standard platinum-based chemotherapy)",
+    "designation": "control",
+    "evidence": "Platinum-based chemotherapy is the standard of care for platinum-sensitive ovarian cancer"
+   },
+   {
+    "arm_name": "Arm II (Single-agent olaparib)",
+    "designation": "intervention",
+    "evidence": "assessed the activity of two all-oral nonplatinum alternatives, olaparib or olaparib/cediranib, versus platinum-based chemotherapy"
+   },
+   {
+    "arm_name": "Arm III (Combination of olaparib and cediranib)",
+    "designation": "intervention",
+    "evidence": "assessed the activity of two all-oral nonplatinum alternatives, olaparib or olaparib/cediranib, versus platinum-based chemotherapy"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 35403841 a_Summary_SoE.pdf",
+  "pmid": "35403841",
+  "trial_design_summary": "Neoadjuvant nivolumab plus platinum-doublet chemotherapy vs chemotherapy alone in resectable NSCLC",
+  "arms": [
+   {
+    "arm_name": "Arm B (Platinum-Doublet Chemotherapy)",
+    "designation": "control",
+    "evidence": "nivolumab plus platinum-based chemotherapy or platinum-based chemotherapy alone, followed by resection"
+   },
+   {
+    "arm_name": "Arm A (Nivolumab plus Ipilimumab)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm C (Nivolumab plus Platinum-Doublet Chemotherapy)",
+    "designation": "intervention",
+    "evidence": "neoadjuvant nivolumab plus chemotherapy resulted in significantly longer event-free survival"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 35569466 CT_Summary_SoE.pdf",
+  "pmid": "35569466",
+  "trial_design_summary": "Salvage prostate bed radiotherapy alone vs adding short-term ADT, vs adding ADT plus pelvic lymph node radiotherapy",
+  "arms": [
+   {
+    "arm_name": "Arm 1 (Prostate Bed Radiotherapy alone)",
+    "designation": "control",
+    "evidence": "whether incremental gains ... can be achieved by adding either 4-6 months of short-term androgen deprivation therapy (ADT) to PBRT"
+   },
+   {
+    "arm_name": "Arm 2 (Prostate Bed Radiotherapy + NC-STAD)",
+    "designation": "intervention",
+    "evidence": "PBRT plus short-term ADT (group 2)"
+   },
+   {
+    "arm_name": "Arm 3 (Pelvic Lymph Node Radiotherapy + PBRT + NC-STAD)",
+    "designation": "intervention",
+    "evidence": "PLNRT ... plus PBRT plus short-term ADT (group 3)"
+   }
+  ],
+  "abstract_states_roles": true
+ }
+]

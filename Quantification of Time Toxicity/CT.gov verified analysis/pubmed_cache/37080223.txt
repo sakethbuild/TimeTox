@@ -1,0 +1,163 @@
+18. Lancet Oncol. 2023 May;24(5):468-482. doi: 10.1016/S1470-2045(23)00147-X.
+Epub  2023 Apr 17.
+
+Adjuvant chemotherapy following chemoradiotherapy as primary treatment for 
+locally advanced cervical cancer versus chemoradiotherapy alone (OUTBACK): an 
+international, open-label, randomised, phase 3 trial.
+
+Mileshkin LR(1), Moore KN(2), Barnes EH(3), Gebski V(3), Narayan K(4), King 
+MT(5), Bradshaw N(3), Lee YC(3), Diamante K(3), Fyles AW(6), Small W Jr(7), 
+Gaffney DK(8), Khaw P(4), Brooks S(9), Thompson JS(2), Huh WK(10), Mathews 
+CA(11), Buck M(12), Suder A(13), Lad TE(14), Barani IJ(15), Holschneider CH(16), 
+Van Dyk S(4), Quinn M(17), Rischin D(18), Monk BJ(19), Stockler MR(3).
+
+Author information:
+(1)Department of Medical Oncology, Peter MacCallum Cancer Centre and University 
+of Melbourne, Melbourne, VIC, Australia. Electronic address: 
+linda.mileshkin@petermac.org.
+(2)Stephenson Cancer Center at the University of Oklahoma, Oklahoma City, OK, 
+USA.
+(3)National Health and Medical Research Council Clinical Trials Centre, 
+University of Sydney, Sydney, NSW, Australia.
+(4)Department of Radiation Oncology, Peter MacCallum Cancer Centre and 
+University of Melbourne, Melbourne, VIC, Australia.
+(5)School of Psychology, University of Sydney, Sydney, NSW, Australia.
+(6)National Cancer Institute of Canada Clinical Trial Group, Radiation Medicine 
+Program, Princess Margaret Cancer Centre, Toronto, ON, Canada.
+(7)Department of Radiation Oncology, Stritch School of Medicine, Cardinal 
+Bernadin Cancer Center, Loyola University Chicago, Maywood, IL, USA.
+(8)Department of Radiation Oncology, Huntsman Cancer Institute at the University 
+of Utah, Salt Lake City, UT, USA.
+(9)Department of Medical Oncology, Auckland City Hospital, Auckland, New 
+Zealand.
+(10)University of Alabama at Birmingham, Birmingham, AL, USA.
+(11)Program in Women's Oncology, Department of Obstetrics and Gynecology, Women 
+and Infants Hospital, Brown University, Providence, RI, USA.
+(12)Department of Medical Oncology, Sir Charles Gairdner Hospital, Perth, WA, 
+Australia.
+(13)Department of Medical Oncology, Royal Brisbane and Women's Hospital, 
+Brisbane, QLD, Australia.
+(14)Division of Hematology-Oncology, Cook County Hospital, Chicago, IL, USA.
+(15)Department of Radiation Oncology, St Joseph's Hospital and Medical Centre, 
+Phoenix, AZ, USA.
+(16)Division of Gynecologic Oncology, University of California, Los Angeles, Los 
+Angeles, CA, USA.
+(17)Oncology Unit, Royal Women's Hospital and University of Melbourne, 
+Melbourne, VIC, Australia.
+(18)Department of Medical Oncology, Peter MacCallum Cancer Centre and University 
+of Melbourne, Melbourne, VIC, Australia.
+(19)Division of Gynecologic Oncology, HonorHealth Research Institute, University 
+of Arizona, Creighton University, Phoenix, AZ, USA.
+
+Comment in
+    Lancet Oncol. 2023 Jul;24(7):e289. doi: 10.1016/S1470-2045(23)00270-X.
+
+BACKGROUND: Standard treatment for locally advanced cervical cancer is 
+chemoradiotherapy, but many patients relapse and die of metastatic disease. We 
+aimed to determine the effects on survival of adjuvant chemotherapy after 
+chemoradiotherapy.
+METHODS: The OUTBACK trial was a multicentre, open-label, randomised, phase 3 
+trial done in 157 hospitals in Australia, China, Canada, New Zealand, Saudi 
+Arabia, Singapore, and the USA. Eligible participants were aged 18 year or older 
+with histologically confirmed squamous cell carcinoma, adenosquamous cell 
+carcinoma, or adenocarcinoma of the cervix (FIGO 2008 stage IB1 disease with 
+nodal involvement, or stage IB2, II, IIIB, or IVA disease), Eastern Cooperative 
+Oncology Group performance status 0-2, and adequate bone marrow and organ 
+function. Participants were randomly assigned centrally (1:1) using a 
+minimisation approach and stratified by pelvic or common iliac nodal 
+involvement, requirement for extended-field radiotherapy, FIGO 2008 stage, age, 
+and site to receive standard cisplatin-based chemoradiotherapy (40 mg/m2 
+cisplatin intravenously once-a-week for 5 weeks, during radiotherapy with 
+45·0-50·4 Gy external beam radiotherapy delivered in fractions of 1·8 Gy to the 
+whole pelvis plus brachytherapy; chemoradiotherapy only group) or standard 
+cisplatin-based chemoradiotherapy followed by adjuvant chemotherapy with four 
+cycles of carboplatin (area under the receiver operator curve 5) and paclitaxel 
+(155 mg/m2) given intravenously on day 1 of a 21 day cycle (adjuvant 
+chemotherapy group). The primary endpoint was overall survival at 5 years, 
+analysed in the intention-to-treat population (ie, all eligible patients who 
+were randomly assigned). Safety was assessed in all patients in the 
+chemoradiotherapy only group who started chemoradiotherapy and all patients in 
+the adjuvant chemotherapy group who received at least one dose of adjuvant 
+chemotherapy. The OUTBACK trial is registered with ClinicalTrials.gov, 
+NCT01414608, and the Australia New Zealand Clinical Trial Registry, 
+ACTRN12610000732088.
+FINDINGS: Between April 15, 2011, and June 26, 2017, 926 patients were enrolled 
+and randomly assigned to the chemoradiotherapy only group (n=461) or the 
+adjuvant chemotherapy group (n=465), of whom 919 were eligible (456 in the 
+chemoradiotherapy only group and 463 in the adjuvant chemotherapy group; median 
+age 46 years [IQR 37 to 55]; 663 [72%] were White, 121 [13%] were Black or 
+African American, 53 [6%] were Asian, 24 [3%] were Aboriginal or Pacific 
+islander, and 57 [6%] were other races) and included in the analysis. As of data 
+cutoff (April 12, 2021), median follow-up was 60 months (IQR 45 to 65). 5-year 
+overall survival was 72% (95% CI 67 to 76) in the adjuvant chemotherapy group 
+(105 deaths) and 71% (66 to 75) in the chemoradiotherapy only group (116 deaths; 
+difference 1% [95% CI -6 to 7]; hazard ratio 0·90 [95% CI 0·70 to 1·17]; 
+p=0·81). In the safety population, the most common clinically significant grade 
+3-4 adverse events were decreased neutrophils (71 [20%] in the adjuvant 
+chemotherapy group vs 34 [8%] in the chemoradiotherapy only group), and anaemia 
+(66 [18%] vs 34 [8%]). Serious adverse events occurred in 107 (30%) in the 
+adjuvant chemotherapy group versus 98 (22%) in the chemoradiotherapy only group, 
+most commonly due to infectious complications. There were no treatment-related 
+deaths.
+INTERPRETATION: Adjuvant carboplatin and paclitaxel chemotherapy given after 
+standard cisplatin-based chemoradiotherapy for unselected locally advanced 
+cervical cancer increased short-term toxicity and did not improve overall 
+survival; therefore, it should not be given in this setting.
+FUNDING: National Health and Medical Research Council and National Cancer 
+Institute.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(23)00147-X
+PMCID: PMC11075114
+PMID: 37080223 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests LRM reports grant from 
+National Health and Medical Research Council (NHMRC) Australia for support for 
+the present manuscript. KNM reports research funding to institution outside of 
+submitted work from PTC Therapeutics, Lilly, Merck, and GSK/Tesaro; 
+participation on an Advisory Board for AstraZeneca, Aravive, Alkemeres, Addi, 
+Blueprint Medicines, Eisai, EMD Serono, Elevar Therapeutics, GSK/Tesaro, 
+Genentench/Roche, Hengrui, Immunogen, INXmed, IMab, Lilly, Mereo, Mersana 
+Therapeutics, Merck, Myriad, Novartis, Novocure, OncXerna, Onconova 
+Therapeutics, Tarveda Therapeutics, VBL Therapeutics, and Verastem Oncology; and 
+leadership role as Associate Director of Gynecological Oncology Group Partners 
+and on the Board of Directors for GOG Foundation. WSJ reports honoraria for 
+invited talks from Carl Zeiss; payments made for participation on a data and 
+safety monitoring board from Novocure; and Co-Chair of Gynaecological Committee 
+until June 2020 with NRG Oncology. DKG reports grants and contracts from Elekta; 
+payment or honoraria from ANZGOG, payment for expert testimony from in a Montana 
+court case, participating on a DSMB or Advisory Board for Merck; and leadership 
+role in NRG Oncology as Co-Chair of the Gyn Committee. PK reports funding 
+outside of this submitted work from ANZGOG Fund for New Research and Medical 
+Research Future Fund Reproductive Cancers Grant; is the Deputy Chair of 
+Treatment Pillar for the National Cervical Cancer Elimination Strategy; is on 
+the Board Director for ANZGOG and AMA Victoria. WKH reports consulting fee 
+payments from AstraZeneca and SeaGen and payment for participation on a DSMB 
+from Syneos and Inovio. CAM reports support for the present manuscript from 
+National Cancer Institute, and funding to their institution from Syros, 
+Deciphera, Astellas Pharma GlaxoSmithKline/Tesaro, Seagen, Genmab, EMD Serono, 
+Merck, Regeneron, Moderna, Astra Zeneca, and Genentech, outside of the submitted 
+work. TEL reports support for the present manuscript from the National Cancer 
+Institute Community Research Program and support for attending meetings and 
+travel from SHCC MU NCORP Grant. CHH reports support for the present manuscript 
+from GOG and NRG, and leadership role in the Executive Board, Western 
+Association of Gynecologic Oncology, and the 2023 Program Committee Chair, 
+Western Association of Gynecologic Oncology. MQ reports personal payment as 
+Chair of an independent data and safety monitoring committee for the Garnet 
+Study and Tesaro Study from GSK, and Chair of DSMB for the COMPASS Study. DR 
+reports trial funding all to institution outside of submitted work from MSD, 
+GSK, Regeneron, Roche, Bristol Myers Squibb, Kura, ALX Oncology and 
+participation on a DSMB for MSD, Regeneron, Sanofi. BJM reports consulting fees 
+from Acrivon, Adaptimune, Agenus, Akeso Bio, Amgen, Aravive, AstraZeneca, Bayer, 
+Clovis, Easai, Elevar, EMD Merck, Genmab/Seagen, GOG Foundation, Gradalis, Heng 
+Rui, ImmunoGen, Karyopharm, Iovance, Laekna, Macrogenics, Merck, Mersana, 
+Myriad, Novartis, Novocure, OncoC4, Panavance, Pieris, Pfizer, Puma, Regeneron, 
+Roche/Genentech, Sorrento, TESARO/GSK, US Oncology Research, and VBL 
+Therapeutics, Verastem, Zentalis and payment or honoraria from AstraZeneca, 
+Merck, Myriad, TESARO/GSK, Roche/Genentech, Clovis, and Easai. MRS reports grant 
+to institution from NHMRC Australia for support for the present manuscript, and 
+grants to their institution from Amgen, Astellas, AstraZeneca, Bayer, BeiGene, 
+Bristol Myers Squibb, Celgene, Medivation, Merck Sharp & Dohme, Novartis, 
+Pfizer, Roche, Sanofi, and Tilray. All other authors declare no competing 
+interests.

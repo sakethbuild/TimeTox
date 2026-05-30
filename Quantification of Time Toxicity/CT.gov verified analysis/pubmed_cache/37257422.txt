@@ -1,0 +1,98 @@
+1. Ophthalmic Res. 2023;66(1):1030-1043. doi: 10.1159/000531142. Epub 2023 May
+31.
+
+A Phase 3b Study for Management of Ocular Side Effects in Patients with 
+Epidermal Growth Factor Receptor-Amplified Glioblastoma Receiving Depatuxizumab 
+Mafodotin.
+
+Vize CJ(1), Kim SK(2), Matthews T(3), Macsai M(4), Merrell R(5), Hsu S(6), Kundu 
+MG(7), Yoon J(7), Kennedy E(7), Pai M(7), Bain E(7), Lassman AB(8), Moazami 
+G(9).
+
+Author information:
+(1)Department of Ophthalmology, Hull University Teaching Hospitals NHS Trust, 
+Hull, UK.
+(2)Department of Ophthalmology and Visual Science, University of Texas McGovern 
+Medical School, Houston, Texas, USA.
+(3)Birmingham Neuro-Ophthalmology Unit, Queen Elizabeth Hospital, University 
+Hospitals Birmingham NHS Foundation Trust, Birmingham, UK.
+(4)Northshore University Health System, Glenview, Illinois, USA.
+(5)NorthShore University Health System, Evanston, Illinois, USA.
+(6)The Vivian L. Smith Department of Neurosurgery, University of Texas McGovern 
+Medical School, Houston, Texas, USA.
+(7)AbbVie, North Chicago, Illinois, USA.
+(8)Division of Neuro-Oncology, Department of Neurology and the Herbert Irving 
+Comprehensive Cancer Center, Columbia University Vagelos College of Physicians 
+and Surgeons and New York-Presbyterian, New York, New York, USA.
+(9)Department of Ophthalmology, Columbia University Irving Medical Center, New 
+York, NY, USA.
+
+INTRODUCTION: The Understanding New Interventions with GBM ThErapy (UNITE) study 
+was designed to assess the effect of prophylaxis for ocular side effects (OSEs) 
+in patients with glioblastoma receiving the antibody-drug conjugate (ADC) 
+depatuxizumab mafodotin. UNITE (NCT03419403) was a phase 3b, open-label, 
+randomized, exploratory study performed at 18 research sites in 5 countries.
+METHODS: The study enrolled adult patients with epidermal growth factor 
+receptor-amplified, histologically confirmed, newly diagnosed supratentorial 
+glioblastoma or grade IV gliosarcoma, and a Karnofsky Performance Status ≥70, 
+receiving depatuxizumab mafodotin. All patients were administered depatuxizumab 
+mafodotin during concurrent radiotherapy and temozolomide and with adjuvant 
+temozolomide. Ninety patients were to be randomized (1:1:1) to OSE prophylactic 
+treatments with each depatuxizumab mafodotin infusion: (a) standard steroid eye 
+drops, (b) standard steroid eye drops plus vasoconstrictor eye drops and cold 
+compress, or (c) enhanced steroids plus vasoconstrictor eye drops and cold 
+compress. A Corneal Epitheliopathy Adverse Event (CEAE) scale was devised to 
+capture symptoms, grade OSEs (scale of 0-5), and inform ADC dose modifications. 
+The primary endpoint was the frequency of a required change in OSE management 
+due to inadequate control of OSEs, defined as decline from baseline in visual 
+acuity (using logarithm of the minimum angle of resolution [LogMAR] scale) or a 
+Grade ≥3 CEAE event, in the worst eye in the first 8 weeks of treatment; unless 
+otherwise specified, the treatment period refers to both the chemoradiation and 
+adjuvant phases.
+RESULTS: The UNITE study was stopped early after interim analysis of separate 
+phase III trial showed no difference in survival from depatuxizumab mafodotin. 
+Forty patients were randomized (38 received depatuxizumab mafodotin). Overall, 
+23 patients experienced inadequate control of OSEs that required change in OSE 
+management within 8 weeks of treatment, with 21 (70.0%) experiencing ≥+0.3 
+change on LogMAR scale in baseline-adjusted visual acuity and 12 reporting a 
+grade ≥3 CEAE. There were no definitive differences among prophylactic 
+treatments.
+CONCLUSIONS: The premature cessation of the study precludes definitive 
+conclusions regarding the OSE prophylaxis strategies. No new clinically 
+significant safety findings were noted. Despite these limitations, this study 
+highlights the need for novel assessment tools to better understand and mitigate 
+OSEs associated with ADCs.
+
+© 2023 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000531142
+PMCID: PMC10413800
+PMID: 37257422 [Indexed for MEDLINE]
+
+Conflict of interest statement: Colin J. Vize is a member of AbbVie advisory 
+board. Stella K. Kim is ophthalmology consultant for AbbVie, Astellas, Cytomx, 
+ImmunoGen, SeattleGenetics, Zymeworks. Tim Matthews is a member of AbbVie 
+advisory board and receives Novartis educational stipend. Madan G. Kundu, 
+Jennifer Yoon, Emma Kennedy, Madhavi Pai, and Earle Bain are AbbVie employees 
+and may hold stock or options. Andrew B. Lassman reports grants, personal fees, 
+and nonfinancial support from AbbVie; personal fees and nonfinancial support 
+from Abbott Molecular, during the conduct of the study; personal fees and 
+nonfinancial support from Bioclinica as an expert blinded independent reviewer 
+of clinical and imaging data for a BMS-sponsored trial, grants, personal fees, 
+and nonfinancial support from Karyopharm; personal fees from Sapience; personal 
+fees and nonfinancial support from Novocure, grants, personal fees, and 
+nonfinancial support from QED; personal fees and nonfinancial support from 
+Forma, grants, personal fees, and nonfinancial support from Bayer, grants, 
+personal fees, and nonfinancial support from Orbus, personal fees and 
+nonfinancial support from NW Biotherapeutics, grants, personal fees, and 
+nonfinancial support from Agios; personal fees from WebMD; personal fees, and 
+nonfinancial support from Celgene; personal fees from prIME Oncology, grants and 
+nonfinancial support from Kadmon, grants and nonfinancial support from VBI, 
+grants and nonfinancial support from Beigene, grants and nonfinancial support 
+from Oncoceutics, nonfinancial support from Tocagen, grants and nonfinancial 
+support from Pfizer, grants and nonfinancial support from Genentech/Roche, 
+grants and nonfinancial support from Millenium, grants and nonfinancial support 
+from Celldex, grants and nonfinancial support from Novartis, nonfinancial 
+support from Aeterna Zentaris, personal fees and nonfinancial support from PER, 
+grants and nonfinancial support from BMS, outside the submitted work. Marian 
+Macsai, Ryan Merrell, Sigmund Hsu, and Golnaz Moazami have nothing to disclose.

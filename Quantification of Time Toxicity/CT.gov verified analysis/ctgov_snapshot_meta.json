@@ -1,0 +1,11 @@
+{
+  "snapshot_note": "CT.gov v2 API arm-type snapshot for TimeToxSV verification",
+  "n_ncts": 644,
+  "n_fetched_live": 644,
+  "n_from_cache": 0,
+  "n_404": 0,
+  "n_fetch_error": 0,
+  "api_endpoint": "https://clinicaltrials.gov/api/v2/studies/{nct}",
+  "fields": "protocolSection.armsInterventionsModule,protocolSection.designModule,protocolSection.identificationModule",
+  "requests_version": "2.32.5"
+}

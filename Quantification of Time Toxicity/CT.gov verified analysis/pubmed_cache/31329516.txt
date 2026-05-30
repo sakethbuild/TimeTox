@@ -1,0 +1,63 @@
+6. J Clin Oncol. 2019 Nov 10;37(32):2974-2986. doi: 10.1200/JCO.19.00799. Epub
+2019  Jul 22.
+
+ARCHES: A Randomized, Phase III Study of Androgen Deprivation Therapy With 
+Enzalutamide or Placebo in Men With Metastatic Hormone-Sensitive Prostate 
+Cancer.
+
+Armstrong AJ(1), Szmulewitz RZ(2), Petrylak DP(3), Holzbeierlein J(4), Villers 
+A(5), Azad A(6), Alcaraz A(7), Alekseev B(8), Iguchi T(9), Shore ND(10), 
+Rosbrook B(11), Sugg J(12), Baron B(13), Chen L(12), Stenzl A(14).
+
+Author information:
+(1)Duke Cancer Institute Center for Prostate and Urologic Cancers, Durham, NC.
+(2)The University of Chicago, Chicago, IL.
+(3)Yale Cancer Center, New Haven, CT.
+(4)The University of Kansas Medical Center, Kansas City, KS.
+(5)Lille University, Lille, France.
+(6)Monash Health, Melbourne, Victoria, Australia.
+(7)Hospital Clinic of Barcelona, Barcelona, Spain.
+(8)Hertzen Moscow Cancer Research Institute, Moscow, Russia.
+(9)Osaka City University Graduate School of Medicine, Osaka, Japan.
+(10)Carolina Urologic Research Center, Myrtle Beach, SC.
+(11)Pfizer, San Diego, CA.
+(12)Astellas Pharma, Northbrook, IL.
+(13)Astellas Pharma, Leiden, the Netherlands.
+(14)Eberhard Karls University of Tübingen, Tübingen, Germany.
+
+Comment in
+    J Clin Oncol. 2019 Nov 10;37(32):2957-2960. doi: 10.1200/JCO.19.01863.
+
+PURPOSE: Enzalutamide, a potent androgen-receptor inhibitor, has demonstrated 
+significant benefits in metastatic and nonmetastatic castration-resistant 
+prostate cancer. We evaluated the efficacy and safety of enzalutamide in 
+metastatic hormone-sensitive prostate cancer (mHSPC).
+METHODS: ARCHES (ClinicalTrials.gov identifier: NCT02677896) is a multinational, 
+double-blind, phase III trial, wherein 1,150 men with mHSPC were randomly 
+assigned 1:1 to enzalutamide (160 mg/day) or placebo, plus androgen deprivation 
+therapy (ADT), stratified by disease volume and prior docetaxel chemotherapy. 
+The primary end point was radiographic progression-free survival.
+RESULTS: As of October 14, 2018, the risk of radiographic progression or death 
+was significantly reduced with enzalutamide plus ADT versus placebo plus ADT 
+(hazard ratio, 0.39; 95% CI, 0.30 to 0.50; P < .001; median not reached v 19.0 
+months). Similar significant improvements in radiographic progression-free 
+survival were reported in prespecified subgroups on the basis of disease volume 
+and prior docetaxel therapy. Enzalutamide plus ADT significantly reduced the 
+risk of prostate-specific antigen progression, initiation of new antineoplastic 
+therapy, first symptomatic skeletal event, castration resistance, and reduced 
+risk of pain progression. More men achieved an undetectable prostate-specific 
+antigen level and/or an objective response with enzalutamide plus ADT (P < 
+.001). Patients in both treatment groups reported a high baseline level of 
+quality of life, which was maintained over time. Grade 3 or greater adverse 
+events were reported in 24.3% of patients who received enzalutamide plus ADT 
+versus 25.6% of patients who received placebo plus ADT, with no unexpected 
+adverse events.
+CONCLUSION: Enzalutamide with ADT significantly reduced the risk of metastatic 
+progression or death over time versus placebo plus ADT in men with mHSPC, 
+including those with low-volume disease and/or prior docetaxel, with a safety 
+analysis that seems consistent with the safety profile of enzalutamide in 
+previous clinical trials in castration-resistant prostate cancer.
+
+DOI: 10.1200/JCO.19.00799
+PMCID: PMC6839905
+PMID: 31329516 [Indexed for MEDLINE]

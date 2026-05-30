@@ -1,0 +1,123 @@
+15. Lancet Oncol. 2018 May;19(5):682-693. doi: 10.1016/S1470-2045(18)30146-3.
+Epub  2018 Apr 3.
+
+Tivantinib for second-line treatment of MET-high, advanced hepatocellular 
+carcinoma (METIV-HCC): a final analysis of a phase 3, randomised, 
+placebo-controlled study.
+
+Rimassa L(1), Assenat E(2), Peck-Radosavljevic M(3), Pracht M(4), Zagonel V(5), 
+Mathurin P(6), Rota Caremoli E(7), Porta C(8), Daniele B(9), Bolondi L(10), 
+Mazzaferro V(11), Harris W(12), Damjanov N(13), Pastorelli D(14), Reig M(15), 
+Knox J(16), Negri F(17), Trojan J(18), López López C(19), Personeni N(20), 
+Decaens T(21), Dupuy M(2), Sieghart W(22), Abbadessa G(23), Schwartz B(23), 
+Lamar M(23), Goldberg T(24), Shuster D(24), Santoro A(25), Bruix J(26).
+
+Author information:
+(1)Humanitas Cancer Center, Humanitas Clinical and Research Center, Istituto di 
+Ricovero e Cura a Carattere Scientifico (IRCCS), Milan, Italy.
+(2)Service d'Oncologie Médicale, CHRU Saint Eloi, Montpellier, France.
+(3)Department of Internal Medicine III, Section of Gastroenterology/Hepatology, 
+Medizinische Universitaet Wien, Wien, Austria; Department of Internal Medicine 
+and Gastroenterology, Klinikum Klagenfurt am Wörthersee, Klagenfurt, Austria.
+(4)Centre Eugène Marquis et CH Saint Malo, Rennes, France.
+(5)Department of Clinical and Experimental Oncology, Medical Oncology 1, Veneto 
+Institute of Oncology-IRCCS, Padua, Italy.
+(6)Service des Maladies de l'Appareil Digestif, Hôpital Claude Huriez, Lille 
+Cedex, France.
+(7)Oncologia Medica, AO Papa Giovanni XXIII Hospital, Bergamo, Italy.
+(8)IRCCS San Matteo University Hospital Foundation, Pavia, Italy.
+(9)Department of Oncology and Medical Oncology Unit, AO G Rummo Hospital, 
+Benevento, Italy.
+(10)Department of Medical and Surgical Sciences, University of Bologna, Bologna, 
+Italy; Center for Applied Biomedical Research, Sant'Orsola-Malpighi Hospital, 
+Bologna, Italy.
+(11)Department of Gastro-Intestinal Surgery and Liver Transplantation, 
+University of Milan, Milan, Italy; Fondazione IRCCS Istituto Nazionale dei 
+Tumori, Milan, Italy.
+(12)University of Washington School of Medicine, Seattle, WA, USA.
+(13)Abramson Cancer Center of the University of Pennsylvania, Philadelphia, PA, 
+USA.
+(14)Department of Oncology, Santa Maria del Prato Hospital, Feltre, Italy.
+(15)Barcelona Clinic Liver Cancer Group, Liver Unit, Hospital Clinic, University 
+of Barcelona, IDIBAPS, Centro de Investigación Biomédica en Red de Enfermedades 
+Hepáticas y Digestivas (CIBERehd), Barcelona, Spain.
+(16)Solid Tumor Medical Oncology, McCain Centre for Pancreatic Cancer, 
+University Health Network, Princess Margaret Cancer Center at the OPG, Toronto, 
+ON, Canada.
+(17)Medical Oncology Unit, University Hospital of Parma, Parma, Italy.
+(18)Universitätsklinikum Frankfurt, Medizinische Klinik 1, Frankfurt, Germany.
+(19)Medical Oncology Department, Hospital Universitario Marqués de Valdecilla, 
+Santander, Spain.
+(20)Humanitas Cancer Center, Humanitas Clinical and Research Center, Istituto di 
+Ricovero e Cura a Carattere Scientifico (IRCCS), Milan, Italy; Department of 
+Medical Biotechnology and Translational Medicine, University of Milan, Milan, 
+Italy.
+(21)Institute for Advanced Biosciences-INSERM U1209, CNRS UMR 5309 and 
+Department of Hepatogastroenterology Université Grenoble-Alpes, Grenoble, 
+France; Clinique Universitaire d'Hépato-gastroentérologie, Pôle Digidune, Centre 
+Hospitalier Universitaire Grenoble-Alpes, La Tronche, France.
+(22)Department of Internal Medicine III, Section of Gastroenterology/Hepatology, 
+Medizinische Universitaet Wien, Wien, Austria.
+(23)ArQule Inc, Burlington, MA, USA.
+(24)Daiichi Sankyo Inc, Basking Ridge, NJ, USA.
+(25)Humanitas Cancer Center, Humanitas Clinical and Research Center, Istituto di 
+Ricovero e Cura a Carattere Scientifico (IRCCS), Milan, Italy; Department of 
+Biomedical Sciences, Humanitas University, Milan, Italy.
+(26)Barcelona Clinic Liver Cancer Group, Liver Unit, Hospital Clinic, University 
+of Barcelona, IDIBAPS, Centro de Investigación Biomédica en Red de Enfermedades 
+Hepáticas y Digestivas (CIBERehd), Barcelona, Spain. Electronic address: 
+jbruix@clinic.cat.
+
+Comment in
+    Lancet Oncol. 2018 May;19(5):591-592. doi: 10.1016/S1470-2045(18)30249-3.
+    Ann Transl Med. 2020 Dec;8(23):1617. doi: 10.21037/atm-20-3387.
+
+BACKGROUND: Tivantinib (ARQ 197), a selective, oral MET inhibitor, improved 
+overall survival and progression-free survival compared with placebo in a 
+randomised phase 2 study in patients with high MET expression (MET-high) 
+hepatocellular carcinoma previously treated with sorafenib. The aim of this 
+phase 3 study was to confirm the results of the phase 2 trial.
+METHODS: We did a phase 3, randomised, double-blind, placebo-controlled study in 
+90 centres in Australia, the Americas, Europe, and New Zealand. Eligible 
+patients were 18 years or older and had unresectable, histologically confirmed, 
+hepatocellular carcinoma, an Eastern Cooperative Oncology Group performance 
+status of 0-1, high MET expression (MET-high; staining intensity score ≥2 in 
+≥50% of tumour cells), Child-Pugh A cirrhosis, and radiographically-confirmed 
+disease progression after receiving sorafenib-containing systemic therapy. We 
+randomly assigned patients (2:1) in block sizes of three using a 
+computer-generated randomisation sequence to receive oral tivantinib (120 mg 
+twice daily) or placebo (twice daily); patients were stratified by vascular 
+invasion, extrahepatic spread, and α-fetoprotein concentrations (≤200 ng/mL or 
+>200 ng/mL). The primary endpoint was overall survival in the intention-to-treat 
+population. Efficacy analyses were by intention to treat and safety analyses 
+were done in all patients who received any amount of study drug. This study is 
+registered with ClinicalTrials.gov, number NCT01755767.
+FINDINGS: Between Dec 27, 2012, and Dec 10, 2015, 340 patients were randomly 
+assigned to receive tivantinib (n=226) or placebo (n=114). At a median follow-up 
+of 18·1 months (IQR 14·1-23·1), median overall survival was 8·4 months (95% CI 
+6·8-10·0) in the tivantinib group and 9·1 months (7·3-10·4) in the placebo group 
+(hazard ratio 0·97; 95% CI 0·75-1·25; p=0·81). Grade 3 or worse 
+treatment-emergent adverse events occurred in 125 (56%) of 225 patients in the 
+tivantinib group and in 63 (55%) of 114 patients in the placebo group, with the 
+most common being ascites (16 [7%] patients]), anaemia (11 [5%] patients), 
+abdominal pain (nine [4%] patients), and neutropenia (nine [4%] patients) in the 
+tivantinib group. 50 (22%) of 226 patients in the tivantinib group and 18 (16%) 
+of 114 patients in the placebo group died within 30 days of the last dose of 
+study medication, and general deterioration (eight [4%] patients) and hepatic 
+failure (four [2%] patients) were the most common causes of death in the 
+tivantinib group. Three (1%) of 225 patients in the tivantinib group died from a 
+treatment-related adverse event (one sepsis, one anaemia and acute renal 
+failure, and one acute coronary syndrome).
+INTERPRETATION: Tivantinib did not improve overall survival compared with 
+placebo in patients with MET-high advanced hepatocellular carcinoma previously 
+treated with sorafenib. Although this METIV-HCC trial was negative, the study 
+shows the feasibility of doing integral tissue biomarker studies in patients 
+with advanced hepatocellular carcinoma. Additional randomised studies are needed 
+to establish whether MET inhibition could be a potential therapy for some 
+subsets of patients with advanced hepatocellular carcinoma.
+FUNDING: ArQule Inc and Daiichi Sankyo (Daiichi Sankyo Group).
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(18)30146-3
+PMID: 29625879 [Indexed for MEDLINE]

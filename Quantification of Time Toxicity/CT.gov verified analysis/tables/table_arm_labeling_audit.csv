@@ -1,0 +1,106 @@
+filename,arm_name,current_label,12mo_TT,suspect_flag,reason,n_controls_in_trial,n_interventions_in_trial,max_intervention_TT
+PMID 19213681 a_Summary_SoE.pdf,Arm A (Nolvadex alone),control,3.0,Likely correct,No active drugs or has control keyword,3,2,8.5
+PMID 19213681 a_Summary_SoE.pdf,Arm C (Arimidex alone),control,3.0,Likely correct,No active drugs or has control keyword,3,2,8.5
+PMID 19213681 a_Summary_SoE.pdf,Arm C (Arimidex alone),control,3.0,Likely correct,No active drugs or has control keyword,3,2,8.5
+PMID 21962393 CT_Summary_SoE.pdf,Arm B2 (Auto-Auto + Observation),control,36.0,Likely correct,Has control keyword,2,1,45.0
+PMID 21962393 CT_Summary_SoE.pdf,Arm B1 (Auto-Auto + Maintenance),control,51.0,Likely correct,No active drugs or has control keyword,2,1,45.0
+PMID 22965965 a_Summary_SoE.pdf,"Placebo + XELOX (Arms C, E)",control,20.0,Likely correct,Has control keyword,2,2,28.0
+PMID 22965965 a_Summary_SoE.pdf,"Placebo + FOLFOX (Arms C, E)",control,28.0,Likely correct,Has control keyword,2,2,28.0
+PMID 23358971 a_Summary_SoE.pdf,Arm 4: Anastrozole + Placebo,control,5.0,Likely correct,Has control keyword,2,2,5.0
+PMID 23358971 a_Summary_SoE.pdf,Arm 3: Anastrozole + Celecoxib,control,5.0,Ambiguous,Active drug(s): anastrozole; no control keyword,2,2,5.0
+PMID 23940225 a_Summary_SoE.pdf,Group 1 (TAC),control,11.0,Likely correct,No active drugs or has control keyword,2,1,13.0
+PMID 23940225 a_Summary_SoE.pdf,Group 2 (DD AC -> P),control,13.0,Likely correct,No active drugs or has control keyword,2,1,13.0
+PMID 24401022 a_Summary_SoE.pdf,Arm C (Clb: Chlorambucil alone),control,15.0,Ambiguous,Active drug(s): chlorambucil; no control keyword,2,1,17.0
+PMID 24401022 a_Summary_SoE.pdf,Arm B (RClb: Rituximab + Chlorambucil),control,15.0,Ambiguous,"Active drug(s): rituximab, chlorambucil; no control keyword",2,1,17.0
+PMID 24881463 a_Summary_SoE.pdf,SOFT Arm A (Tamoxifen alone),control,5.0,Ambiguous,Active drug(s): tamoxifen; no control keyword,3,3,14.0
+PMID 24881463 a_Summary_SoE.pdf,TEXT Arm A (GnRH analogue + Tamoxifen),control,14.0,Ambiguous,Active drug(s): tamoxifen; no control keyword,3,3,14.0
+PMID 24881463 a_Summary_SoE.pdf,TEXT Arm A (GnRH analogue plus Tamoxifen),control,14.0,Ambiguous,Active drug(s): tamoxifen; no control keyword,3,3,14.0
+PMID 24888818 a_Summary_SoE.pdf,Arm A (Low Risk Group - Regular Treatment),control,5.0,Likely correct,No active drugs or has control keyword,3,1,8.0
+PMID 24888818 a_Summary_SoE.pdf,Arm B (Moderate Risk Group - Maintain Current Therapy),control,7.0,Likely correct,No active drugs or has control keyword,3,1,8.0
+PMID 24888818 a_Summary_SoE.pdf,Arm C1 (High Risk Group - Maintain Current Therapy),control,15.5,Likely correct,No active drugs or has control keyword,3,1,8.0
+PMID 25267740 a_Summary_SoE.pdf,Arm S2 (DHAP +/- Rituximab),control,9.0,Ambiguous,Active drug(s): rituximab; no control keyword,2,1,9.0
+PMID 25267740 a_Summary_SoE.pdf,Arm S2 (DHAP),control,20.5,Likely correct,No active drugs or has control keyword,2,1,9.0
+PMID 25311218 a_Summary_SoE.pdf,SER Standard (ABVE-PC x4 + IFRT),control,36.5,Likely correct,Has control keyword,2,2,43.0
+PMID 25311218 a_Summary_SoE.pdf,RER Standard (ABVE-PC x4 + IFRT),control,37.0,Likely correct,Has control keyword,2,2,43.0
+PMID 25332243 a_Summary_SoE.pdf,Arm 1 (High-Dose Interferon Alpha-2b),control,29.0,Ambiguous,Active drug(s): interferon; no control keyword,2,1,49.0
+PMID 25332243 a_Summary_SoE.pdf,Arm 1 (One Year High-Dose Interferon Alpha-2b),control,164.0,Suspect,Active drug(s): interferon; TT (164) > intervention (49); no control keyword,2,1,49.0
+PMID 25682602 a_Summary_SoE.pdf,Higher-dose prednisone (1 or 2 mg/kg/day),control,14.5,Likely correct,No active drugs or has control keyword,2,1,15.0
+PMID 25682602 a_Summary_SoE.pdf,Higher-dose prednisone (1 or 2 mg/kg/day),control,16.0,Likely correct,No active drugs or has control keyword,2,1,15.0
+PMID 26351350 a_Summary_SoE.pdf,Arm F: GM-CSF Placebo (HLA-A2-),control,14.0,Likely correct,Has control keyword,2,4,14.5
+PMID 26351350 a_Summary_SoE.pdf,Arm D: GM-CSF Placebo + Peptide Placebo (HLA-A2+),control,14.5,Likely correct,Has control keyword,2,4,14.5
+PMID 27264120 a_Summary_SoE.pdf,Arm 2 (Placebo),control,2.0,Likely correct,Has control keyword,2,2,3.0
+PMID 27264120 a_Summary_SoE.pdf,Arm 2: Placebo (MA.17 Core Study),control,3.0,Likely correct,Has control keyword,2,2,3.0
+PMID 28438473 a_Summary_SoE.pdf,Arm I/V (No Surgery + Chemotherapy),control,29.0,Likely correct,No active drugs or has control keyword,2,3,36.0
+PMID 28438473 a_Summary_SoE.pdf,Arm III/VII (Surgery + CT/GC),control,31.0,Likely correct,No active drugs or has control keyword,2,3,36.0
+PMID 28809610 a_Summary_SoE.pdf,Arm B (Cabazitaxel 25 mg/m²),control,20.0,Ambiguous,Active drug(s): cabazitaxel; no control keyword,2,1,20.0
+PMID 28809610 a_Summary_SoE.pdf,Arm B (Cabazitaxel 25 mg/m² + Prednisone),control,20.5,Suspect,Active drug(s): cabazitaxel; TT (20) > intervention (20); no control keyword,2,1,20.0
+PMID 29158011 CT_Summary_SoE.pdf,Arm A (Continuous Letrozole),control,2.0,Ambiguous,Active drug(s): letrozole; no control keyword,2,1,2.0
+PMID 29158011 CT_Summary_SoE.pdf,Arm A (Continuous letrozole),control,2.0,Ambiguous,Active drug(s): letrozole; no control keyword,2,1,2.0
+PMID 29169877 CT_Summary_SoE.pdf,Arm 1b (Carboplatin/Paclitaxel),control,12.0,Ambiguous,"Active drug(s): paclitaxel, carboplatin; no control keyword",3,2,53.0
+PMID 29169877 CT_Summary_SoE.pdf,Arm 1a (Carboplatin/Paclitaxel/Bevacizumab),control,18.0,Ambiguous,"Active drug(s): paclitaxel, bevacizumab, carboplatin; no control keyword",3,2,53.0
+PMID 29169877 CT_Summary_SoE.pdf,Arm 1a (Carboplatin/Paclitaxel/Bevacizumab),control,53.0,Ambiguous,"Active drug(s): paclitaxel, bevacizumab, carboplatin; no control keyword",3,2,53.0
+PMID 29238824 a_Summary_SoE.pdf,Placebo Arm,control,3.0,Likely correct,Has control keyword,2,1,3.0
+PMID 29238824 a_Summary_SoE.pdf,Observational Arm,control,3.0,Likely correct,Has control keyword,2,1,3.0
+PMID 29573941 a_Summary_SoE.pdf,Vemurafenib (960mg BID),control,14.0,Ambiguous,Active drug(s): vemurafenib; no control keyword,2,3,14.0
+PMID 29573941 a_Summary_SoE.pdf,Vemurafenib (960mg BID),control,14.0,Ambiguous,Active drug(s): vemurafenib; no control keyword,2,3,14.0
+PMID 30052729 CT_Summary_SoE.pdf,Arm D (Physician's Choice - BSC Only),control,18.0,Likely correct,Has control keyword,3,1,27.0
+PMID 30052729 CT_Summary_SoE.pdf,Arm C (Physician's Choice - Irinotecan + BSC),control,27.0,Likely correct,Has control keyword,3,1,27.0
+PMID 30052729 CT_Summary_SoE.pdf,Arm B (Physician's Choice - Paclitaxel + BSC),control,40.0,Likely correct,Has control keyword,3,1,27.0
+PMID 30939090 a_Summary_SoE.pdf,Arm A (R-CHOP),control,11.5,Likely correct,No active drugs or has control keyword,2,1,40.0
+PMID 30939090 a_Summary_SoE.pdf,Arm A (R-CHOP),control,41.0,Likely correct,No active drugs or has control keyword,2,1,40.0
+PMID 31345387 CT_Summary_SoE.pdf,Arm B (Standard Dose Radiation + Carboplatin),control,48.0,Likely correct,Has control keyword,2,1,43.0
+PMID 31345387 CT_Summary_SoE.pdf,Arm C (Non-responders: Standard CRT + Carboplatin + Erbitux + Paclitaxel),control,48.0,Likely correct,Has control keyword,2,1,43.0
+PMID 31582355 a_Summary_SoE.pdf,Arm B (Control - Paclitaxel),control,19.0,Ambiguous,Active drug(s): paclitaxel; no control keyword,2,1,28.0
+PMID 31582355 a_Summary_SoE.pdf,Paclitaxel,control,50.5,Suspect,Active drug(s): paclitaxel; TT (50) > intervention (28); no control keyword,2,1,28.0
+PMID 31693129 CT_Summary_SoE.pdf,Arm 2 (Clodronate),control,8.0,Likely correct,No active drugs or has control keyword,3,1,8.0
+PMID 31693129 CT_Summary_SoE.pdf,Arm 3 (Ibandronate),control,8.0,Likely correct,No active drugs or has control keyword,3,1,8.0
+PMID 31693129 CT_Summary_SoE.pdf,Arm 3 (Ibandronate),control,8.0,Likely correct,No active drugs or has control keyword,3,1,8.0
+PMID 32372176 CT_Summary_SoE.pdf,Arm B (Placebo Topical Gel),control,3.0,Likely correct,Has control keyword,2,2,3.0
+PMID 32372176 CT_Summary_SoE.pdf,Arm D (Placebo Subcutaneous Pellet),control,3.0,Likely correct,Has control keyword,2,2,3.0
+PMID 32416073 CT_Summary_SoE.pdf,Control Arm (Docetaxel),control,18.0,Ambiguous,Active drug(s): docetaxel; no control keyword,2,1,27.0
+PMID 32416073 CT_Summary_SoE.pdf,Control Arm (Irinotecan),control,27.0,Ambiguous,Active drug(s): irinotecan; no control keyword,2,1,27.0
+PMID 32459600 a_Summary_SoE.pdf,Arm B (Idelalisib plus Rituximab),control,16.0,Ambiguous,"Active drug(s): rituximab, idelalisib; no control keyword",2,1,16.0
+PMID 32459600 a_Summary_SoE.pdf,Arm B (Bendamustine plus Rituximab),control,17.0,Suspect,"Active drug(s): rituximab, bendamustine; TT (17) > intervention (16); no control keyword",2,1,16.0
+PMID 32496902 a_Summary_SoE.pdf,Very High Risk (VHR) B-ALL (Control Arm),control,76.0,Likely correct,No active drugs or has control keyword,2,4,84.0
+PMID 32496902 a_Summary_SoE.pdf,Very High Risk (VHR) B-ALL - Control Arm,control,90.0,Likely correct,No active drugs or has control keyword,2,4,84.0
+PMID 32813610 a_Summary_SoE.pdf,Arm A (Capizzi MTX - Control),control,51.0,Likely correct,No active drugs or has control keyword,2,2,74.0
+PMID 32813610 a_Summary_SoE.pdf,Arm C (High Dose MTX),control,52.0,Likely correct,No active drugs or has control keyword,2,2,74.0
+PMID 32822286 a_Summary_SoE.pdf,Physician's Choice: Liposomal Doxorubicin,control,19.0,Likely correct,Has control keyword,3,1,16.0
+PMID 32822286 a_Summary_SoE.pdf,Physician's Choice: Paclitaxel,control,41.0,Likely correct,Has control keyword,3,1,16.0
+PMID 32822286 a_Summary_SoE.pdf,Physician's Choice: Topotecan,control,94.0,Likely correct,Has control keyword,3,1,16.0
+PMID 32971005 CT_Summary_SoE.pdf,Standard of Care (SoC) - Cisplatin + Gemcitabine,control,23.0,Likely correct,Has control keyword,2,2,13.0
+PMID 32971005 CT_Summary_SoE.pdf,"Standard of Care (Cisplatin + Gemcitabine, 28-day cycle)",control,31.5,Likely correct,Has control keyword,2,2,13.0
+PMID 32997907 a_Summary_SoE.pdf,Arm B (Platinum-based Chemotherapy),control,18.0,Likely correct,No active drugs or has control keyword,2,1,18.0
+PMID 32997907 a_Summary_SoE.pdf,Platinum-based Chemotherapy - Squamous (Control),control,18.0,Likely correct,No active drugs or has control keyword,2,1,18.0
+PMID 33010094 CT_Summary_SoE.pdf,Arm 3 (Standard Care Control),control,5.0,Likely correct,Has control keyword,3,1,6.0
+PMID 33010094 CT_Summary_SoE.pdf,Arm 2 (Placebo Homeopathic Treatment),control,6.0,Likely correct,Has control keyword,3,1,6.0
+PMID 33010094 CT_Summary_SoE.pdf,Arm 2 (Placebo Homeopathic Treatment),control,6.0,Likely correct,Has control keyword,3,1,6.0
+PMID 33026938 CT_Summary_SoE.pdf,Docetaxel,control,18.0,Ambiguous,Active drug(s): docetaxel; no control keyword,3,1,18.0
+PMID 33026938 CT_Summary_SoE.pdf,Irinotecan,control,27.0,Suspect,Active drug(s): irinotecan; TT (27) > intervention (18); no control keyword,3,1,18.0
+PMID 33026938 CT_Summary_SoE.pdf,Paclitaxel,control,40.0,Suspect,Active drug(s): paclitaxel; TT (40) > intervention (18); no control keyword,3,1,18.0
+PMID 33197226 a_Summary_SoE.pdf,Best Supportive Care (BSC) Only,control,20.0,Likely correct,Has control keyword,2,1,27.0
+PMID 33197226 a_Summary_SoE.pdf,Chemotherapy Maintenance (Oxaliplatin + 5-FU),control,27.0,Ambiguous,"Active drug(s): 5-fu, oxaliplatin; no control keyword",2,1,27.0
+PMID 33651090 a_Summary_SoE.pdf,Arm A (HR/IR Control - Chemotherapy),control,35.0,Likely correct,No active drugs or has control keyword,2,2,115.0
+PMID 33651090 a_Summary_SoE.pdf,Arm C (LR Control - Chemotherapy),control,93.0,Likely correct,No active drugs or has control keyword,2,2,115.0
+PMID 33676601 CT_Summary_SoE.pdf,TPC Arm (Capecitabine),control,18.0,Ambiguous,Active drug(s): capecitabine; no control keyword,3,1,18.0
+PMID 33676601 CT_Summary_SoE.pdf,TPC Arm (Gemcitabine or Eribulin),control,36.0,Suspect,"Active drug(s): eribulin, gemcitabine; TT (36) > intervention (18); no control keyword",3,1,18.0
+PMID 33676601 CT_Summary_SoE.pdf,TPC Arm (Vinorelbine),control,53.0,Suspect,Active drug(s): vinorelbine; TT (53) > intervention (18); no control keyword,3,1,18.0
+PMID 33821899a_Summary_SoE.pdf,Arm C (6 cycles FOLFOX + Placebo),control,10.0,Likely correct,Has control keyword,3,2,15.0
+PMID 33821899a_Summary_SoE.pdf,Arm A (12 cycles FOLFOX + Placebo),control,11.0,Likely correct,Has control keyword,3,2,15.0
+PMID 33821899a_Summary_SoE.pdf,Arm A (12 cycles of FOLFOX + placebo daily),control,15.5,Likely correct,Has control keyword,3,2,15.0
+PMID 34092112 a_Summary_SoE.pdf,Arm A (Observation),control,4.0,Likely correct,Has control keyword,2,1,8.0
+PMID 34092112 a_Summary_SoE.pdf,Arm C (Capecitabine),control,10.0,Suspect,Active drug(s): capecitabine; TT (10) > intervention (8); no control keyword,2,1,8.0
+PMID 34102137 a_Summary_SoE.pdf,XELOX alone,control,52.0,Likely correct,No active drugs or has control keyword,2,3,52.0
+PMID 34102137 a_Summary_SoE.pdf,FOLFOX alone,control,52.0,Likely correct,No active drugs or has control keyword,2,3,52.0
+PMID 34170389 CT_Summary_SoE.pdf,Low-Risk (LR),control,78.0,Likely correct,No active drugs or has control keyword,2,1,78.0
+PMID 34170389 CT_Summary_SoE.pdf,"Arm B (Conventional Dose PEG-asparaginase, Standard/High-Risk)",control,79.5,Likely correct,Has control keyword,2,1,78.0
+PMID 36795891 a_Summary_SoE.pdf,Arm B (AR-directed therapy: Abiraterone Acetate or Enzalutamide),control,16.0,Ambiguous,"Active drug(s): abiraterone, enzalutamide; no control keyword",2,1,16.0
+PMID 36795891 a_Summary_SoE.pdf,Arm C (Docetaxel),control,18.5,Suspect,Active drug(s): docetaxel; TT (18) > intervention (16); no control keyword,2,1,16.0
+PMID 36996380 a_Summary_SoE.pdf,Arm A (Enzalutamide),control,16.5,Ambiguous,Active drug(s): enzalutamide; no control keyword,2,1,17.0
+PMID 36996380 a_Summary_SoE.pdf,Arm A (Enzalutamide alone),control,17.0,Ambiguous,Active drug(s): enzalutamide; no control keyword,2,1,17.0
+PMID 37257422 CT_Summary_SoE.pdf,Arm A (Standard Steroids),control,53.0,Likely correct,Has control keyword,2,2,58.5
+PMID 37257422 CT_Summary_SoE.pdf,Arm A (Standard Steroids),control,53.0,Likely correct,Has control keyword,2,2,58.5
+PMID 37604981 CT_Summary_SoE.pdf,Arm B (Intensive: Placebo + Cytarabine/Daunorubicin),control,38.5,Likely correct,Has control keyword,2,2,89.0
+PMID 37604981 CT_Summary_SoE.pdf,Arm B (Non-Intensive: Placebo + Azacitidine),control,89.0,Likely correct,Has control keyword,2,2,89.0
+PMID 38060199 CT_Summary_SoE.pdf,Arm C (Paclitaxel + Placebo + Placebo),control,40.0,Likely correct,Has control keyword,2,2,41.5
+PMID 38060199 CT_Summary_SoE.pdf,Arm B - Cohort 2 (Atezolizumab + Paclitaxel + Placebo),control,40.0,Likely correct,Has control keyword,2,2,41.5

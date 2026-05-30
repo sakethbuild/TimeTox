@@ -1,0 +1,123 @@
+13. JAMA. 2021 Mar 2;325(9):833-842. doi: 10.1001/jama.2021.0669.
+
+Effect of Postreinduction Therapy Consolidation With Blinatumomab vs 
+Chemotherapy on Disease-Free Survival in Children, Adolescents, and Young Adults 
+With First Relapse of B-Cell Acute Lymphoblastic Leukemia: A Randomized Clinical 
+Trial.
+
+Brown PA(1), Ji L(2), Xu X(3), Devidas M(4), Hogan LE(5), Borowitz MJ(6), Raetz 
+EA(7), Zugmaier G(8), Sharon E(9), Bernhardt MB(10), Terezakis SA(11), Gore 
+L(12), Whitlock JA(13), Pulsipher MA(14), Hunger SP(15), Loh ML(16).
+
+Author information:
+(1)Departments of Oncology and Pediatrics, Johns Hopkins University School of 
+Medicine, Baltimore, Maryland.
+(2)Department of Preventive Medicine, Keck School of Medicine, University of 
+Southern California, Los Angeles.
+(3)Children's Oncology Group, Monrovia, California.
+(4)Department of Global Pediatric Medicine, St Jude Children's Research 
+Hospital, Memphis, Tennessee.
+(5)Department of Pediatrics, Stony Brook Children's, Stony Brook, New York.
+(6)Departments of Pathology and Oncology, Johns Hopkins University School of 
+Medicine, Baltimore, Maryland.
+(7)Department of Pediatrics, NYU Langone Health, New York, New York.
+(8)Amgen Research (Munich), GmbH, Munich, Germany.
+(9)Division of Cancer Treatment and Diagnosis, National Cancer Institute, Cancer 
+Therapy Evaluation Program, Bethesda, Maryland.
+(10)Section of Hematology/Oncology, Department of Pediatrics, Baylor College of 
+Medicine, Houston, Texas.
+(11)University of Minnesota, Department of Radiation Oncology, Minneapolis.
+(12)University of Colorado School of Medicine and Center for Cancer and Blood 
+Disorders, Children's Hospital Colorado, Aurora.
+(13)Hospital for Sick Children and University of Toronto, Toronto, Canada.
+(14)Transplantation and Cellular Therapy, Children's Hospital Los Angeles Cancer 
+and Blood Diseases Institute, Los Angeles, California.
+(15)Department of Pediatrics and the Center for Childhood Cancer Research, 
+Children's Hospital of Philadelphia and The Perelman School of Medicine at The 
+University of Pennsylvania, Philadelphia.
+(16)Department of Pediatrics, Benioff Children's Hospital and the Helen Diller 
+Family Comprehensive Cancer Center, University of California, San Francisco.
+
+Comment in
+    JAMA. 2021 Mar 2;325(9):830-832. doi: 10.1001/jama.2021.1395.
+
+IMPORTANCE: Standard chemotherapy for first relapse of B-cell acute 
+lymphoblastic leukemia (B-ALL) in children, adolescents, and young adults is 
+associated with high rates of severe toxicities, subsequent relapse, and death, 
+especially for patients with early relapse (high risk) or late relapse with 
+residual disease after reinduction chemotherapy (intermediate risk). 
+Blinatumomab, a bispecific CD3 to CD19 T cell-engaging antibody construct, is 
+efficacious in relapsed/refractory B-ALL and has a favorable toxicity profile.
+OBJECTIVE: To determine whether substituting blinatumomab for intensive 
+chemotherapy in consolidation therapy would improve survival in children, 
+adolescents, and young adults with high- and intermediate-risk first relapse of 
+B-ALL.
+DESIGN, SETTING, AND PARTICIPANTS: This trial was a randomized phase 3 clinical 
+trial conducted by the Children's Oncology Group at 155 hospitals in the US, 
+Canada, Australia, and New Zealand with enrollment from December 2014 to 
+September 2019 and follow-up until September 30, 2020. Eligible patients 
+included those aged 1 to 30 years with B-ALL first relapse, excluding those with 
+Down syndrome, Philadelphia chromosome-positive ALL, prior hematopoietic stem 
+cell transplant, or prior blinatumomab treatment (n = 669).
+INTERVENTIONS: All patients received a 4-week reinduction chemotherapy course, 
+followed by randomized assignment to receive 2 cycles of blinatumomab (n = 105) 
+or 2 cycles of multiagent chemotherapy (n = 103), each followed by transplant.
+MAIN OUTCOME AND MEASURES: The primary end point was disease-free survival and 
+the secondary end point was overall survival, both from the time of 
+randomization. The threshold for statistical significance was set at a 1-sided P 
+<.025.
+RESULTS: Among 208 randomized patients (median age, 9 years; 97 [47%] females), 
+118 (57%) completed the randomized therapy. Randomization was terminated at the 
+recommendation of the data and safety monitoring committee without meeting 
+stopping rules for efficacy or futility; at that point, 80 of 131 planned events 
+occurred. With 2.9 years of median follow-up, 2-year disease-free survival was 
+54.4% for the blinatumomab group vs 39.0% for the chemotherapy group (hazard 
+ratio for disease progression or mortality, 0.70 [95% CI, 0.47-1.03]); 1-sided 
+P = .03). Two-year overall survival was 71.3% for the blinatumomab group vs 
+58.4% for the chemotherapy group (hazard ratio for mortality, 0.62 [95% CI, 
+0.39-0.98]; 1-sided P = .02). Rates of notable serious adverse events included 
+infection (15%), febrile neutropenia (5%), sepsis (2%), and mucositis (1%) for 
+the blinatumomab group and infection (65%), febrile neutropenia (58%), sepsis 
+(27%), and mucositis (28%) for the chemotherapy group.
+CONCLUSIONS AND RELEVANCE: Among children, adolescents, and young adults with 
+high- and intermediate-risk first relapse of B-ALL, postreinduction treatment 
+with blinatumomab compared with chemotherapy, followed by transplant, did not 
+result in a statistically significant difference in disease-free survival. 
+However, study interpretation is limited by early termination with possible 
+underpowering for the primary end point.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02101853.
+
+DOI: 10.1001/jama.2021.0669
+PMCID: PMC7926290
+PMID: 33651090 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Brown 
+reported receiving personal fees from serving on scientific advisory committees 
+for Novartis, Kura, Kite, Amgen, Servier, Jazz Pharmaceuticals, and Janssen 
+outside the submitted work. Dr Borowitz reported providing consultancy for Amgen 
+and receiving honoraria from Beckman Coulter. Dr Raetz reported receiving 
+research funding from Pfizer and serving on a data and safety monitoring board 
+for Celgene outside the submitted work. Dr Zugmaier reported receiving personal 
+fees from Amgen for employment outside the submitted work and having patents 
+pending (10696744, 10662243, 20190142846, 20190127465, 10130638, 20170327581, 
+9688760, 20170122947, 9486475, 20160208001, 9192665, 20150071928, 8840888, 
+20140228316, 20140227272, 20130287778, 20130287774, 20100112603, and 7700299) 
+and issued (20190300609, 20110262440, and 20130323247). Dr Bernhardt reported 
+receiving grants from Celgene and Bristol Myers Squibb and personal fees from 
+Servier and Mesoblast outside the submitted work. Dr Terezakis reported 
+receiving grants from ASELL outside the submitted work. Dr Gore reported 
+providing consultancy for Amgen, Novartis, and Roche/Genentech; having equity 
+ownership in Amgen, Blueprint Medicines, Celgene, Clovis, Mirati, and Sanofi 
+Paris; receiving honoraria from Amgen and Roche/Genentech; and serving on a 
+scientific advisory committee for Amgen and data safety and monitoring 
+committees for Novartis and Celgene. Dr Whitlock reported receiving personal 
+fees from Amgen honorarium for consulting outside the submitted work. Dr 
+Pulsipher reported serving on scientific advisory committees for Novartis, 
+Adaptive, and CSL Behring; providing consultancy for Novartis, Jazz 
+Pharmaceuticals, Bellicum Pharmaceuticals, and Mesoblasta; and receiving 
+research funding from Adaptive and Miltenyi and honoraria from Amgen and Medac. 
+Dr Hunger reported consulting for Amgen, Bristol Myers Squibb, and Novartis; 
+having equity ownership in Amgen; and receiving honoraria from Jazz 
+Pharmaceuticals outside the submitted work. Dr Loh reported serving on a 
+scientific advisory committee for MediSix Therapeutics outside the submitted 
+work. No other disclosures were reported.

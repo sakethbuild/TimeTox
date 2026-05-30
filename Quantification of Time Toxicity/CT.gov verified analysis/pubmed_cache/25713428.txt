@@ -1,0 +1,62 @@
+13. J Clin Oncol. 2015 Apr 1;33(10):1180-5. doi: 10.1200/JCO.2014.58.3781. Epub
+2015  Feb 23.
+
+Randomized phase III trial of gemcitabine plus docetaxel plus bevacizumab or 
+placebo as first-line treatment for metastatic uterine leiomyosarcoma: an NRG 
+Oncology/Gynecologic Oncology Group study.
+
+Hensley ML(1), Miller A(2), O'Malley DM(2), Mannel RS(2), Behbakht K(2), 
+Bakkum-Gamez JN(2), Michael H(2).
+
+Author information:
+(1)Martee L. Hensley, Memorial Sloan-Kettering Cancer Center and Weill Cornell 
+Medical College, New York; Austin Miller, NRG Oncology, Buffalo, NY; David M. 
+O'Malley, The Ohio State University, Columbus, OH; Robert S. Mannel, University 
+of Oklahoma, Oklahoma City, OK; Kian Behbakht, University of Colorado Denver, 
+Aurora, CO; Jamie N. Bakkum-Gamez, Mayo Clinic, Rochester, MN; and Helen 
+Michael, Indiana University School of Medicine, Indianapolis, IN. 
+gynbreast@mskcc.org.
+(2)Martee L. Hensley, Memorial Sloan-Kettering Cancer Center and Weill Cornell 
+Medical College, New York; Austin Miller, NRG Oncology, Buffalo, NY; David M. 
+O'Malley, The Ohio State University, Columbus, OH; Robert S. Mannel, University 
+of Oklahoma, Oklahoma City, OK; Kian Behbakht, University of Colorado Denver, 
+Aurora, CO; Jamie N. Bakkum-Gamez, Mayo Clinic, Rochester, MN; and Helen 
+Michael, Indiana University School of Medicine, Indianapolis, IN.
+
+PURPOSE: Fixed-dose rate gemcitabine plus docetaxel achieves objective response 
+in 35% of patients with uterine leiomyosarcoma (uLMS). This study aimed to 
+determine whether the addition of bevacizumab to gemcitabine-docetaxel increases 
+progression-free survival (PFS) in uLMS.
+PATIENTS AND METHODS: In this phase III, double-blind, placebo-controlled trial, 
+patients with chemotherapy-naive, metastatic, unresectable uLMS were randomly 
+assigned to gemcitabine-docetaxel plus bevacizumab or gemcitabine-docetaxel plus 
+placebo. PFS, overall survival (OS), and objective response rates (ORRs) were 
+compared to determine superiority. Target accrual was 130 patients to detect an 
+increase in median PFS from 4 months (gemcitabine-docetaxel plus placebo) to 6.7 
+months (gemcitabine-docetaxel plus bevacizumab). Treatment effects on PFS and OS 
+were described by hazard ratios (HRs), median times to event, and 95% CIs.
+RESULTS: In all, 107 patients were accrued: gemcitabine-docetaxel plus placebo 
+(n = 54) and gemcitabine-docetaxel plus bevacizumab (n = 53). Accrual was 
+stopped early for futility. No statistically significant differences in grade 3 
+to 4 toxicities were observed. Median PFS was 6.2 months for 
+gemcitabine-docetaxel plus placebo versus 4.2 months for gemcitabine-docetaxel 
+plus bevacizumab (HR, 1.12; P = .58). Median OS was 26.9 months for 
+gemcitabine-docetaxel plus placebo and 23.3 months for gemcitabine-docetaxel 
+plus bevacizumab (HR, 1.07; P = .81). Objective responses were observed in 17 
+(31.5%) of 54 patients randomly assigned to gemcitabine-docetaxel plus placebo 
+and 19 (35.8%) of 53 patients randomly assigned to gemcitabine-docetaxel plus 
+bevacizumab. Mean duration of response was 8.6 months for gemcitabine-docetaxel 
+plus placebo versus 8.8 months for gemcitabine-docetaxel plus bevacizumab.
+CONCLUSION: The addition of bevacizumab to gemcitabine-docetaxel for first-line 
+treatment of metastatic uLMS failed to improve PFS, OS, or ORR. 
+Gemcitabine-docetaxel remains a standard first-line treatment for uLMS.
+
+© 2015 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2014.58.3781
+PMCID: PMC4372854
+PMID: 25713428 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest are found in the article online at www.jco.org. Author contributions 
+are found at the end of this article.

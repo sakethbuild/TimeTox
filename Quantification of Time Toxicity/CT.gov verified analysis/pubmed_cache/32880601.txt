@@ -1,0 +1,183 @@
+20. JAMA Oncol. 2020 Oct 1;6(10):1571-1580. doi: 10.1001/jamaoncol.2020.3370.
+
+Efficacy and Safety of Pembrolizumab or Pembrolizumab Plus Chemotherapy vs 
+Chemotherapy Alone for Patients With First-line, Advanced Gastric Cancer: The 
+KEYNOTE-062 Phase 3 Randomized Clinical Trial.
+
+Shitara K(1), Van Cutsem E(2), Bang YJ(3), Fuchs C(4), Wyrwicz L(5), Lee KW(6), 
+Kudaba I(7), Garrido M(8), Chung HC(9), Lee J(10), Castro HR(11), Mansoor W(12), 
+Braghiroli MI(13), Karaseva N(14), Caglevic C(15)(16), Villanueva L(17), 
+Goekkurt E(18), Satake H(19), Enzinger P(20), Alsina M(21), Benson A(22), Chao 
+J(23), Ko AH(24), Wainberg ZA(25), Kher U(26), Shah S(26), Kang SP(26), 
+Tabernero J(27).
+
+Author information:
+(1)National Cancer Center Hospital East, Kashiwa, Japan.
+(2)University Hospitals Gasthuisberg and KU Leuven, Leuven, Belgium.
+(3)Seoul National University College of Medicine, Seoul, Korea.
+(4)Yale Cancer Center, Smilow Cancer Hospital, New Haven, Connecticut.
+(5)Maria Sklodowska-Curie Memorial Cancer Center and Institute of Oncology, 
+Warsaw, Poland.
+(6)Seoul National University College of Medicine, Seoul National University 
+Bundang Hospital, Seongnam, Korea.
+(7)Latvian Oncology Center Rakus Gailezers, Riga, Latvia.
+(8)Pontifica Universidad Católica de Chile, Santiago, Chile.
+(9)Yonsei Cancer Center, Yonsei University College of Medicine, Seoul, Korea.
+(10)Samsung Medical Center, Seoul, Republic of Korea.
+(11)Grupo Medico Angeles, Guatemala City, Guatemala.
+(12)Christie Hospital NHS Trust, Manchester, United Kingdom.
+(13)Institute of Cancer of São Paolo, University of São Paolo, São Paolo, 
+Brazil.
+(14)SPb SBHI Clinical Oncology, Dispensary, Russia.
+(15)Clinica Alemana Santiago, Universidad del Desarrollo, Santiago, Chile.
+(16)Currently at Cancer Research Department Fundación Arturo Lopez Perez, 
+Santiago, Chile.
+(17)Hospital Clinico de la Universidad de Chile, Santiago, Chile.
+(18)Hematology Oncology Practice Eppendorf, and University Cancer Center 
+Hamburg, Hamburg, Germany.
+(19)Kobe City Medical Center General Hospital, Japan.
+(20)Dana-Farber Cancer Institute, Boston, Massachusetts.
+(21)Vall d'Hebron Institute of Oncology, Barcelona, Spain.
+(22)Northwestern Medicine, Feinberg School of Medicine, Robert H. Lurie 
+Comprehensive Cancer Center of Northwestern University, Chicago, Illinois.
+(23)City of Hope Comprehensive Cancer Center, Duarte, California.
+(24)University of California, San Francisco.
+(25)School of Medicine, University of California, Los Angeles.
+(26)Merck Sharp & Dohme Corp, a subsidiary of Merck & Co, Inc, Kenilworth, New 
+Jersey.
+(27)Vall d'Hebron University Hospital (HUVH) and Institute of Oncology (VHIO), 
+IOB-Quiron, UVic-UCC, Barcelona, Spain.
+
+Comment in
+    JAMA Oncol. 2020 Oct 1;6(10):1539-1541. doi: 10.1001/jamaoncol.2020.2436.
+    JAMA Oncol. 2021 Apr 1;7(4):632-633. doi: 10.1001/jamaoncol.2020.8002.
+    JAMA Oncol. 2021 Apr 1;7(4):633. doi: 10.1001/jamaoncol.2020.8011.
+
+IMPORTANCE: Safe and effective therapies for untreated, advanced 
+gastric/gastroesophageal junction (G/GEJ) cancer remain an unmet need.
+OBJECTIVE: To evaluate the antitumor activity of pembrolizumab, pembrolizumab 
+plus chemotherapy, or chemotherapy alone in patients with untreated, advanced 
+G/GEJ cancer with programmed cell death ligand 1 (PD-L1) combined positive score 
+(CPS) of 1 or greater.
+DESIGN, SETTING, AND PARTICIPANTS: The phase 3 KEYNOTE-062 randomized, 
+controlled, partially blinded interventional trial enrolled 763 patients with 
+untreated, locally advanced/unresectable or metastatic G/GEJ cancer with PD-L1 
+CPS of 1 or greater from 200 centers in 29 countries between September 18, 2015, 
+and May 26, 2017.
+INTERVENTIONS: Patients were randomized 1:1:1 to pembrolizumab 200 mg, 
+pembrolizumab plus chemotherapy (cisplatin 80 mg/m2/d on day 1 plus fluorouracil 
+800 mg/m2/d on days 1 to 5 or capecitabine 1000 mg/m2 twice daily), or 
+chemotherapy plus placebo, every 3 weeks.
+MAIN OUTCOMES AND MEASURES: Primary end points were overall survival (OS) and 
+progression-free survival (PFS) in patients with PD-L1 CPS of 1 or greater or 10 
+or greater.
+RESULTS: A total of 763 patients were randomized to pembrolizumab (n = 256), 
+pembrolizumab plus chemotherapy (n = 257), or chemotherapy (n = 250). The median 
+(range) age of all patients in the study cohort was 62 (20-87) years; 554 of 763 
+(72.6%) were men. At final analysis, after a median (range) follow-up of 29.4 
+(22.0-41.3) months, pembrolizumab was noninferior to chemotherapy for OS in 
+patients with CPS of 1 or greater (median, 10.6 vs 11.1 months; hazard ratio 
+[HR], 0.91; 99.2% CI, 0.69-1.18). Pembrolizumab monotherapy was not superior to 
+chemotherapy in patients with CPS of 1 or greater. Pembrolizumab prolonged OS vs 
+chemotherapy in patients with CPS of 10 or greater (median, 17.4 vs 10.8 months; 
+HR, 0.69; 95% CI, 0.49-0.97), but this difference was not statistically tested. 
+Pembrolizumab plus chemotherapy was not superior to chemotherapy for OS in 
+patients with CPS of 1 or greater (12.5 vs 11.1 months; HR, 0.85; 95% CI, 
+0.70-1.03; P = .05) or CPS of 10 or greater (12.3 vs 10.8 months; HR, 0.85; 95% 
+CI, 0.62-1.17; P = .16) or for PFS in patients with CPS of 1 or greater (6.9 vs 
+6.4 months; HR, 0.84; 95% CI, 0.70-1.02; P = .04). Grade 3 to 5 
+treatment-related adverse event rates for pembrolizumab, pembrolizumab plus 
+chemotherapy, and chemotherapy were 17%, 73%, and 69%, respectively.
+CONCLUSIONS AND RELEVANCE: This phase 3 randomized clinical trial found that 
+among patients with untreated, advanced G/GEJ cancer, pembrolizumab was 
+noninferior to chemotherapy, with fewer adverse events observed. Pembrolizumab 
+or pembrolizumab plus chemotherapy was not superior to chemotherapy for the OS 
+and PFS end points tested.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02494583.
+
+DOI: 10.1001/jamaoncol.2020.3370
+PMCID: PMC7489405
+PMID: 32880601 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Shitara 
+reported grants from Dainippon Sumitomo Pharma, Daiichi Sankyo, Chugai Pharma, 
+Medi Science; grants and personal fees from Taiho Pharmaceutical, Merck 
+Pharmaceutical, grants and personal fees from Ono Pharmaceutical, Astellas, Eli 
+Lilly and Company, personal fees from Bristol-Myers Squibb, Takeda 
+Pharmaceuticals, Pfizer, Novartis, AbbVie, Yakult, and GlaxoSmithKline outside 
+the submitted work. Dr Van Cutsem reported other from Merck during the conduct 
+of the study; grants from Bayer, Boehringer Ingelheim, Celgene, Ipsen, Lilly, 
+Merck, Merck KGaA, Novartis, Roche, Servier; personal fees from Array, 
+AstraZeneca, Bayer, Biocartis, Bristol-Myers Squibb, Celgene, Daiichi Sankyo, 
+Halozyme, GlaxoSmithKline, Incyte, Ipsen, Lilly, Merck, Merck KGaA, Novartis, 
+Pierre Fabre, Roche, Servier, Sirtex, and Taiho outside the submitted work. Dr 
+Bang reported other from AstraZeneca, Novartis, Genentech/Roche, Merck Sharp & 
+Dohme, Merck Serono, Bayer, Bristol-Myers Squibb, Eli Lilly, Taiho, Daiichi 
+Sankyo, Astellas, BeiGene, GreenCross, Samyang Biopharm, Hanmi, and Genexine; 
+and other from Merck Sharp & Dohme, AstraZeneca, Novartis, Genentech/Roche, 
+Merck Serono, Bayer, Bristol-Myers Squibb, GlaxoSmithKline, Pfizer, Eli Lilly, 
+Boehringer Ingelheim, MacroGenics, Boston Biomedical, Five Prime, Curis, Taiho, 
+Takeda, Ono, Daiichi Sankyo, Astellas, BeiGene, Green Cross, CKD Pharma, and 
+Genexine outside the submitted work. Dr Fuchs reported personal fees from Agios, 
+Amylin Pharmaceuticals, Bain Capital, CytomX Therapeutics, Daiichi Sankyo, Eli 
+Lilly, Entrinsic Health, EvolveImmune Therapeutics, Genentech, Merck, Taiho, and 
+Unum Therapeutics outside the submitted work; Dr Fuchs also serves as a director 
+for CytomX Therapeutics and owns unexercised stock options for CytomX and 
+Entrinsic Health and is a cofounder of EvolveImmune Therapeutics and has equity 
+in this private company. Dr Wyrwicz reported personal fees from Merck Sharp & 
+Dohme during the conduct of the study. Dr K. Lee reported grants to his 
+institution from Merck Sharp & Dohme during the conduct of the study; grants to 
+his institution from Ono Pharmaceutical, Merck KGaA, AstraZeneca, and Pfizer 
+outside the submitted work. Dr Garrido reported grants from Pfizer; personal 
+fees from Merck Sharp & Dohme and Bayer; and grants and personal fees from 
+Bristol-Myers Squibb outside the submitted work. Dr Chung reported grants from 
+Lilly, GlaxoSmithKline, Merck Sharp & Dohme, Merck Serono, Bristol-Myers 
+Squibb/ONO, Taiho, Amgen, and BeiGene; personal fees from Merck-Serono, Lilly, 
+and Foundation Medicine; and other from Taiho, Celltrion, Merck Sharp & Dohme, 
+Lilly, Quintiles, Bristol-Myers Squibb, Merck Serono, Gloria, BeiGene, Amgen, 
+and ZymeWork outside the submitted work. Dr Braghiroli reported other from Merck 
+Sharp & Dohme during the conduct of the study; and personal fees from Merck 
+Sharp & Dohme, Roche, and Bayer outside the submitted work. Dr Karaseva reported 
+grants from Merck Sharp & Dohme during the conduct of the study. Dr Caglevic 
+reported personal fees from Bristol-Myers Squibb, Merck Sharp & Dohme, Roche, 
+Boehringer Ingelheim, Andes Biotechnologies, and Lilly and nonfinancial support 
+from Roche outside the submitted work, and participation in clinical trials for 
+Merck Sharp & Dohme, Medivation, AstraZeneca, Roche, Astellas Pharma, 
+Bristol-Myers Squibb, and Andes Biotechnologies. Dr Villanueva reported personal 
+fees from Merck Sharp & Dohme during the conduct of the study. Dr Goekkurt 
+reported personal fees from Merck Sharp & Dohme, Bristol-Myers Squibb, and 
+Servier outside the submitted work. Dr Satake reported grants and personal fees 
+from Ono Pharmaceutical, Taiho Pharmaceutical, and Takeda; personal fees from 
+Bayer, Bristol-Myers Squibb, Chugai Pharmaceutical, Daiichi Sankyo, Eli Lilly 
+Japan, Merck Bio Pharma, Merck Sharp & Dohme, Sanofi, and Yakult Honsha outside 
+the submitted work. Dr Enzinger reported personal fees from Astellas, Celgene, 
+Daiichi Sankyo, Five Prime, Lilly, Loxo, Merck, Taiho, and Zymeworks outside the 
+submitted work. Dr Alsina reported personal fees from Lilly, Servier, Merck 
+Sharp & Dohme, and Bristol-Myers Squibb outside the submitted work. Dr Benson 
+reported grants from Merck during the conduct of the study; grants from 
+Astellas, Celgene, Infinity Pharmaceuticals, Taiho Pharmaceutical, Rafael 
+Pharmaceuticals, Medimmune/AstraZeneca, Xencor, and SynCore; grants and personal 
+fees from NCCN, Bristol-Myers Squibb, Merck Sharpe and Dohme, ECOG-ACRIN, Amgen; 
+personal fees from Guardant, Terumo, Lexicon, ACCC, Imedex, Artemida Pharma, 
+Array (Pfizer), and Eisai outside the submitted work. Dr Chao reported grants, 
+personal fees, and other from Merck during the conduct of the study; grants from 
+Brooklyn ImmunoTherapeutics; personal fees and other from Lilly, Foundation 
+Medicine, and Daiichi Sankyo, Macrogenics, and Amgen; personal fees from Boston 
+Biomedical, AstraZeneca, Taiho Pharmaceutical, and Ono Pharmaceutical outside 
+the submitted work. Dr Ko reported grants from Merck during the conduct of the 
+study; grants from Roche/Genentech, Merrimack, Celgene, Bristol-Myers Squibb, 
+Apexigen, Abgenomics, Astellas, and Halozyme and personal fees from Erytech and 
+Imugene outside the submitted work. Dr Wainberg reported grants from Novartis 
+and Plexxikon and personal fees from Merck, Lilly, Array, EMD Serono, Five 
+Prime, and Molecular Templates outside the submitted work. Dr Kher reported 
+being an employee of Merck & Co. Dr Kang reported other from Merck & Co during 
+the conduct of the study; in addition, Dr Kang had a patent to MK 3475. Dr 
+Tabernero reported personal fees and other from Array Biopharma, AstraZeneca, 
+Bayer, BeiGene, Boehringer Ingelheim, Chugai, Genentech, Genmab A/S, Halozyme, 
+Imugene Limited, Inflection Biosciences Limited, Ipsen, Kura Oncology, Lilly, 
+Merck Sharp & Dohme, Menarini, Merck Serono, Merrimack, Merus, Molecular 
+Partners, Novartis, Peptomyc, Pfizer, Pharmacyclics, ProteoDesign SL, Rafael 
+Pharmaceuticals, F. Hoffmann-La Roche, Sanofi, SeaGen, Seattle Genetics, 
+Servier, Symphogen, Taiho, VCN Biosciences, Biocartis, Foundation Medicine, 
+HalioDX SAS, and Roche Diagnostics outside the submitted work. No other 
+disclosures were reported.

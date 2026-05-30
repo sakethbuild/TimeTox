@@ -1,0 +1,75 @@
+4. J Clin Oncol. 2014 Nov 10;32(32):3651-8. doi: 10.1200/JCO.2013.52.5410. Epub 
+2014 Oct 13.
+
+Dose-intensive response-based chemotherapy and radiation therapy for children 
+and adolescents with newly diagnosed intermediate-risk hodgkin lymphoma: a 
+report from the Children's Oncology Group Study AHOD0031.
+
+Friedman DL(1), Chen L(2), Wolden S(2), Buxton A(2), McCarten K(2), FitzGerald 
+TJ(2), Kessel S(2), De Alarcon PA(2), Chen AR(2), Kobrinsky N(2), Ehrlich P(2), 
+Hutchison RE(2), Constine LS(2), Schwartz CL(2).
+
+Author information:
+(1)Debra L. Friedman, Vanderbilt University School of Medicine and 
+Vanderbilt-Ingram Cancer Center, Nashville, TN; Lu Chen and Allen Buxton, 
+Children's Oncology Group, Monrovia, CA; Suzanne Wolden, Memorial Sloan 
+Kettering Cancer Center, New York; Robert E. Hutchison, State University of New 
+York Upstate Medical University, Syracuse; Louis S. Constine, University of 
+Rochester, Rochester, NY; Kathleen McCarten, Thomas J. FitzGerald, and Sandra 
+Kessel, Quality Assurance Review Center, Providence, RI; Pedro A. De Alarcon, 
+University of Illinois College of Medicine, Peoria, IL; Allen R. Chen, Johns 
+Hopkins University, Baltimore, MD; Nathan Kobrinsky, Sanford Medical Center and 
+Roger Maris Cancer Center, Fargo, ND; Peter Ehrlich, C.S. Mott Children's 
+Hospital and University of Michigan, Ann Arbor, MI; and Cindy L. Schwartz, MD 
+Anderson Cancer Center, Houston, TX. debra.l.friedman@vanderbilt.edu.
+(2)Debra L. Friedman, Vanderbilt University School of Medicine and 
+Vanderbilt-Ingram Cancer Center, Nashville, TN; Lu Chen and Allen Buxton, 
+Children's Oncology Group, Monrovia, CA; Suzanne Wolden, Memorial Sloan 
+Kettering Cancer Center, New York; Robert E. Hutchison, State University of New 
+York Upstate Medical University, Syracuse; Louis S. Constine, University of 
+Rochester, Rochester, NY; Kathleen McCarten, Thomas J. FitzGerald, and Sandra 
+Kessel, Quality Assurance Review Center, Providence, RI; Pedro A. De Alarcon, 
+University of Illinois College of Medicine, Peoria, IL; Allen R. Chen, Johns 
+Hopkins University, Baltimore, MD; Nathan Kobrinsky, Sanford Medical Center and 
+Roger Maris Cancer Center, Fargo, ND; Peter Ehrlich, C.S. Mott Children's 
+Hospital and University of Michigan, Ann Arbor, MI; and Cindy L. Schwartz, MD 
+Anderson Cancer Center, Houston, TX.
+
+PURPOSE: The Children's Oncology Group study AHOD0031, a randomized phase III 
+study, was designed to evaluate the role of early chemotherapy response in 
+tailoring subsequent therapy in pediatric intermediate-risk Hodgkin lymphoma. To 
+avoid treatment-associated risks that compromise long-term health and to 
+maintain high cure rates, dose-intensive chemotherapy with limited cumulative 
+doses was used.
+PATIENTS AND METHODS: Patients received two cycles of doxorubicin, bleomycin, 
+vincristine, etoposide, cyclophosphamide, and prednisone (ABVE-PC) followed by 
+response evaluation. Rapid early responders (RERs) received two additional 
+ABVE-PC cycles, followed by complete response (CR) evaluation. RERs with CR were 
+randomly assigned to involved-field radiotherapy (IFRT) or no additional 
+therapy; RERs with less than CR were nonrandomly assigned to IFRT. Slow early 
+responders (SERs) were randomly assigned to receive two additional ABVE-PC 
+cycles with or without two cycles of dexamethasone, etoposide, cisplatin, and 
+cytarabine (DECA). All SERs were assigned to receive IFRT.
+RESULTS: Among 1,712 eligible patients, 4-year event-free survival (EFS) was 
+85.0%: 86.9% for RERs and 77.4% for SERs (P < .001). Four-year overall survival 
+was 97.8%: 98.5% for RERs and 95.3% for SERs (P < .001). Four-year EFS was 87.9% 
+versus 84.3% (P = .11) for RERs with CR who were randomly assigned to IFRT 
+versus no IFRT, and 86.7% versus 87.3% (P = .87) for RERs with positron emission 
+tomography (PET) -negative results at response assessment. Four-year EFS was 
+79.3% versus 75.2% (P = .11) for SERs who were randomly assigned to DECA versus 
+no DECA, and 70.7% versus 54.6% (P = .05) for SERs with PET-positive results at 
+response assessment.
+CONCLUSION: This trial demonstrated that early response assessment supported 
+therapeutic titration (omitting radiotherapy in RERs with CR; augmenting 
+chemotherapy in SERs with PET-positive disease). Strategies directed toward 
+improved response assessment and risk stratification may enhance tailoring of 
+treatment to patient characteristics and response.
+
+© 2014 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2013.52.5410
+PMCID: PMC4220044
+PMID: 25311218 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

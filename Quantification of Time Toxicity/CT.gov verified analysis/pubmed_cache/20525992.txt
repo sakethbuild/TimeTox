@@ -1,0 +1,61 @@
+3. N Engl J Med. 2010 Aug 19;363(8):711-23. doi: 10.1056/NEJMoa1003466. Epub 2010
+ Jun 5.
+
+Improved survival with ipilimumab in patients with metastatic melanoma.
+
+Hodi FS(1), O'Day SJ, McDermott DF, Weber RW, Sosman JA, Haanen JB, Gonzalez R, 
+Robert C, Schadendorf D, Hassel JC, Akerley W, van den Eertwegh AJ, Lutzky J, 
+Lorigan P, Vaubel JM, Linette GP, Hogg D, Ottensmeier CH, Lebbé C, Peschel C, 
+Quirt I, Clark JI, Wolchok JD, Weber JS, Tian J, Yellin MJ, Nichol GM, Hoos A, 
+Urba WJ.
+
+Author information:
+(1)Dana-Farber Cancer Institute, Boston, MA 02115, USA. 
+stephen_hodi@dfci.harvard.edu
+
+Erratum in
+    N Engl J Med. 2010 Sep 23;363(13):1290.
+
+Comment in
+    N Engl J Med. 2010 Aug 19;363(8):779-81. doi: 10.1056/NEJMe1006416.
+    Expert Rev Anticancer Ther. 2010 Nov;10(11):1697-701. doi: 
+10.1586/era.10.144.
+    N Engl J Med. 2010 Dec 2;363(23):2262; author reply 2262-3. doi: 
+10.1056/NEJMc1010475.
+    Internist (Berl). 2011 Jul;52(7):902-3. doi: 10.1007/s00108-011-2885-5.
+    Immunotherapy. 2011 Aug;3(8):927-30. doi: 10.2217/imt.11.77.
+    Curr Oncol Rep. 2011 Dec;13(6):430-2. doi: 10.1007/s11912-011-0195-7.
+
+BACKGROUND: An improvement in overall survival among patients with metastatic 
+melanoma has been an elusive goal. In this phase 3 study, ipilimumab--which 
+blocks cytotoxic T-lymphocyte-associated antigen 4 to potentiate an antitumor 
+T-cell response--administered with or without a glycoprotein 100 (gp100) peptide 
+vaccine was compared with gp100 alone in patients with previously treated 
+metastatic melanoma.
+METHODS: A total of 676 HLA-A*0201-positive patients with unresectable stage III 
+or IV melanoma, whose disease had progressed while they were receiving therapy 
+for metastatic disease, were randomly assigned, in a 3:1:1 ratio, to receive 
+ipilimumab plus gp100 (403 patients), ipilimumab alone (137), or gp100 alone 
+(136). Ipilimumab, at a dose of 3 mg per kilogram of body weight, was 
+administered with or without gp100 every 3 weeks for up to four treatments 
+(induction). Eligible patients could receive reinduction therapy. The primary 
+end point was overall survival.
+RESULTS: The median overall survival was 10.0 months among patients receiving 
+ipilimumab plus gp100, as compared with 6.4 months among patients receiving 
+gp100 alone (hazard ratio for death, 0.68; P<0.001). The median overall survival 
+with ipilimumab alone was 10.1 months (hazard ratio for death in the comparison 
+with gp100 alone, 0.66; P=0.003). No difference in overall survival was detected 
+between the ipilimumab groups (hazard ratio with ipilimumab plus gp100, 1.04; 
+P=0.76). Grade 3 or 4 immune-related adverse events occurred in 10 to 15% of 
+patients treated with ipilimumab and in 3% treated with gp100 alone. There were 
+14 deaths related to the study drugs (2.1%), and 7 were associated with 
+immune-related adverse events.
+CONCLUSIONS: Ipilimumab, with or without a gp100 peptide vaccine, as compared 
+with gp100 alone, improved overall survival in patients with previously treated 
+metastatic melanoma. Adverse events can be severe, long-lasting, or both, but 
+most are reversible with appropriate treatment. (Funded by Medarex and 
+Bristol-Myers Squibb; ClinicalTrials.gov number, NCT00094653.)
+
+DOI: 10.1056/NEJMoa1003466
+PMCID: PMC3549297
+PMID: 20525992 [Indexed for MEDLINE]

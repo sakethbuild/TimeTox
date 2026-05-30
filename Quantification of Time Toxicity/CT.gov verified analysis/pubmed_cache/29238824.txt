@@ -1,0 +1,97 @@
+9. JAMA Surg. 2018 Apr 1;153(4):303-311. doi: 10.1001/jamasurg.2017.4915.
+
+Effect of Perioperative Gabapentin on Postoperative Pain Resolution and Opioid 
+Cessation in a Mixed Surgical Cohort: A Randomized Clinical Trial.
+
+Hah J(1), Mackey SC(1), Schmidt P(2), McCue R(2), Humphreys K(3), Trafton 
+J(3)(4), Efron B(5), Clay D(2), Sharifzadeh Y(2), Ruchelli G(2), Goodman 
+S(6)(7), Huddleston J(6), Maloney WJ(6), Dirbas FM(8), Shrager J(9), Costouros 
+JG(6), Curtin C(10), Carroll I(1).
+
+Author information:
+(1)Division of Pain Medicine, Department of Anesthesiology, Perioperative, and 
+Pain Medicine, Stanford University, Palo Alto, California.
+(2)Stanford Systems Neuroscience and Pain Lab, Stanford University, Palo Alto, 
+California.
+(3)Center for Healthcare Evaluation, Veterans Health Administration, Psychiatry 
+and Behavioral Sciences, Stanford University, Palo Alto, California.
+(4)Veterans Administration Program Evaluation and Resource Center, Veterans 
+Health Administration Office of Mental Health Operations, Menlo Park, 
+California.
+(5)Department of Biomedical Data Science, Stanford University, Palo Alto, 
+California.
+(6)Department of Orthopaedic Surgery, Stanford University, Palo Alto, 
+California.
+(7)Department of Bioengineering, Stanford University, Palo Alto, California.
+(8)Department of General Surgery, Stanford University, Palo Alto, California.
+(9)Cardiothoracic Surgery, Division of Thoracic Surgery, Stanford University, 
+Palo Alto, California.
+(10)Division of Hand and Plastic Surgery, Department of Orthopaedic Surgery, 
+Stanford University, Palo Alto, California.
+
+Erratum in
+    JAMA Surg. 2018 Apr 1;153(4):396. doi: 10.1001/jamasurg.2018.0004.
+    JAMA Surg. 2022 Jun 1;157(6):553. doi: 10.1001/jamasurg.2022.1392.
+
+Comment in
+    JAMA Surg. 2018 Apr 1;153(4):312. doi: 10.1001/jamasurg.2017.4944.
+    J Urol. 2018 Nov;200(5):934-936. doi: 10.1016/j.juro.2018.08.020.
+    JAMA Surg. 2022 Jun 1;157(6):553. doi: 10.1001/jamasurg.2022.1319.
+
+IMPORTANCE: Guidelines recommend using gabapentin to decrease postoperative pain 
+and opioid use, but significant variation exists in clinical practice.
+OBJECTIVE: To determine the effect of perioperative gabapentin on remote 
+postoperative time to pain resolution and opioid cessation.
+DESIGN, SETTING, AND PARTICIPANTS: A randomized, double-blind, 
+placebo-controlled trial of perioperative gabapentin was conducted at a 
+single-center, tertiary referral teaching hospital. A total of 1805 patients 
+aged 18 to 75 years scheduled for surgery (thoracotomy, video-assisted 
+thoracoscopic surgery, total hip replacement, total knee replacement, 
+mastectomy, breast lumpectomy, hand surgery, carpal tunnel surgery, knee 
+arthroscopy, shoulder arthroplasty, and shoulder arthroscopy) were screened. 
+Participants were enrolled from May 25, 2010, to July 25, 2014, and followed up 
+for 2 years postoperatively. Intention-to-treat analysis was used in evaluation 
+of the findings.
+INTERVENTIONS: Gabapentin, 1200 mg, preoperatively and 600 mg, 3 times a day 
+postoperatively or active placebo (lorazepam, 0.5 mg) preoperatively followed by 
+inactive placebo postoperatively for 72 hours.
+MAIN OUTCOMES AND MEASURES: Primary outcome was time to pain resolution (5 
+consecutive reports of 0 of 10 possible levels of average pain at the surgical 
+site on the numeric rating scale of pain). Secondary outcomes were time to 
+opioid cessation (5 consecutive reports of no opioid use) and the proportion of 
+participants with continued pain or opioid use at 6 months and 1 year.
+RESULTS: Of 1805 patients screened for enrollment, 1383 were excluded, including 
+926 who did not meet inclusion criteria and 273 who declined to participate. 
+Overall, 8% of patients randomized were lost to follow-up. A total of 202 
+patients were randomized to active placebo and 208 patients were randomized to 
+gabapentin in the intention-to-treat analysis (mean [SD] age, 56.7 [11.7] years; 
+256 (62.4%) women and 154 (37.6%) men). Baseline characteristics of the groups 
+were similar. Perioperative gabapentin did not affect time to pain cessation 
+(hazard ratio [HR], 1.04; 95% CI, 0.82-1.33; P = .73) in the intention-to-treat 
+analysis. However, participants receiving gabapentin had a 24% increase in the 
+rate of opioid cessation after surgery (HR, 1.24; 95% CI, 1.00-1.54; P = .05). 
+No significant differences were noted in the number of adverse events as well as 
+the rate of medication discontinuation due to sedation or dizziness (placebo, 42 
+of 202 [20.8%]; gabapentin, 52 of 208 [25.0%]).
+CONCLUSIONS AND RELEVANCE: Perioperative administration of gabapentin had no 
+effect on postoperative pain resolution, but it had a modest effect on promoting 
+opioid cessation after surgery. The routine use of perioperative gabapentin may 
+be warranted to promote opioid cessation and prevent chronic opioid use. Optimal 
+dosing and timing of perioperative gabapentin in the context of specific 
+operations to decrease opioid use should be addressed in further research.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01067144.
+
+DOI: 10.1001/jamasurg.2017.4915
+PMCID: PMC5933381
+PMID: 29238824 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Mackey 
+reported serving as president of the American Academy of Pain Medicine from 
+2014-2015, as a member of the American Society of Anesthesiologists Pain 
+Committee from 2008-2019, and as a member of the advisory board of the American 
+Chronic Pain Association (a nonprofit organization focused on patient education 
+about pain), and reported receiving no compensation from these entities, and 
+also reported receiving travel reimbursement from the American Academy of Pain 
+Medicine, Tarsus Group, Neurovations, International Neuromodulation Society, and 
+FDA-ACCTION to present pain research findings. No other disclosures were 
+reported.

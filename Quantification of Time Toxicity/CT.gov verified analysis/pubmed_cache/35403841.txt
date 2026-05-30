@@ -1,0 +1,96 @@
+2. N Engl J Med. 2022 May 26;386(21):1973-1985. doi: 10.1056/NEJMoa2202170. Epub 
+2022 Apr 11.
+
+Neoadjuvant Nivolumab plus Chemotherapy in Resectable Lung Cancer.
+
+Forde PM(1), Spicer J(1), Lu S(1), Provencio M(1), Mitsudomi T(1), Awad MM(1), 
+Felip E(1), Broderick SR(1), Brahmer JR(1), Swanson SJ(1), Kerr K(1), Wang C(1), 
+Ciuleanu TE(1), Saylors GB(1), Tanaka F(1), Ito H(1), Chen KN(1), Liberman M(1), 
+Vokes EE(1), Taube JM(1), Dorange C(1), Cai J(1), Fiore J(1), Jarkowski A(1), 
+Balli D(1), Sausen M(1), Pandya D(1), Calvet CY(1), Girard N(1); CheckMate 816 
+Investigators.
+
+Collaborators: Lupinacci L, Martin C, Barrios C, Franke F, Medeiros R, Murad A, 
+Liberman M, Spicer J, Sud S, Yadav S, Chen KN, Chen Q, Fu J, Hu Y, Li X, Liu J, 
+Liu L, Lu S, Wang C, Wang Q, Wang W, Wu L, Ying K, Zhang C, Zhao J, Girard N, 
+Lena H, Mazieres J, Mennecier B, Pichon E, Souquet PJ, Zalcman G, Baka S, 
+Bennicelli E, Cappuzzo F, D'Arcangelo M, Galetta D, Minotti V, Atagi S, Ikeda N, 
+Ito H, Kubota K, Mitsudomi T, Ohde Y, Oizumi S, Okada M, Okami J, Sakakura N, 
+Shio Y, Sugawara S, Takamochi K, Tanaka F, Tomii K, Tsuboi M, Jang TW, Kim YC, 
+Lee SY, Alexandru A, Ciuleanu T, Felip E, Provencio Pulla M, Chiu CH, Lee KL, 
+Lee KY, Yang TY, Cil T, Demirkazik A, Turna Z, Akerley W, Alexander W, Awad M, 
+Borghaei H, Byrne B, Cetnar J, Chesney J, Evangelist M, Forde P, Ghose A, Harish 
+V, Harper H, Harris T, Horn L, Hrom J, Iams WT, Lee A, Lopes G, Mohindra N, 
+O'Brien T, Pachipala K, Popoff A, Rao S, Sadiq A, Saylors G, Seneviratne L, Shum 
+E, Spigel D, Cannon S, Spira A, Uyeki J, Vaughn C, Villano J, Vokes E, Weksler 
+B, Wrangle J, Anders RA, Baras AS, Cuda JD, Jedrych J, Cimino-Mathews A, 
+Gabrielson E, Illei PB, Stein JE, Taube JM, Thompson ED, Wang D.
+
+Author information:
+(1)From the Bloomberg-Kimmel Institute for Cancer Immunotherapy, Johns Hopkins 
+Kimmel Cancer Center, Baltimore (P.M.F., S.R.B., J.R.B., J.M.T.); McGill 
+University Health Center (J.S.), and Centre Hospitalier de l'Université de 
+Montréal (M.L.) - both in Montreal; Shanghai Chest Hospital, School of Medicine, 
+Shanghai Jiao Tong University, Shanghai (S.L.), Tianjin Lung Cancer Center, 
+Tianjin Medical University Cancer Institute and Hospital, Tianjin (C.W.), and 
+Peking University School of Oncology, Beijing Cancer Hospital, Beijing (K.-N.C.) 
+- all in China; Hospital Universitario Puerta de Hierro, Madrid (M.P.); Kindai 
+University Faculty of Medicine, Ohno-Higashi, Osaka-Sayama (T.M.), the 
+University of Occupational and Environmental Health, Kitakyushu (F.T.), and 
+Kanagawa Cancer Center, Yokohama (H.I.) - all in Japan; Dana-Farber Cancer 
+Institute, Boston (M.M.A., S.J.S.); Vall d'Hebron Institute of Oncology, 
+Barcelona (E.F.); Aberdeen Royal Infirmary, Aberdeen, United Kingdom (K.K.); 
+Institutul Oncologic Prof. Dr. Ion Chiricuta and Universitatea de Medicina si 
+Farmacie Iuliu Hatieganu, Cluj-Napoca, Romania (T.-E.C.); Charleston Oncology, 
+Charleston, SC (G.B.S.); University of Chicago Medicine, Chicago (E.E.V.); 
+Bristol Myers Squibb, Princeton, NJ (C.D., J.C., J.F., A.J., D.B., M.S., D.P., 
+C.Y.C.); and Institut du Thorax Curie-Montsouris, Institut Curie, Paris (N.G.).
+
+Comment in
+    N Engl J Med. 2022 May 26;386(21):2050-2051. doi: 10.1056/NEJMe2203330.
+    Nat Rev Clin Oncol. 2022 Aug;19(8):497-498. doi: 10.1038/s41571-022-00647-9.
+    Cancer Cell. 2022 Jun 13;40(6):603-605. doi: 10.1016/j.ccell.2022.05.010.
+    Cell Rep Med. 2022 Jul 19;3(7):100691. doi: 10.1016/j.xcrm.2022.100691.
+    N Engl J Med. 2022 Aug 11;387(6):571. doi: 10.1056/NEJMc2208133.
+    N Engl J Med. 2022 Aug 11;387(6):571-572. doi: 10.1056/NEJMc2208133.
+
+BACKGROUND: Neoadjuvant or adjuvant chemotherapy confers a modest benefit over 
+surgery alone for resectable non-small-cell lung cancer (NSCLC). In early-phase 
+trials, nivolumab-based neoadjuvant regimens have shown promising clinical 
+activity; however, data from phase 3 trials are needed to confirm these 
+findings.
+METHODS: In this open-label, phase 3 trial, we randomly assigned patients with 
+stage IB to IIIA resectable NSCLC to receive nivolumab plus platinum-based 
+chemotherapy or platinum-based chemotherapy alone, followed by resection. The 
+primary end points were event-free survival and pathological complete response 
+(0% viable tumor in resected lung and lymph nodes), both evaluated by blinded 
+independent review. Overall survival was a key secondary end point. Safety was 
+assessed in all treated patients.
+RESULTS: The median event-free survival was 31.6 months (95% confidence interval 
+[CI], 30.2 to not reached) with nivolumab plus chemotherapy and 20.8 months (95% 
+CI, 14.0 to 26.7) with chemotherapy alone (hazard ratio for disease progression, 
+disease recurrence, or death, 0.63; 97.38% CI, 0.43 to 0.91; P = 0.005). The 
+percentage of patients with a pathological complete response was 24.0% (95% CI, 
+18.0 to 31.0) and 2.2% (95% CI, 0.6 to 5.6), respectively (odds ratio, 13.94; 
+99% CI, 3.49 to 55.75; P<0.001). Results for event-free survival and 
+pathological complete response across most subgroups favored nivolumab plus 
+chemotherapy over chemotherapy alone. At the first prespecified interim 
+analysis, the hazard ratio for death was 0.57 (99.67% CI, 0.30 to 1.07) and did 
+not meet the criterion for significance. Of the patients who underwent 
+randomization, 83.2% of those in the nivolumab-plus-chemotherapy group and 75.4% 
+of those in the chemotherapy-alone group underwent surgery. Grade 3 or 4 
+treatment-related adverse events occurred in 33.5% of the patients in the 
+nivolumab-plus-chemotherapy group and in 36.9% of those in the 
+chemotherapy-alone group.
+CONCLUSIONS: In patients with resectable NSCLC, neoadjuvant nivolumab plus 
+chemotherapy resulted in significantly longer event-free survival and a higher 
+percentage of patients with a pathological complete response than chemotherapy 
+alone. The addition of nivolumab to neoadjuvant chemotherapy did not increase 
+the incidence of adverse events or impede the feasibility of surgery. (Funded by 
+Bristol Myers Squibb; CheckMate 816 ClinicalTrials.gov number, NCT02998528.).
+
+Copyright © 2022 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2202170
+PMCID: PMC9844511
+PMID: 35403841 [Indexed for MEDLINE]

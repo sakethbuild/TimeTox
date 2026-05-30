@@ -1,0 +1,76 @@
+11. J Clin Oncol. 2023 Feb 20;41(6):1213-1227. doi: 10.1200/JCO.22.00975. Epub
+2022  Nov 3.
+
+Durvalumab With or Without Tremelimumab in Combination With Chemotherapy as 
+First-Line Therapy for Metastatic Non-Small-Cell Lung Cancer: The Phase III 
+POSEIDON Study.
+
+Johnson ML(1), Cho BC(2), Luft A(3), Alatorre-Alexander J(4), Geater SL(5), 
+Laktionov K(6), Kim SW(7), Ursol G(8), Hussein M(9), Lim FL(10), Yang CT(11), 
+Araujo LH(12), Saito H(13), Reinmuth N(14), Shi X(15), Poole L(16), Peters 
+S(17), Garon EB(18), Mok T(19); POSEIDON investigators.
+
+Author information:
+(1)Sarah Cannon Research Institute, Tennessee Oncology, PLLC, Nashville, TN.
+(2)Yonsei Cancer Center, Seoul, South Korea.
+(3)Leningrad Regional Clinical Hospital, St Petersburg, Russia.
+(4)Health Pharma Professional Research, Mexico City, Mexico.
+(5)Prince of Songkla University, Songkhla, Thailand.
+(6)Federal State Budgetary Institution "N.N. Blokhin National Medical Research 
+Center of Oncology" of the Ministry of Health of the Russian Federation (N.N. 
+Blokhin NMRCO), Moscow, Russia.
+(7)Asan Medical Center, University of Ulsan College of Medicine, Seoul, South 
+Korea.
+(8)Acinus, Kropyvnytskyi, Ukraine.
+(9)Florida Cancer Specialists-Sarah Cannon Research Institute, Leesburg, FL.
+(10)Queen Mary University of London, London, United Kingdom.
+(11)Chang Gung Memorial Hospital, Taoyuan City, Taiwan.
+(12)Instituto Nacional de Cancer-INCA, Rio de Janeiro, Brazil.
+(13)Kanagawa Cancer Center, Yokohama, Japan.
+(14)Asklepios Lung Clinic, member of the German Center for Lung Research (DZL), 
+Munich-Gauting, Germany.
+(15)AstraZeneca, Gaithersburg, MD.
+(16)AstraZeneca, Cambridge, United Kingdom.
+(17)Centre Hospitalier Universitaire Vaudois, Lausanne University, Lausanne, 
+Switzerland.
+(18)David Geffen School of Medicine at UCLA, Los Angeles, CA.
+(19)State Key Laboratory of Translational Oncology, Department of Clinical 
+Oncology, Chinese University of Hong Kong, Hong Kong, China.
+
+Comment in
+    Transl Lung Cancer Res. 2023 Jul 31;12(7):1643-1648. doi: 
+10.21037/tlcr-23-200.
+
+PURPOSE: The open-label, phase III POSEIDON study evaluated tremelimumab plus 
+durvalumab and chemotherapy (T + D + CT) and durvalumab plus chemotherapy (D + 
+CT) versus chemotherapy alone (CT) in first-line metastatic non-small-cell lung 
+cancer (mNSCLC).
+METHODS: Patients (n = 1,013) with EGFR/ALK wild-type mNSCLC were randomly 
+assigned (1:1:1) to tremelimumab 75 mg plus durvalumab 1,500 mg and 
+platinum-based chemotherapy for up to four 21-day cycles, followed by durvalumab 
+once every 4 weeks until progression and one additional tremelimumab dose; 
+durvalumab plus chemotherapy for up to four 21-day cycles, followed by 
+durvalumab once every 4 weeks until progression; or chemotherapy for up to six 
+21-day cycles (with or without maintenance pemetrexed; all arms). Primary end 
+points were progression-free survival (PFS) and overall survival (OS) for D + CT 
+versus CT. Key alpha-controlled secondary end points were PFS and OS for T + D + 
+CT versus CT.
+RESULTS: PFS was significantly improved with D + CT versus CT (hazard ratio 
+[HR], 0.74; 95% CI, 0.62 to 0.89; P = .0009; median, 5.5 v 4.8 months); a trend 
+for improved OS did not reach statistical significance (HR, 0.86; 95% CI, 0.72 
+to 1.02; P = .0758; median, 13.3 v 11.7 months; 24-month OS, 29.6% v 22.1%). PFS 
+(HR, 0.72; 95% CI, 0.60 to 0.86; P = .0003; median, 6.2 v 4.8 months) and OS 
+(HR, 0.77; 95% CI, 0.65 to 0.92; P = .0030; median, 14.0 v 11.7 months; 24-month 
+OS, 32.9% v 22.1%) were significantly improved with T + D + CT versus CT. 
+Treatment-related adverse events were maximum grade 3/4 in 51.8%, 44.6%, and 
+44.4% of patients receiving T + D + CT, D + CT, and CT, respectively; 15.5%, 
+14.1%, and 9.9%, respectively, discontinued treatment because of 
+treatment-related adverse events.
+CONCLUSION: D + CT significantly improved PFS versus CT. A limited course of 
+tremelimumab added to durvalumab and chemotherapy significantly improved OS and 
+PFS versus CT, without meaningful additional tolerability burden, representing a 
+potential new option in first-line mNSCLC.
+
+DOI: 10.1200/JCO.22.00975
+PMCID: PMC9937097
+PMID: 36327426 [Indexed for MEDLINE]

@@ -1,0 +1,102 @@
+19. J Clin Oncol. 2020 Nov 10;38(32):3753-3762. doi: 10.1200/JCO.20.01164. Epub
+2020  Aug 21.
+
+MILO/ENGOT-ov11: Binimetinib Versus Physician's Choice Chemotherapy in Recurrent 
+or Persistent Low-Grade Serous Carcinomas of the Ovary, Fallopian Tube, or 
+Primary Peritoneum.
+
+Monk BJ(1), Grisham RN(2), Banerjee S(3), Kalbacher E(4), Mirza MR(5), Romero 
+I(6), Vuylsteke P(7)(8), Coleman RL(9), Hilpert F(10), Oza AM(11), Westermann 
+A(12), Oehler MK(13), Pignata S(14), Aghajanian C(1), Colombo N(15), Drill E(2), 
+Cibula D(16), Moore KN(17), Christy-Bittel J(18), Del Campo JM(19), Berger 
+R(20), Marth C(21), Sehouli J(22), O'Malley DM(23), Churruca C(24), Boyd AP(18), 
+Kristensen G(25), Clamp A(26), Ray-Coquard I(27), Vergote I(28).
+
+Author information:
+(1)Arizona Oncology (US Oncology Network), University of Arizona College of 
+Medicine, Creighton University School of Medicine, Phoenix, AZ.
+(2)Memorial Sloan Kettering Cancer Center, Weill Cornell Medical Center, New 
+York, NY.
+(3)Royal Marsden National Health Service Foundation Trust and Institute of 
+Cancer Research, London, United Kingdom.
+(4)Centre Hospitalier Régional et Universitaire de Besançon, CHRU de Besançon, 
+Besançon, France.
+(5)Nordic Society of Gynaecological Oncology and Rigshospitalet, Copenhagen 
+University Hospital, Copenhagen, Denmark.
+(6)Servicio de Oncologıa Medica, Fundacion Instituto Valenciano de Oncologıa, 
+Valencia, Spain.
+(7)CHU Université catholique de Louvain Namur, Sainte-Elisabeth, Namur, Belgium.
+(8)University of Botswana, Gaborone, Botswana.
+(9)MD Anderson Cancer Center, Houston, TX.
+(10)Onkologisches Therapiezentrum am Krankenhaus Jerusalem, Hamburg, Germany.
+(11)Princess Margaret Cancer Centre, Toronto, Ontario, Canada.
+(12)Dutch Gynaecological Oncology Group, Amsterdam University Medical Centers, 
+Amsterdam, the Netherlands.
+(13)Department of Gynaecological Oncology, Royal Adelaide Hospital, Adelaide, 
+South Australia 5005, Australia.
+(14)Istituto Nazionale Tumori Fondazione Pascale IRCCS, Naples, Italy.
+(15)Dipartimento Medicina e Chirurgia, Università Milano-Bicocca, Programma 
+Ginecologia Oncologica Istituto Europeo Oncologia, IRCCS, Milan, Italy.
+(16)First Faculty of Medicine, Charles University in Prague and General 
+University Hospital, Prague, Czech Republic.
+(17)Stephenson Cancer Center at The University of Oklahoma Health Sciences 
+Center, Oklahoma City, OK.
+(18)Pfizer, New York, NY.
+(19)Vall d'Hebron University Hospital, Barcelona, Spain.
+(20)University Clinic for Gynaecology and Obstetrics, Medical University of 
+Innsbruck, Innsbruck 6020, Austria.
+(21)Department of Obstetrics and Gynecology, Medical University of Innsbruck, 
+Austrian AGO, Innsbruck, Austria.
+(22)Center for Oncological Surgery, European Competence Center for Ovarian 
+Cancer Campus Virchow Klinikum and Benjamin Franklin Charité Comprehensive 
+Cancer Center , Medical University of Berlin, Berlin, Germany.
+(23)The Ohio State University Comprehensive Cancer Center - James Cancer 
+Hospital and Solove Research Institute, Columbus, OH.
+(24)Biodonostia HRI, Osasun Ikerketa Insitutua, Insituto de Investigacion 
+Sanitaria, San Sebastián, Gipuzkoa, Spain.
+(25)Department for Gynecologic Oncology and Institute for Cancer Genetics and 
+Informatics, Oslo University Hospital, Oslo, Norway.
+(26)Department of Medical Oncology, The Christie National Health Service 
+Foundation Trust, and University of Manchester, Manchester, United Kingdom.
+(27)Centre Léon Bérard, Netsarc Network, Université Claude Bernard Lyon 1, Lyon, 
+France.
+(28)Belgium and Luxemburg Gynaecological Oncology Group, University Hospitals 
+Leuven, Leuven, Belgium.
+
+Comment in
+    J Clin Oncol. 2020 Nov 10;38(32):3731-3734. doi: 10.1200/JCO.20.02190.
+
+PURPOSE: Low-grade serous ovarian carcinomas (LGSOCs) have historically low 
+chemotherapy responses. Alterations affecting the MAPK pathway, most commonly 
+KRAS/BRAF, are present in 30%-60% of LGSOCs. The purpose of this study was to 
+evaluate binimetinib, a potent MEK1/2 inhibitor with demonstrated activity 
+across multiple cancers, in LGSOC.
+METHODS: This was a 2:1 randomized study of binimetinib (45 mg twice daily) 
+versus physician's choice chemotherapy (PCC). Eligible patients had recurrent 
+measurable LGSOC after ≥ 1 prior platinum-based chemotherapy but ≤ 3 prior 
+chemotherapy lines. The primary end point was progression-free survival (PFS) by 
+blinded independent central review (BICR); additional assessments included 
+overall survival (OS), overall response rate (ORR), duration of response (DOR), 
+clinical-benefit rate, biomarkers, and safety.
+RESULTS: A total of 303 patients were randomly assigned to an arm of the study 
+at the time of interim analysis (January 20, 2016). Median PFS by BICR was 9.1 
+months (95% CI, 7.3 to 11.3) for binimetinib and 10.6 months (95% CI, 9.2 to 
+14.5) for PCC (hazard ratio,1.21; 95%CI, 0.79 to 1.86), resulting in early study 
+closure according to a prespecified futility boundary after 341 patients had 
+enrolled. Secondary efficacy end points were similar in the two groups: ORR 16% 
+(complete response [CR]/partial responses[PRs], 32) versus 13% (CR/PRs, 13); 
+median DOR, 8.1 months (range, 0.03 to ≥ 12.0 months) versus 6.7 months (0.03 to 
+≥ 9.7 months); and median OS, 25.3 versus 20.8 months for binimetinib and PCC, 
+respectively. Safety results were consistent with the known safety profile of 
+binimetinib; the most common grade ≥ 3 event was increased blood creatine kinase 
+level (26%). Post hoc analysis suggests a possible association between KRAS 
+mutation and response to binimetinib. Results from an updated analysis (n = 341; 
+January 2019) were consistent.
+CONCLUSION: Although the MEK Inhibitor in Low-Grade Serous Ovarian Cancer Study 
+did not meet its primary end point, binimetinib showed activity in LGSOC across 
+the efficacy end points evaluated. A higher response to chemotherapy than 
+expected was observed and KRAS mutation might predict response to binimetinib.
+
+DOI: 10.1200/JCO.20.01164
+PMCID: PMC7655017
+PMID: 32822286 [Indexed for MEDLINE]

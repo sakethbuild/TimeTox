@@ -1,0 +1,96 @@
+11. N Engl J Med. 2016 Dec 1;375(22):2154-2164. doi: 10.1056/NEJMoa1611310. Epub 
+2016 Oct 7.
+
+Niraparib Maintenance Therapy in Platinum-Sensitive, Recurrent Ovarian Cancer.
+
+Mirza MR(1), Monk BJ(1), Herrstedt J(1), Oza AM(1), Mahner S(1), Redondo A(1), 
+Fabbro M(1), Ledermann JA(1), Lorusso D(1), Vergote I(1), Ben-Baruch NE(1), 
+Marth C(1), Mądry R(1), Christensen RD(1), Berek JS(1), Dørum A(1), Tinker 
+AV(1), du Bois A(1), González-Martín A(1), Follana P(1), Benigno B(1), Rosenberg 
+P(1), Gilbert L(1), Rimel BJ(1), Buscema J(1), Balser JP(1), Agarwal S(1), 
+Matulonis UA(1); ENGOT-OV16/NOVA Investigators.
+
+Collaborators: Lund B, Malander S, Woie K, Hellman K, Nøttrup TJ, Havsteen H, 
+Sehouli J, Harter P, Canzler U, Lück HJ, Wölber L, Marmé F, Meier W, Heubner M, 
+Hilpert F, Emons G, Burges A, Bover Barcelo IM, Gil Martín M, Palacio Vázquez I, 
+Casado Herráez A, Maria del Campo JS, Lesoin A, Berton-Rigaud D, N’Guyen T, 
+Hardy-Bessard AC, Banerjee S, Lord R, Waters J, Montes A, Chan S, Williams SJ, 
+Barlow C, Mullard A, Colombo N, Scambia G, Tognon G, Scollo P, Kridelka FR, 
+Leroy C, Debruyne P, Huizing M, Rosengarten O, Levy T, Frommer RS, Fishman A, 
+Edelman D, Safra T, Amit A, Pikiel J, Suzin J, Mackowiak-Matejczyk B, 
+Reinthaller A, Petru E, Csoszi T, Bessette P, Provencher D, Lau S, Ellard S, 
+Ghatage P, Moore K, Wenham R, Pineda M, Azodi M, Mantia-Smaldone G, Cloven N, 
+Bailey C, Lee C, Secord A, Patel M, Method M, Callahan M, Veena J, Chan J, 
+Zarwan C, DiSilvestro P, Teneriello M, Gupta D, Geller M, Burris H, Slomovitz B, 
+Hendrickson AW, McCormick C, Hanjani P, Blank S, Haluska P, Matei D, Vasilev S, 
+Neidhart J, Boente M, Tchabo N, Miller D.
+
+Author information:
+(1)From the Nordic Society of Gynecological Oncology and 
+Rigshospitalet-Copenhagen University Hospital, Copenhagen (M.R.M.), Odense 
+University Hospital (J.H.) and European Network for Gynacological Oncological 
+Trial and Research Unit of General Practice, Institute of Public Health, 
+University of Southern Denmark, Odense (R.D.C.) - all in Denmark; University of 
+Arizona and Creighton University-Phoenix, Phoenix (B.J.M.), and Arizona Oncology 
+Associates, Tuscon (B.J.M., J.B.) - all in Arizona; Princess Margaret 
+Consortium, Princess Margaret Cancer Centre, University Health Network, 
+University of Toronto, Toronto (A.M.O.), British Columbia Cancer Agency, 
+Vancouver (A.V.T.), and McGill University-McGill University Health Centre, 
+Montreal (L.G.) - all in Canada; Arbeitsgemeinschaft Gynäkologische Onkologie 
+(AGO) and the University of Munich, Munich (S.M.), and Kliniken Essen Mitte, 
+Essen (A.B.) - both in Germany; Grupo Español de Investigación en Cáncer de 
+Ovario (GEICO) and Hospital Universitario La Paz (A.R.), and GEICO and M.D. 
+Anderson Cancer Center Madrid (A.G.-M.), Madrid; French Investigator Group for 
+Ovarian and Breast Cancer (GINECO) and Institut du Cancer de Montpellier, 
+Montpellier (M.F.), and GINECO and Centre Antoine Lacassagne, Nice (P.F.) - both 
+in France; National Cancer Research Institute and UCL Cancer Institute, 
+University College London, London (J.A.L.); Multicenter Italian Trials in 
+Ovarian Cancer/Mario Negri Gynecologic Oncology Group, Fondazione Istituto di 
+Ricovero e Cura a Carattere Scientifico, Istituto Nazionale dei Tumori, Milan 
+(D.L.); Belgium and Luxembourg Gynecological Oncology Group and University of 
+Leuven, Leuven, Belgium (I.V.); Kaplan Medical Center, Rehovot, Israel 
+(N.E.B.-B.); AGO-Austria and Medical University Innsbruck, Innsbruck, Austria 
+(C.M.); Central and Eastern European Gynecologic Oncology Group and Uniwersytet 
+Medyczny w Poznaniu, Poznan, Poland (R.M.); Stanford Comprehensive Cancer 
+Institute, Stanford (J.S.B.), and Cedars-Sinai Medical Center, West Hollywood 
+(B.J.R.) - both in California; Oslo University Hospital, Radiumhospitalet, Oslo 
+(A.D.); Northside Hospital, Atlanta (B.B.); Universitetssjukhuset, Linköping, 
+Sweden (P.R.); and Veristat, Southborough (J.P.B.), Tesaro, Waltham (S.A.), and 
+Dana-Farber Cancer Institute, Boston (U.A.M.) - all in Massachusetts.
+
+Comment in
+    Nat Rev Clin Oncol. 2017 Feb;14(2):71. doi: 10.1038/nrclinonc.2016.207.
+    N Engl J Med. 2016 Dec;375(22):2197-2198. doi: 10.1056/NEJMe1612843.
+    N Engl J Med. ;376(8):801. doi: 10.1056/NEJMc1616633.
+
+BACKGROUND: Niraparib is an oral poly(adenosine diphosphate [ADP]-ribose) 
+polymerase (PARP) 1/2 inhibitor that has shown clinical activity in patients 
+with ovarian cancer. We sought to evaluate the efficacy of niraparib versus 
+placebo as maintenance treatment for patients with platinum-sensitive, recurrent 
+ovarian cancer.
+METHODS: In this randomized, double-blind, phase 3 trial, patients were 
+categorized according to the presence or absence of a germline BRCA mutation 
+(gBRCA cohort and non-gBRCA cohort) and the type of non-gBRCA mutation and were 
+randomly assigned in a 2:1 ratio to receive niraparib (300 mg) or placebo once 
+daily. The primary end point was progression-free survival.
+RESULTS: Of 553 enrolled patients, 203 were in the gBRCA cohort (with 138 
+assigned to niraparib and 65 to placebo), and 350 patients were in the non-gBRCA 
+cohort (with 234 assigned to niraparib and 116 to placebo). Patients in the 
+niraparib group had a significantly longer median duration of progression-free 
+survival than did those in the placebo group, including 21.0 vs. 5.5 months in 
+the gBRCA cohort (hazard ratio, 0.27; 95% confidence interval [CI], 0.17 to 
+0.41), as compared with 12.9 months vs. 3.8 months in the non-gBRCA cohort for 
+patients who had tumors with homologous recombination deficiency (HRD) (hazard 
+ratio, 0.38; 95% CI, 0.24 to 0.59) and 9.3 months vs. 3.9 months in the overall 
+non-gBRCA cohort (hazard ratio, 0.45; 95% CI, 0.34 to 0.61; P<0.001 for all 
+three comparisons). The most common grade 3 or 4 adverse events that were 
+reported in the niraparib group were thrombocytopenia (in 33.8%), anemia (in 
+25.3%), and neutropenia (in 19.6%), which were managed with dose modifications.
+CONCLUSIONS: Among patients with platinum-sensitive, recurrent ovarian cancer, 
+the median duration of progression-free survival was significantly longer among 
+those receiving niraparib than among those receiving placebo, regardless of the 
+presence or absence of gBRCA mutations or HRD status, with moderate bone marrow 
+toxicity. (Funded by Tesaro; ClinicalTrials.gov number, NCT01847274 .).
+
+DOI: 10.1056/NEJMoa1611310
+PMID: 27717299 [Indexed for MEDLINE]

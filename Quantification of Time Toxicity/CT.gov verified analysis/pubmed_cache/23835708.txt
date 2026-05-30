@@ -1,0 +1,50 @@
+6. J Clin Oncol. 2013 Aug 20;31(24):3004-11. doi: 10.1200/JCO.2012.42.3749. Epub 
+2013 Jul 8.
+
+Randomized phase III trial of maintenance bevacizumab with or without pemetrexed 
+after first-line induction with bevacizumab, cisplatin, and pemetrexed in 
+advanced nonsquamous non-small-cell lung cancer: AVAPERL (MO22089).
+
+Barlesi F(1), Scherpereel A, Rittmeyer A, Pazzola A, Ferrer Tur N, Kim JH, Ahn 
+MJ, Aerts JG, Gorbunova V, Vikström A, Wong EK, Perez-Moreno P, Mitchell L, 
+Groen HJ.
+
+Author information:
+(1)Aix Marseille University-Assistance Publique Hôpitaux de Marseille and Centre 
+d'Investigation Clinique, Marseille, France. fabrice.barlesi@mail.ap-hm.fr
+
+Comment in
+    J Clin Oncol. 2013 Aug 20;31(24):2983-90. doi: 10.1200/JCO.2012.48.5201.
+    Nat Rev Clin Oncol. 2013 Oct;10(10):549-50. doi: 10.1038/nrclinonc.2013.152.
+    J Clin Oncol. 2014 Feb 10;32(5):479-80. doi: 10.1200/JCO.2013.53.7175.
+    J Clin Oncol. 2014 Feb 10;32(5):478-9. doi: 10.1200/JCO.2013.52.5451.
+
+PURPOSE: Maintenance therapy is associated with improved survival in patients 
+with non-small-cell lung cancer (NSCLC), but few studies have compared active 
+agents in this setting. AVAPERL evaluated the safety and efficacy of bevacizumab 
+with or without pemetrexed as continuation maintenance treatment.
+PATIENTS AND METHODS: Patients with advanced nonsquamous NSCLC received 
+first-line bevacizumab 7.5 mg/kg, cisplatin 75 mg/m(2), and pemetrexed 500 
+mg/m(2) once every 3 weeks for four cycles. Those achieving response or stable 
+disease were randomly assigned at a ratio of 1:1 to maintenance bevacizumab 7.5 
+mg/kg or bevacizumab 7.5 mg/kg plus pemetrexed 500 mg/m(2) once every 3 weeks 
+until disease progression or unacceptable toxicity. The primary end point was 
+progression-free survival (PFS) after random assignment.
+RESULTS: In total, 376 patients received induction treatment, 71.9% achieved 
+disease control, and 67.3% were randomly assigned to maintenance therapy, with 
+125 and 128 receiving single-agent bevacizumab and bevacizumab plus pemetrexed 
+treatment, respectively. At a median follow-up of 8.1 months, PFS from random 
+assignment was significantly improved in the bevacizumab plus pemetrexed arm 
+(median, 3.7 v 7.4 months; hazard ratio, 0.48; 95% CI, 0.35 to 0.66; P < .001) 
+per a stratified model. The PFS benefit extended across age, performance status, 
+smoking history, and induction response (stable disease v partial response) 
+subgroups. Any grade, grade ≥ 3, and serious adverse events occurred more often 
+with bevacizumab plus pemetrexed maintenance. No new safety signals were 
+observed.
+CONCLUSION: In an unselected population of patients with nonsquamous NSCLC who 
+had achieved disease control with platinum-based chemotherapy plus bevacizumab, 
+bevacizumab plus pemetrexed maintenance was associated with a significant PFS 
+benefit compared with bevacizumab alone. The combination was well tolerated.
+
+DOI: 10.1200/JCO.2012.42.3749
+PMID: 23835708 [Indexed for MEDLINE]

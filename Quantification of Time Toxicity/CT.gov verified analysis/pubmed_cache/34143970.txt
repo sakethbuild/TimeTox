@@ -1,0 +1,146 @@
+5. Lancet Oncol. 2021 Jul;22(7):1034-1046. doi: 10.1016/S1470-2045(21)00216-3.
+Epub  2021 Jun 15.
+
+Avelumab alone or in combination with chemotherapy versus chemotherapy alone in 
+platinum-resistant or platinum-refractory ovarian cancer (JAVELIN Ovarian 200): 
+an open-label, three-arm, randomised, phase 3 study.
+
+Pujade-Lauraine E(1), Fujiwara K(2), Ledermann JA(3), Oza AM(4), Kristeleit 
+R(3), Ray-Coquard IL(5), Richardson GE(6), Sessa C(7), Yonemori K(8), Banerjee 
+S(9), Leary A(10), Tinker AV(11), Jung KH(12), Madry R(13), Park SY(14), 
+Anderson CK(15), Zohren F(16), Stewart RA(17), Wei C(18), Dychter SS(17), Monk 
+BJ(19).
+
+Author information:
+(1)ARCAGY-GINECO, Paris, France. Electronic address: epujade@arcagy.org.
+(2)Saitama Medical University International Medical Center, Hidaka, Saitama, 
+Japan.
+(3)University College London Cancer Institute, London, UK; University College 
+London Hospitals, London, UK.
+(4)Princess Margaret Cancer Centre, Toronto, ON, Canada.
+(5)Centre Léon Bérard, Service de Cancérologie Médicale, Université Claude 
+Bernard Lyon 1, Lyon, France; Groupe d'Investigateurs Nationaux pour l'Etude des 
+Cancers Ovariens (GINECO), Paris, France.
+(6)Cabrini Hospital, Department of Medical Oncology, Malvern, VIC, Australia.
+(7)Oncology Institute of Southern Switzerland, Ospedale San Giovanni, 
+Bellinzona, Switzerland.
+(8)Department of Breast and Medical Oncology, National Cancer Center Hospital, 
+Chuo-ku, Tokyo, Japan.
+(9)The Royal Marsden NHS Foundation Trust, London, UK; The Institute of Cancer 
+Research, London, UK.
+(10)Groupe d'Investigateurs Nationaux pour l'Etude des Cancers Ovariens 
+(GINECO), Paris, France; Gustave Roussy Cancer Campus, Villejuif, France.
+(11)BC Cancer-Vancouver, Vancouver, BC, Canada.
+(12)Department of Oncology, Asan Medical Center, University of Ulsan College of 
+Medicine, Songpa-gu, Seoul, South Korea.
+(13)Poznan University of Medical Sciences, Department of Oncology, Poznan, 
+Poland.
+(14)Center for Uterine Cancer, National Cancer Center, Ilsandong-gu, Goyang-si, 
+Gyeonggi-do, South Korea.
+(15)Willamette Valley Cancer Institute and Research Center, Eugene, OR, USA.
+(16)Pfizer Oncology, Cambridge, MA, USA.
+(17)Pfizer Oncology, San Diego, CA, USA.
+(18)Pfizer, Global Biometrics and Data Management, Groton, CT, USA.
+(19)Arizona Oncology (US Oncology Network), University of Arizona College of 
+Medicine, Creighton University School of Medicine, Phoenix, AZ, USA.
+
+Comment in
+    Lancet Oncol. 2021 Jul;22(7):903-905. doi: 10.1016/S1470-2045(21)00303-X.
+
+BACKGROUND: Most patients with ovarian cancer will relapse after receiving 
+frontline platinum-based chemotherapy and eventually develop platinum-resistant 
+or platinum-refractory disease. We report results of avelumab alone or avelumab 
+plus pegylated liposomal doxorubicin (PLD) compared with PLD alone in patients 
+with platinum-resistant or platinum-refractory ovarian cancer.
+METHODS: JAVELIN Ovarian 200 was an open-label, parallel-group, three-arm, 
+randomised, phase 3 trial, done at 149 hospitals and cancer treatment centres in 
+24 countries. Eligible patients were aged 18 years or older with epithelial 
+ovarian, fallopian tube, or peritoneal cancer (maximum of three previous lines 
+for platinum-sensitive disease, none for platinum-resistant disease) and an 
+Eastern Cooperative Oncology Group performance status of 0 or 1. Patients were 
+randomly assigned (1:1:1) via interactive response technology to avelumab (10 
+mg/kg intravenously every 2 weeks), avelumab plus PLD (40 mg/m2 intravenously 
+every 4 weeks), or PLD and stratified by disease platinum status, number of 
+previous anticancer regimens, and bulky disease. Primary endpoints were 
+progression-free survival by blinded independent central review and overall 
+survival in all randomly assigned patients, with the objective to show whether 
+avelumab alone or avelumab plus PLD is superior to PLD. Safety was assessed in 
+all patients who received at least one dose of study treatment. This trial is 
+registered with ClinicalTrials.gov, NCT02580058. The trial is no longer 
+enrolling patients and this is the final analysis of both primary endpoints.
+FINDINGS: Between Jan 5, 2016, and May 16, 2017, 566 patients were enrolled and 
+randomly assigned (combination n=188; PLD n=190, avelumab n=188). At data cutoff 
+(Sept 19, 2018), median duration of follow-up for overall survival was 18·4 
+months (IQR 15·6-21·9) for the combination group, 17·4 months (15·2-21·3) for 
+the PLD group, and 18·2 months (15·8-21·2) for the avelumab group. Median 
+progression-free survival by blinded independent central review was 3·7 months 
+(95% CI 3·3-5·1) in the combination group, 3·5 months (2·1-4·0) in the PLD 
+group, and 1·9 months (1·8-1·9) in the avelumab group (combination vs PLD: 
+stratified HR 0·78 [repeated 93·1% CI 0·59-1·24], one-sided p=0·030; avelumab vs 
+PLD: 1·68 [1·32-2·60], one-sided p>0·99). Median overall survival was 15·7 
+months (95% CI 12·7-18·7) in the combination group, 13·1 months (11·8-15·5) in 
+the PLD group, and 11·8 months (8·9-14·1) in the avelumab group (combination vs 
+PLD: stratified HR 0·89 [repeated 88·85% CI 0·74-1·24], one-sided p=0·21; 
+avelumab vs PLD: 1·14 [0·95-1·58], one-sided p=0·83]). The most common grade 3 
+or worse treatment-related adverse events were palmar-plantar erythrodysesthesia 
+syndrome (18 [10%] in the combination group vs nine [5%] in the PLD group vs 
+none in the avelumab group), rash (11 [6%] vs three [2%] vs none), fatigue (ten 
+[5%] vs three [2%] vs none), stomatitis (ten [5%] vs five [3%] vs none), anaemia 
+(six [3%] vs nine [5%] vs three [2%]), neutropenia (nine [5%] vs nine [5%] vs 
+none), and neutrophil count decreased (eight [5%] vs seven [4%] vs none). 
+Serious treatment-related adverse events occurred in 32 (18%) patients in the 
+combination group, 19 (11%) in the PLD group, and 14 (7%) in the avelumab group. 
+Treatment-related adverse events resulted in death in one patient each in the 
+PLD group (sepsis) and avelumab group (intestinal obstruction).
+INTERPRETATION: Neither avelumab plus PLD nor avelumab alone significantly 
+improved progression-free survival or overall survival versus PLD. These results 
+provide insights for patient selection in future studies of immune checkpoint 
+inhibitors in platinum-resistant or platinum-refractory ovarian cancer.
+FUNDING: Pfizer and Merck KGaA, Darmstadt, Germany.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(21)00216-3
+PMID: 34143970 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests EP-L reports personal 
+fees from AstraZeneca, Clovis Oncology, Incyte, Pfizer, Roche, and Tesaro; 
+non-financial support from AstraZeneca, Roche, and Tesaro; and is the chair of 
+ARCAGY-Research. KF reports grants and personal fees from Pfizer during the 
+conduct of the study; and grants and personal fees from AstraZeneca, Chugai 
+Pharma, Eisai, Genmab, Merck & Co, Taiho Pharmaceutical, and Zeria 
+Pharmaceutical; grants from GSK, Immunogen, Lilly, OncoTherapy, and Regeneron; 
+and personal fees from Daiichi Sankyo, Janssen, Kyowa Hakko Kirin, Mochida, 
+Nippon Kayaku, and Novartis outside the submitted work. JAL reports serving as a 
+consultant or advisor for Artios Pharma, AstraZeneca, Clovis Oncology, Eisai, 
+GSK, Merck & Co, and Pfizer; has received research funding from AstraZeneca and 
+Merck & Co; has received honoraria from AstraZeneca, Clovis Oncology, Eisai, and 
+GSK; and has participated in an independent monitoring committee for Regeneron. 
+RK reports personal fees from Clovis Oncology, Eisai, GSK, Incyte, and Roche; 
+has received non-financial support from GSK; and grants from Merck & Co. I-LR-C 
+reports personal fees from AstraZeneca, Clovis Oncology, GSK, Merck KGaA, 
+Mersana Therapeutics, and Roche; received grants from Bristol Myers Squibb and 
+GSK; and has received reimbursement for travel and accommodation expenses from 
+AstraZeneca and GSK. KY reports serving as a consultant or advisor for 
+AstraZeneca, Chugai Pharma, Eisai, Novartis, and Takeda; and received honoraria 
+from AstraZeneca, Eisai, Pfizer, Takeda, and Taiho Pharmaceutical. SB reports 
+personal fees from AstraZeneca, Clovis Oncology, Genmab, Immunogen, Merck KGaA, 
+Mersana Therapeutics, Pfizer, Roche, and Tesaro; and has received grants from 
+AstraZeneca, GSK, Merck & Co, and Tesaro. AL reports grants from Pfizer during 
+the conduct of the study; serving as a consultant or advisor for AstraZeneca, 
+BIOCAD, Clovis Oncology, GSK/Tesaro, Merck KGaA, Merck & Co, and Zentalis 
+Pharmaceuticals; and has received reimbursement for travel and accommodation 
+expenses from AstraZeneca, Clovis Oncology, and GSK/Tesaro. AVT has received 
+honoraria and grants from AstraZeneca. KHJ reports personal fees from 
+AstraZeneca, Celgene, Novartis, Roche, and Takeda Pharmaceuticals. FZ reports 
+employment at and holds stock in Pfizer. RAS reports employment at Pfizer at the 
+time when the study was conducted. CW reports employment at and holds stock in 
+Pfizer. SSD reports employment at Pfizer. BJM reports serving as a consultant or 
+advisor for and has received honoraria from Agenus, Akeso Bio, Aravive, 
+AstraZeneca, Clovis Oncology, Eisai, Elevar Therapeutics, Genmab/Seattle 
+Genetics, GOG Foundation, Gradalis, ImmunoGen, Iovance, Karyopharm, Merck & Co, 
+Mersana Therapeutics, Myriad Pharma, Novocure, Pfizer, Puma Biotechnology, 
+Roche/Genentech, Tesaro/GSK, and VBL Therapeutics; is a member of a speakers' 
+bureau for AstraZeneca, Clovis Oncology, Eisai, Merck & Co, Roche/Genentech, and 
+Tesaro/GSK; and reports employment at McKesson/US Oncology. All other authors 
+declare no competing interests.

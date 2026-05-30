@@ -1,0 +1,81 @@
+1. N Engl J Med. 2012 Oct 18;367(16):1487-96. doi: 10.1056/NEJMoa1203517.
+
+Peripheral-blood stem cells versus bone marrow from unrelated donors.
+
+Anasetti C(1), Logan BR, Lee SJ, Waller EK, Weisdorf DJ, Wingard JR, Cutler CS, 
+Westervelt P, Woolfrey A, Couban S, Ehninger G, Johnston L, Maziarz RT, 
+Pulsipher MA, Porter DL, Mineishi S, McCarty JM, Khan SP, Anderlini P, Bensinger 
+WI, Leitman SF, Rowley SD, Bredeson C, Carter SL, Horowitz MM, Confer DL; Blood 
+and Marrow Transplant Clinical Trials Network.
+
+Collaborators: Horowitz MM, Carter SL, Confer DL, DiFronzo N, Wagner E, Merritt 
+W, Wu R, Anasetti C, Logan BR, Lee SJ, Waller EK, Weisdorf DJ, Wingard JR, 
+Couban S, Anderlini P, Bensinger WI, Leitman SF, Rowley SD, Carter SL, Karanes 
+C, Horowitz MM, Confer DL, Allen C, Colby C, Gurgol C, Knust K, Foley A, King R, 
+Mitchell P, Couban S, Pulsipher MA, Ehninger G, Johnston L, Khan SP, Maziarz RT, 
+McCarty JM, Mineishi S, Porter DL, Bredeson C, Anasetti C, Lee S, Waller EK, 
+Wingard JR, Cutler CS, Westervelt P, Woolfrey A, Logan BR, Carter SL, Lee SJ, 
+Waller EK, Anasetti C, Logan BR, Lee SJ, Stadtmauer E, Wingard J, Vose J, 
+Lazarus H, Cowan M, Wingard J, Westervelt P, Litzow M, Wu R, Geller N, Carter S, 
+Confer D, Horowitz M, Poland N, Krance R, Carrum G, Agura E, Nademanee A, Sahdev 
+I, Cutler C, Horwitz ME, Kurtzberg J, Waller EK, Woolfrey A, Rowley S, 
+Brochstein J, Leber B, Wasi P, Roy J, Jansen J, Stiff PJ, Khan S, Devine S, 
+Maziarz R, Nemecek E, Huebsch L, Couban S, McCarthy P, Johnston L, Shaughnessy 
+P, Savoie L, Ball E, Vaughan W, Cowan M, Horn B, Wingard J, Silverman M, 
+Abhyankar S, McGuirk J, Yanovich S, Ferrara J, Weisdorf D, Faber E Jr, Selby G, 
+Rooms LM, Porter D, Agha M, Anderlini P, Lipton J, Pulsipher MA, Pulsipher MA, 
+Shepherd J, Toze C, Kassim A, Frangoul H, McCarty J, Hurd D, DiPersio J, 
+Westervelt P, Shenoy S, Agura E, Culler E, Axelrod F, Chambers L, Senaldi E, 
+Nguyen KA, Engelman E, Hartzman R, Sutor L, Dickson L, Nademanee A, Khalife G, 
+Lenes BA, Eames G, Sibley D, Gale P, Antin J, Ehninger G, Newberg NR, Gammon R, 
+Montgomery M, Mair B, Rossmann S, Wada R, Waxman D, Ranlett R, Silverman M, 
+Herzig G, Fried M, Atkinson E, Weitekamp L, Bigelow C, Miller JP, Miller JP, 
+Miller JP, Miller JP, Miller JP, Miller JP, Miller JP, Miller JP, Miller JP, 
+Miller JP, Miller JP, Miller JP, Miller JP, Miller JP, Miller JP, Miller JP, 
+Price T, Young C, Hilbert R, Oh D, Cable C, Smith JW, Kalmin ND, Schultheiss K, 
+Beck T, Lankiewicz MW, Sharp D.
+
+Author information:
+(1)H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL 33612, USA. 
+claudio.anasetti@moffitt.org.
+
+Comment in
+    N Engl J Med. 2012 Oct 18;367(16):1555-6. doi: 10.1056/NEJMe1209982.
+    N Engl J Med. 2013 Jan 17;368(3):288. doi: 10.1056/NEJMc1214025.
+    N Engl J Med. 2013 Jan 17;368(3):287-8. doi: 10.1056/NEJMc1214025.
+
+BACKGROUND: Randomized trials have shown that the transplantation of 
+filgrastim-mobilized peripheral-blood stem cells from HLA-identical siblings 
+accelerates engraftment but increases the risks of acute and chronic 
+graft-versus-host disease (GVHD), as compared with the transplantation of bone 
+marrow. Some studies have also shown that peripheral-blood stem cells are 
+associated with a decreased rate of relapse and improved survival among 
+recipients with high-risk leukemia.
+METHODS: We conducted a phase 3, multicenter, randomized trial of 
+transplantation of peripheral-blood stem cells versus bone marrow from unrelated 
+donors to compare 2-year survival probabilities with the use of an 
+intention-to-treat analysis. Between March 2004 and September 2009, we enrolled 
+551 patients at 48 centers. Patients were randomly assigned in a 1:1 ratio to 
+peripheral-blood stem-cell or bone marrow transplantation, stratified according 
+to transplantation center and disease risk. The median follow-up of surviving 
+patients was 36 months (interquartile range, 30 to 37).
+RESULTS: The overall survival rate at 2 years in the peripheral-blood group was 
+51% (95% confidence interval [CI], 45 to 57), as compared with 46% (95% CI, 40 
+to 52) in the bone marrow group (P=0.29), with an absolute difference of 5 
+percentage points (95% CI, -3 to 14). The overall incidence of graft failure in 
+the peripheral-blood group was 3% (95% CI, 1 to 5), versus 9% (95% CI, 6 to 13) 
+in the bone marrow group (P=0.002). The incidence of chronic GVHD at 2 years in 
+the peripheral-blood group was 53% (95% CI, 45 to 61), as compared with 41% (95% 
+CI, 34 to 48) in the bone marrow group (P=0.01). There were no significant 
+between-group differences in the incidence of acute GVHD or relapse.
+CONCLUSIONS: We did not detect significant survival differences between 
+peripheral-blood stem-cell and bone marrow transplantation from unrelated 
+donors. Exploratory analyses of secondary end points indicated that 
+peripheral-blood stem cells may reduce the risk of graft failure, whereas bone 
+marrow may reduce the risk of chronic GVHD. (Funded by the National Heart, Lung, 
+and Blood Institute-National Cancer Institute and others; ClinicalTrials.gov 
+number, NCT00075816.).
+
+DOI: 10.1056/NEJMoa1203517
+PMCID: PMC3816375
+PMID: 23075175 [Indexed for MEDLINE]

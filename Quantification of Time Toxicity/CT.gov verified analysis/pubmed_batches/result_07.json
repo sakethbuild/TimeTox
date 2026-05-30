@@ -1,0 +1,299 @@
+[
+  {
+    "filename": "PMID 35660812 a_Summary_SoE.pdf",
+    "pmid": "35660812",
+    "trial_design_summary": "RVD with vs without HDT/autologous transplant in myeloma",
+    "arms": [
+      {"arm_name": "Arm A (Conventional Dose RVD)", "designation": "control", "evidence": "Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma"},
+      {"arm_name": "Arm B (RVD plus HDT/PBSCT)", "designation": "intervention", "evidence": "Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma"},
+      {"arm_name": "Arm B (RVD + PBSCT)", "designation": "intervention", "evidence": "Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma"}
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 35728048 a_Summary_SoE.pdf",
+    "pmid": "35728048",
+    "trial_design_summary": "Pevonedistat plus azacitidine vs azacitidine alone in higher-risk MDS/CMML/AML",
+    "arms": [
+      {"arm_name": "Arm B (Azacitidine alone)", "designation": "control", "evidence": "phase 3 trial of pevonedistat+azacitidine (n = 227) vs azacitidine monotherapy (n = 227)"},
+      {"arm_name": "Arm A (Pevonedistat + Azacitidine)", "designation": "intervention", "evidence": "phase 3 trial of pevonedistat+azacitidine (n = 227) vs azacitidine monotherapy (n = 227)"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 35759733a_Summary_SoE.pdf",
+    "pmid": "35759733",
+    "trial_design_summary": "Maintenance taxanes (paclitaxel or paclitaxel poliglumex) vs surveillance in ovarian cancer",
+    "arms": [
+      {"arm_name": "Regimen III (No treatment / Surveillance)", "designation": "control", "evidence": "compare taxane maintenance chemotherapy, paclitaxel (P) and paclitaxel poliglumex (PP), with surveillance (S)"},
+      {"arm_name": "Regimen I (CT-2103)", "designation": "intervention", "evidence": "compare taxane maintenance chemotherapy, paclitaxel (P) and paclitaxel poliglumex (PP), with surveillance (S)"},
+      {"arm_name": "Regimen II (Paclitaxel)", "designation": "intervention", "evidence": "compare taxane maintenance chemotherapy, paclitaxel (P) and paclitaxel poliglumex (PP), with surveillance (S)"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 35810754 CT_Summary_SoE.pdf",
+    "pmid": "35810754",
+    "trial_design_summary": "Zanubrutinib vs bendamustine-rituximab in untreated CLL/SLL (SEQUOIA)",
+    "arms": [
+      {"arm_name": "Arm B (Bendamustine + Rituximab)", "designation": "control", "evidence": "We compared zanubrutinib with bendamustine-rituximab to determine its effectiveness as frontline therapy"},
+      {"arm_name": "Arm A/C (Zanubrutinib)", "designation": "intervention", "evidence": "Zanubrutinib is a next-generation, selective Bruton tyrosine kinase inhibitor"},
+      {"arm_name": "Arm D (Venetoclax + Zanubrutinib)", "designation": "unresolved", "evidence": ""}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 35857290 a_Summary_SoE.pdf",
+    "pmid": "35857290",
+    "trial_design_summary": "Topical hypericin photodynamic therapy vs placebo for early-stage CTCL (FLASH)",
+    "arms": [
+      {"arm_name": "Arm B (Placebo + Light)", "designation": "control", "evidence": "patients were randomized 2:1 to receive hypericin or placebo to 3 index lesions twice weekly"},
+      {"arm_name": "Arm A (SGX301 + Light)", "designation": "intervention", "evidence": "hypericin PDT was more effective than placebo (cycle 1 ILRR, 16% vs 4%; P = .04)"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36162037 a_Summary_SoE.pdf",
+    "pmid": "36162037",
+    "trial_design_summary": "Adjuvant nivolumab plus ipilimumab vs nivolumab alone in resected melanoma (CheckMate 915)",
+    "arms": [
+      {"arm_name": "Arm B (Nivolumab Monotherapy)", "designation": "control", "evidence": "reaffirming nivolumab as a standard of care for melanoma adjuvant treatment"},
+      {"arm_name": "Arm A (Nivolumab + Ipilimumab)", "designation": "intervention", "evidence": "evaluated adjuvant nivolumab plus ipilimumab versus nivolumab alone"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36308441 a_Summary_SoE.pdf",
+    "pmid": "36308441",
+    "trial_design_summary": "Calmangafodipir (two doses) vs placebo with FOLFOX to prevent oxaliplatin neuropathy (POLAR-M)",
+    "arms": [
+      {"arm_name": "Placebo + mFOLFOX6", "designation": "control", "evidence": "randomly assigned 1:1:1 to receive CaM 5 μmol/kg, CaM 2 μmol/kg, or placebo"},
+      {"arm_name": "CaM 5 µmol/kg + mFOLFOX6", "designation": "intervention", "evidence": "assess efficacy and safety of CaM in the prevention of CIPN in patients treated with oxaliplatin"},
+      {"arm_name": "CaM 2 µmol/kg + mFOLFOX6", "designation": "intervention", "evidence": "assess efficacy and safety of CaM in the prevention of CIPN in patients treated with oxaliplatin"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36327426 a_Summary_SoE.pdf",
+    "pmid": "36327426",
+    "trial_design_summary": "Durvalumab +/- tremelimumab plus chemo vs chemo alone in first-line mNSCLC (POSEIDON)",
+    "arms": [
+      {"arm_name": "Arm 3 (SoC Chemotherapy)", "designation": "control", "evidence": "durvalumab plus chemotherapy (D + CT) versus chemotherapy alone (CT)"},
+      {"arm_name": "Arm 1 (Durvalumab + Tremelimumab + SoC Chemotherapy)", "designation": "intervention", "evidence": "evaluated tremelimumab plus durvalumab and chemotherapy (T + D + CT) ... versus chemotherapy alone (CT)"},
+      {"arm_name": "Arm 2 (Durvalumab + SoC Chemotherapy)", "designation": "intervention", "evidence": "durvalumab plus chemotherapy (D + CT) versus chemotherapy alone (CT)"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36541957 a_Summary_SoE.pdf",
+    "pmid": "36541957",
+    "trial_design_summary": "Ibrutinib plus RICE/RVICI vs RICE/RVICI alone in pediatric R/R B-NHL (SPARKLE)",
+    "arms": [
+      {"arm_name": "Arm B (CIT alone)", "designation": "control", "evidence": "evaluating the efficacy of ibrutinib plus RICE or RVICI vs RICE/RVICI alone"},
+      {"arm_name": "Arm A (Ibrutinib + CIT)", "designation": "intervention", "evidence": "evaluating the efficacy of ibrutinib plus RICE or RVICI vs RICE/RVICI alone"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36669140 a_Summary_SoE.pdf",
+    "pmid": "36669140",
+    "trial_design_summary": "Ganitumab added to interval-compressed chemotherapy vs chemotherapy in metastatic Ewing sarcoma",
+    "arms": [
+      {"arm_name": "Arm A (Regimen A: VDC/IE Chemotherapy)", "designation": "control", "evidence": "randomly assigned 1:1 at enrollment to standard arm (interval-compressed vincristine/doxorubicin/cyclophosphamide ... = VDC/IE)"},
+      {"arm_name": "Arm B (Regimen B: VDC/IE + Ganitumab)", "designation": "intervention", "evidence": "or to experimental arm (VDC/IE with ganitumab at cycle starts and as monotherapy)"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36709073 CT_Summary_SoE.pdf",
+    "pmid": "36709073",
+    "trial_design_summary": "Momelotinib vs danazol in anemic myelofibrosis (MOMENTUM)",
+    "arms": [
+      {"arm_name": "Arm B (Danazol)", "designation": "control", "evidence": "confirm the differentiated clinical benefits of momelotinib versus the active comparator danazol"},
+      {"arm_name": "Arm A (Momelotinib)", "designation": "intervention", "evidence": "Momelotinib, a first-in-class inhibitor ... has shown symptom, spleen, and anaemia benefits in myelofibrosis"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36795891 a_Summary_SoE.pdf",
+    "pmid": "36795891",
+    "trial_design_summary": "Rucaparib vs physician's choice (docetaxel or ARPI) in metastatic prostate cancer (TRITON3)",
+    "arms": [
+      {"arm_name": "Arm B (AR-directed therapy: Abiraterone Acetate or Enzalutamide)", "designation": "control", "evidence": "receive oral rucaparib (600 mg twice daily) or a physician's choice control (docetaxel or a second-generation ARPI [abiraterone acetate or enzalutamide])"},
+      {"arm_name": "Arm C (Docetaxel)", "designation": "control", "evidence": "receive oral rucaparib ... or a physician's choice control (docetaxel or a second-generation ARPI)"},
+      {"arm_name": "Arm A (Rucaparib)", "designation": "intervention", "evidence": "We randomly assigned the patients in a 2:1 ratio to receive oral rucaparib (600 mg twice daily)"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36952634 a_Summary_SoE.pdf",
+    "pmid": "36952634",
+    "trial_design_summary": "Niraparib plus abiraterone/prednisone vs placebo plus AAP in mCRPC (MAGNITUDE)",
+    "arms": [
+      {"arm_name": "Placebo + Abiraterone Acetate + Prednisone (AAP)", "designation": "control", "evidence": "Patients were assigned 1:1 to receive niraparib + AAP or placebo + AAP"},
+      {"arm_name": "Niraparib + Abiraterone Acetate + Prednisone (AAP)", "designation": "intervention", "evidence": "Patients were assigned 1:1 to receive niraparib + AAP or placebo + AAP"},
+      {"arm_name": "Arm C (Cohort 3: FDC Niraparib/AA + Prednisone)", "designation": "unresolved", "evidence": ""}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36996380 a_Summary_SoE.pdf",
+    "pmid": "36996380",
+    "trial_design_summary": "Enzalutamide vs enzalutamide plus abiraterone/prednisone in mCRPC (Alliance A031201)",
+    "arms": [
+      {"arm_name": "Arm A (Enzalutamide)", "designation": "control", "evidence": "whether the addition of abiraterone acetate and prednisone (AAP) to enzalutamide prolongs overall survival"},
+      {"arm_name": "Arm A (Enzalutamide alone)", "designation": "control", "evidence": "whether the addition of abiraterone acetate and prednisone (AAP) to enzalutamide prolongs overall survival"},
+      {"arm_name": "Arm B (Enzalutamide, Abiraterone, and Prednisone)", "designation": "intervention", "evidence": "whether the addition of abiraterone acetate and prednisone (AAP) to enzalutamide prolongs overall survival"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37080223 CT_Summary_SoE.pdf",
+    "pmid": "37080223",
+    "trial_design_summary": "Chemoradiation +/- adjuvant carboplatin/paclitaxel in locally advanced cervical cancer (OUTBACK)",
+    "arms": [
+      {"arm_name": "Arm A (Standard Cisplatin-based Chemoradiation)", "designation": "control", "evidence": "standard cisplatin-based chemoradiotherapy ... (chemoradiotherapy only group)"},
+      {"arm_name": "Arm B (Standard Cisplatin-based Chemoradiation + Adjuvant Carboplatin/Paclitaxel)", "designation": "intervention", "evidence": "We aimed to determine the effects on survival of adjuvant chemotherapy after chemoradiotherapy"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37086745 a_Summary_SoE.pdf",
+    "pmid": "37086745",
+    "trial_design_summary": "Trastuzumab deruxtecan vs physician's choice in HER2-positive metastatic breast cancer (DESTINY-Breast02)",
+    "arms": [
+      {"arm_name": "Arm B (Investigator's Choice)", "designation": "control", "evidence": "Patients were randomly assigned (2:1) to receive trastuzumab deruxtecan ... or treatment of physician's choice"},
+      {"arm_name": "Arm A (Trastuzumab deruxtecan)", "designation": "intervention", "evidence": "compare the efficacy and safety of trastuzumab deruxtecan with treatment of physician's choice"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37141294 CT_Summary_SoE.pdf",
+    "pmid": "37141294",
+    "trial_design_summary": "Pembrolizumab vs docetaxel in previously treated PD-L1-positive NSCLC (KEYNOTE-033)",
+    "arms": [
+      {"arm_name": "Docetaxel", "designation": "control", "evidence": "compared pembrolizumab vs docetaxel in previously treated, programmed death-ligand 1 (PD-L1)-positive, advanced non-small cell lung cancer"},
+      {"arm_name": "Pembrolizumab (MK-3475)", "designation": "intervention", "evidence": "pembrolizumab improved OS vs docetaxel in previously treated, PD-L1-positive NSCLC"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37257422 CT_Summary_SoE.pdf",
+    "pmid": "37257422",
+    "trial_design_summary": "Three ocular side-effect prophylaxis strategies (standard steroids vs added/enhanced regimens) with depatuxizumab mafodotin (UNITE)",
+    "arms": [
+      {"arm_name": "Arm A (Standard Steroids)", "designation": "control", "evidence": "randomized (1:1:1) to OSE prophylactic treatments ... (a) standard steroid eye drops"},
+      {"arm_name": "Arm A (Standard Steroids)", "designation": "control", "evidence": "randomized (1:1:1) to OSE prophylactic treatments ... (a) standard steroid eye drops"},
+      {"arm_name": "Arm B (Standard Steroids + Vasoconstrictor + Cold Compress)", "designation": "intervention", "evidence": "(b) standard steroid eye drops plus vasoconstrictor eye drops and cold compress"},
+      {"arm_name": "Arm C (Enhanced Steroids + Vasoconstrictor + Cold Compress)", "designation": "intervention", "evidence": "(c) enhanced steroids plus vasoconstrictor eye drops and cold compress"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37379502 a_Summary_SoE.pdf",
+    "pmid": "37379502",
+    "trial_design_summary": "Lazertinib vs gefitinib first-line in EGFR-mutated advanced NSCLC (LASER301)",
+    "arms": [
+      {"arm_name": "Gefitinib 250 mg", "designation": "control", "evidence": "This global, phase III study (LASER301) compared lazertinib versus gefitinib in treatment-naive patients"},
+      {"arm_name": "Lazertinib 240 mg", "designation": "intervention", "evidence": "Lazertinib is a potent, CNS-penetrant, third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor"},
+      {"arm_name": "Open-label Lazertinib 240 mg (Cross-over)", "designation": "unresolved", "evidence": ""}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37478390 a_Summary_SoE.pdf",
+    "pmid": "37478390",
+    "trial_design_summary": "Zanubrutinib vs ibrutinib in Waldenstrom macroglobulinemia, plus single-arm zanubrutinib cohort (ASPEN)",
+    "arms": [
+      {"arm_name": "Arm B (Ibrutinib)", "designation": "control", "evidence": "ASPEN study demonstrated the comparable efficacy and improved safety of zanubrutinib versus ibrutinib"},
+      {"arm_name": "Arm A (Zanubrutinib)", "designation": "intervention", "evidence": "comparable efficacy and improved safety of zanubrutinib versus ibrutinib in patients with Waldenstrom macroglobulinemia"},
+      {"arm_name": "Arm C (Zanubrutinib - Cohort 2)", "designation": "intervention", "evidence": "cohort 2 comprised 28 patients (... MYD88 wild-type WM: 28 zanubrutinib; 26 efficacy evaluable)"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37748693 CT_Summary_SoE.pdf",
+    "pmid": "37748693",
+    "trial_design_summary": "Avelumab (two schedules) vs platinum-doublet chemotherapy first-line in PD-L1-high NSCLC (JAVELIN Lung 100)",
+    "arms": [
+      {"arm_name": "Arm B (SOC Chemotherapy)", "designation": "control", "evidence": "comparing avelumab (anti-programmed death-ligand 1 [PD-L1]) versus platinum-based doublet chemotherapy as first-line treatment"},
+      {"arm_name": "Arm A (Avelumab 10 mg/kg Q2W)", "designation": "intervention", "evidence": "comparing avelumab ... versus platinum-based doublet chemotherapy as first-line treatment"},
+      {"arm_name": "Arm C (Avelumab 10 mg/kg Q1W then Q2W)", "designation": "intervention", "evidence": "avelumab 10 mg/kg once weekly (QW) for 12 weeks and Q2W thereafter"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37870976 a_Summary_SoE.pdf",
+    "pmid": "37870976",
+    "trial_design_summary": "Amivantamab plus chemotherapy vs chemotherapy alone in EGFR exon 20 NSCLC (PAPILLON)",
+    "arms": [
+      {"arm_name": "Arm B (Carboplatin-Pemetrexed)", "designation": "control", "evidence": "receive intravenous amivantamab plus chemotherapy (amivantamab-chemotherapy) or chemotherapy alone"},
+      {"arm_name": "Arm A (Amivantamab + Carboplatin-Pemetrexed)", "designation": "intervention", "evidence": "receive intravenous amivantamab plus chemotherapy (amivantamab-chemotherapy) or chemotherapy alone"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37935977 a_Summary_SoE.pdf",
+    "pmid": "37935977",
+    "trial_design_summary": "Standard 7+3 vs high-dose cytarabine (IA) vs IA plus vorinostat in younger AML (S1203)",
+    "arms": [
+      {"arm_name": "Arm 1 (7+3: Daunorubicin + AraC)", "designation": "control", "evidence": "compared daunorubicin and cytarabine (DA), idarubicin with higher dose cytarabine (IA) and IA with vorinostat (IA + V)"},
+      {"arm_name": "Arm 2 (IA: Idarubicin + AraC)", "designation": "intervention", "evidence": "use of higher doses of cytarabine during induction ... with a histone deacetylase inhibitor resulted in high response rates"},
+      {"arm_name": "Arm 3 (IA+V: IA + Vorinostat)", "designation": "intervention", "evidence": "use of higher doses of cytarabine during induction ... with a histone deacetylase inhibitor resulted in high response rates"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 38059497 CT_Summary_SoE.pdf",
+    "pmid": "38059497",
+    "trial_design_summary": "Arfolitixorin vs leucovorin with FOLFOX-bevacizumab first-line in mCRC (AGENT)",
+    "arms": [
+      {"arm_name": "Group B (modified FOLFOX-6 + bevacizumab)", "designation": "control", "evidence": "may improve outcomes over the existing standard of care (leucovorin)"},
+      {"arm_name": "Group A (ARFOX + bevacizumab)", "designation": "intervention", "evidence": "Arfolitixorin ... is an immediately active folate and may improve outcomes over the existing standard of care (leucovorin)"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 38060199 CT_Summary_SoE.pdf",
+    "pmid": "38060199",
+    "trial_design_summary": "Ipatasertib/atezolizumab/paclitaxel triplet vs paclitaxel (and doublets) in first-line mTNBC (IPATunity170)",
+    "arms": [
+      {"arm_name": "Arm C (Paclitaxel + Placebo + Placebo)", "designation": "control", "evidence": "Grade ≥3 adverse events were more frequent with the triplet than with doublets or single-agent paclitaxel"},
+      {"arm_name": "Arm A (Ipatasertib + Atezolizumab + Paclitaxel)", "designation": "intervention", "evidence": "evaluate a triplet regimen combining immune checkpoint blockade, AKT pathway inhibition, and (nab-) paclitaxel as first-line therapy"},
+      {"arm_name": "Arm B (Ipatasertib + Paclitaxel / Atezolizumab + Paclitaxel)", "designation": "unresolved", "evidence": ""},
+      {"arm_name": "Arm B - Cohort 2 (Atezolizumab + Paclitaxel + Placebo)", "designation": "unresolved", "evidence": ""}
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 38252907 a_Summary_SoE.pdf",
+    "pmid": "38252907",
+    "trial_design_summary": "Nivolumab plus chemotherapy vs chemotherapy in EGFR-mutated NSCLC post-TKI (CheckMate 722)",
+    "arms": [
+      {"arm_name": "Arm C (Pemetrexed plus Platinum)", "designation": "control", "evidence": "randomly assigned 1:1 to nivolumab ... plus platinum-doublet chemotherapy ... or platinum-doublet chemotherapy alone"},
+      {"arm_name": "Arm A (Nivolumab plus Pemetrexed/Platinum)", "designation": "intervention", "evidence": "evaluated nivolumab plus chemotherapy versus chemotherapy in patients with EGFR-mutated metastatic non-small-cell lung cancer"},
+      {"arm_name": "Arm B (Nivolumab plus Ipilimumab)", "designation": "unresolved", "evidence": ""}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 38483412 a_Summary_SoE.pdf",
+    "pmid": "38483412",
+    "trial_design_summary": "Hypofractionated (HYPORT) vs conventional (COPORT) postprostatectomy radiotherapy noninferiority (NRG-GU003)",
+    "arms": [
+      {"arm_name": "Arm I (COPORT)", "designation": "control", "evidence": "To determine if HYPORT is noninferior to COPORT for patient-reported genitourinary (GU) and gastrointestinal (GI) symptoms"},
+      {"arm_name": "Arm II (HYPORT)", "designation": "intervention", "evidence": "HYPORT is a new acceptable practice standard for patients receiving postprostatectomy radiotherapy"}
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 38648575 a_Summary_SoE.pdf",
+    "pmid": "38648575",
+    "trial_design_summary": "Liposomal irinotecan vs topotecan second-line in relapsed SCLC (RESILIENT Part 2)",
+    "arms": [
+      {"arm_name": "Arm B (IV Topotecan)", "designation": "control", "evidence": "compared second-line liposomal irinotecan with topotecan in patients with small cell lung cancer (SCLC)"},
+      {"arm_name": "Arm A (Irinotecan Liposome Injection)", "designation": "intervention", "evidence": "compared second-line liposomal irinotecan with topotecan in patients with small cell lung cancer (SCLC)"}
+    ],
+    "abstract_states_roles": true
+  }
+]

@@ -1,0 +1,108 @@
+1. JAMA. 2017 May 9;317(18):1844-1853. doi: 10.1001/jama.2017.3438.
+
+Selumetinib Plus Docetaxel Compared With Docetaxel Alone and Progression-Free 
+Survival in Patients With KRAS-Mutant Advanced Non-Small Cell Lung Cancer: The 
+SELECT-1 Randomized Clinical Trial.
+
+Jänne PA(1), van den Heuvel MM(2), Barlesi F(3), Cobo M(4), Mazieres J(5), Crinò 
+L(6), Orlov S(7), Blackhall F(8), Wolf J(9), Garrido P(10), Poltoratskiy A(11), 
+Mariani G(12), Ghiorghiu D(12), Kilgour E(13), Smith P(12), Kohlmann A(12), 
+Carlile DJ(12), Lawrence D(12), Bowen K(14), Vansteenkiste J(15).
+
+Author information:
+(1)Lowe Center for Thoracic Oncology and the Belfer Center for Applied Cancer 
+Science, Dana-Farber Cancer Institute, Boston, Massachusetts.
+(2)Department of Thoracic Oncology, Netherlands Cancer Institute, Amsterdam, the 
+Netherlands.
+(3)Multidisciplinary Oncology and Therapeutic Innovations Department, Aix 
+Marseille University, Assistance Publique Hôpitaux de Marseille, Marseille, 
+France.
+(4)Department of Medical Oncology, Hospital Universitario Málaga General, 
+Instituto de Investigación Biomédica de Málaga, Malaga, Spain.
+(5)Pulmonology Department, Toulouse University Hospital, Toulouse, France.
+(6)Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori, Istituto 
+di Ricovero e Cura a Carattere Scientifico Meldola, Italy.
+(7)Department of Medicine, Pavlov Medical University, St Petersburg, Russia.
+(8)Manchester University and Christie Hospital NHS Foundation Trust, Manchester, 
+United Kingdom.
+(9)Department of Internal Medicine, Center for Integrated Oncology, University 
+Hospital of Cologne, Cologne, Germany.
+(10)Medical Oncology Department, University Hospital Ramon y Cajal, Madrid, 
+Spain.
+(11)Department for Clinical and Preclinical Trials, Petrov Research Institute of 
+Oncology, St Petersburg, Russia.
+(12)AstraZeneca, Cambridge, United Kingdom.
+(13)AstraZeneca, Macclesfield, United Kingdom.
+(14)AstraZeneca, Gaithersburg, Maryland.
+(15)Respiratory Oncology Unit, Department of Respiratory Diseases, University 
+Hospital Katholieke Universiteit Leuven, Leuven, Belgium.
+
+Comment in
+    JAMA. 2017 May 9;317(18):1835-1837. doi: 10.1001/jama.2017.3436.
+    Transl Lung Cancer Res. 2018 Sep;7(Suppl 3):S183-S186. doi: 
+10.21037/tlcr.2018.03.20.
+
+IMPORTANCE: There are no specifically approved targeted therapies for the most 
+common genomically defined subset of non-small cell lung cancer (NSCLC), 
+KRAS-mutant lung cancer.
+OBJECTIVE: To compare efficacy of the mitogen-activated protein kinase kinase 
+(MEK) inhibitor selumetinib + docetaxel with docetaxel alone as a second-line 
+therapy for advanced KRAS-mutant NSCLC.
+DESIGN, SETTING, AND PARTICIPANTS: Multinational, randomized clinical trial 
+conducted at 202 sites across 25 countries from October 2013 through January 
+2016. Of 3323 patients with advanced NSCLC and disease progression following 
+first-line anticancer therapy tested for a KRAS mutation, 866 were enrolled and 
+510 randomized. Primary reason for exclusion was ineligibility. The data cutoff 
+date for analysis was June 7, 2016.
+INTERVENTIONS: Patients were randomized 1:1; 254 to receive 
+selumetinib + docetaxel and 256 to receive placebo + docetaxel.
+MAIN OUTCOMES AND MEASURES: Primary end point was investigator assessed 
+progression-free survival. Secondary end points included overall survival, 
+objective response rate, duration of response, effects on disease-related 
+symptoms, safety, and tolerability.
+RESULTS: Of 510 randomized patients (mean age, 61.4 years [SD, 8.3]; women, 207 
+[41%]), 505 patients (99%) received treatment and completed the study (251 
+received selumetinib + docetaxel; 254 received placebo + docetaxel). At the time 
+of data cutoff, 447 patients (88%) had experienced a progression event and 346 
+deaths (68%) had occurred. Median progression-free survival was 3.9 months 
+(interquartile range [IQR], 1.5-5.9) with selumetinib + docetaxel and 2.8 months 
+(IQR, 1.4-5.5) with placebo + docetaxel (difference, 1.1 months; hazard ratio 
+[HR], 0.93 [95% CI, 0.77-1.12]; P = .44). Median overall survival was 8.7 months 
+(IQR, 3.6-16.8) with selumetinib + docetaxel and 7.9 months (IQR, 3.8-20.1) with 
+placebo + docetaxel (difference, 0.9 months; HR, 1.05 [95% CI, 0.85-1.30]; 
+P = .64). Objective response rate was 20.1% with selumetinib + docetaxel and 
+13.7% with placebo + docetaxel (difference, 6.4%; odds ratio, 1.61 [95% CI, 
+1.00-2.62]; P = .05). Median duration of response was 2.9 months (IQR, 1.7-4.8; 
+95% CI, 2.7-4.1) with selumetinib + docetaxel and 4.5 months (IQR, 2.3-7.3; 95% 
+CI, 2.8-5.6) with placebo + docetaxel. Adverse events of grade 3 or higher were 
+more frequent with selumetinib + docetaxel (169 adverse events [67%] for 
+selumetinib + docetaxel vs 115 adverse events [45%] for placebo + docetaxel; 
+difference, 22%).
+CONCLUSIONS AND RELEVANCE: Among patients with previously treated advanced 
+KRAS-mutant non-small cell lung cancer, addition of selumetinib to docetaxel did 
+not improve progression-free survival compared with docetaxel alone.
+TRIAL REGISTRATION: clinicaltrials.gov: NCT01933932.
+
+DOI: 10.1001/jama.2017.3438
+PMCID: PMC5815037
+PMID: 28492898 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: All authors 
+have completed and submitted the ICMJE Form for Disclosure of Potential 
+Conflicts of Interest. Dr Jänne reports receiving personal fees from 
+Boehringer-Ingelheim, Pfizer, Ariad Pharmaceuticals, Genentech/Roche, Chugai, 
+Merrimack, Ignyta, LOXO Oncology, and ACEA Biosciences; grant funding from Puma 
+Biotechnology and Astellas; being a shareholder of Gatekeeper Pharmaceuticals 
+and LOXO Oncology; and receiving postmarketing royalties from a Dana-Farber 
+Cancer Institute–owned patent on EGFR mutation licensed to Lab Corp. Dr Barlesi 
+reports receiving consultancy fees from Bristol-Myers Squibb, 
+Boehringer-Ingelheim, Clovis Oncology, Eli Lilly Oncology, F. Hoffmann-La Roche, 
+Novartis, Merck, Merck Sharp & Dohme, Pierre Fabre, and Pfizer and payment for 
+lectures including service on speaker bureaus from Bristol-Myers Squibb, 
+Boehringer-Ingelheim, Eli Lilly Oncology, F. Hoffmann-La Roche, Novartis, Pierre 
+Fabre, and Pfizer. Dr Wolf reports receiving board membership fees from 
+Bristol-Myers Squibb, Boehringer-Ingelheim, Merck Sharp & Dohme, Clovis 
+Oncology, Novartis, Pfizer, and Roche, and grants from Bayer, 
+Boehringer-Ingelheim, Novartis, Pfizer, and Roche. Dr Garrido reports receiving 
+personal fees from Bristol-Myers Squibb, Roche, Pfizer, Novartis, Merck Sharp & 
+Dohme, and Boehringer-Ingelheim and grant funding from Boehringer-Ingelheim.

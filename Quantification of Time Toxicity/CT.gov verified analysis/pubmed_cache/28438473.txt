@@ -1,0 +1,113 @@
+20. Lancet Oncol. 2017 Jun;18(6):779-791. doi: 10.1016/S1470-2045(17)30279-6.
+Epub  2017 Apr 21.
+
+Bevacizumab and paclitaxel-carboplatin chemotherapy and secondary cytoreduction 
+in recurrent, platinum-sensitive ovarian cancer (NRG Oncology/Gynecologic 
+Oncology Group study GOG-0213): a multicentre, open-label, randomised, phase 3 
+trial.
+
+Coleman RL(1), Brady MF(2), Herzog TJ(3), Sabbatini P(4), Armstrong DK(5), 
+Walker JL(6), Kim BG(7), Fujiwara K(8), Tewari KS(9), O'Malley DM(10), Davidson 
+SA(11), Rubin SC(12), DiSilvestro P(13), Basen-Engquist K(14), Huang H(2), Chan 
+JK(15), Spirtos NM(16), Ashfaq R(17), Mannel RS(6).
+
+Author information:
+(1)Department of Gynecologic Oncology & Reproductive Medicine, The University of 
+Texas MD Anderson Cancer Center, Houston, TX, USA. Electronic address: 
+rcoleman@mdanderson.org.
+(2)NRG Oncology/Gynecologic Oncology Group Statistics & Data Center, University 
+of Buffalo, Buffalo, NY, USA.
+(3)Department of Obstetrics and Gynecology, University of Cincinnati, 
+Cincinnati, OH, USA.
+(4)Gynecologic Medical Oncology Service, Memorial Sloan Kettering Cancer Center, 
+New York, NY, USA.
+(5)Departments of Obstetrics and Gynecology and Department of Medical Oncology, 
+Johns Hopkins Kimmel Cancer Center, Baltimore, MD, USA.
+(6)Department of Obstetrics and Gynecology, The University of Oklahoma, Oklahoma 
+City, OK, USA.
+(7)Department of Obstetrics and Gynecology, Samsung Medical Center, 
+Sungkyunkwayn University School of Medicine, Seoul, South Korea.
+(8)Department of Obstetrics and Gynecology, Saitama Medical University 
+International Medical Center, Hidaka-Shi, Japan.
+(9)Department of Obstetrics and Gynecology, University of California, Irvine 
+Medical Center, Orange, CA, USA.
+(10)Department of Obstetrics and Gynecology, The Ohio State University, James 
+Cancer Hospital, Columbus, OH, USA.
+(11)Department of Obstetrics and Gynecology, University of Colorado School of 
+Medicine and Denver Health Medical Center, Denver, CO, USA.
+(12)Department of Obstetrics and Gynecology, Fox Chase Cancer Center, 
+Philadelphia, PA, USA.
+(13)Department of Obstetrics and Gynecology, Women & Infants Hospital, 
+Providence, RI, USA.
+(14)Department of Gynecologic Oncology & Reproductive Medicine, The University 
+of Texas MD Anderson Cancer Center, Houston, TX, USA.
+(15)Gynecologic Cancer Program, California Pacific-Palo Alto Medical Foundation, 
+Sutter Research Institute, San Francisco, CA, USA.
+(16)Women's Cancer Center, Las Vegas, NV, USA.
+(17)Miraca Life Sciences, Irving, TX, USA.
+
+Comment in
+    Lancet Oncol. 2017 Jun;18(6):701-702. doi: 10.1016/S1470-2045(17)30253-X.
+
+BACKGROUND: Platinum-based chemotherapy doublets are a standard of care for 
+women with ovarian cancer recurring 6 months after completion of initial 
+therapy. In this study, we aimed to explore the roles of secondary surgical 
+cytoreduction and bevacizumab in this population, and report the results of the 
+bevacizumab component here.
+METHODS: The multicentre, open-label, randomised phase 3 GOG-0213 trial was done 
+in 67 predominantly academic centres in the USA (65 centres), Japan (one 
+centre), and South Korea (one centre). Eligible patients were adult women (aged 
+≥18 years) with recurrent measurable or evaluable epithelial ovarian, primary 
+peritoneal, or fallopian tube cancer, and a clinical complete response to 
+primary platinum-based chemotherapy, who had been disease-free for at least 6 
+months following last infused cycle of platinum. Patients were randomly assigned 
+(1:1) to standard chemotherapy (six 3-weekly cycles of paclitaxel [175 mg/m2 of 
+body surface area] and carboplatin [area under the curve 5]) or the same 
+chemotherapy regimen plus bevacizumab (15 mg/kg of bodyweight) every 3 weeks and 
+continued as maintenance every 3 weeks until disease progression or unacceptable 
+toxicity. Individuals who participated in both the bevacizumab objective and 
+surgical objective (which is ongoing) were randomly assigned (1:1:1:1) to 
+receive either of these two chemotherapy regimens with or without prior 
+secondary cytoreductive surgery. Randomisation for the bevacizumab objective was 
+stratified by treatment-free interval and participation in the surgical 
+objective. The primary endpoint was overall survival, analysed by intention to 
+treat. This study is registered with ClinicalTrials.gov, number NCT00565851.
+FINDINGS: Between Dec 10, 2007, and Aug 26, 2011, 674 women were enrolled and 
+randomly assigned to standard chemotherapy (n=337) or chemotherapy plus 
+bevacizumab (n=377). Median follow-up at the end of the trial on Nov 5, 2014, 
+was 49·6 months in each treatment group (IQR 41·5-62·2 for chemotherapy plus 
+bevacizumab; IQR 40·8-59·3 for chemotherapy), at which point 415 patients had 
+died (214 in the chemotherapy group and 201 in the chemotherapy plus bevacizumab 
+group). Based on pretreatment stratification data, median overall survival in 
+the chemotherapy plus bevacizumab group was 42·2 months (95% CI 37·7-46·2) 
+versus 37·3 months (32·6-39·7) in the chemotherapy group (hazard ratio [HR] 
+0·829; 95% CI 0·683-1·005; p=0·056). We identified incorrect treatment-free 
+interval stratification data for 45 (7%) patients (equally balanced between 
+treatment groups); a sensitivity analysis of overall survival based on the 
+audited treatment-free interval stratification data gave an adjusted HR of 0·823 
+(95% CI 0·680-0·996; p=0·0447). In the safety population (all patients who 
+initiated treatment), 317 (96%) of 325 patients in the chemotherapy plus 
+bevacizumab group had at least one grade 3 or worse adverse event compared with 
+282 (86%) of 332 in the chemotherapy group; the most frequently reported of 
+these in the chemotherapy plus bevacizumab group compared with the chemotherapy 
+group were hypertension (39 [12%] vs two [1%]), fatigue (27 [8%] vs eight [2%]), 
+and proteinuria (27 [8%] vs none). Two (1%) treatment-related deaths occurred in 
+the chemotherapy group (infection [n=1] and myelodysplastic syndrome [n=1]) 
+compared with nine (3%) in the chemotherapy plus bevacizumab group (infection 
+[n=1], febrile neutropenia [n=1], myelodysplastic syndrome [n=1], secondary 
+malignancy [n=1]; deaths not classified with CTCAE terms: disease progression 
+[n=3], sudden death [n=1], and not specified [n=1]).
+INTERPRETATION: The addition of bevacizumab to standard chemotherapy, followed 
+by maintenance therapy until progression, improved the median overall survival 
+in patients with platinum-sensitive recurrent ovarian cancer. Although the 
+intention-to-treat analysis for overall survival was not significant, our 
+sensitivity analysis based on corrected treatment-free interval stratification 
+indicates that this strategy might be an important addition to the therapeutic 
+armamentarium in these patients.
+FUNDING: National Cancer Institute and Genentech.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(17)30279-6
+PMCID: PMC5715461
+PMID: 28438473 [Indexed for MEDLINE]

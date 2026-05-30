@@ -1,0 +1,84 @@
+filename,nct,pos_idx,arm_name,tt_12mo,pipeline_label,ctgov_label,ctgov_type,pubmed_designation,pubmed_evidence,final_label,review_reason
+PMID 19213681 a_Summary_SoE.pdf,NCT00295646,0,Arm C (Arimidex alone),3.0,intervention,intervention,,control,"addition of zoledronic acid to endocrine therapy, as compared with endocrine therapy without zoledronic acid",control,CORRECTION_APPLIED
+PMID 21962393 CT_Summary_SoE.pdf,NCT00075829,1,Arm B1 (Auto-Auto + Maintenance),51.0,intervention,control,ACTIVE_COMPARATOR,control,allogeneic HSCT ... compared with tandem autologous HSCT,control,CORRECTION_APPLIED
+PMID 22257673 a_Summary_SoE.pdf,NCT00553358,1,Trastuzumab alone,22.0,intervention,control,ACTIVE_COMPARATOR,control,pCR rate was significantly higher in the group given lapatinib and trastuzumab ... than in the group given trastuzumab alone,control,CORRECTION_APPLIED
+PMID 23358971 a_Summary_SoE.pdf,NCT00066573,0,Arm 2: Exemestane + Placebo,5.0,control,control,,intervention,exemestane ... could prove superior to anastrozole regarding efficacy and toxicity,intervention,CORRECTION_APPLIED
+PMID 23358971 a_Summary_SoE.pdf,NCT00066573,1,Arm 3: Anastrozole + Celecoxib,5.0,intervention,control,ACTIVE_COMPARATOR,control,exemestane ... could prove superior to anastrozole,control,CORRECTION_APPLIED
+PMID 23940225 a_Summary_SoE.pdf,NCT00093795,0,Group 2 (DD AC -> P),13.0,intervention,control,ACTIVE_COMPARATOR,control,incorporation of a fourth drug could improve outcomes relative to two standard regimens,control,CORRECTION_APPLIED
+PMID 24401022 a_Summary_SoE.pdf,NCT01998880,0,Arm B (RClb: Rituximab + Chlorambucil),15.0,intervention,control,ACTIVE_COMPARATOR,control,obinutuzumab was superior to rituximab when each was combined with chlorambucil,control,CORRECTION_APPLIED
+PMID 24733799 a_Summary_SoE.pdf,NCT01156142,1,Placebo then Doxepin Crossover,11.0,intervention,intervention,EXPERIMENTAL,control,patients were randomly allocated to a doxepin oral rinse or a placebo,control,CORRECTION_APPLIED
+PMID 24881463 a_Summary_SoE.pdf,NCT00066703,2,TEXT Arm A (GnRH analogue plus Tamoxifen),14.0,intervention,intervention,,control,"exemestane plus ovarian suppression, as compared with tamoxifen plus ovarian suppression, significantly reduced recurrence.",control,CORRECTION_APPLIED
+PMID 25267740 a_Summary_SoE.pdf,NCT00078949,1,Arm S2 (DHAP),20.5,intervention,intervention,EXPERIMENTAL,control,treatment with GDP is associated with a noninferior response rate... less toxicity and hospitalization,control,CORRECTION_APPLIED
+PMID 25332243 a_Summary_SoE.pdf,NCT00006237,1,Arm 1 (One Year High-Dose Interferon Alpha-2b),164.0,intervention,intervention,,control,High-dose interferon (IFN) for 1 year (HDI) is the US Food and Drug Administration-approved adjuvant therapy,control,CORRECTION_APPLIED
+PMID 25422488 a_Summary_SoE.pdf,NCT00070564,0,Arm 5 (AC q2w x 4 -> Paclitaxel q2w x 6),22.0,intervention,control,ACTIVE_COMPARATOR,control,that paclitaxel once per week was superior to six cycles of paclitaxel once every 2 weeks,control,CORRECTION_APPLIED
+PMID 25682602 a_Summary_SoE.pdf,NCT00929695,1,Higher-dose prednisone (1 or 2 mg/kg/day),16.0,intervention,intervention,,control,a 50% decrease in the initial dose of prednisone... would suffice to control graft-versus-host disease,control,CORRECTION_APPLIED
+PMID 26056177 a_Summary_SoE.pdf,NCT00507416,0,VD (VELCADE and Dexamethasone),53.0,intervention,intervention,EXPERIMENTAL,control,VTD and VMP did not appear to offer an advantage over VD in transplantation-ineligible patients,control,CORRECTION_APPLIED
+PMID 28809610 a_Summary_SoE.pdf,NCT01308580,1,Arm B (Cabazitaxel 25 mg/m² + Prednisone),20.5,intervention,intervention,EXPERIMENTAL,control,the Currently Approved Dose (25 mg/m2)... C20 maintained >=50% of the OS benefit of C25,control,CORRECTION_APPLIED
+PMID 29158011 CT_Summary_SoE.pdf,NCT00553410,0,Arm A (Continuous letrozole),2.0,intervention,intervention,,control,Extended adjuvant intermittent letrozole versus continuous letrozole in postmenopausal women with breast cancer,control,CORRECTION_APPLIED
+PMID 29169877 CT_Summary_SoE.pdf,NCT00946712,0,Arm 1a (Carboplatin/Paclitaxel/Bevacizumab),53.0,intervention,intervention,,control,either with cetuximab (...cetuximab group) or without (control group),control,CORRECTION_APPLIED
+PMID 30939090 a_Summary_SoE.pdf,NCT00118209,0,Arm A (R-CHOP),41.0,intervention,intervention,,control,"compared dose-adjusted ... (DA-EPOCH-R) with standard rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP)",control,CORRECTION_APPLIED
+PMID 31454045 a_Summary_SoE.pdf,NCT00567567,0,Regimen A (Single Myeloablative Consolidation),93.0,intervention,control,ACTIVE_COMPARATOR,control,To determine if tandem autologous transplant improves event-free survival (EFS) compared with single transplant,control,CORRECTION_APPLIED
+PMID 32145827 a_Summary_SoE.pdf,NCT01435018,1,Etoposide plus ART (ET+ART),25.0,control,intervention,EXPERIMENTAL,intervention,either intravenous bleomycin and vincristine or oral etoposide (the investigational arms),intervention,CORRECTION_APPLIED
+PMID 32813610 a_Summary_SoE.pdf,NCT00408005,0,Arm C (High Dose MTX),52.0,intervention,control,ACTIVE_COMPARATOR,control,patients ... randomly assigned to nelarabine ... and no nelarabine (n = 336),control,CORRECTION_APPLIED
+PMID 33010094 CT_Summary_SoE.pdf,NCT01509612,1,Arm 2 (Placebo Homeopathic Treatment),6.0,intervention,control,PLACEBO_COMPARATOR,control,additive homeopathic treatment compared with placebo in patients with stage IV NSCLC,control,CORRECTION_APPLIED
+PMID 33078978 a_Summary_SoE.pdf,NCT00063999,0,Regimen II (Carboplatin/Paclitaxel),24.0,control,intervention,EXPERIMENTAL,intervention,studied carboplatin plus paclitaxel (TC) as a noninferior alternative to TAP,intervention,CORRECTION_APPLIED
+PMID 33078978 a_Summary_SoE.pdf,NCT00063999,1,Regimen I (Doxorubicin/Cisplatin/Paclitaxel + G-CSF),31.0,intervention,control,ACTIVE_COMPARATOR,control,carboplatin plus paclitaxel (TC) as a noninferior alternative to TAP [paclitaxel-doxorubicin-cisplatin],control,CORRECTION_APPLIED
+PMID 33821899a_Summary_SoE.pdf,NCT01150045,0,Arm C (6 cycles FOLFOX + Placebo),10.0,intervention,intervention,,control,"addition of celecoxib for 3 years, compared with placebo, to standard adjuvant chemotherapy",control,CORRECTION_APPLIED
+PMID 34092112 a_Summary_SoE.pdf,NCT02445391,1,Arm C (Capecitabine),10.0,intervention,control,ACTIVE_COMPARATOR,control,"high-risk for recurrence, which is reduced by adjuvant capecitabine ... assuming a 4-year iDFS of 67% with capecitabine",control,CORRECTION_APPLIED
+PMID 34320285 a_Summary_SoE.pdf,NCT00295620,0,Arm B (Anastrozole 5 years),2.0,control,intervention,EXPERIMENTAL,intervention,"anastrozole for an additional 2 years ... or an additional 5 years (5-year group, receiving a total of 10 years)",intervention,CORRECTION_APPLIED
+PMID 34320285 a_Summary_SoE.pdf,NCT00295620,0,Arm A (Anastrozole 2 years),2.0,intervention,intervention,EXPERIMENTAL,control,extending hormone therapy by 5 years provided no benefit over a 2-year extension,control,CORRECTION_APPLIED
+PMID 36996380 a_Summary_SoE.pdf,NCT01949337,0,Arm A (Enzalutamide alone),17.0,intervention,intervention,,control,whether the addition of abiraterone acetate and prednisone (AAP) to enzalutamide prolongs overall survival,control,CORRECTION_APPLIED
+PMID 37257422 CT_Summary_SoE.pdf,NCT03419403,0,Arm A (Standard Steroids),53.0,intervention,intervention,,control,randomized (1:1:1) to OSE prophylactic treatments ... (a) standard steroid eye drops,control,CORRECTION_APPLIED
+PMID 26122726 a_Summary_SoE.pdf,NCT01519700,0,Arm B (Radiosurgery + WBRT),18.0,control,intervention,EXPERIMENTAL,unresolved,,control,PMID_MISMATCH
+PMID 26122726 a_Summary_SoE.pdf,NCT01519700,0,Arm A (Radiosurgery alone),6.0,intervention,control,ACTIVE_COMPARATOR,unresolved,,intervention,PMID_MISMATCH
+PMID 30105668 a_Summary_SoE.pdf,NCT02101021,0,Arm A (VMP),42.0,control,intervention,EXPERIMENTAL,unresolved,,control,PMID_MISMATCH
+PMID 30105668 a_Summary_SoE.pdf,NCT02101021,0,Arm B (D-VMP),42.0,intervention,control,PLACEBO_COMPARATOR,unresolved,,intervention,PMID_MISMATCH
+PMID 30995176 CT a_Summary_SoE.pdf,NCT01539291,0,Arm B (Standard-dose GS-1101),14.0,control,intervention,EXPERIMENTAL,unresolved,,control,PMID_MISMATCH
+PMID 30995176 CT a_Summary_SoE.pdf,NCT01539291,0,Arm A (High-dose GS-1101),14.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PMID_MISMATCH
+PMID 32496902 a_Summary_SoE.pdf,NCT02883049,0,Very High Risk (VHR) B-ALL (Control Arm),76.0,control,control,ACTIVE_COMPARATOR,unresolved,,control,PMID_MISMATCH
+PMID 32496902 a_Summary_SoE.pdf,NCT02883049,1,Very High Risk (VHR) B-ALL - Control Arm,90.0,control,intervention,EXPERIMENTAL,unresolved,,control,PMID_MISMATCH
+PMID 32496902 a_Summary_SoE.pdf,NCT02883049,0,High Risk (HR) B-ALL (Arm A/B),76.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PMID_MISMATCH
+PMID 32496902 a_Summary_SoE.pdf,NCT02883049,1,Ph-like Dasatinib Arm,83.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PMID_MISMATCH
+PMID 32496902 a_Summary_SoE.pdf,NCT02883049,2,Down Syndrome (DS) HR B-ALL,83.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PMID_MISMATCH
+PMID 32496902 a_Summary_SoE.pdf,NCT02883049,3,Down Syndrome HR B-ALL Arm,84.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PMID_MISMATCH
+PMID 22915657 a_Summary_SoE.pdf,NCT00475085,0,Arm 3 (Aprepitant + Palonosetron + Dexamethasone),1.0,control,control,ACTIVE_COMPARATOR,unresolved,,control,PUBMED_UNRESOLVED
+PMID 22915657 a_Summary_SoE.pdf,NCT00475085,1,"Arm 2: Granisetron + Dexamethasone (Day 1), Compazine + Placebo (Days 2 & 3)",1.0,control,intervention,EXPERIMENTAL,unresolved,,control,PUBMED_UNRESOLVED
+PMID 22915657 a_Summary_SoE.pdf,NCT00475085,0,Arm 1 (Palonosetron + Dexamethasone + Compazine),1.0,intervention,control,ACTIVE_COMPARATOR,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 22915657 a_Summary_SoE.pdf,NCT00475085,1,Arm 2 (Granisetron + Dexamethasone + Compazine),1.0,intervention,intervention,,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 22915657 a_Summary_SoE.pdf,NCT00475085,2,Arm 4 (Palonosetron + Dexamethasone + Compazine + Dexamethasone),1.5,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 23075175 a_Summary_SoE.pdf,NCT00075816,0,Arm B (Marrow Transplantation),29.0,control,control,ACTIVE_COMPARATOR,unresolved,,control,PUBMED_UNRESOLVED
+PMID 23075175 a_Summary_SoE.pdf,NCT00075816,0,Arm A (PBSC Transplantation),29.0,intervention,control,ACTIVE_COMPARATOR,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 24881463 a_Summary_SoE.pdf,NCT00066703,0,SOFT Arm A (Tamoxifen alone),5.0,control,control,ACTIVE_COMPARATOR,unresolved,,control,PUBMED_UNRESOLVED
+PMID 24881463 a_Summary_SoE.pdf,NCT00066703,0,SOFT Arm B & C (OFS + Tamoxifen/Exemestane),14.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 24881463 a_Summary_SoE.pdf,NCT00066703,1,TEXT Arm A & B (GnRH analogue + Tamoxifen/Exemestane),14.0,intervention,intervention,,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 26412349 a_Summary_SoE.pdf,NCT00310180,0,Arm B (Hormonal Therapy Alone),4.0,control,intervention,EXPERIMENTAL,unresolved,,control,PUBMED_UNRESOLVED
+PMID 26412349 a_Summary_SoE.pdf,NCT00310180,0,Arm C (Chemotherapy + Hormonal Therapy),8.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 27569442 CT_Summary_SoE.pdf,NCT00134030,0,Arm B (MAP + Pegylated Interferon alfa-2b),56.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 28384065 a_Summary_SoE.pdf,NCT00569127,0,Arm 2 (Depot Octreotide Plus Interferon Alpha-2b),18.0,control,intervention,EXPERIMENTAL,unresolved,,control,PUBMED_UNRESOLVED
+PMID 28384065 a_Summary_SoE.pdf,NCT00569127,0,Arm 1 (Depot Octreotide Plus Bevacizumab),18.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 28438473 a_Summary_SoE.pdf,NCT00565851,1,Arm III/VII (Surgery + CT/GC),31.0,control,intervention,EXPERIMENTAL,unresolved,,control,PUBMED_UNRESOLVED
+PMID 28438473 a_Summary_SoE.pdf,NCT00565851,0,Arm IV/VIII (Surgery + Chemotherapy + Bevacizumab),36.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 28438473 a_Summary_SoE.pdf,NCT00565851,2,Arm IV (Surgery + Carboplatin + Paclitaxel + Bevacizumab),34.0,intervention,control,ACTIVE_COMPARATOR,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 28632865 a_Summary_SoE.pdf,NCT00265850,0,Arm A (Bevacizumab + FOLFOX/FOLFIRI),27.0,control,control,ACTIVE_COMPARATOR,unresolved,,control,PUBMED_UNRESOLVED
+PMID 28632865 a_Summary_SoE.pdf,NCT00265850,0,Arm B (Cetuximab + FOLFOX/FOLFIRI),53.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 29238824 a_Summary_SoE.pdf,NCT01067144,1,Observational Arm,3.0,control,control,,unresolved,,control,PUBMED_UNRESOLVED
+PMID 31345387 CT_Summary_SoE.pdf,NCT01706939,1,Arm C (Non-responders: Standard CRT + Carboplatin + Erbitux + Paclitaxel),48.0,control,control,,unresolved,,control,PUBMED_UNRESOLVED
+PMID 31693129 CT_Summary_SoE.pdf,NCT00127205,0,Arm 2 (Clodronate),8.0,control,control,ACTIVE_COMPARATOR,unresolved,,control,PUBMED_UNRESOLVED
+PMID 31693129 CT_Summary_SoE.pdf,NCT00127205,0,Arm 1 (Zoledronic Acid),8.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 31693129 CT_Summary_SoE.pdf,NCT00127205,1,Arm 3 (Ibandronate),8.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 31693129 CT_Summary_SoE.pdf,NCT00127205,2,Arm 3 (Ibandronate),8.0,intervention,intervention,,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 33197226 a_Summary_SoE.pdf,NCT02625610,0,Best Supportive Care (BSC) Only,20.0,control,control,,unresolved,,control,PUBMED_UNRESOLVED
+PMID 33657295 a_Summary_SoE.pdf,NCT03141177,0,Arm B (Nivolumab + Ipilimumab + Cabozantinib),25.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 34092112 a_Summary_SoE.pdf,NCT02445391,0,Arm A (Observation),4.0,control,control,NO_INTERVENTION,unresolved,,control,PUBMED_UNRESOLVED
+PMID 34170389 CT_Summary_SoE.pdf,NCT00549848,1,Low-Risk (LR),78.0,intervention,intervention,,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 34383006a_Summary_SoE.pdf,NCT01459497,0,Arm B (Conventional radiation),34.0,control,control,ACTIVE_COMPARATOR,,,control,PUBMED_UNRESOLVED
+PMID 34383006a_Summary_SoE.pdf,NCT01459497,0,Arm A (Accelerated hypofractionated IGRT),19.0,intervention,control,ACTIVE_COMPARATOR,,,intervention,PUBMED_UNRESOLVED
+PMID 34997889 CT_Summary_SoE.pdf,NCT00500890,0,"Carboplatin Arm (Carboplatin, Etoposide, Vincristine)",33.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 34997889 CT_Summary_SoE.pdf,NCT00500890,1,"Cyclophosphamide Arm (Cyclophosphamide, Etoposide, Vincristine)",33.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 35403841 a_Summary_SoE.pdf,NCT02998528,0,Arm A (Nivolumab plus Ipilimumab),9.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 35810754 CT_Summary_SoE.pdf,NCT03336333,1,Arm D (Venetoclax + Zanubrutinib),17.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 36952634 a_Summary_SoE.pdf,NCT03748641,1,Arm C (Cohort 3: FDC Niraparib/AA + Prednisone),18.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 37379502 a_Summary_SoE.pdf,NCT04248829,1,Open-label Lazertinib 240 mg (Cross-over),13.0,intervention,intervention,,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 38060199 CT_Summary_SoE.pdf,NCT04177108,1,Arm B (Ipatasertib + Paclitaxel / Atezolizumab + Paclitaxel),41.5,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 38060199 CT_Summary_SoE.pdf,NCT04177108,2,Arm B - Cohort 2 (Atezolizumab + Paclitaxel + Placebo),40.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED
+PMID 38252907 a_Summary_SoE.pdf,NCT02864251,1,Arm B (Nivolumab plus Ipilimumab),27.0,intervention,intervention,EXPERIMENTAL,unresolved,,intervention,PUBMED_UNRESOLVED

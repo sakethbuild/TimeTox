@@ -1,0 +1,96 @@
+13. Lancet Oncol. 2017 Jan;18(1):63-74. doi: 10.1016/S1470-2045(16)30625-8. Epub 
+2016 Dec 1.
+
+Effects of sodium thiosulfate versus observation on development of 
+cisplatin-induced hearing loss in children with cancer (ACCL0431): a 
+multicentre, randomised, controlled, open-label, phase 3 trial.
+
+Freyer DR(1), Chen L(2), Krailo MD(3), Knight K(4), Villaluna D(2), Bliss B(2), 
+Pollock BH(5), Ramdas J(6), Lange B(7), Van Hoff D(8), VanSoelen ML(8), 
+Wiernikowski J(9), Neuwelt EA(4), Sung L(10).
+
+Author information:
+(1)Children's Center for Cancer and Blood Diseases, Children's Hospital Los 
+Angeles, Los Angeles, CA, USA; Departments of Pediatrics and Medicine, Keck 
+School of Medicine, University of Southern California, Los Angeles, CA, USA. 
+Electronic address: dfreyer@chla.usc.edu.
+(2)Children's Oncology Group, Monrovia, CA, USA.
+(3)Department of Preventive Medicine, Keck School of Medicine, University of 
+Southern California, Los Angeles, CA, USA; Children's Oncology Group, Monrovia, 
+CA, USA.
+(4)Doernbecher Children's Hospital, Oregon Health and Science University, 
+Portland, OR, USA.
+(5)Department of Public Health Sciences, University of California Davis, Davis, 
+CA, USA.
+(6)Pediatric Hematology/Oncology, Geisinger Medical Center, Danville, PA, USA.
+(7)Department of Pediatrics, Children's Hospital of Philadelphia, University of 
+Pennsylvania School of Medicine, Philadelphia, PA, USA.
+(8)Helen DeVos Children's Hospital, Grand Rapids, MI, USA.
+(9)Pharmaceutical Services, McMaster University, Hamilton, ON, Canada.
+(10)Hematology/Oncology, Hospital for Sick Children, Toronto, ON, Canada.
+
+Erratum in
+    Lancet Oncol. 2017 Jun;18(6):e301. doi: 10.1016/S1470-2045(17)30368-6.
+
+Comment in
+    Lancet Oncol. 2017 Jan;18(1):6-7. doi: 10.1016/S1470-2045(16)30630-1.
+    Natl Med J India. 2017 Nov-Dec;30(6):327-328. doi: 10.4103/0970-258X.239073.
+
+BACKGROUND: Sodium thiosulfate is an antioxidant shown in preclinical studies in 
+animals to prevent cisplatin-induced hearing loss with timed administration 
+after cisplatin without compromising the antitumour efficacy of cisplatin. The 
+primary aim of this study was to assess sodium thiosulfate for prevention of 
+cisplatin-induced hearing loss in children and adolescents.
+METHODS: ACCL0431 was a multicentre, randomised, open-label, phase 3 trial that 
+enrolled participants at 38 participating Children's Oncology Group hospitals in 
+the USA and Canada. Eligible participants aged 1-18 years with newly diagnosed 
+cancer and normal audiometry were randomly assigned (1:1) to receive sodium 
+thiosulfate or observation (control group) in addition to their planned 
+cisplatin-containing chemotherapy regimen, using permuted blocks of four. 
+Randomisation was initially stratified by age and duration of cisplatin 
+infusion. Stratification by previous cranial irradiation was added later as a 
+protocol amendment. The allocation sequence was computer-generated centrally and 
+concealed to all personnel. Participants received sodium thiosulfate 16 g/m2 
+intravenously 6 h after each cisplatin dose or observation. The primary endpoint 
+was incidence of hearing loss 4 weeks after final cisplatin dose. Hearing was 
+measured using standard audiometry and reviewed centrally by audiologists masked 
+to allocation using American Speech-Language-Hearing Association criteria but 
+treatment was not masked for participants or clinicians. Analysis of the primary 
+endpoint was by modified intention to treat, which included all randomly 
+assigned patients irrespective of treatment received but restricted to those 
+assessable for hearing loss. Enrolment is complete and this report represents 
+the final analysis. This trial is registered with ClinicalTrials.gov, number 
+NCT00716976.
+FINDINGS: Between June 23, 2008, and Sept 28, 2012, 125 eligible participants 
+were randomly assigned to either sodium thiosulfate (n=61) or observation 
+(n=64). Of these, 104 participants were assessable for the primary endpoint 
+(sodium thiosulfate, n=49; control, n=55). Hearing loss was identified in 14 
+(28·6%; 95% CI 16·6-43·3) participants in the sodium thiosulfate group compared 
+with 31 (56·4%; 42·3-69·7) in the control group (p=0·00022). Adjusted for 
+stratification variables, the likelihood of hearing loss was significantly lower 
+in the sodium thiosulfate group compared with the control group (odds ratio 
+0·31, 95% CI 0·13-0·73; p=0·0036). The most common grade 3-4 haematological 
+adverse events reported, irrespective of attribution, were neutropenia (117 
+[66%] of 177 participant cycles in the sodium thiosulfate group vs 145 [65%] of 
+223 in the control group), whereas the most common non-haematological adverse 
+event was hypokalaemia (25 [17%] of 147 vs 22 [12%] of 187). Of 194 serious 
+adverse events reported in 26 participants who had received sodium thiosulfate, 
+none were deemed probably or definitely related to sodium thiosulfate; the most 
+common serious adverse event was decreased neutrophil count: 26 episodes in 14 
+participants.
+INTERPRETATION: Sodium thiosulfate protects against cisplatin-induced hearing 
+loss in children and is not associated with serious adverse events attributed to 
+its use. Further research is needed to define the appropriate role for sodium 
+thiosulfate among emerging otoprotection strategies.
+FUNDING: US National Cancer Institute.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(16)30625-8
+PMCID: PMC5520988
+PMID: 27914822 [Indexed for MEDLINE]
+
+Conflict of interest statement: DECLARATION OF INTERESTS Grant funding was 
+received from the National Cancer Institute (NCI) by DRF, LC, BB, and KK. DRF 
+serves without compensation as a scientific advisor for Otonomy®. The other 
+authors declared to conflicts of interest.

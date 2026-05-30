@@ -1,0 +1,76 @@
+13. N Engl J Med. 2018 Mar 22;378(12):1107-1120. doi: 10.1056/NEJMoa1713976.
+
+Venetoclax-Rituximab in Relapsed or Refractory Chronic Lymphocytic Leukemia.
+
+Seymour JF(1), Kipps TJ(1), Eichhorst B(1), Hillmen P(1), D'Rozario J(1), 
+Assouline S(1), Owen C(1), Gerecitano J(1), Robak T(1), De la Serna J(1), Jaeger 
+U(1), Cartron G(1), Montillo M(1), Humerickhouse R(1), Punnoose EA(1), Li Y(1), 
+Boyer M(1), Humphrey K(1), Mobasher M(1), Kater AP(1).
+
+Author information:
+(1)From the Peter MacCallum Cancer Centre, Royal Melbourne Hospital, and 
+University of Melbourne, Melbourne, VIC (J.F.S.), and the John Curtin School of 
+Medical Research, Australian National University, Canberra, ACT (J.D.) - all in 
+Australia; the University of California School of Medicine, San Diego (T.J.K.), 
+and Genentech, South San Francisco (E.A.P., Y.L., M. Mobasher) - both in 
+California; University Hospital Cologne and the Center for Integrated Oncology 
+Cologne-Bonn, Cologne, Germany (B.E.); St. James's University Hospital, Leeds 
+(P.H.), and F. Hoffmann-La Roche, Welwyn Garden City (M.B., K.H.) - both in the 
+United Kingdom; Segal Cancer Center, Lady Davis Institute, Jewish General 
+Hospital, Montreal (S.A.), and the Departments of Medicine and Oncology, 
+University of Calgary, Calgary, AB (C.O.) - all in Canada; Memorial Sloan 
+Kettering Cancer Center, New York (J.G.); the Department of Hematology, Medical 
+University of Lodz and Copernicus Memorial Hospital, Lodz, Poland (T.R.); 
+Hospital Universitario 12 de Octubre, Madrid (J.D.S.); Medical University of 
+Vienna, Department of Medicine I, Division of Hematology and Hemostaseology, 
+Vienna (U.J.); the Department of Hematology, Centre Hospitalier Universitaire 
+Montpellier, Montpellier, France (G.C.); the Department of Onco-Hematology, 
+Division of Hematology, Niguarda Cancer Center, Niguarda Hospital, Milan (M. 
+Montillo); AbbVie, North Chicago, IL (R.H.); and the Department of Hematology, 
+Cancer Center Amsterdam, Academic Medical Center, Amsterdam (A.P.K.).
+
+Comment in
+    Nat Rev Clin Oncol. 2018 Jun;15(6):344-345. doi: 10.1038/s41571-018-0017-z.
+    N Engl J Med. 2018 May 31;378(22):2141-2. doi: 10.1056/NEJMc1805135.
+    N Engl J Med. 2018 May 31;378(22):2142-3. doi: 10.1056/NEJMc1805135.
+
+BACKGROUND: Venetoclax inhibits BCL2, an antiapoptotic protein that is 
+pathologically overexpressed and that is central to the survival of chronic 
+lymphocytic leukemia cells. We evaluated the efficacy of venetoclax in 
+combination with rituximab in patients with relapsed or refractory chronic 
+lymphocytic leukemia.
+METHODS: In this randomized, open-label, phase 3 trial, we randomly assigned 389 
+patients to receive venetoclax for up to 2 years (from day 1 of cycle 1) plus 
+rituximab for the first 6 months (venetoclax-rituximab group) or bendamustine 
+plus rituximab for 6 months (bendamustine-rituximab group). The trial design did 
+not include crossover to venetoclax plus rituximab for patients in the 
+bendamustine-rituximab group in whom progression occurred. The primary end point 
+was investigator-assessed progression-free survival.
+RESULTS: After a median follow-up period of 23.8 months, the rate of 
+investigator-assessed progression-free survival was significantly higher in the 
+venetoclax-rituximab group (32 events of progression or death in 194 patients) 
+than in the bendamustine-rituximab group (114 events in 195 patients); the 
+2-year rates of progression-free survival were 84.9% and 36.3%, respectively 
+(hazard ratio for progression or death, 0.17; 95% confidence interval [CI], 0.11 
+to 0.25; P<0.001 by the stratified log-rank test). The benefit was maintained 
+across all clinical and biologic subgroups, including the subgroup of patients 
+with chromosome 17p deletion; the 2-year rate of progression-free survival among 
+patients with chromosome 17p deletion was 81.5% in the venetoclax-rituximab 
+group versus 27.8% in the bendamustine-rituximab group (hazard ratio, 0.13; 95% 
+CI, 0.05 to 0.29), and the 2-year rate among those without chromosome 17p 
+deletion was 85.9% versus 41.0% (hazard ratio, 0.19; 95% CI, 0.12 to 0.32). The 
+benefit of venetoclax plus rituximab over bendamustine plus rituximab was 
+confirmed by an independent review committee assessment of progression-free 
+survival and other secondary efficacy end points. The rate of grade 3 or 4 
+neutropenia was higher in the venetoclax-rituximab group than in the 
+bendamustine-rituximab group, but the rates of grade 3 or 4 febrile neutropenia 
+and infections or infestations were lower with venetoclax than with 
+bendamustine. The rate of grade 3 or 4 tumor lysis syndrome in the 
+venetoclax-rituximab group was 3.1% (6 of 194 patients).
+CONCLUSIONS: Among patients with relapsed or refractory chronic lymphocytic 
+leukemia, venetoclax plus rituximab resulted in significantly higher rates of 
+progression-free survival than bendamustine plus rituximab. (Funded by Genentech 
+and AbbVie; ClinicalTrials.gov number, NCT02005471 .).
+
+DOI: 10.1056/NEJMoa1713976
+PMID: 29562156 [Indexed for MEDLINE]

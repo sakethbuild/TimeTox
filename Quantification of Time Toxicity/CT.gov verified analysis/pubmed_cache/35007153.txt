@@ -1,0 +1,146 @@
+17. J Clin Oncol. 2022 Mar 20;40(9):968-977. doi: 10.1200/JCO.21.02050. Epub 2022
+ Jan 10.
+
+Randomized Phase III Trial of Paclitaxel and Carboplatin Versus Paclitaxel and 
+Ifosfamide in Patients With Carcinosarcoma of the Uterus or Ovary: An NRG 
+Oncology Trial.
+
+Powell MA(1), Filiaci VL(2), Hensley ML(3), Huang HQ(2), Moore KN(4), Tewari 
+KS(5), Copeland LJ(6), Secord AA(7), Mutch DG(8), Santin A(9), Warshal DP(10), 
+Spirtos NM(11), DiSilvestro PA(12), Ioffe OB(13), Miller DS(14).
+
+Author information:
+(1)Washington University School of Medicine, St Louis, MO.
+(2)NRG Oncology, Clinical Trial Development Division, Biostatistics & 
+Bioinformatics, Roswell Park Comprehensive Cancer Center, Buffalo, NY.
+(3)Memorial Sloan-Kettering Cancer Center, New York, NY.
+(4)The Peggy and Charles Stephenson Cancer Center, The University of Oklahoma 
+Health Sciences Center, Oklahoma City, OK.
+(5)University of California, Irvine, Division of Gynecologic Oncology, Orange, 
+CA.
+(6)Ohio State University, Columbus, OH.
+(7)Duke Cancer Institute, Durham, NC.
+(8)Washington University, St Louis, MO.
+(9)Yale University, Obstetrics and Gynecology, Division of Gynecologic Oncology, 
+New Haven, CT.
+(10)Cooper Hospital University Medical Center, Camden, NJ.
+(11)Women's Cancer Center, Las Vegas, NV.
+(12)Women and Infants Hospital, Providence, RI.
+(13)University of Maryland Medical Center, Baltimore, MD.
+(14)UT Southwestern Medical Center at Dallas, Dallas, TX.
+
+Comment in
+    J Clin Oncol. 2022 Mar 20;40(9):924-926. doi: 10.1200/JCO.21.02667.
+
+PURPOSE: This phase III randomized trial (NCT00954174) tested the null 
+hypothesis that paclitaxel and carboplatin (PC) is inferior to paclitaxel and 
+ifosfamide (PI) for treating uterine carcinosarcoma (UCS).
+PATIENTS AND METHODS: Adults with chemotherapy-naïve UCS or ovarian 
+carcinosarcoma (OCS) were randomly assigned to PC or PI with 3-week cycles for 
+6-10 cycles. With 264 events in patients with UCS, the power for an overall 
+survival (OS) hybrid noninferiority design was 80% for a null hazard ratio (HR) 
+of 1.2 against a 13% greater death rate on PI with a type I error of 5% for a 
+one-tailed test.
+RESULTS: The study enrolled 536 patients with UCS and 101 patients with OCS, 
+with 449 and 90 eligible, respectively. Primary analysis was on patients with 
+UCS, distributed as follows: 40% stage I, 6% stage II, 31% stage III, 15% stage 
+IV, and 8% recurrent. Among eligible patients with UCS, PC was assigned to 228 
+and PI to 221. PC was not inferior to PI. The median OS was 37 versus 29 months 
+(HR = 0.87; 90% CI, 0.70 to 1.075; P < .01 for noninferiority, P > .1 for 
+superiority). The median progression-free survival was 16 versus 12 months (HR = 
+0.73; P = < 0.01 for noninferiority, P < .01 for superiority). Toxicities were 
+similar, except that more patients in the PC arm had hematologic toxicity and 
+more patients in the PI arm had confusion and genitourinary hemorrhage. Among 90 
+eligible patients with OCS, those in the PC arm had longer OS (30 v 25 months) 
+and progression-free survival (15 v 10 months) than those in the PI arm, but 
+with limited precision, these differences were not statistically significant.
+CONCLUSION: PC was not inferior to the active regimen PI and should be standard 
+treatment for UCS.
+
+DOI: 10.1200/JCO.21.02050
+PMCID: PMC8937015
+PMID: 35007153 [Indexed for MEDLINE]
+
+Conflict of interest statement: Matthew A. Powell Consulting or Advisory Role: 
+Roche/Genentech, AstraZeneca, Tesaro, Clovis Oncology, Eisai, GOG partners, 
+Seattle Genetics, GlaxoSmithKline/Tesaro Research Funding: 
+GlaxoSmithKline/Tesaro (Inst) Virginia L. Filiaci Other Relationship: GOG 
+Foundation Martee L. Hensley Employment: Sanofi (I) Stock and Other Ownership 
+Interests: Sanofi (I) Consulting or Advisory Role: Lilly, Tesaro, 
+GlaxoSmithKline, Thrive, An Exact Sciences Company Patents, Royalties, Other 
+Intellectual Property: author, UpToDate Kathleen N. Moore Honoraria: Research To 
+Practice, Prime Oncology, Physicans' Education Resource, Great Debates and 
+Updates Consulting or Advisory Role: Genentech/Roche, Immunogen, AstraZeneca, 
+TESARO (Inst), VBL Therapeutics, Merck, Aravive, Eisai, Vavotar Life Sciences, 
+Mersana (Inst), Myriad Genetics, Alkermes (Inst), Blueprint Pharmaceuticals 
+(Inst), GlaxoSmithKline/Tesaro (Inst), I-Mab (Inst), InxMed (Inst), Mereo 
+BioPharma (Inst) Research Funding: PTC Therapeutics (Inst), Lilly (Inst), Merck 
+(Inst), Tesaro (Inst), Genentech (Inst), Clovis Oncology (Inst), Lilly 
+Foundation (Inst), Regeneron (Inst), Advaxis (Inst), Bristol Myers Squibb 
+(Inst), Verastem (Inst), Novartis Pharmaceuticals UK Ltd (Inst), AstraZeneca 
+(Inst), Agenus (Inst), Takeda (Inst), Forty Seven (Inst), Stemcentrx (Inst), 
+Immunogen (Inst), Bayer (Inst), Novogen (Inst), AbbVie/Stemcentrx (Inst) Other 
+Relationship: GOG Partners (Inst) Krishnansu S. Tewari Honoraria: Tesaro, Clovis 
+Oncology, Merck, Eisai, AstraZeneca, Genmab Consulting or Advisory Role: 
+Roche/Genentech, Tesaro, Clovis Oncology, AstraZeneca Speakers' Bureau: 
+Roche/Genentech, AstraZeneca, Merck, Tesaro, Clovis Oncology, Eisai, Genmab 
+Research Funding: AbbVie (Inst), Genentech/Roche (Inst), Morphotek (Inst), Merck 
+(Inst), Regeneron (Inst) Travel, Accommodations, Expenses: Roche/Genentech Larry 
+J. Copeland Consulting or Advisory Role: Tarveda Therapeutics, Tarveda 
+Therapeutics, Myriad Genetics, GlaxoSmithKline, Elevar Therapeutics, Toray 
+Industries, Rubius Therapeutics, Sorrento Therapeutics, Celsion, Corcept 
+Therapeutics Angeles Secord Honoraria: Myriad Genetics Research Funding: Tesaro 
+(Inst), AstraZeneca (Inst), Genentech (Inst), Boehringer Ingelheim (Inst), 
+AbbVie (Inst), Merck (Inst), PharmaMar (Inst), Clovis Oncology (Inst), Eisai 
+(Inst), Seattle Genetics (Inst), Immutep (Inst), GlaxoSmithKline (Inst), VBL 
+Therapeutics (Inst), OncoQuest Pharmaceuticals (Inst) Travel, Accommodations, 
+Expenses: GlaxoSmithKline Uncompensated Relationships: Roche/Genentech, VBL 
+Therapeutics, GOG Foundation, OncoQuest Pharmaceuticals, Regeneron, Aravive 
+David G. Mutch Consulting or Advisory Role: Lilly Alessandro Santin Consulting 
+or Advisory Role: Merck, Tesaro Research Funding: Tesaro (Inst), Merck (Inst), 
+Boehringer Ingelheim (Inst), Gilead Sciences (Inst), Puma Biotechnology (Inst), 
+Genentech/Roche (Inst), Genentech/Roche (Inst), R-Pharm (Inst), Immunomedics 
+(Inst) Nick M. Spirtos Research Funding: AbbVie (Inst), AstraZeneca (Inst), 
+Genentech/Roche (Inst), Clovis Oncology (Inst), Seattle Genetics (Inst) Patents, 
+Royalties, Other Intellectual Property: Application No. PCT/US 2019/19465, 
+Cannabis Based Therapeutic and Method of Use; Application No.: US Patent 
+0024098766, Compounds Cannabidiol and Flavanones, 63/047550 (July 1, 2020) 
+63/055458 (July 23, 2020), Title Country Status Filed Date Application No. 
+Patent Ref. No. 199236-701611/EP, Title: Cannabis Based Therapeutic and Method 
+of Use Country, European Patent Status: Published February 25, 2019, 19710540.6; 
+Patent Ref. No. 199236-701691/PCT-BR, Title: Cannabis Based Therapeutic and 
+Method of Use Country Brazil Status: Application February 25, 2019, 
+1120200170232; Patent Ref. No. 199236-701831/PCT-US, Title: Cannabis Based 
+Therapeutic and Method of Use Country United States of America Status: Published 
+February 25, 2019, 16/971,781; Patent Ref. No. 199236-701891/HK, Title: Cannabis 
+Based Therapeutic and Method of Use Country Hong Kong Status: Published June 25, 
+2021, 62021033676.9; Patent Ref. No. Title Country Status Filed Date; 
+Application No. Patent Ref. No. 199237-701601/PCT, Title: Compositions 
+Comprising Cannabidiol and Flavanones Country: Patent Cooperation Treaty Status: 
+Application July 1, 2021, PCT/US21/40115; Patent Ref. No. 199237-701691/BR, 
+Title: Compositions Comprising Cannabidiol and Flavanones Country: Brazil 
+Status: Application November 19, 2020, 1020200236644; Patent Ref. No. 
+199237-7019761/UY, Title: Compositions Comprising and Flavanones Country: 
+Uruguay Status: Application November 20, 2020, 38965, John Wiley and Sons Editor 
+12th Edition Bonney's Gynaecological Surgery Open Payments Link: 
+https://openpaymentsdata.cms.gov/physician/8054, 
+https://openpaymentsdata.cms.gov/physician/8054 Paul A. DiSilvestro Consulting 
+or Advisory Role: AstraZeneca, Agenus Research Funding: Janssen Oncology (Inst), 
+Tesaro (Inst), AstraZeneca (Inst), Genentech (Inst), AbbVie (Inst) David S. 
+Miller Consulting or Advisory Role: Genentech, Tesaro, Eisai, AstraZeneca, 
+Guardant Health, Janssen Oncology, Alexion Pharmaceuticals, Karyopharm 
+Therapeutics, Incyte, Guardant Health, Janssen, Alexion Pharmaceuticals, Clovis 
+Oncology, Merck Sharp & Dohme (Inst), Asymmetric Therapeutics, Boston Biomedical 
+Research Institute, Tarveda Therapeutics, Myriad Genetic Laboratories, 
+GlaxoSmithKline, AbbVie, Incyte, EMD Serono, Seattle Genetics, Clinical 
+Education Alliance, LLC, Eisai, GlaxoSmithKline, iTeos Belgium SA, Novocure, 
+Novartis, Immunogen, Agenus Speakers' Bureau: Clovis Oncology, Genentech 
+Research Funding: US Biotest (Inst), Advenchen Laboratories (Inst), Tesaro 
+(Inst), Xenetic Biosciences (Inst), Advaxis (Inst), Janssen (Inst), Aeterna 
+Zentaris (Inst), TRACON Pharma (Inst), Pfizer (Inst), Immunogen (Inst), Mateon 
+Therapeutics (Inst), Merck Sharp & Dohme (Inst), AstraZeneca (Inst), Millennium 
+Pharmaceuticals (Inst), Aprea AB (Inst), Regeneron (Inst), NVision (Inst), Leap 
+Therapeutics (Inst), Novartis (Inst), Syros Pharmaceuticals (Inst), Karyopharm 
+Therapeutics (Inst), Agenus (Inst), Akesobio (Inst), EMD Serono Research & 
+Development Institute, Incyte (Inst)No other potential conflicts of interest 
+were reported.

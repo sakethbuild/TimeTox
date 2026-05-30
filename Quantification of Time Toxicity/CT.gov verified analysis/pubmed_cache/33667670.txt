@@ -1,0 +1,96 @@
+15. Ann Oncol. 2021 Jun;32(6):757-765. doi: 10.1016/j.annonc.2021.02.017. Epub
+2021  Mar 2.
+
+Phase III, randomized trial of mirvetuximab soravtansine versus chemotherapy in 
+patients with platinum-resistant ovarian cancer: primary analysis of FORWARD I.
+
+Moore KN(1), Oza AM(2), Colombo N(3), Oaknin A(4), Scambia G(5), Lorusso D(6), 
+Konecny GE(7), Banerjee S(8), Murphy CG(9), Tanyi JL(10), Hirte H(11), Konner 
+JA(12), Lim PC(13), Prasad-Hayes M(14), Monk BJ(15), Pautier P(16), Wang J(17), 
+Berkenblit A(17), Vergote I(18), Birrer MJ(19).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Stephenson Cancer Center/University 
+of Oklahoma Health Sciences Center, Oklahoma City, USA. Electronic address: 
+kathleen-moore@ouhsc.edu.
+(2)Division of Medical Oncology and Hematology, Princess Margaret Cancer Centre, 
+Toronto, Canada.
+(3)Department of Gynecologic Oncology, European Institute of Oncology IRCCS; 
+University of Milan-Bicocca, Milan, Italy.
+(4)Medical Oncology Department, Vall d'Hebron University Hospital, Vall d'Hebron 
+Institute of Oncology (VHIO), Barcelona, Spain.
+(5)Gynecology Oncology Unit, Fondazione Policlinico Universitario A. Gemelli 
+IRCCS Roma, Rome, Italy.
+(6)Gynecologic Oncology, Fondazione IRCCS National Cancer Institute, Milan, 
+Italy.
+(7)Department of Obstetrics and Gynecology, University of California Los 
+Angeles, Los Angeles, USA.
+(8)Gynaecology, The Royal Marsden NHS Foundation Trust and Institute of Cancer 
+Research, London, UK.
+(9)Cancer Trials Ireland and Medical Oncology, Bon Secours Hospital, Cork, 
+Ireland.
+(10)Obstetrics and Gynecology, University of Pennsylvania, Philadelphia, USA.
+(11)Oncology, Juravinski Cancer Centre, Hamilton, Canada.
+(12)Gynecologic Oncology, Memorial Sloan Kettering Cancer Center, New York, USA.
+(13)Gynecologic Oncology, The Center of Hope Renown Regional Medical Center, 
+Reno, USA.
+(14)Obstetrics and Gynecology, Icahn School of Medicine at Mount Sinai, New 
+York, USA.
+(15)Gynecologic Oncology, Arizona Oncology (US Oncology Network), University of 
+Arizona, Creighton University School of Medicine, Phoenix, USA.
+(16)Medicine, Gustave Roussy, Villejuif, GINECO, Villejuif, France.
+(17)Clinical Development, ImmunoGen, Inc., Waltham, USA.
+(18)Department of Obstetrics and Gynecology and Gynecological Oncology, 
+University Hospital Leuven, Leuven Cancer Institute, Leuven, Belgium.
+(19)Comprehensive Cancer Center, University of Alabama at Birmingham, 
+Birmingham, USA.
+
+BACKGROUND: Mirvetuximab soravtansine (MIRV) is an antibody-drug conjugate 
+comprising a folate receptor alpha (FRα)-binding antibody, cleavable linker, and 
+the maytansinoid DM4, a potent tubulin-targeting agent. The randomized, 
+open-label, phase III study FORWARD I compared MIRV and investigator's choice 
+chemotherapy in patients with platinum-resistant epithelial ovarian cancer 
+(EOC).
+PATIENTS AND METHODS: Eligible patients with 1-3 prior lines of therapy and 
+whose tumors were positive for FRα expression were randomly assigned, in a 2 : 1 
+ratio, to receive MIRV (6 mg/kg, adjusted ideal body weight) or chemotherapy 
+(paclitaxel, pegylated liposomal doxorubicin, or topotecan). The primary 
+endpoint was progression-free survival [PFS, Response Evaluation Criteria in 
+Solid Tumors (RECIST) version 1.1, blinded independent central review] in the 
+intention-to-treat (ITT) population and in the prespecified FRα high population.
+RESULTS: A total of 366 patients were randomized; 243 received MIRV and 109 
+received chemotherapy. The primary endpoint, PFS, did not reach statistical 
+significance in either the ITT [hazard ratio (HR), 0.98, P = 0.897] or the FRα 
+high population (HR, 0.69, P = 0.049). Superior outcomes for MIRV over 
+chemotherapy were observed in all secondary endpoints in the FRα high population 
+including improved objective response rate (24% versus 10%), CA-125 responses 
+(53% versus 25%), and patient-reported outcomes (27% versus 13%). Fewer 
+treatment-related grade 3 or higher adverse events (25.1% versus 44.0%), and 
+fewer events leading to dose reduction (19.8% versus 30.3%) and treatment 
+discontinuation (4.5% versus 8.3%) were seen with MIRV compared with 
+chemotherapy.
+CONCLUSIONS: In patients with platinum-resistant EOC, MIRV did not result in a 
+significant improvement in PFS compared with chemotherapy. Secondary endpoints 
+consistently favored MIRV, particularly in patients with high FRα expression. 
+MIRV showed a differentiated and more manageable safety profile than 
+chemotherapy.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.annonc.2021.02.017
+PMID: 33667670 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure KNM reports advisory roles for 
+AstraZeneca, AbbVie, Aravive, Eisai, ImmunoGen, GSK/Tesaro, Genentech/Roche, 
+Merck, Mersana, Myriad, Vavotar, and VBL Therapeutics, and research funding from 
+PTC Therapeutics, Lilly, Merck, GSK/Tesaro. DL reports personal fees from Amgen, 
+GSK, PharmaMar, Roche, and Clovis; consulting roles with AstraZeneca, GSK, Merck 
+Sharp & Dohme, Clovis, Amgen, Genmab; and research funding from GSK and Merck. 
+GEK reports personal fees from AstraZeneca, Clovis, and GSK/Tesaro; research 
+funding from Lilly and Merck. HH reports advisory roles and personal fees from 
+AstraZeneca and Merck; research funding from AstraZeneca, GSK, Merck, Roche, and 
+ImmunoGen. BJM reports consulting roles for AbbVie, Amgen, Aravive, AstraZeneca, 
+Clovis, GOG Foundation, Gradalis, ImmunoGen, Laekna Healthcare, Merck, Mersana, 
+Myriad, NuCana, OncoMed, OncoQuest, Pfizer, Roche/Genentech, and Tesaro/GSK. JW 
+and AB report employment with ImmunoGen. All other authors have declared no 
+conflicts of interest.

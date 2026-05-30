@@ -1,0 +1,113 @@
+13. N Engl J Med. 2019 Feb 21;380(8):720-728. doi: 10.1056/NEJMoa1814630.
+
+Rivaroxaban for Thromboprophylaxis in High-Risk Ambulatory Patients with Cancer.
+
+Khorana AA(1), Soff GA(1), Kakkar AK(1), Vadhan-Raj S(1), Riess H(1), Wun T(1), 
+Streiff MB(1), Garcia DA(1), Liebman HA(1), Belani CP(1), O'Reilly EM(1), Patel 
+JN(1), Yimer HA(1), Wildgoose P(1), Burton P(1), Vijapurkar U(1), Kaul S(1), 
+Eikelboom J(1), McBane R(1), Bauer KA(1), Kuderer NM(1), Lyman GH(1); CASSINI 
+Investigators.
+
+Collaborators: Khorana AA, Soff GA, Kakkar AK, Vadhan-Raj S, Riess H, Wun T, 
+Streiff MB, Garcia DA, Liebman HA, Belani CP, O'Reilly EM, Patel JN, Eikelboom 
+J, McBane R, Bauer KA, Kuderer NM, Lyman GH, Crawford J, Neaton J, Francis CW, 
+Prins M, Ten Cate-Hoek A, Ten Cate H, Shad-Small S, Lambert C, Machiels G, Efira 
+A, Martens M, Dirix L, Rolfo C, Forget F, Wynendaele W, Denardin da Rosa V, 
+Massayuki Imanishi W, Michels de Oliveira M, Pires L, Silva Melo Cruz FJ, Borges 
+G, Zukin M, Pedrini JL, Zago Campos C, Altino J, Roberte Adam Van Eyll BMH, 
+Brust L, Hegg R, Ramacciotti E, Ribeiro Villaca P, Mazzoleni F, Grabarz D, 
+Keyserlingk J, Cournoyer G, Yeo E, Buchler T, Klenha K, Melichar B, Prausova J, 
+Smakal M, Smakalova J, Sochor M, Weiner P, Prosecky R, Safanda M, Kotasek R, 
+Jinkova S, Vanasek J, Seuwin B, Berdah JF, Boutruche B, Debourdeau P, 
+Farge-Bancel D, Voog E, Agapé P, Bonnet I, Cornea CP, Ghiringhelli F, Henni S, 
+Faehling M, von Pawel J, Langer F, Hoffmeister A, Ostermann H, Schmalenberg H, 
+Fuxius S, Kirsch A, Bohnet S, Schem C, Karthaus M, Kretzschmar A, Zander T, 
+Strumberg D, Klotz T, Hoehler T, Mohamed OF, Nogai A, Schulte C, Venerito M, 
+Malfertheiner P, Beyer-Westendorf J, Kirchner H, Gaska T, Pelzer U, Meyer R, 
+Prondzinsky R, Petty R, Lord H, McNamara M, Propper D, Khan O, Nokes T, 
+Parkinson J, Farrugia D, Krell D, De Censi A, Passalacqua R, Pedrazzoli P, Verso 
+M, Squizzato A, Petrelli F, Lodigiani C, Dvorkin M, Goldberg V, Orlov S, 
+Alekseev S, Breder V, Kislov N, Nechaeva M, Orlova R, Lifirenko I, Tryakin A, 
+Filippov A, Gladkov O, Poddubskaya E, Noguera C, Harish V, Roengvoraphoj 
+Drescher M, Soff G, Tafur A, Billett H, Battini R, Jaslowski A, Wilbur D, 
+Connolly G, Johnson S, Dhami M, Jurgens D, Loprinzi C, MacVicar G, Holladay C, 
+Piatek C, Openshaw T, Arrambide K, Luckenbill J, Robinson M, Siddiqui B, 
+Anderson T, Jain S, Saltzman M, Suh J, Tin-U C, Vaughn J, Calverley D, Halka K, 
+Melear J, Schnadig I, Melnyk A, Pluard T, Encarnacion C, Lyons R, McKenney S, 
+Seneviratne L, Streiff M, Sreenivasappa S, Buchanan G, DiSimone C, Andorsky D, 
+DiBella N, Kleinman M, Kaklamani V, Rosovsky R, Sloan J, Stone S, Walls J, Islam 
+R, Rajasekhar A, Wun T, Vasireddy VK, Costa D, Nguyen D, Greenwald D, Sousou T, 
+Sohal D, Karamlou K, Seetharam M, Greenberg C, Patel J, Gaddh M, Garbo L, Slosky 
+D, Lenihan D, Overman M, Lingerfelt B, Yimer H, Ramaekers R, Copur M, Lee C, 
+Nakhl F, Kovoor P, O'Brien L, Aylesworth C, Patel K, Baltz B, Hadi G, Kaatz S, 
+Kingsley E, McIntyre K, Prakash S, Diuguid D, Seastone D.
+
+Author information:
+(1)From the Department of Hematology and Medical Oncology, Taussig Cancer 
+Institute and Case Comprehensive Cancer Center, Cleveland Clinic, Cleveland 
+(A.A.K.); the Department of Medicine, Memorial Sloan Kettering Cancer Center 
+(G.A.S., E.M.O.), and Weill Cornell Medical College (G.A.S., E.M.O.), New York; 
+the Thrombosis Research Institute and University College London, London 
+(A.K.K.); University of Texas M.D. Anderson Cancer Center, Houston (S.V.-R.), 
+and U.S. Oncology Research-Texas Oncology, Tyler (H.A.Y.) - both in Texas; the 
+Department of Medicine, Charité Universitätsmedizin Berlin, Berlin (H.R.); the 
+Division of Hematology-Oncology, University of California Davis School of 
+Medicine, Sacramento (T.W.), and the Keck School of Medicine, University of 
+Southern California, Los Angeles (H.A.L.); the Division of Hematology, 
+Department of Medicine, Johns Hopkins University School of Medicine, Baltimore 
+(M.B.S.); the University of Washington School of Medicine (D.A.G., N.M.K., 
+G.H.L.), Advanced Cancer Research Group (N.M.K.), and Fred Hutchinson Cancer 
+Research Center (G.H.L.), Seattle; Penn State Cancer Institute, Milton S. 
+Hershey Medical Center, Hershey, PA (C.P.B.); the Department of Cancer 
+Pharmacology, Levine Cancer Institute, Atrium Health, Charlotte, NC (J.N.P.); 
+Janssen Scientific Affairs, Titusville (P.W., P.B., S.K.), and Janssen Research 
+and Development, Raritan (U.V.) - both in New Jersey; the Department of 
+Medicine, McMaster University, Hamilton, ON, Canada (J.E.); the Department of 
+Cardiovascular Medicine, Mayo Clinic, Rochester, MN (R.M.); and the Division of 
+Hematology-Oncology, Beth Israel Deaconess Medical Center, Boston (K.A.B.).
+
+Comment in
+    N Engl J Med. 2019 Feb 21;380(8):781-783. doi: 10.1056/NEJMe1816060.
+    MMW Fortschr Med. 2019 Mar;161(5):36. doi: 10.1007/s15006-019-0269-2.
+    N Engl J Med. 2019 May 30;380(22):2180-2181. doi: 10.1056/NEJMc1904003.
+    Ann Intern Med. 2019 Jun 18;170(12):JC67. doi: 10.7326/ACPJ201906180-067.
+    Internist (Berl). 2019 Sep;60(9):1004-1006. doi: 10.1007/s00108-019-0647-y.
+    Eur Urol. 2020 Mar;77(3):388-390. doi: 10.1016/j.eururo.2019.10.019.
+    Eur J Cancer. 2020 Jul;134:1-2. doi: 10.1016/j.ejca.2020.05.002.
+
+BACKGROUND: Ambulatory patients receiving systemic cancer therapy are at varying 
+risk for venous thromboembolism. However, the benefit of thromboprophylaxis in 
+these patients is uncertain.
+METHODS: In this double-blind, randomized trial involving high-risk ambulatory 
+patients with cancer (Khorana score of ≥2, on a scale from 0 to 6, with higher 
+scores indicating a higher risk of venous thromboembolism), we randomly assigned 
+patients without deep-vein thrombosis at screening to receive rivaroxaban (at a 
+dose of 10 mg) or placebo daily for up to 180 days, with screening every 8 
+weeks. The primary efficacy end point was a composite of objectively confirmed 
+proximal deep-vein thrombosis in a lower limb, pulmonary embolism, symptomatic 
+deep-vein thrombosis in an upper limb or distal deep-vein thrombosis in a lower 
+limb, and death from venous thromboembolism and was assessed up to day 180. In a 
+prespecified supportive analysis involving the same population, the same end 
+point was assessed during the intervention period (first receipt of trial agent 
+to last dose plus 2 days). The primary safety end point was major bleeding.
+RESULTS: Of 1080 enrolled patients, 49 (4.5%) had thrombosis at screening and 
+did not undergo randomization. Of the 841 patients who underwent randomization, 
+the primary end point occurred in 25 of 420 patients (6.0%) in the rivaroxaban 
+group and in 37 of 421 (8.8%) in the placebo group (hazard ratio, 0.66; 95% 
+confidence interval [CI], 0.40 to 1.09; P = 0.10) in the period up to day 180. 
+In the prespecified intervention-period analysis, the primary end point occurred 
+in 11 patients (2.6%) in the rivaroxaban group and in 27 (6.4%) in the placebo 
+group (hazard ratio, 0.40; 95% CI, 0.20 to 0.80). Major bleeding occurred in 8 
+of 405 patients (2.0%) in the rivaroxaban group and in 4 of 404 (1.0%) in the 
+placebo group (hazard ratio, 1.96; 95% CI, 0.59 to 6.49).
+CONCLUSIONS: In high-risk ambulatory patients with cancer, treatment with 
+rivaroxaban did not result in a significantly lower incidence of venous 
+thromboembolism or death due to venous thromboembolism in the 180-day trial 
+period. During the intervention period, rivaroxaban led to a substantially lower 
+incidence of such events, with a low incidence of major bleeding. (Funded by 
+Janssen and others; CASSINI ClinicalTrials.gov number, NCT02555878.).
+
+Copyright © 2019 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa1814630
+PMID: 30786186 [Indexed for MEDLINE]

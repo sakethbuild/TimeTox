@@ -1,0 +1,68 @@
+6. Leukemia. 2024 Jan;38(1):58-66. doi: 10.1038/s41375-023-02073-x. Epub 2023 Nov
+ 7.
+
+A randomized phase III study of standard versus high-dose cytarabine with or 
+without vorinostat for AML.
+
+Garcia-Manero G(#)(1), Podoltsev NA(#)(2), Othus M(3), Pagel JM(4), Radich 
+JP(5), Fang M(5), Rizzieri DA(6), Marcucci G(7)(8), Strickland SA(9)(10), Litzow 
+MR(11), Savoie ML(12), Medeiros BC(13), Sekeres MA(14)(15), Lin TL(16), Uy 
+GL(17), Powell BL(18), Kolitz JE(19), Larson RA(20), Stone RM(21), Claxton 
+D(22), Essell J(23), Luger SM(24), Mohan SR(9)(10), Moseley A(3), Appelbaum 
+FR(5), Erba HP(25).
+
+Author information:
+(1)Department of Leukemia, MD Anderson Cancer Center, Houston, TX, USA.
+(2)Yale School of Medicine, New Haven, CT, USA. nikolai.podoltsev@yale.edu.
+(3)SWOG Statistics and Data Management Center, Seattle, WA, USA.
+(4)Swedish Cancer Institute, Seattle, WA, USA.
+(5)Fred Hutchinson Cancer Center, Seattle, WA, USA.
+(6)Duke University Medical Center, Durham, NC, USA.
+(7)Ohio State University (Alliance), Columbus, OH, USA.
+(8)City of Hope, Duarte, CA, USA.
+(9)Vanderbilt-Ingram Cancer Center, Nashville, TN, USA.
+(10)Sarah Cannon, Nashville, TN, USA.
+(11)Mayo Clinic, Rochester, MN, USA.
+(12)Tom Baker Cancer Centre, Calgary, AB, Canada.
+(13)Stanford University, Stanford, CA, USA.
+(14)Cleveland Clinic, Cleveland, OH, USA.
+(15)University of Miami, Maiami, FL, USA.
+(16)University of Kansas Medical Center, Kansas City, KS, USA.
+(17)Washington University School of Medicine, St. Louis, USA.
+(18)Wake Forest Baptist Comprehensive Cancer Center, Winston-Salem, NC, USA.
+(19)North Shore University Hospital, Manhasset, NY, USA.
+(20)University of Chicago, Chicago, IL, USA.
+(21)Dana Farber Cancer Institute, Boston, MA, USA.
+(22)Pennsylvania State Milton S Hershey Medical Center, Hummelstown, USA.
+(23)Jewish Hospital, Cincinnati, OH, USA.
+(24)University of Pennsylvania Abramson Cancer Center, Philadelphia, PA, USA.
+(25)Duke University Cancer Center, Durham, NC, USA.
+(#)Contributed equally
+
+Prior experience indicated that use of higher doses of cytarabine during 
+induction for acute myeloid leukemia (AML) with a histone deacetylase inhibitor 
+resulted in high response rates. S1203 was a randomized multicenter trial for 
+previously untreated patients aged 18-60 with AML which compared daunorubicin 
+and cytarabine (DA), idarubicin with higher dose cytarabine (IA) and IA with 
+vorinostat (IA + V). The primary endpoint was event free survival (EFS). 738 
+patients were randomized: 261 to each DA and IA arms and 216 to the IA + V arm. 
+96, 456, and 150 patients had favorable-, intermediate-, and unfavorable-risk 
+cytogenetics, respectively. 152 were NPM1 and 158 FLT3 mutated. The overall 
+remission rate was 77.5% including 62.5% CR and 15.0% CRi. No differences in 
+remission, EFS, or overall survival were observed among the 3 arms except for 
+the favorable cytogenetics subset who had improved outcomes with DA and 
+postremission high dose cytarabine. A trend towards increased toxicity was 
+observed with the IA and IA + V arms. The use of higher dose cytarabine during 
+induction therapy in younger patients with AML, with or without vorinostat, does 
+not result in improved outcomes. (Funded by the US National Institutes of Health 
+and others, ClinicalTrials.gov number, NCT01802333.).
+
+© 2023. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41375-023-02073-x
+PMCID: PMC11729399
+PMID: 37935977 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests statement: The authors 
+disclose that they do not have any competing financial interests in relation to 
+the work described in the manuscript.

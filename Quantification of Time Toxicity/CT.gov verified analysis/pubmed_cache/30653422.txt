@@ -1,0 +1,66 @@
+9. J Clin Oncol. 2019 Mar 1;37(7):589-597. doi: 10.1200/JCO.18.00685. Epub 2019
+Jan  17.
+
+Autologous Transplantation, Consolidation, and Maintenance Therapy in Multiple 
+Myeloma: Results of the BMT CTN 0702 Trial.
+
+Stadtmauer EA(1), Pasquini MC(2), Blackwell B(3), Hari P(2), Bashey A(4), Devine 
+S(5), Efebera Y(5), Ganguly S(6), Gasparetto C(7), Geller N(8), Horowitz MM(2), 
+Koreth J(9), Knust K(3), Landau H(10), Brunstein C(11), McCarthy P(12), Nelson 
+C(3), Qazilbash MH(13), Shah N(14), Vesole DH(15), Vij R(16), Vogl DT(1), Giralt 
+S(10), Somlo G(17), Krishnan A(17).
+
+Author information:
+(1)1 University of Pennsylvania, Philadelphia, PA.
+(2)2 Medical College of Wisconsin, Milwaukee, WI.
+(3)3 The Emmes Corporation, Rockville, MD.
+(4)4 BMT Group of Georgia, Atlanta, GA.
+(5)5 The Ohio State University, Columbus, OH.
+(6)6 University of Kansas Hospital, Kansas City, KS.
+(7)7 Duke University, Durham, NC.
+(8)8 National Heart, Lung, and Blood Institute, Rockville, MD.
+(9)9 Dana-Farber Cancer Institute, Boston, MA.
+(10)10 Memorial Sloan Kettering Cancer Center, New York, NY.
+(11)11 University of Minnesota, Minneapolis, MN.
+(12)12 Roswell Park Cancer Institute, Buffalo, NY.
+(13)13 The University of Texas MD Anderson Cancer Center, Houston, TX.
+(14)14 University of California, San Francisco, San Francisco, CA.
+(15)15 Hackensack University, Hackensack, NJ.
+(16)16 Washington University, St Louis, MO.
+(17)17 City of Hope, Los Angeles, CA.
+
+PURPOSE: Single-cycle melphalan 200 mg/m2 and autologous hematopoietic cell 
+transplantation (AHCT) followed by lenalidomide (len) maintenance have improved 
+progression-free survival (PFS) and overall survival (OS) for 
+transplantation-eligible patients with multiple myeloma (MM). We designed a 
+prospective, randomized, phase III study to test additional interventions to 
+improve PFS by comparing AHCT, tandem AHCT (AHCT/AHCT), and AHCT and four 
+subsequent cycles of len, bortezomib, and dexamethasone (RVD; AHCT + RVD), all 
+followed by len until disease progression.
+PATIENTS AND METHODS: Patients with symptomatic MM within 12 months from 
+starting therapy and without progression who were age 70 years or younger were 
+randomly assigned to AHCT/AHCT + len (n = 247), AHCT + RVD + len (n = 254), or 
+AHCT + len (n = 257). The primary end point was 38-month PFS.
+RESULTS: The study population had a median age of 56 years (range, 20 to 70 
+years); 24% of patients had high-risk MM, 73% had a triple-drug regimen as 
+initial therapy, and 18% were in complete response at enrollment. The 38-month 
+PFS rate was 58.5% (95% CI, 51.7% to 64.6%) for AHCT/AHCT + len, 57.8% (95% CI, 
+51.4% to 63.7%) for AHCT + RVD + len, and 53.9% (95% CI, 47.4% to 60%) for AHCT 
++ len. For AHCT/AHCT + len, AHCT + RVD + len, and AHCT + len, the OS rates were 
+81.8% (95% CI, 76.2% to 86.2%), 85.4% (95% CI, 80.4% to 89.3%), and 83.7% (95% 
+CI, 78.4% to 87.8%), respectively, and the complete response rates at 1 year 
+were 50.5% (n = 192), 58.4% (n = 209), and 47.1% (n = 208), respectively. 
+Toxicity profiles and development of second primary malignancies were similar 
+across treatment arms.
+CONCLUSION: Second AHCT or RVD consolidation as post-AHCT interventions for the 
+up-front treatment of transplantation-eligible patients with MM did not improve 
+PFS or OS. Single AHCT and len should remain as the standard approach for this 
+population.
+
+DOI: 10.1200/JCO.18.00685
+PMCID: PMC6553842
+PMID: 30653422 [Indexed for MEDLINE]
+
+Conflict of interest statement: The content of this article is solely the 
+responsibility of the authors and does not necessarily represent the official 
+views of the funding parties.

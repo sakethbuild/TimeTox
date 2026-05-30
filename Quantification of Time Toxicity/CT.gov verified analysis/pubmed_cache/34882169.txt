@@ -1,0 +1,79 @@
+13. JAMA Oncol. 2022 Feb 1;8(2):259-267. doi: 10.1001/jamaoncol.2021.5948.
+
+Efficacy of Treatment With Armodafinil for Cancer-Related Fatigue in Patients 
+With High-grade Glioma: A Phase 3 Randomized Clinical Trial.
+
+Porter AB(1), Liu H(2)(3), Kohli S(4), Cerhan JL(2), Sloan J(2)(3), McMurray 
+RP(2)(3), Le-Rademacher J(2)(3), Loprinzi CL(2), Villano JL(5), Kizilbash SH(2), 
+Mehta MP(6), Jaeckle KA(7), Brown PD(2).
+
+Author information:
+(1)Mayo Clinic, Phoenix, Arizona.
+(2)Mayo Clinic, Rochester, Minnesota.
+(3)Alliance Statistics and Data Center, Mayo Clinic, Rochester, Minnesota.
+(4)University of Utah, Salt Lake City, Utah.
+(5)University of Kentucky/Markey Cancer Center, Lexington, Kentucky.
+(6)Miami Cancer Institute, Baptist Health South Florida, Miami, Florida.
+(7)Mayo Clinic, Jacksonville, Florida.
+
+IMPORTANCE: Nearly 96% of patients with high-grade glioma (HGG) report 
+moderate-to-severe fatigue. Armodafinil is a psychostimulant that might help 
+cancer-related fatigue in patients with HGG.
+OBJECTIVE: To determine whether armodafinil reduces fatigue in patients with HGG 
+and moderate-to-severe fatigue.
+DESIGN, SETTING, AND PARTICIPANTS: In this randomized multicenter, phase 3, 
+double-blinded, placebo-controlled clinical trial, adults with HGG and 
+moderate-to-severe fatigue who were clinically stable at least 4 weeks after 
+completing radiation therapy were randomized to receive armodafinil daily (150 
+mg or 250 mg) or placebo over 8 weeks. A score of at least 6 out of 10 on 
+severity scale for the brief fatigue inventory scale, with 10 being the worst, 
+was required to suggest moderate-to-severe fatigue. Patients were allowed stable 
+doses of corticosteroids but were excluded if they required increasing amounts 
+of corticosteroids, were receiving some other treatment for fatigue, or had an 
+uncontrolled seizure disorder. The study was conducted from June 2013 to 
+December 15, 2019.
+INTERVENTIONS: Patients were randomized to 150 mg of armodafinil, 250 mg of 
+armodafinil, or placebo for a total of 8 weeks with assessments at weeks 4 and 
+8.
+MAIN OUTCOMES AND MEASURES: The primary outcome was efficacy in treating 
+cancer-related fatigue. Secondary outcomes included safety, neurocognitive 
+function, and quality of life. Patients were evaluated at baseline and at weeks 
+4 and 8. Efficacy between the placebo and the 2 doses of study drug was 
+determined by an improvement by 2 points on the 0 to 10 brief fatigue inventory 
+scale. Kruskal-Wallis and χ2 tests were used and followed by confirmatory 
+analyses.
+RESULTS: A total of 328 patients were enrolled, of whom 297 had evaluable end 
+point data. Of these, 103 received 150 mg of armodafinil (mean [SD] age, 58.5 
+[11.9] years; 42 women [40.8%]), 97 250 mg of armodafinil (mean [SD] age, 56.6 
+[12.5] years; 37 women [38.1%]), and 97 placebo (mean [SD] age, 57.1 [12.5] 
+years; 39 women [40.2%]). There was no difference in the proportion of patients 
+who achieved clinically meaningful fatigue reduction between arms (28% [95% CI 
+20%-30%] for 150 mg of armodafinil, 28% [95% CI 19%-38%] for 250 mg of 
+armodafinil, and 30% [95% CI 21%-40%] for placebo). There was a statistically 
+significant reduction in global fatigue for corticosteroid users compared with 
+nonusers (-0.7 [95% CI, -1.5 to -0.3] vs -1.7 [95% CI, -2.1 to -1.3]; P < .001). 
+More patients (2 vs 7) reported insomnia with treatment with 250 mg of 
+armodafinil.
+CONCLUSIONS AND RELEVANCE: The results of this randomized clinical trial found 
+no meaningful benefit of using treatment with armodafinil to reduce 
+cancer-related fatigue in patients with HGG.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01781468.
+
+DOI: 10.1001/jamaoncol.2021.5948
+PMCID: PMC8662535
+PMID: 34882169 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Drs Liu, 
+McMurray, and Le-Rademacher reported grants from Mayo Clinic during the conduct 
+of the study. Dr Loprinzi reported grants from the National Cancer Institute 
+during the conduct of the study and personal fees from PledPharma, Disarm 
+Therapeutics, Ashi Kasei, Metys Pharmaceuticals, OnQuality, NKMax, Novartis, 
+HengRui, Osmol Therapeutics, and Gruenthal outside the submitted work. Dr 
+Kizilbash reported grants from the National Institutes of Health during the 
+conduct of the study as well as grants from Orbus Therapeutics, Inc, Apollomics, 
+Inc, Celgene, Wayshine Biopharma, and LOXO Oncology and nonfinancial support 
+from Calithera Biosciences outside the submitted work. Dr Mehta reported 
+personal fees from Karyopharm, Sapience, Zap, Mevion, and Tocagen, service on 
+the board of directors for Oncoceutics Options, and stock in Chimerix outside 
+the submitted work. Dr Brown reported being a contributor to UpToDate outside 
+the submitted work. No other disclosures were reported.

@@ -1,0 +1,225 @@
+7. Lancet Oncol. 2022 Aug;23(8):1031-1043. doi: 10.1016/S1470-2045(22)00293-5.
+Epub  2022 Jul 7.
+
+Zanubrutinib versus bendamustine and rituximab in untreated chronic lymphocytic 
+leukaemia and small lymphocytic lymphoma (SEQUOIA): a randomised, controlled, 
+phase 3 trial.
+
+Tam CS(1), Brown JR(2), Kahl BS(3), Ghia P(4), Giannopoulos K(5), Jurczak W(6), 
+Šimkovič M(7), Shadman M(8), Österborg A(9), Laurenti L(10), Walker P(11), Opat 
+S(12), Chan H(13), Ciepluch H(14), Greil R(15), Tani M(16), Trněný M(17), 
+Brander DM(18), Flinn IW(19), Grosicki S(20), Verner E(21), Tedeschi A(22), Li 
+J(23), Tian T(24), Zhou L(25), Marimpietri C(24), Paik JC(24), Cohen A(24), 
+Huang J(24), Robak T(26), Hillmen P(27).
+
+Author information:
+(1)Peter MacCallum Cancer Centre, Melbourne, VIC, Australia; University of 
+Melbourne, Parkville, VIC, Australia; St Vincent's Hospital Melbourne, Fitzroy, 
+VIC, Australia; Royal Melbourne Hospital, Parkville, VIC, Australia. Electronic 
+address: constantine.tam@alfred.org.au.
+(2)Dana-Farber Cancer Institute, Boston, MA, USA.
+(3)Washington University School of Medicine, St Louis, MO, USA.
+(4)Università Vita-Salute San Raffaele and IRCCS Ospedale San Raffaele, Milano, 
+Italy.
+(5)Experimental Hematooncology Department, Medical University of Lublin, Lublin, 
+Poland; Hematology Department, St John's Cancer Centre, Lublin, Poland.
+(6)Maria Sklodowska-Curie National Research Institute of Oncology, Krakow, 
+Poland.
+(7)Fourth Department of Internal Medicine-Haematology, University Hospital, 
+Hradec Kralove, Czech Republic; Faculty of Medicine, Charles University, Prague, 
+Czech Republic.
+(8)Fred Hutchinson Cancer Research Center, Seattle, WA, USA; Department of 
+Medicine, University of Washington, Seattle, WA, USA.
+(9)Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden; 
+Department of Hematology, Karolinska University Hospital, Stockholm, Sweden.
+(10)Fondazione Policlinico Universitario A Gemelli UCSC, Rome, Italy.
+(11)Peninsula Private Hospital, Frankston, VIC, Australia.
+(12)Monash Health, Clayton, VIC, Australia; Monash University, Clayton, VIC, 
+Australia.
+(13)North Shore Hospital, Auckland, New Zealand.
+(14)Copernicus Regional Oncology Center, Gdansk, Poland.
+(15)Third Medical Department with Hematology, Medical Oncology, Rheumatology and 
+Infectiology, Paracelsus Medical University, Salzburg, Austria; Salzburg Cancer 
+Research Institute Center for Clinical Cancer and Immunology Trials, Salzburg, 
+Austria; Cancer Cluster Salzburg, Salzburg, Austria.
+(16)Hematology Unit, Santa Maria delle Croci Hospital, Ravenna, Italy.
+(17)First Department of Medicine, First Faculty of Medicine, Charles University, 
+General Hospital, Prague, Czech Republic.
+(18)Hematologic Malignancies and Cellular Therapy, Duke University School of 
+Medicine, Durham, NC, USA.
+(19)Sarah Cannon Research Institute/Tennessee Oncology, Nashville, TN, USA.
+(20)Department of Hematology and Cancer Prevention, Health Sciences Faculty, 
+Medical University of Silesia, Katowice, Poland.
+(21)Concord Repatriation General Hospital, Concord, NSW, Australia; University 
+of Sydney, Sydney, NSW, Australia.
+(22)ASST Grande Ospedale Metropolitano Niguarda, Milan, Italy.
+(23)Department of Hematology, The First Affiliated Hospital of Nanjing Medical 
+University, Jiangsu Province Hospital, Nanjing, China.
+(24)BeiGene USA, San Mateo, CA, USA.
+(25)BeiGene, Beijing, China.
+(26)Medical University of Lodz, Lodz, Poland.
+(27)St James's University Hospital, Leeds, UK.
+
+Erratum in
+    Lancet Oncol. 2023 Mar;24(3):e106. doi: 10.1016/S1470-2045(23)00073-6.
+
+Comment in
+    Lancet Oncol. 2022 Aug;23(8):965-967. doi: 10.1016/S1470-2045(22)00379-5.
+
+BACKGROUND: Zanubrutinib is a next-generation, selective Bruton tyrosine kinase 
+inhibitor with efficacy in relapsed chronic lymphocytic leukemia (CLL) and small 
+lymphocytic lymphoma (SLL). We compared zanubrutinib with bendamustine-rituximab 
+to determine its effectiveness as frontline therapy in patients with CLL or SLL.
+METHODS: We conducted an open-label, multicentre, phase 3 study at 153 academic 
+or community hospitals in 14 countries and regions. Eligible patients had 
+untreated CLL or SLL requiring treatment as per International Workshop on CLL 
+criteria; were aged 65 years or older, or 18 years or older and had 
+comorbidities; and had an Eastern Cooperative Oncology Group performance status 
+score of 0-2. A central interactive web response system randomly assigned 
+patients without del(17)(p13·1) to zanubrutinib (group A) or 
+bendamustine-rituximab (group B) by sequential block method (permutated blocks 
+with a random block size of four). Patients with del(17)(p13·1) were enrolled in 
+group C and received zanubrutinib. Zanubrutinib was administered orally at 160 
+mg twice per day (28-day cycles); bendamustine at 90 mg/m2 of body surface area 
+on days 1 and 2 for six cycles plus rituximab at 375 mg/m2 of body surface area 
+the day before or on day 1 of cycle 1, and 500 mg/m2 of body surface area on day 
+1 of cycles 2-6, were administered intravenously. The primary endpoint was 
+progression-free survival per independent review committee in the 
+intention-to-treat population in groups A and B, with minimum two-sided α of 
+0·05 for superiority. Safety was analysed in all patients who received at least 
+one dose of study treatment. The study is registered with ClinicalTrials.gov, 
+NCT03336333, and is closed to recruitment.
+FINDINGS: Between Oct 31, 2017, and July 22, 2019, 590 patients were enrolled; 
+patients without del(17)(p13·1) were randomly assigned to zanubrutinib (group A; 
+n=241) or bendamustine-rituximab (group B; n=238). At median follow-up of 26·2 
+months (IQR 23·7-29·6), median progression-free survival per independent review 
+committee was not reached in either group (group A 95% CI not estimable [NE] to 
+NE; group B 28·1 months to NE). Progression-free survival was significantly 
+improved in group A versus group B (HR 0·42 [95% CI 0·28 to 0·63]; two-sided 
+p<0·0001). The most common grade 3 or worse adverse event was neutropenia (27 
+[11%] of 240 patients in group A, 116 [51%] of 227 in group B, and 17 [15%] of 
+111 patients in group C). Serious adverse events occurred in 88 (37%) of 240 
+patients in group A, 113 (50%) of 227 patients in group B, and 45 (41%) of 111 
+patients in group C. Adverse events leading to death occurred in 11 (5%) of 240 
+patients in group A, 12 (5%) of 227 patients in group B, and three (3%) of 111 
+patients in group C, most commonly due to COVID-19 (four [2%] of 240 patients in 
+group A), diarrhoea, and aspiration pneumonia (two each [1%] of 227 patients in 
+group B).
+INTERPRETATION: Zanubrutinib significantly improved progression-free survival 
+versus bendamustine-rituximab, with an acceptable safety profile consistent with 
+previous studies. These data support zanubrutinib as a potential new treatment 
+option for untreated CLL and SLL.
+FUNDING: BeiGene.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(22)00293-5
+PMID: 35810754 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests CST reports receiving 
+funding from AbbVie and Janssen; and honoraria from AbbVie, BeiGene, Janssen, 
+Novartis, and Roche, outside the submitted work. JRB reports receiving funding 
+from Gilead, Lilly–LOXO, TG Therapeutics, Verastem–SecuraBio, and Sun; 
+consulting fees from AbbVie, Acerta–AstraZeneca, BeiGene, Bristol Myers 
+Squibb–Juno–Celgene, Catapult Therapeutics, Dynamo Therapeutics, Eli Lilly, 
+Genentech/Roche, Gilead, Janssen, Kite, LOXO, MEI Pharma, MorphoSys, Nextcea, 
+Novartis, Octapharma, Pfizer, Pharmacyclics, Rigel, Sunesis, TG Therapeutics, 
+and Verastem; honoraria from Janssen; and participation on an advisory board for 
+Invectys and MorphoSys, outside of the submitted work. BSK reports receiving 
+funding from BeiGene paid to Washington University School of Medicine (St Louis, 
+MO, USA), and receiving consulting fees from AbbVie, AstraZeneca, BeiGene, 
+Janssen, and Pharmacyclics, outside the submitted work. PG reports receiving 
+funding from BeiGene with regards to the submitted work; funding from AbbVie, 
+AstraZeneca, Janssen, Gilead, Novartis, and Sunesis; consulting fees from and 
+participating on an advisory board for AbbVie, AstraZeneca, ArQule–MSD, 
+Celgene–Juno–Bristol Myers Squibb, Janssen, Lilly–LOXO, and Roche; and receiving 
+honoraria from AbbVie, AstraZeneca, Janssen, and MSD, outside the submitted 
+work. KG reports receiving consulting fees and honoraria from BeiGene, with 
+regards to the submitted work; funding from AbbVie, Amgen, AstraZeneca, Janssen, 
+Novartis, Roche, Sanofi-Genzyme, and Takeda and paid to the Next Generation 
+Hematology Association; receiving consulting fees from GSK and Sandoz; receiving 
+honoraria from AbbVie, Amgen, AstraZeneca, BeiGene, Gilead, GSK, Janssen, 
+Karyopharm, Novartis, Pfizer, Roche, Sandoz, Takeda, and Teva; receiving 
+financial support for attending meetings or travel, or both, from Janssen, 
+Roche, and Sanofi-Genzyme; participating on an advisory board for AbbVie, Amgen, 
+AstraZeneca, Gilead, GSK, Janssen, Novartis, Roche, Sandoz, and Takeda; and a 
+leadership role at the Next Generation Hematology Association, outside the 
+submitted work. WJ reports receiving funding from BeiGene and Janssen, with 
+regards to the submitted work, and funding from AstraZeneca and TG Therapeutics, 
+outside the submitted work. MŠ reports receiving consulting fees from AbbVie and 
+AstraZeneca; receiving honoraria from AbbVie and Janssen-Cilag; participating on 
+an advisory board for AbbVie, AstraZeneca, and Janssen-Cilag; and stock or stock 
+options, or both, from AbbVie, AstraZeneca, Eli Lilly, Johnson & Johnson, and 
+Merck, outside the submitted work. MS reports receiving funding from BeiGene 
+paid to Fred Hutchinson Cancer Research Center and the University of Washington 
+(Seattle, WA, USA), with regards to the submitted work; funding from AbbVie, 
+AstraZeneca, Atara Biotherapeutics, BeiGene, GenMab, Genentech, Gilead, Mustang 
+Bio, Bristol Myers Squibb, Celgene, Pharmacyclics, Sunesis, and TG Therapeutics; 
+and receiving consulting fees from AbbVie, Adaptimmune, Adaptive 
+Biotechnologies, AstraZeneca, Atara Biotherapeutics, BeiGene, Bristol Myers 
+Squibb, Eli Lilly, Epizyme, Genentech, InnatePharma, Kite Pharma, MorphoSys, 
+Mustang Bio, Pharmacyclics, Sound Biologics, and TG Therapeutics, outside the 
+submitted work. PW reports receiving consulting fees from Acerta and BeiGene, 
+outside the submitted work. SO reports receiving funding from BeiGene paid to 
+Monash University (Clayton, VIC, Australia), with regards to the submitted work; 
+and honoraria and participating on an advisory board for BeiGene, outside the 
+submitted work. HCh reports receiving financial support for attending meetings 
+or travel, or both, from Celgene and Janssen, and participating on an advisory 
+board for AbbVie, Eusa, and Janssen, outside the submitted work. RG reports 
+receiving consulting fees from AbbVie, AstraZeneca, Bristol Myers Squibb, 
+Celgene, Daiichi Sankyo, Gilead, Janssen, Merck, MSD, Novartis, Roche, and 
+Takeda; honoraria from AbbVie, Amgen, AstraZeneca, Bristol Myers Squibb, 
+Celgene, Daiichi Sankyo, Gilead, Merck, MSD, Novartis, Roche, Takeda, and 
+Sandoz; financial support for attending meetings or travel, or both, from 
+AbbVie, Amgen, AstraZeneca, Bristol Myers Squibb, Celgene, Daiichi Sankyo, 
+Gilead, Janssen, MSD, Novartis, and Roche; and participating on an advisory 
+board for AbbVie, AstraZeneca, Bristol Myers Squibb, Celgene, Daiichi Sankyo, 
+Gilead, Janssen, Merck, MSD, Novartis, Roche, and Takeda, outside the submitted 
+work. MTr reports receiving consulting fees from AbbVie, Amgen, Janssen, Bristol 
+Myers Squibb, Gilead Sciences, Incyte, MorphoSys, Novartis, Roche, Takeda; 
+receiving honoraria from AbbVie, Amgen, AstraZeneca, Bristol Myers Squibb, 
+Gilead Sciences, Incyte, Janssen, Roche, MorphoSys, Novartis, Portolla, and 
+Takeda; receiving financial support for attending meetings or travel, or both, 
+from AbbVie, Bristol Myers Squibb, Gilead, Janssen, Roche, and Takeda; 
+participating on an advisory board for AbbVie, Bristol Myers Squibb, Incyte, 
+Janssen, MorphoSys, Novartis, Portolla, Roche, and Takeda; and employment at 
+Charles University General Hospital in Prague, outside the submitted work. DMB 
+reports receiving funding from AbbVie, ArQule, Ascentage, AstraZeneca, BeiGene, 
+DTRM, Genetech, Juno–Celgene–Bristol Myers Squibb, LOXO, MEI Pharma, Novaris, 
+Pharmacyclics, and TG Therapeutics; receiving consulting fees from AbbVie, 
+Genentech, Pharmacyclics, Pfizer, TG Therapeutics, and Verastem; participating 
+on an advisory board for AbbVie, Genentech, Novartis, Pharmacyclics, Pfizer, TG 
+Therapeutics, and Verastem; and a leadership role with NCCN (panel member), 
+informCLL registry (steering committee; AbbVie), and Biosimilars outcomes 
+research panel (Pfizer), outside the submitted work. IWF reports receiving 
+funding from AbbVie, Acerta Pharma, Agios, ArQule, AstraZeneca, BeiGene, 
+Calithera Biosciences, Celgene, Constellation Pharmaceuticals, Curis, Forma 
+Therapeutics, Forty Seven, Genentech, Gilead Sciences, IGM Biosciences, Incyte, 
+Infinity Pharmaceuticals, Janssen, Juno Therapeutics, Karyopharm Therapeutics, 
+Kite Pharma, LOXO, Merck, MorphoSys, Novartis, Pfizer, Pharmacyclics, Portola 
+Pharmaceuticals, Rhizen Pharmaceuticals, Roche, Seattle Genetics, Takeda, Teva, 
+TG Therapeutics, Trillium Therapeutics, Triphase Research & Development, Unum 
+Therapeutics, and Verastem, paid to the Sarah Cannon Research Institute; and 
+consulting fees from AbbVie, AstraZeneca, BeiGene, Century Therapeutics, 
+Genentech, Gilead Sciences, Great Point Partners, Hutchison MediPharma, Iksuda 
+Therapeutics, Janssen, Juno Therapeutics, Kite Pharma, MorphoSys, Novartis, 
+Nurix Therapeutics, Pharmacyclics, Roche, Seattle Genetics, Servier 
+Pharmaceuticals, Takeda, TG Therapeutics, Unum Therapeutics, Verastem, Vincerx 
+Pharma, and Yingli Pharmaceuticals, paid to the Sarah Cannon Research Institute, 
+outside the submitted work. AT reports receiving consulting fees from AbbVie, 
+AstraZeneca, BeiGene, and Janssen; and honoraria from AbbVie, AstraZeneca, 
+BeiGene, and Janssen, outside the submitted work. TT, LZ, CM, JCP, and AC are 
+employees of BeiGene, with regards to the submitted work, and report stocks or 
+stock options, or both, from BeiGene, outside the submitted work. JH is an 
+employee of BeiGene, with regards to the submitted work; reports receiving 
+royalties from BeiGene; receiving financial support for attending meetings or 
+travel, or both, from BeiGene and Protara; patents with BeiGene; a leadership 
+role with BeiGene and Protara; and stock or stock options, or both, from BeiGene 
+and Protara, outside the submitted work. TR reports receiving funding from 
+BeiGene, with regards to the submitted work; receiving funding from AbbVie, 
+AstraZeneca, Janssen, and Roche; and participating on an advisory board for 
+AbbVie, AstraZeneca, BeiGene, Janssen, and Roche. PH reports receiving funding 
+from AbbVie, Gilead, Janssen, Pharmacyclics, and Roche; honoraria from AbbVie, 
+AstraZeneca, BeiGene, Janssen, Pharmacyclics, and SOBI; and financial support 
+for attending meetings or travel, or both, from AbbVie and Janssen, outside the 
+submitted work. All other authors declare no competing interests.

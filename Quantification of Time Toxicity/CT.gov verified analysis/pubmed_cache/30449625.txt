@@ -1,0 +1,136 @@
+6. Lancet. 2019 Jan 5;393(10166):40-50. doi: 10.1016/S0140-6736(18)32779-X. Epub 
+2018 Nov 15.
+
+Radiotherapy plus cetuximab or cisplatin in human papillomavirus-positive 
+oropharyngeal cancer (NRG Oncology RTOG 1016): a randomised, multicentre, 
+non-inferiority trial.
+
+Gillison ML(1), Trotti AM(2), Harris J(3), Eisbruch A(4), Harari PM(5), 
+Adelstein DJ(6), Jordan RCK(7), Zhao W(8), Sturgis EM(9), Burtness B(10), Ridge 
+JA(11), Ringash J(12), Galvin J(13), Yao M(14), Koyfman SA(15), Blakaj DM(16), 
+Razaq MA(17), Colevas AD(18), Beitler JJ(19), Jones CU(20), Dunlap NE(21), 
+Seaward SA(22), Spencer S(23), Galloway TJ(24), Phan J(25), Dignam JJ(26), Le 
+QT(27).
+
+Author information:
+(1)Department of Thoracic Head and Neck Medical Oncology, MD Anderson Cancer 
+Center, Houston, TX, USA. Electronic address: mgillison@mdanderson.org.
+(2)Department of Radiation Oncology, Moffitt Cancer Center, Tampa, FL, USA.
+(3)NRG Oncology Statistics and Data Management Center, American College of 
+Radiology, Philadelphia, PA, USA.
+(4)Department of Radiation Oncology, University of Michigan Comprehensive Cancer 
+Center, Ann Arbor, MI, USA.
+(5)Department of Human Oncology, University of Wisconsin Hospital and Clinics, 
+Madison, WI, USA.
+(6)Department of Hematology and Medical Oncology, Cleveland Clinic Taussig 
+Cancer Institute, Cleveland, OH, USA.
+(7)Department of Orofacial Sciences, University of California San Fransisco, San 
+Francisco, CA, USA; Department of Pathology, University of California San 
+Fransisco, San Francisco, CA, USA.
+(8)Division of Molecular Pathology, Department of Pathology, The Ohio State 
+University Wexner Medical Center, Columbus, OH, USA; Division of 
+Hematopathology, Department of Pathology, The Ohio State University Wexner 
+Medical Center, Columbus, OH, USA; James Molecular Laboratory, Columbus, OH, 
+USA.
+(9)Department of Head and Neck Surgery, MD Anderson Cancer Center, Houston, TX, 
+USA.
+(10)Department of Medicine, Yale School of Medicine and Yale Cancer Center, New 
+Haven, CT, USA.
+(11)Department of Surgical Oncology, Fox Chase Cancer Center, Philadelphia, PA, 
+USA.
+(12)Department of Radiation Oncology, Princess Margaret Cancer Centre and the 
+University of Toronto, Toronto, ON, Canada.
+(13)Imaging and Radiation Oncology Core Group, Philadelphia, PA, USA.
+(14)Department of Radiation Oncology, Case Western Reserve/University Hospitals 
+Seidman Cancer Center, Cleveland, OH, USA.
+(15)Department of Radiation Oncology, Cleveland Clinic Taussig Cancer Institute, 
+Cleveland, OH, USA.
+(16)Department of Radiation Oncology, The Ohio State University, Columbus, OH, 
+USA.
+(17)Department of Hematology/Oncology, University of Oklahoma Health Sciences 
+Center, Oklahoma City, OK, USA.
+(18)Department of Medicine (Oncology), Stanford University, Stanford, CA, USA.
+(19)Department of Radiation Oncology, Emory University, Atlanta, GA, USA.
+(20)Department of Radiation Oncology, Sutter Cancer Research Consortium, Novato, 
+CA, USA.
+(21)Department of Radiation Oncology, James Graham Brown Cancer Center, 
+University of Louisville, Louisville, KY, USA.
+(22)Department of Radiation Oncology, Kaiser Permanente, Oakland, CA, USA.
+(23)Department of Radiation Oncology, University of Alabama at Birmingham 
+Medical Center, Birmingham, AL, USA.
+(24)Department of Radiation Oncology, Fox Chase Cancer Center, Philadelphia, PA, 
+USA.
+(25)Department of Radiation Oncology, MD Anderson Cancer Center, Houston, TX, 
+USA.
+(26)Department of Public Health Sciences, University of Chicago, Chicago, IL, 
+USA; NRG Oncology Statistics and Data Management Center, American College of 
+Radiology, Philadelphia, PA, USA.
+(27)Department of Radiation Oncology, Stanford University, Stanford, CA, USA.
+
+Erratum in
+    Lancet. 2020 Mar 7;395(10226):784. doi: 10.1016/S0140-6736(20)30454-2.
+
+Comment in
+    Lancet. 2019 Jan 5;393(10166):5-7. doi: 10.1016/S0140-6736(18)32930-1.
+    Int J Radiat Oncol Biol Phys. 2019 Jul 15;104(4):705-709. doi: 
+10.1016/j.ijrobp.2019.02.054.
+    Bull Cancer. 2020 Mar;107(3):293-294. doi: 10.1016/j.bulcan.2020.02.002.
+
+BACKGROUND: Patients with human papillomavirus (HPV)-positive oropharyngeal 
+squamous cell carcinoma have high survival when treated with radiotherapy plus 
+cisplatin. Whether replacement of cisplatin with cetuximab-an antibody against 
+the epidermal growth factor receptor-can preserve high survival and reduce 
+treatment toxicity is unknown. We investigated whether cetuximab would maintain 
+a high proportion of patient survival and reduce acute and late toxicity.
+METHODS: RTOG 1016 was a randomised, multicentre, non-inferiority trial at 182 
+health-care centres in the USA and Canada. Eligibility criteria included 
+histologically confirmed HPV-positive oropharyngeal carcinoma; American Joint 
+Committee on Cancer 7th edition clinical categories T1-T2, N2a-N3 M0 or T3-T4, 
+N0-N3 M0; Zubrod performance status 0 or 1; age at least 18 years; and adequate 
+bone marrow, hepatic, and renal function. We randomly assigned patients (1:1) to 
+receive either radiotherapy plus cetuximab or radiotherapy plus cisplatin. 
+Randomisation was balanced by using randomly permuted blocks, and patients were 
+stratified by T category (T1-T2 vs T3-T4), N category (N0-N2a vs N2b-N3), Zubrod 
+performance status (0 vs 1), and tobacco smoking history (≤10 pack-years vs >10 
+pack-years). Patients were assigned to receive either intravenous cetuximab at a 
+loading dose of 400 mg/m2 5-7 days before radiotherapy initiation, followed by 
+cetuximab 250 mg/m2 weekly for seven doses (total 2150 mg/m2), or cisplatin 100 
+mg/m2 on days 1 and 22 of radiotherapy (total 200 mg/m2). All patients received 
+accelerated intensity-modulated radiotherapy delivered at 70 Gy in 35 fractions 
+over 6 weeks at six fractions per week (with two fractions given on one day, at 
+least 6 h apart). The primary endpoint was overall survival, defined as time 
+from randomisation to death from any cause, with non-inferiority margin 1·45. 
+Primary analysis was based on the modified intention-to-treat approach, whereby 
+all patients meeting eligibility criteria are included. This study is registered 
+with ClinicalTrials.gov, number NCT01302834.
+FINDINGS: Between June 9, 2011, and July 31, 2014, 987 patients were enrolled, 
+of whom 849 were randomly assigned to receive radiotherapy plus cetuximab 
+(n=425) or radiotherapy plus cisplatin (n=424). 399 patients assigned to receive 
+cetuximab and 406 patients assigned to receive cisplatin were subsequently 
+eligible. After median follow-up duration of 4·5 years, radiotherapy plus 
+cetuximab did not meet the non-inferiority criteria for overall survival (hazard 
+ratio [HR] 1·45, one-sided 95% upper CI 1·94; p=0·5056 for non-inferiority; 
+one-sided log-rank p=0·0163). Estimated 5-year overall survival was 77·9% (95% 
+CI 73·4-82·5) in the cetuximab group versus 84·6% (80·6-88·6) in the cisplatin 
+group. Progression-free survival was significantly lower in the cetuximab group 
+compared with the cisplatin group (HR 1·72, 95% CI 1·29-2·29; p=0·0002; 5-year 
+progression-free survival 67·3%, 95% CI 62·4-72·2 vs 78·4%, 73·8-83·0), and 
+locoregional failure was significantly higher in the cetuximab group compared 
+with the cisplatin group (HR 2·05, 95% CI 1·35-3·10; 5-year proportions 17·3%, 
+95% CI 13·7-21·4 vs 9·9%, 6·9-13·6). Proportions of acute moderate to severe 
+toxicity (77·4%, 95% CI 73·0-81·5 vs 81·7%, 77·5-85·3; p=0·1586) and late 
+moderate to severe toxicity (16·5%, 95% CI 12·9-20·7 vs 20·4%, 16·4-24·8; 
+p=0·1904) were similar between the cetuximab and cisplatin groups.
+INTERPRETATION: For patients with HPV-positive oropharyngeal carcinoma, 
+radiotherapy plus cetuximab showed inferior overall survival and 
+progression-free survival compared with radiotherapy plus cisplatin. 
+Radiotherapy plus cisplatin is the standard of care for eligible patients with 
+HPV-positive oropharyngeal carcinoma.
+FUNDING: National Cancer Institute USA, Eli Lilly, and The Oral Cancer 
+Foundation.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(18)32779-X
+PMCID: PMC6541928
+PMID: 30449625 [Indexed for MEDLINE]

@@ -1,0 +1,49 @@
+14. J Clin Oncol. 2012 Jul 10;30(20):2492-9. doi: 10.1200/JCO.2011.37.9743. Epub 
+2012 May 14.
+
+Clofarabine plus cytarabine compared with cytarabine alone in older patients 
+with relapsed or refractory acute myelogenous leukemia: results from the CLASSIC 
+I Trial.
+
+Faderl S(1), Wetzler M, Rizzieri D, Schiller G, Jagasia M, Stuart R, Ganguly S, 
+Avigan D, Craig M, Collins R, Maris M, Kovacsovics T, Goldberg S, Seiter K, Hari 
+P, Greiner J, Vey N, Recher C, Ravandi F, Wang ES, Vasconcelles M, Huebner D, 
+Kantarjian HM.
+
+Author information:
+(1)The University of Texas MD Anderson Cancer Center, Houston, TX, USA. 
+sfaderl@mdanderson.org
+
+PURPOSE: To compare the receipt of clofarabine plus cytarabine (Clo+Ara-C arm) 
+with cytarabine (Ara-C arm) in patients ≥ 55 years old with refractory or 
+relapsed acute myelogenous leukemia (AML).
+PATIENTS AND METHODS: Patients were randomly assigned to receive either 
+clofarabine (Clo) 40 mg/m(2) or a placebo followed by Ara-C 1 g/m(2) for five 
+consecutive days. The primary end point was overall survival (OS). Secondary end 
+points included event-free survival (EFS), 4-month EFS, overall remission rate 
+(ORR; complete remission [CR] plus CR with incomplete peripheral blood count 
+recovery), disease-free survival (DFS), duration of remission (DOR), and safety.
+RESULTS: Among 320 patients with confirmed AML (median age, 67 years), the 
+median OS was 6.6 months in the Clo+Ara-C arm and 6.3 months in the Ara-C arm 
+(hazard ratio [HR], 1.00; 95% CI, 0.78 to 1.28; P = 1.00). The ORR was 46.9% in 
+the Clo+Ara-C arm (35.2% CR) versus 22.9% in the Ara-C arm (17.8% CR; P < .01). 
+EFS (HR: 0.63; 95% CI, 0.49 to 0.80; P < .01) and 4-month EFS (37.7% v 16.6%; P 
+< .01) favored the Clo+Ara-C arm compared with Ara-C arm, respectively. DFS and 
+DOR were similar in both arms. Overall 30-day mortality was 16% and 5% for 
+CLO+Ara-C and Ara-C arms, respectively. In the Clo+Ara-C and Ara-C arms, the 
+most common grade 3 to 4 toxicities were febrile neutropenia (47% v 35%, 
+respectively), hypokalemia (18% v 11%, respectively), thrombocytopenia (16% v 
+17%, respectively), pneumonia (14% v 10%, respectively), anemia (13% v 0%, 
+respectively), neutropenia (11% v 9%, respectively), increased AST (11% v 2%, 
+respectively), and increased ALT (10% v 3%, respectively).
+CONCLUSION: Although the primary end point of OS did not differ between arms, 
+Clo+Ara-C significantly improved response rates and EFS. Study follow-up 
+continues, and the role of clofarabine in the treatment of adult patients with 
+AML continues to be investigated.
+
+DOI: 10.1200/JCO.2011.37.9743
+PMCID: PMC4874149
+PMID: 22585697 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

@@ -1,0 +1,131 @@
+1. J Clin Oncol. 2022 Jul 1;40(19):2138-2147. doi: 10.1200/JCO.21.02011. Epub
+2022  Mar 15.
+
+Olaparib With or Without Cediranib Versus Platinum-Based Chemotherapy in 
+Recurrent Platinum-Sensitive Ovarian Cancer (NRG-GY004): A Randomized, 
+Open-Label, Phase III Trial.
+
+Liu JF(1), Brady MF(2), Matulonis UA(1), Miller A(2), Kohn EC(3), Swisher EM(4), 
+Cella D(5), Tew WP(6), Cloven NG(7), Muller CY(8), Bender DP(9), Moore RG(10), 
+Michelin DP(11), Waggoner SE(12), Geller MA(13), Fujiwara K(14), D'Andre SD(15), 
+Carney M(16), Alvarez Secord A(17), Moxley KM(18), Bookman MA(19).
+
+Author information:
+(1)Medical Oncology, Dana-Farber Cancer Institute, 450 Brookline Avenue, Boston, 
+MA.
+(2)NRG Oncology; Clinical Trial Development Division; Biostatistics & 
+Bioinformatics; Roswell Park Comprehensive Cancer Center, Buffalo, NY.
+(3)Gynecologic Cancer Therapeutics, National Cancer Institute, Rockville, MD.
+(4)Gynecologic Oncology, University of Washington, Seattle, WA.
+(5)Department of Medical Social Sciences, Northwestern University Health System, 
+Chicago, IL.
+(6)Medical Oncology, Memorial Sloan Kettering Cancer Center, New York, NY.
+(7)Texas Oncology, Fort Worth Cancer Center, Fort Worth, TX.
+(8)Gynecologic Oncology, University of New Mexico, Albuquerque, NM.
+(9)Obstetrics and Gynecology, University of Iowa Hospitals and Clinics, Iowa 
+City, IA.
+(10)Obstetrics and Gynecology, Wilmot Cancer Institute, University of Rochester, 
+Rochester, NY.
+(11)Gynecologic Oncology, Cancer Research Consortium of West Michigan, Munson 
+Medical Center, Traverse City, MI.
+(12)Gynecologic Oncology, Cleveland Clinic Health System, Cleveland, OH.
+(13)Ob/Gyn & Women's Health, University of Minnesota, Minneapolis, MN.
+(14)Gynecologic Oncology, Saitama Medical University International Medical 
+Center; Hidaka-Shi, Japan.
+(15)Executive Chair, Sutter Cancer Research Consortium, Sutter Health Research 
+Enterprise, Sacramento, CA.
+(16)Kapialoni Medical Center for Women & Children, University of Hawaii, 
+Honolulu, HI.
+(17)Gynecologic Oncology, Duke University Medical Center, Durham, NC.
+(18)Stephenson Cancer Center Gynecologic Cancers Clinic, University of Oklahoma 
+Health Sciences Center, Oklahoma City, OK.
+(19)Director, Gynecologic Oncology Therapeutics, Kaiser Permanente Northern 
+California, San Francisco, CA.
+
+PURPOSE: Platinum-based chemotherapy is the standard of care for 
+platinum-sensitive ovarian cancer, but complications from repeated platinum 
+therapy occur. We assessed the activity of two all-oral nonplatinum 
+alternatives, olaparib or olaparib/cediranib, versus platinum-based 
+chemotherapy.
+PATIENTS AND METHODS: NRG-GY004 is an open-label, randomized, phase III trial 
+conducted in the United States and Canada. Eligible patients had high-grade 
+serous or endometrioid platinum-sensitive ovarian cancer. Patients were randomly 
+assigned 1:1:1 to platinum-based chemotherapy, olaparib, or olaparib/cediranib. 
+The primary end point was progression-free survival (PFS) in the 
+intention-to-treat population. Secondary end points included activity within 
+germline BRCA-mutated or wild-type subgroups and patient-reported outcomes 
+(PROs).
+RESULTS: Between February 04, 2016, and November 13, 2017, 565 eligible patients 
+were randomly assigned. Median PFS was 10.3 (95% CI, 8.7 to 11.2), 8.2 (95% CI, 
+6.6 to 8.7), and 10.4 (95% CI, 8.5 to 12.5) months with chemotherapy, olaparib, 
+and olaparib/cediranib, respectively. Olaparib/cediranib did not improve PFS 
+versus chemotherapy (hazard ratio [HR] 0.86; 95% CI, 0.66 to 1.10; P = .077). In 
+women with germline BRCA mutation, the PFS HR versus chemotherapy was 0.55 (95% 
+CI, 0.32 to 0.94) for olaparib/cediranib and 0.63 (95% CI, 0.37 to 1.07) for 
+olaparib. In women without a germline BRCA mutation, the PFS HR versus 
+chemotherapy was 0.97 (95% CI, 0.73 to 1.30) for olaparib/cediranib and 1.41 
+(95% CI, 1.07 to 1.86) for olaparib. Hematologic adverse events occurred more 
+commonly with chemotherapy; however, nonhematologic adverse events were higher 
+with olaparib/cediranib. In 489 patients evaluable for PROs, patients receiving 
+olaparib/cediranib scored on average 1.1 points worse on the NFOSI-DRS-P 
+subscale (97.5% CI, -2.0 to -0.2, P = .0063) versus chemotherapy; no difference 
+between olaparib and chemotherapy was observed.
+CONCLUSION: Combination olaparib/cediranib did not improve PFS compared with 
+chemotherapy and resulted in reduced PROs. Notably, in patients with a germline 
+BRCA mutation, both olaparib and olaparib/cediranib had significant clinical 
+activity.
+
+DOI: 10.1200/JCO.21.02011
+PMCID: PMC9242406
+PMID: 35290101 [Indexed for MEDLINE]
+
+Conflict of interest statement: Joyce F. LiuConsulting or Advisory Role: Tesaro, 
+Mersana, Clovis Oncology, Genentech/Roche, GlaxoSmithKline, Regeneron, 
+AstraZenecaResearch Funding: Genentech/Roche (Inst), AstraZeneca (Inst), Boston 
+Biomedical (Inst), Acetylon Pharmaceuticals (Inst), Bristol Myers Squibb (Inst), 
+Agenus (Inst), CytomX Therapeutics (Inst), Regeneron (Inst), Tesaro (Inst), 
+Clovis Oncology (Inst), Surface Oncology (Inst), 2X Oncology (Inst), Vigeo 
+Therapeutics (Inst), Aravive (Inst), Arch Oncology (Inst)Travel, Accommodations, 
+Expenses: AstraZeneca, MerckUncompensated Relationships: Merck Mark F. 
+BradyConsulting or Advisory Role: Cel-Sci Ursula A. MatulonisHonoraria: Advaxis, 
+Alkermes, SymphogenConsulting or Advisory Role: Merck, Novartis, NextCure, 
+AstraZeneca, Blueprint Medicines, Trillium Therapeutics, GlaxoSmithKline, 
+AgenusResearch Funding: Merck, Novartis, Tesaro, Syndax, Immunogen, Mersana, 
+Leap Therapeutics, Fujifilm, SQZ BiotechTravel, Accommodations, Expenses: 
+AstraZeneca Austin MillerConsulting or Advisory Role: AstraZeneca/Merck, 
+Regeneron (Inst)Uncompensated Relationships: Genetect Elizabeth M. 
+SwisherLeadership: IDEAYA Biosciences David CellaStock and Other Ownership 
+Interests: FACIT.orgConsulting or Advisory Role: AbbVie, GlaxoSmithKline, 
+Pfizer, Astellas Pharma, Novartis, Bristol Myers Squibb, Asahi Kasei, Ipsen, Mei 
+PharmaResearch Funding: Novartis (Inst), Ipsen (Inst), Pfizer (Inst), PledPharma 
+(Inst), Bristol Myers Squibb (Inst), AbbVie (Inst), Regeneron (Inst), Clovis 
+Oncology (Inst) Noelle G. ClovenConsulting or Advisory Role: Toray Industries 
+Carolyn Y. MullerResearch Funding: AstraZeneca (Inst), Genmab (Inst), VBL 
+Therapeutics (Inst), Roche/Genentech (Inst), TapImmune Inc (Inst), Linnaeus 
+Therapeutics (Inst), agenus (Inst), Incyte (Inst), Merck (Inst)Patents, 
+Royalties, Other Intellectual Property: Have a pending patent on the cancer use 
+for R-ketorolac - not yet its own new drug (Inst)Other Relationship: NCI, NCI, 
+Department of Defense Richard G. MooreHonoraria: Fujirebio DiagnosticsConsulting 
+or Advisory Role: Abcodia, Fujirebio DiagnosticsResearch Funding: Angle Steven 
+E. WaggonerConsulting or Advisory Role: Regeneron Melissa A. GellerResearch 
+Funding: Tesaro, Genentech, FATE Therapeutics, Morphotek, Bayer Keiichi 
+FujiwaraHonoraria: Kyowa Hakko Kirin, Zeria Pharmaceutical, Nippon Kayaku, 
+Chugai Pharma, Eisai, Taiho Pharmaceutical, Daiichi Sankyo, Ono Pharmaceutical, 
+TakedaConsulting or Advisory Role: MSD, Taiho Pharmaceutical, Eisai, Takeda, 
+Genmab, NanoCarrierResearch Funding: Eisai (Inst), Kaken Pharmaceutical (Inst), 
+Chugai Pharma (Inst), Immunogen (Inst), Oncotherapeutics (Inst), AstraZeneca 
+(Inst), Zeria Pharmaceutical (Inst), Ono Pharmaceutical (Inst), MSD (Inst), 
+Regeneron (Inst), Merck KGaA (Inst), Ono Pharmaceutical (Inst), Genmab (Inst), 
+Seattle Genetics (Inst)Travel, Accommodations, Expenses: MSD Angeles Alvarez 
+SecordHonoraria: Myriad GeneticsResearch Funding: Tesaro (Inst), AstraZeneca 
+(Inst), Genentech (Inst), Boehringer Ingelheim (Inst), AbbVie (Inst), Merck 
+(Inst), PharmaMar (Inst), Clovis Oncology (Inst), Eisai (Inst), Seattle Genetics 
+(Inst), Immutep (Inst), GlaxoSmithKline (Inst), VBL Therapeutics (Inst), 
+OncoQuest Pharmaceuticals (Inst)Travel, Accommodations, Expenses: 
+GlaxoSmithKlineUncompensated Relationships: Roche/Genentech, VBL Therapeutics, 
+GOG Foundation, OncoQuest Pharmaceuticals, Regeneron, Aravive Katherine M. 
+MoxleyConsulting or Advisory Role: Tessa Therapeutics (Inst), Clovis Oncology 
+(Inst), GlaxoSmithKline Michael A. BookmanEmployment: The Permanente Medical 
+GroupConsulting or Advisory Role: AstraZeneca, AbbVie, Immunogen, Merck Sharp & 
+Dohme, Genentech/Roche, Seattle Genetics, AraviveNo other potential conflicts of 
+interest were reported.

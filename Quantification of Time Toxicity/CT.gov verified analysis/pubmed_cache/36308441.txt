@@ -1,0 +1,56 @@
+10. JNCI Cancer Spectr. 2022 Nov 1;6(6):pkac075. doi: 10.1093/jncics/pkac075.
+
+Calmangafodipir for Prevention of Oxaliplatin-Induced Peripheral Neuropathy: Two 
+Placebo-Controlled, Randomized Phase 3 Studies (POLAR-A/POLAR-M).
+
+Pfeiffer P(1), Lustberg M(2), Näsström J(3), Carlsson S(3), Persson A(3), 
+Nagahama F(4), Cavaletti G(5), Glimelius B(6), Muro K(7).
+
+Author information:
+(1)Department of Oncology, Odense University Hospital, Odense, Denmark.
+(2)Smilow Cancer Hospital and Yale Cancer Center, Yale Medicine, New Haven, CT, 
+USA.
+(3)Egetis Therapeutics AB, Stockholm, Sweden.
+(4)Solasia Pharma K.K., Tokyo, Japan.
+(5)Experimental Neurology Unit, School of Medicine and Surgery, University of 
+Milano-Bicocca, Monza, Italy.
+(6)Department of Immunology, Genetics and Pathology, Uppsala University, 
+Uppsala, Sweden.
+(7)Department of Clinical Oncology, Aichi Cancer Center Hospital, Nagoya, Japan.
+
+Comment in
+    JNCI Cancer Spectr. 2022 Nov 1;6(6):pkac076. doi: 10.1093/jncics/pkac076.
+
+BACKGROUND: Calmangafodipir (CaM, PledOx) demonstrated efficacy in preventing 
+patient-reported chemotherapy-induced peripheral neuropathy (CIPN) in a 
+randomized phase 2 study in patients with metastatic colorectal cancer. The 
+Preventive Treatment of OxaLiplatin Induced peripherAl neuRopathy (POLAR) 
+program aimed to assess efficacy and safety of CaM in the prevention of CIPN in 
+patients treated with oxaliplatin in adjuvant (POLAR-A, 
+ClinicalTrials.gov.NCT04034355) or metastatic (POLAR-M, 
+ClinicalTrials.gov.NCT03654729) settings.
+METHODS: Two randomized, placebo-controlled phase 3 trials investigated 
+patient-reported, moderate-to-severe CIPN 9 months after beginning folinic acid, 
+5-fluorouracil, and oxaliplatin therapy with or without CaM. In POLAR-A, 
+patients with stage III or high-risk stage II colorectal cancer were randomly 
+assigned 1:1 to receive CaM 5 μmol/kg or placebo. In POLAR-M, patients with 
+metastatic colorectal cancer were randomly assigned 1:1:1 to receive CaM 
+5 μmol/kg, CaM 2 μmol/kg, or placebo.
+RESULTS: POLAR-A (n = 301) and POLAR-M (n = 291) were terminated early following 
+unexpected hypersensitivity reactions in CaM-treated patients. In a combined 
+analysis of month 9 CIPN (primary endpoint) data from both trials (CaM 
+5 μmol/kg, n = 175; placebo, n = 176), 54.3% of patients in the CaM group had 
+moderate-to-severe CIPN compared with 40.3% in the placebo group. The estimated 
+relative risk for moderate-to-severe CIPN at month 9 was 1.37 (95% confidence 
+interval = 1.01 to 1.86; P = .045). A higher proportion of patients experienced 
+serious hypersensitivity reactions across both trials with CaM treatment (3.6%) 
+than with placebo (0.8%).
+CONCLUSION: The POLAR clinical studies failed to meet their primary endpoint. 
+These results highlight the challenges of targeting oxidative stress for 
+preventing CIPN in both the adjuvant and metastatic settings.
+
+© The Author(s) 2022. Published by Oxford University Press.
+
+DOI: 10.1093/jncics/pkac075
+PMCID: PMC9678401
+PMID: 36308441 [Indexed for MEDLINE]

@@ -1,0 +1,72 @@
+20. BioDrugs. 2020 Apr;34(2):171-181. doi: 10.1007/s40259-019-00398-7.
+
+A Randomized, Double-Blind, Efficacy and Safety Study of PF-05280586 (a 
+Rituximab Biosimilar) Compared with Rituximab Reference Product (MabThera(®)) in 
+Subjects with Previously Untreated CD20-Positive, Low-Tumor-Burden Follicular 
+Lymphoma (LTB-FL).
+
+Sharman JP(1), Liberati AM(2), Ishizawa K(3), Khan T(4), Robbins J(5), Alcasid 
+A(6), Rosenberg JA(5), Aurer I(7).
+
+Author information:
+(1)Willamette Valley Cancer Institute and Research Center, US Oncology, 520 
+Country Club Rd, Eugene, OR, 97401, USA.
+(2)Università degli Studi di Perugia, S.C. Oncoematologia-A.O. Santa Maria, 
+05100, Terni, Italy.
+(3)Department of Third Internal Medicine, Faculty of Medicine, Yamagata 
+University, 2-2-2 Iida-Nishi, Yamagata, 990-9585, Japan.
+(4)Pfizer Inc, 445 Eastern Point Rd, Groton, 06340, CT, USA. 
+Tahira.Khan@pfizer.com.
+(5)Pfizer Inc, 445 Eastern Point Rd, Groton, 06340, CT, USA.
+(6)Pfizer Inc, 500 Arcola Rd, Collegeville, 19426, PA, USA.
+(7)University Hospital Centre Zagreb, Kišpatićeva ul. 12, 10000, Zagreb, 
+Croatia.
+
+BACKGROUND: Biosimilars are highly similar to the licensed biologic ("reference 
+product"), with no clinically meaningful differences in safety, purity, or 
+potency between the two products.
+OBJECTIVE: This comparative 52-week clinical study evaluated the efficacy, 
+safety, immunogenicity, pharmacokinetics (PK), and pharmacodynamics (PD) of 
+PF-05280586 (Ruxience™ [a rituximab biosimilar]) versus rituximab reference 
+product sourced from the EU (MabThera®; rituximab-EU).
+PATIENTS AND METHODS: Subjects with CD20-positive, low-tumor-burden follicular 
+lymphoma (LTB-FL) and an Eastern Cooperative Oncology Group performance status 
+0-1 were randomized (1:1) to PF-05280586 or rituximab-EU (375 mg/m2 
+intravenously [once weekly for 4 weeks at days 1, 8, 15, and 22]), stratified 
+using the Follicular Lymphoma International Prognostic Index 2 classification. 
+The primary endpoint was overall response rate (ORR) at week 26 (percentage of 
+subjects achieving complete response [CR] or partial response [PR]). Therapeutic 
+equivalence was concluded if the two-sided 95% confidence interval (CI) for the 
+difference in ORR between groups was within the prespecified margin (± 16%). 
+Secondary endpoints included progression-free survival (PFS), CR rate, safety, 
+immunogenicity, PK, and PD.
+RESULTS: A total of 394 subjects were randomized: PF-05280586 (n = 196) or 
+rituximab-EU (n = 198). ORR at week 26 was 75.5% (PF-05280586) versus 70.7% 
+(rituximab-EU), for a difference of 4.66%; 95% CI (- 4.16 to 13.47), which was 
+entirely within the prespecified equivalence margin. Rates of CR were 29.3% 
+(PF-05280586) versus 31.0% (rituximab-EU). Estimated 1-year PFS rates were 78.2% 
+(95% CI 70.2-84.2) and 83.0% (95% CI 75.0-88.6) for PF-05280586 and 
+rituximab-EU, respectively. Safety, immunogenicity, and mean serum 
+concentrations were similar between groups.
+CONCLUSIONS: The efficacy, safety, immunogenicity, PK, and PD of PF-05280586 and 
+rituximab-EU were similar up to week 52 in subjects with previously untreated 
+CD20-positive LTB-FL.
+CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, NCT02213263 and EudraCT 
+(2014-000132-41).
+
+DOI: 10.1007/s40259-019-00398-7
+PMCID: PMC7113218
+PMID: 31820339 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.P. Sharman received consulting fees and 
+research funding from Pfizer Inc, Genentech, and TG Therapeutics. A.M. Liberati 
+declares no competing interests. K. Ishizawa received grants from Pfizer and 
+personal fees from Chugai during the conduct of the study, grants and personal 
+fees from Kyowa Kirin, grants from Sanofi and AbbVie, personal fees from MSD, 
+Janssen, Celgene, Eizai, Ono, and Novartis, grants from Otsuka, and grants and 
+personal fees from Takeda outside the submitted work. T. Khan is a full-time 
+employee of, and declares stock holdings or stock options from, Pfizer Inc. A. 
+Alcasid is a full-time employee of Pfizer Inc. J.A. Rosenberg and J. Robbins 
+were employees of, and held stock holdings or stock options from, Pfizer Inc at 
+the time of the study. I. Aurer received research funding and honoraria from 
+Roche and Pfizer Inc, and consultancy fees from Roche.

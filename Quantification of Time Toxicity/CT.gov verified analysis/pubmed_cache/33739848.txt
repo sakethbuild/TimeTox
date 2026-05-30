@@ -1,0 +1,92 @@
+17. J Clin Oncol. 2021 Jul 20;39(21):2367-2374. doi: 10.1200/JCO.20.02824. Epub
+2021  Mar 19.
+
+Comparison of Radiation With or Without Concurrent Trastuzumab for HER2-Positive 
+Ductal Carcinoma In Situ Resected by Lumpectomy: A Phase III Clinical Trial.
+
+Cobleigh MA(1)(2), Anderson SJ(1)(3), Siziopikou KP(1)(4), Arthur DW(1)(5), 
+Rabinovitch R(1)(6), Julian TB(1)(7), Parda DS(1)(7), Seaward SA(1)(8), Carter 
+DL(9)(10), Lyons JA(11), Dillmon MS(12), Magrinat GC(1)(13), Kavadi VS(1)(10), 
+Zibelli AM(14), Tiriveedhi L(1)(15), Hill ML(1)(16), Melnik MK(1)(17), Beriwal 
+S(1)(18), Mamounas EP(1)(19), Wolmark N(1)(3).
+
+Author information:
+(1)NRG Oncology, Pittsburgh, PA.
+(2)Rush University Medical Center, Chicago, IL.
+(3)University of Pittsburgh, Pittsburgh, PA.
+(4)Northwestern University Feinberg School of Medicine, Chicago, IL.
+(5)Massey Cancer Center, Virginia Commonwealth University, Richmond, VA.
+(6)University of Colorado Cancer Center, Aurora, CO.
+(7)Allegheny Health Network, Pittsburgh, PA.
+(8)Kaiser Permanente Cancer Research Program, Vallejo, CA.
+(9)Rocky Mountain Cancer Centers, Aurora, CO.
+(10)US Oncology, The Woodlands, TX.
+(11)University Hospitals Seidman Cancer Center, Cleveland, OH.
+(12)Harbin Clinic, Rome, GA.
+(13)Cone Health Center, Greensboro, NC.
+(14)Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA.
+(15)Mercy Clinic Cancer and Hematology, Springfield, MO.
+(16)Mission Cancer and Blood, Des Moines, IA.
+(17)Cancer Research Consortium of West Michigan, Grand Rapids, MI.
+(18)UPMC Hillman Cancer Center, Magee Womens Hospital, Pittsburgh, PA.
+(19)Orlando Health UF Health Cancer Center, Orlando, FL.
+
+Comment in
+    J Clin Oncol. 2021 Oct 20;39(30):3409-3410. doi: 10.1200/JCO.21.00968.
+    J Clin Oncol. 2021 Oct 20;39(30):3410-3411. doi: 10.1200/JCO.21.01587.
+    J BUON. 2021 Jul-Aug;26(4):1687-1688.
+
+PURPOSE: Preclinical studies report that trastuzumab (T) can boost radiotherapy 
+(RT) effectiveness. The primary aim of the B-43 trial was to assess the efficacy 
+of RT alone vs concurrent RT plus T in preventing recurrence of ipsilateral 
+breast cancer (IBTR) in women with ductal carcinoma in situ (DCIS).
+PATIENTS AND METHODS: Eligibility: Eastern Cooperative Oncology Group (ECOG) 
+performance status 0 or 1, DCIS resected by lumpectomy, known estrogen receptor 
+(ER) and/or progesterone receptor (PgR), and human epidermal growth factor 
+receptor 2 (HER2) status by centralized testing. Whole-breast RT was given 
+concurrently with T. Stratification was by menopausal status, adjuvant endocrine 
+therapy plan, and nuclear grade. Definitive intent-to-treat primary analysis was 
+to be conducted when either 163 IBTR events occurred or all accrued patients 
+were on study ≥ 5 years.
+RESULTS: There were 2,014 participants who were randomly assigned. Median 
+follow-up time as of December 31, 2019, was 79.2 months. At primary definitive 
+analysis, 114 IBTR events occurred: RT arm, 63 and RT plus T arm, 51 (hazard 
+ratio [HR], 0.81; 95% CI, 0.56 to 1.17; P value = .26). There were 34 who were 
+invasive: RT arm, 18 and RT plus T arm, 20 (HR, 1.11; 95% CI, 0.59 to 2.10; P 
+value = .71). Seventy-six were DCIS: RT arm, 45 and RT plus T arm, 31 (HR, 0.68; 
+95% CI, 0.43 to 1.08; P value = .11). Annual IBTR event rates were: RT arm, 
+0.99%/y and RT plus T arm, 0.79%/y. The study did not reach the 163 
+protocol-specified events, so the definitive analysis was triggered by all 
+patients having been on study for ≥ 5 years.
+CONCLUSION: Addition of T to RT did not achieve the objective of 36% reduction 
+in IBTR rate but did achieve a modest but statistically nonsignificant reduction 
+of 19%. Nonetheless, this trial had negative results. Further exploration of RT 
+plus T is needed in HER2-positive DCIS before its routine delivery in patients 
+with DCIS resected by lumpectomy.
+
+DOI: 10.1200/JCO.20.02824
+PMCID: PMC8462554
+PMID: 33739848 [Indexed for MEDLINE]
+
+Conflict of interest statement: Melody A. CobleighConsulting or Advisory Role: 
+Roche/Genentech, Immunomedics, Genomic Health, Puma Biotechnology, Seattle 
+GeneticsResearch Funding: Macrogenics, Radius Health, Genentech/Roche, Seattle 
+Genetics, Zymeworks, SynthonPatents, Royalties, Other Intellectual Property: 
+Genomic HealthTravel, Accommodations, Expenses: Genentech, Immunomedics, Puma 
+Biotechnology, Seattle Genetics Stewart J. AndersonConsulting or Advisory Role: 
+Jazz Pharmaceuticals Kalliopi P. SiziopikouHonoraria: Ventana Medical Systems, 
+Lilly, Merck Douglas W. ArthurStock and Other Ownership Interests: Advanced 
+Radiation Therapy Rachel RabinovitchStock and Other Ownership Interests: Abbott 
+Laboratories, Bristol-Myers Squibb, Intuitive Surgical, IDEXX 
+LaboratoriesResearch Funding: Prelude Therapeutics Dennis L. CarterEmployment: 
+Rocky Mountain Cancer Centers Melissa S. DillmonStock and Other Ownership 
+Interests: Johnson & JohnsonConsulting or Advisory Role: Puma Biotechnology 
+Vivek S. KavadiEmployment: US Oncology Network Matthew L. HillStock and Other 
+Ownership Interests: AstraZeneca, Newlink Genetics, Kazia Therapeutics, Leap 
+Therapeutics, OncoSec, MEI Pharma, PLx Pharma, Radius Health, Crispr 
+Therapeutics, Cassava Sciences Sushil BeriwalHonoraria: Varian Medical Systems, 
+XOFT Eleftherios P. MamounaHonoraria: Genentech/Roche, Genomic Health, 
+PreciscaConsulting or Advisory Role: Genomic Health, BioTheranostics, 
+Roche/Genentech, Merck, Daiichi Sankyo, Puma Biotechnology, PreciscaSpeakers' 
+Bureau: Genomic Health, Genentech/RocheTravel, Accommodations, Expenses: Genomic 
+Health, Genentech/RocheNo other potential conflicts of interest were reported.

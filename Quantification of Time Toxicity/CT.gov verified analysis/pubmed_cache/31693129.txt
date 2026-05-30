@@ -1,0 +1,74 @@
+19. J Natl Cancer Inst. 2020 Jul 1;112(7):698-707. doi: 10.1093/jnci/djz215.
+
+Phase III Randomized Trial of Bisphosphonates as Adjuvant Therapy in Breast 
+Cancer: S0307.
+
+Gralow JR(1), Barlow WE(2), Paterson AHG(3), M'iao JL(2), Lew DL(2), Stopeck 
+AT(4), Hayes DF(5), Hershman DL, Schubert MM(6), Clemons M(7), Van Poznak CH, 
+Dees EC(8), Ingle JN(9), Falkson CI(10), Elias AD(11), Messino MJ(12), Margolis 
+JH(13), Dakhil SR(14), Chew HK(15), Dammann KZ(1), Abrams JS(16), Livingston 
+RB(17), Hortobagyi GN(18).
+
+Author information:
+(1)University of Washington, Seattle, WA.
+(2)SWOG Statistical Center, Seattle, WA.
+(3)Tom Baker Cancer Centre, University of Calgary, Calgary, Alberta, Canada.
+(4)Stony Brook Cancer Center, Stony Brook University Cancer Center, Stony Brook, 
+NY.
+(5)University of Michigan, Ann Arbor, MI (DFH, CHVP); Columbia University, New 
+York, NY.
+(6)Fred Hutchinson Cancer Research Center, Seattle, WA.
+(7)Ottawa Hospital Research Institute, University of Ottawa, Ottawa, Ontario, 
+Canada.
+(8)University of North Carolina, Chapel Hill, NC.
+(9)Mayo Clinic, Rochester, MN.
+(10)University of Alabama, Birmingham, AL.
+(11)University of Colorado, Denver, CO.
+(12)Cancer Care of WNC, Greenville, NC.
+(13)Beaumont NCORP/William Beaumont Hospital, Royal Oak, MI.
+(14)Wichita NCORP, Wichita, KS.
+(15)University of California at Davis, Sacramento, CA.
+(16)Cancer Therapy and Evaluation Program, National Cancer Institute, Bethesda, 
+MD.
+(17)University of Arizona, Tucson, AZ.
+(18)The University of Texas MD Anderson Cancer Center, Houston, TX.
+
+Comment in
+    J Natl Cancer Inst. 2020 Jul 1;112(7):659-660. doi: 10.1093/jnci/djz216.
+
+BACKGROUND: Adjuvant bisphosphonates, when given in a low-estrogen environment, 
+can decrease breast cancer recurrence and death. Treatment guidelines include 
+recommendations for adjuvant bisphosphonates in postmenopausal patients. 
+SWOG/Alliance/Canadian Cancer Trials Group/ECOG-ACRIN/NRG Oncology study S0307 
+compared the efficacy of three bisphosphonates in early-stage breast cancer.
+METHODS: Patients with stage I-III breast cancer were randomly assigned to 
+3 years of intravenous zoledronic acid, oral clodronate, or oral ibandronate. 
+The primary endpoint was disease-free survival (DFS) with overall survival as a 
+secondary outcome. All statistical tests were two-sided.
+RESULTS: A total of 6097 patients enrolled. Median age was 52.7 years. Prior to 
+being randomly assigned, 73.2% patients indicated preference for oral vs 
+intravenous formulation. DFS did not differ across arms in a log-rank test 
+(P = .49); 5-year DFS was 88.3% (zoledronic acid: 95% confidence interval [CI] = 
+86.9% to 89.6%), 87.6% (clodronate: 95% CI = 86.1% to 88.9%), and 87.4% 
+(ibandronate: 95% CI = 85.6% to 88.9%). Additionally, 5-year overall survival 
+did not differ between arms (log rank P = .50) and was 92.6% (zoledronic acid: 
+95% CI = 91.4% to 93.6%), 92.4% (clodronate: 95% CI = 91.2% to 93.5%), and 92.9% 
+(ibandronate: 95% CI = 91.5% to 94.1%). Bone as first site of recurrence did not 
+differ between arms (P = .93). Analyses based on age and tumor subtypes showed 
+no treatment differences. Grade 3/4 toxicity was 8.8% (zoledronic acid), 8.3% 
+(clodronate), and 10.5% (ibandronate). Osteonecrosis of the jaw was highest for 
+zoledronic acid (1.26%) compared with clodronate (0.36%) and ibandronate 
+(0.77%).
+CONCLUSIONS: We found no evidence of differences in efficacy by type of 
+bisphosphonate, either in overall analysis or subgroups. Despite an increased 
+rate of osteonecrosis of the jaw with zoledronic acid, overall toxicity grade 
+differed little across arms. Given that patients expressed preference for oral 
+formulation, efforts to make oral agents available in the United States should 
+be considered.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jnci/djz215
+PMCID: PMC7357327
+PMID: 31693129 [Indexed for MEDLINE]

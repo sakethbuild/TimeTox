@@ -1,0 +1,61 @@
+2. Invest New Drugs. 2019 Feb;37(1):159-165. doi: 10.1007/s10637-018-0650-5. Epub
+ 2018 Jul 30.
+
+Phase 1 dose-escalation study of momelotinib, a Janus kinase 1/2 inhibitor, 
+combined with gemcitabine and nab-paclitaxel in patients with previously 
+untreated metastatic pancreatic ductal adenocarcinoma.
+
+Ng K(1), Hendifar A(2), Starodub A(3), Chaves J(4), Yang Y(5), Koh B(5), Barbie 
+D(6), Hahn WC(6), Fuchs CS(7).
+
+Author information:
+(1)Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA. 
+Kimmie_Ng@DFCI.HARVARD.EDU.
+(2)Cedars-Sinai Samuel Oschin Comprehensive Cancer Institute, Los Angeles, CA, 
+USA.
+(3)Parkview Physicians Group Medical Oncology, Fort Wayne, IN, USA.
+(4)Northwest Medical Specialties, Tacoma, WA, USA.
+(5)Gilead Sciences, Foster City, CA, USA.
+(6)Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA.
+(7)Yale Cancer Center/Smilow Cancer Hospital, New Haven, CT, USA.
+
+Purpose Preclinical evidence suggests the importance of Janus activating kinase 
+(JAK) and TANK-binding kinase 1 (TBK1) in pancreatic ductal adenocarcinoma 
+(PDAC). We evaluated the safety and efficacy of momelotinib (MMB), a JAK1/2 
+inhibitor with additional activity against TBK1, plus albumin-bound paclitaxel + 
+gemcitabine (nab-P + G), in patients with previously untreated metastatic PDAC. 
+Experimental Design Patients were enrolled into five cohorts of increasing doses 
+of MMB between 100 and 200 mg administered once or twice daily in combination 
+with nab-P + G in 28-day cycles to determine maximum tolerated dose (MTD). 
+Safety, efficacy, pharmacokinetics, and pharmacodynamics were assessed for all 
+patients. Results Twenty-five patients were enrolled. Dose-limiting toxicities 
+of Grade 3 diarrhea occurred in 1 patient each in the 100 and 200 mg MMB 
+once-daily dose groups. MTD was not reached. The 200 mg MMB twice-daily was the 
+maximum administered dose. Objective response rate was 28% (all partial 
+responses), and 13 (52%) patients had a best response of stable disease. The 
+most common adverse events (AEs) were fatigue (80%), nausea (76%), and anemia 
+(68%). Grade 3 or 4 AEs, most commonly neutropenia (32%), were reported by 88% 
+of patients, of which 44% were considered related to MMB. Pharmacokinetic 
+analyses showed MMB concentrations were too low for TBK1 inhibition. Conclusions 
+MMB was safe and well tolerated in combination with nab-P + G. As no OS or PFS 
+benefit vs nab-P + G was apparent in context of suboptimal engagement of the 
+target TBK1, this study does not support further development of MMB as a 
+first-line therapy in pancreatic cancer.
+
+DOI: 10.1007/s10637-018-0650-5
+PMCID: PMC6510909
+PMID: 30105668 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST: KN: research funding from 
+Gilead, Genentech, Tarrex, and Pharmavite, and advisory board for Bayer. AH: 
+consultant/advisory role for Genentech, Ipsen, Novartis, Perthera. JC: None. AS: 
+consulting/advisory role for Sandoz, Bayer, and speakers bureau for BMS. YY: 
+employee of Gilead Sciences, Inc. BK: employee of Gilead Sciences, Inc. DB: 
+consultant for N of One. WCH: None. CSF: consultant for Eli Lilly, Entrinsic 
+Health, Genentech, Merck, Sanofi, Five Prime Therapeutics, Merrimack, Bayer, 
+Agios, Taiho, Kew, Bain Capital, Unum, and board member for CytomX. ETHICAL 
+APPROVAL: All procedures performed in studies involving human participants were 
+in accordance with the ethical standards of the institutional and/or national 
+research committee and with the 1964 Helsinki declaration and its later 
+amendments or comparable ethical standards. INFORMED CONSENT: Informed consent 
+was obtained from all individual participants included in the study.

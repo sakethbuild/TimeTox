@@ -1,0 +1,362 @@
+[
+  {
+    "filename": "PMID 31345387 CT_Summary_SoE.pdf",
+    "pmid": "31345387",
+    "trial_design_summary": "Quarterback trial in HPV+ oropharyngeal carcinoma: after induction TPF, clinical responders randomized 1:2 to standard-dose chemoradiation (7000 cGy) vs reduced-dose chemoradiation (5600 cGy) with weekly carboplatin; abstract does not describe a non-responder arm.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Standard Dose Radiation + Carboplatin)",
+        "designation": "control",
+        "evidence": "randomized 1:2 to sdCRT (7000 cGy) or rdCRT (5600 cGy) with weekly carboplatin"
+      },
+      {
+        "arm_name": "Arm C (Non-responders: Standard CRT + Carboplatin + Erbitux + Paclitaxel)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm A (Reduced Dose Radiation + Carboplatin)",
+        "designation": "intervention",
+        "evidence": "after induction chemotherapy (IC), reduced dose chemoradiation (rdCRT) would result in equivalent PFS and OS compared to sdCRT"
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 31693129 CT_Summary_SoE.pdf",
+    "pmid": "31693129",
+    "trial_design_summary": "S0307 phase III adjuvant breast cancer trial comparing three bisphosphonates head-to-head (intravenous zoledronic acid vs oral clodronate vs oral ibandronate); no designated standard comparator arm, so arm roles are not assignable.",
+    "arms": [
+      {
+        "arm_name": "Arm 2 (Clodronate)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm 1 (Zoledronic Acid)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm 3 (Ibandronate)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm 3 (Ibandronate)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 32496902 a_Summary_SoE.pdf",
+    "pmid": "32496902",
+    "trial_design_summary": "PMID-MISMATCH: abstract describes AALL1131 randomization of intrathecal triple therapy versus intrathecal methotrexate for CNS prophylaxis, not the VHR/HR/Ph-like dasatinib/Down syndrome risk-stratification arms listed in arm_names.",
+    "arms": [
+      {
+        "arm_name": "Very High Risk (VHR) B-ALL (Control Arm)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Very High Risk (VHR) B-ALL - Control Arm",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "High Risk (HR) B-ALL (Arm A/B)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Ph-like Dasatinib Arm",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Down Syndrome (DS) HR B-ALL",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Down Syndrome HR B-ALL Arm",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 33197226 a_Summary_SoE.pdf",
+    "pmid": "33197226",
+    "trial_design_summary": "JAVELIN Gastric 100 phase III trial: after first-line induction chemotherapy, gastric/GEJ cancer patients without progression randomized 1:1 to avelumab maintenance vs continued chemotherapy; abstract does not describe a best-supportive-care-only arm.",
+    "arms": [
+      {
+        "arm_name": "Best Supportive Care (BSC) Only",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Chemotherapy Maintenance (Oxaliplatin + 5-FU)",
+        "designation": "control",
+        "evidence": "randomly assigned 1:1 to avelumab 10 mg/kg every 2 weeks or continued chemotherapy"
+      },
+      {
+        "arm_name": "Avelumab Maintenance",
+        "designation": "intervention",
+        "evidence": "We investigated avelumab (anti-programmed death ligand-1 [PD-L1]) maintenance after first-line induction chemotherapy"
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 33657295 a_Summary_SoE.pdf",
+    "pmid": "33657295",
+    "trial_design_summary": "CheckMate 9ER phase 3 open-label trial in previously untreated advanced renal-cell carcinoma comparing nivolumab plus cabozantinib versus sunitinib; abstract does not describe a nivolumab+ipilimumab+cabozantinib triplet arm.",
+    "arms": [
+      {
+        "arm_name": "Arm C (Sunitinib)",
+        "designation": "control",
+        "evidence": "Nivolumab plus Cabozantinib versus Sunitinib for Advanced Renal-Cell Carcinoma"
+      },
+      {
+        "arm_name": "Arm B (Nivolumab + Ipilimumab + Cabozantinib)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm A (Nivolumab + Cabozantinib)",
+        "designation": "intervention",
+        "evidence": "we randomly assigned adults with previously untreated clear-cell, advanced renal-cell carcinoma to receive either nivolumab plus cabozantinib"
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 34092112 a_Summary_SoE.pdf",
+    "pmid": "34092112",
+    "trial_design_summary": "ECOG-ACRIN EA1131 phase III postoperative trial in residual triple-negative breast cancer post-NAC: platinum-based chemotherapy tested for noninferiority/superiority versus established adjuvant capecitabine; abstract does not describe an observation arm.",
+    "arms": [
+      {
+        "arm_name": "Arm A (Observation)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm B (Platinum-based chemotherapy)",
+        "designation": "intervention",
+        "evidence": "iDFS would not be inferior but improved in patients with basal subtype TNBC treated with adjuvant platinum compared with capecitabine"
+      },
+      {
+        "arm_name": "Arm C (Capecitabine)",
+        "designation": "control",
+        "evidence": "high-risk for recurrence, which is reduced by adjuvant capecitabine ... assuming a 4-year iDFS of 67% with capecitabine"
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 34170389 CT_Summary_SoE.pdf",
+    "pmid": "34170389",
+    "trial_design_summary": "Total XVI pharmacodynamic study: ALL patients randomized in continuation to lower (2500 IU/m2) versus higher (3500 IU/m2) IV pegaspargase doses within risk strata; low-risk is a stratum, not an intervention/control designation.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Conventional Dose PEG-asparaginase, Standard/High-Risk)",
+        "designation": "control",
+        "evidence": "randomized in continuation to receive 2500 IU/m2 or 3500 IU/m2 IV ... continuously (15 doses) on the standard/high risk (SHR) arms"
+      },
+      {
+        "arm_name": "Arm A (Higher Dose PEG-asparaginase, Standard/High-Risk)",
+        "designation": "intervention",
+        "evidence": "randomized in continuation to receive 2500 IU/m2 or 3500 IU/m2 IV ... continuously (15 doses) on the standard/high risk (SHR) arms"
+      },
+      {
+        "arm_name": "Low-Risk (LR)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 34320285 a_Summary_SoE.pdf",
+    "pmid": "34320285",
+    "trial_design_summary": "ABCSG-16/SALSA phase 3 trial: postmenopausal HR+ breast cancer patients after 5 years of endocrine therapy randomized to 2 additional years versus 5 additional years of anastrozole; the 2-year extension is the reference comparator.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Anastrozole 5 years)",
+        "designation": "intervention",
+        "evidence": "anastrozole for an additional 2 years ... or an additional 5 years (5-year group, receiving a total of 10 years)"
+      },
+      {
+        "arm_name": "Arm A (Anastrozole 2 years)",
+        "designation": "control",
+        "evidence": "extending hormone therapy by 5 years provided no benefit over a 2-year extension"
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 34997889 CT_Summary_SoE.pdf",
+    "pmid": "34997889",
+    "trial_design_summary": "CPT-SIOP-2000 randomized high-risk choroid plexus tumors head-to-head between two chemotherapy regimens (CarbEV vs CycEV); no established standard existed, so neither arm is a designated control.",
+    "arms": [
+      {
+        "arm_name": "Carboplatin Arm (Carboplatin, Etoposide, Vincristine)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Cyclophosphamide Arm (Cyclophosphamide, Etoposide, Vincristine)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 35403841 a_Summary_SoE.pdf",
+    "pmid": "35403841",
+    "trial_design_summary": "CheckMate 816 phase 3 trial in resectable NSCLC comparing neoadjuvant nivolumab plus platinum-based chemotherapy versus platinum-based chemotherapy alone; abstract does not describe a nivolumab-plus-ipilimumab arm.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Platinum-Doublet Chemotherapy)",
+        "designation": "control",
+        "evidence": "to receive nivolumab plus platinum-based chemotherapy or platinum-based chemotherapy alone, followed by resection"
+      },
+      {
+        "arm_name": "Arm A (Nivolumab plus Ipilimumab)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm C (Nivolumab plus Platinum-Doublet Chemotherapy)",
+        "designation": "intervention",
+        "evidence": "neoadjuvant nivolumab plus chemotherapy resulted in significantly longer event-free survival ... than chemotherapy alone"
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 35810754 CT_Summary_SoE.pdf",
+    "pmid": "35810754",
+    "trial_design_summary": "SEQUOIA phase 3 trial in untreated CLL/SLL: patients without del(17p) randomized to zanubrutinib (group A) versus bendamustine-rituximab (group B); del(17p) patients in group C received zanubrutinib. Abstract does not describe a venetoclax+zanubrutinib arm.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Bendamustine + Rituximab)",
+        "designation": "control",
+        "evidence": "randomly assigned patients without del(17)(p13.1) to zanubrutinib (group A) or bendamustine-rituximab (group B)"
+      },
+      {
+        "arm_name": "Arm A/C (Zanubrutinib)",
+        "designation": "intervention",
+        "evidence": "Zanubrutinib is a next-generation, selective Bruton tyrosine kinase inhibitor ... We compared zanubrutinib with bendamustine-rituximab"
+      },
+      {
+        "arm_name": "Arm D (Venetoclax + Zanubrutinib)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 36952634 a_Summary_SoE.pdf",
+    "pmid": "36952634",
+    "trial_design_summary": "MAGNITUDE phase III double-blind trial in metastatic castration-resistant prostate cancer: patients assigned 1:1 to niraparib plus abiraterone acetate/prednisone versus placebo plus AAP; abstract does not describe a fixed-dose-combination Cohort 3 arm.",
+    "arms": [
+      {
+        "arm_name": "Placebo + Abiraterone Acetate + Prednisone (AAP)",
+        "designation": "control",
+        "evidence": "Patients were assigned 1:1 to receive niraparib + AAP or placebo + AAP"
+      },
+      {
+        "arm_name": "Niraparib + Abiraterone Acetate + Prednisone (AAP)",
+        "designation": "intervention",
+        "evidence": "Combination treatment with niraparib + AAP significantly lengthened rPFS in patients with HRR+ mCRPC compared with standard-of-care AAP"
+      },
+      {
+        "arm_name": "Arm C (Cohort 3: FDC Niraparib/AA + Prednisone)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 37379502 a_Summary_SoE.pdf",
+    "pmid": "37379502",
+    "trial_design_summary": "LASER301 phase III trial in treatment-naive EGFR-mutated advanced NSCLC: patients randomized 1:1 to third-generation lazertinib versus first-generation gefitinib; abstract does not describe an open-label lazertinib cross-over arm.",
+    "arms": [
+      {
+        "arm_name": "Gefitinib 250 mg",
+        "designation": "control",
+        "evidence": "Patients were randomly assigned 1:1 to lazertinib 240 mg once daily orally or gefitinib 250 mg once daily orally"
+      },
+      {
+        "arm_name": "Lazertinib 240 mg",
+        "designation": "intervention",
+        "evidence": "Lazertinib is a potent, CNS-penetrant, third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor"
+      },
+      {
+        "arm_name": "Open-label Lazertinib 240 mg (Cross-over)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 38060199 CT_Summary_SoE.pdf",
+    "pmid": "38060199",
+    "trial_design_summary": "Pooled report of the ipatasertib/atezolizumab/paclitaxel triplet across three first-line mTNBC studies (two single-arm, plus randomized IPATunity170); abstract reports only the 317 triplet-treated patients and does not describe the randomized comparator/doublet/placebo arms' roles.",
+    "arms": [
+      {
+        "arm_name": "Arm C (Paclitaxel + Placebo + Placebo)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm A (Ipatasertib + Atezolizumab + Paclitaxel)",
+        "designation": "intervention",
+        "evidence": "Triplet therapy comprised intravenous atezolizumab ... oral ipatasertib ... and intravenous paclitaxel ... as first-line therapy"
+      },
+      {
+        "arm_name": "Arm B (Ipatasertib + Paclitaxel / Atezolizumab + Paclitaxel)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm B - Cohort 2 (Atezolizumab + Paclitaxel + Placebo)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 38252907 a_Summary_SoE.pdf",
+    "pmid": "38252907",
+    "trial_design_summary": "CheckMate 722 phase III trial in EGFR-mutated metastatic NSCLC after progression on EGFR TKIs: patients randomized 1:1 to nivolumab plus platinum-doublet chemotherapy versus platinum-doublet chemotherapy alone; abstract does not describe a nivolumab-plus-ipilimumab arm.",
+    "arms": [
+      {
+        "arm_name": "Arm C (Pemetrexed plus Platinum)",
+        "designation": "control",
+        "evidence": "randomly assigned 1:1 to nivolumab ... plus platinum-doublet chemotherapy ... or platinum-doublet chemotherapy alone"
+      },
+      {
+        "arm_name": "Arm A (Nivolumab plus Pemetrexed/Platinum)",
+        "designation": "intervention",
+        "evidence": "evaluated nivolumab plus chemotherapy versus chemotherapy in patients with EGFR-mutated metastatic non-small-cell lung cancer"
+      },
+      {
+        "arm_name": "Arm B (Nivolumab plus Ipilimumab)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": true
+  }
+]

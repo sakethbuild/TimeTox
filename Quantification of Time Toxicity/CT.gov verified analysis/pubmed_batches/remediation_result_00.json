@@ -1,0 +1,360 @@
+[
+  {
+    "filename": "PMID 21991949 a_Summary_SoE.pdf",
+    "pmid": "21991949",
+    "trial_design_summary": "BCIRG-006: HER2-positive early breast cancer randomized to AC followed by docetaxel (AC-T), the same plus trastuzumab (AC-T+H), or docetaxel/carboplatin/trastuzumab (TCH). Both trastuzumab regimens superior to AC-T.",
+    "arms": [
+      {
+        "arm_name": "AC→T (Doxorubicin and Cyclophosphamide followed by Docetaxel)",
+        "designation": "control",
+        "evidence": "No significant differences in efficacy were found between the two trastuzumab regimens, whereas both were superior to AC-T."
+      },
+      {
+        "arm_name": "AC→TH (Doxorubicin and Cyclophosphamide followed by Docetaxel and Trastuzumab)",
+        "designation": "intervention",
+        "evidence": "The addition of 1 year of adjuvant trastuzumab significantly improved disease-free and overall survival."
+      },
+      {
+        "arm_name": "TCH (Docetaxel, Carboplatin and Trastuzumab)",
+        "designation": "intervention",
+        "evidence": "We wanted to evaluate the efficacy and safety of a new nonanthracycline regimen with trastuzumab."
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 22551107 a_Summary_SoE.pdf",
+    "pmid": "22551107",
+    "trial_design_summary": "FIRM-ACT: advanced adrenocortical carcinoma randomized to mitotane plus EDP (etoposide, doxorubicin, cisplatin) versus mitotane plus streptozocin. EDP-mitotane had higher response and longer PFS.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Sz/M: Streptozotocin, Mitotane)",
+        "designation": "control",
+        "evidence": "Patients in the EDP-mitotane group had a significantly higher response rate than those in the streptozocin-mitotane group."
+      },
+      {
+        "arm_name": "Arm A (EDP/M: Etoposide, Doxorubicin, Cisplatin, Mitotane)",
+        "designation": "intervention",
+        "evidence": "Rates of response and progression-free survival were significantly better with EDP plus mitotane than with streptozocin plus mitotane as first-line therapy."
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 22915657 a_Summary_SoE.pdf",
+    "pmid": "22915657",
+    "trial_design_summary": "Four-regimen factorial antiemetic trial for delayed nausea (palonosetron vs granisetron; +/- day 2-3 dexamethasone; aprepitant vs prochlorperazine). All arms are active antiemetic regimens compared pairwise with no single designated control arm.",
+    "arms": [
+      {
+        "arm_name": "Arm 3 (Aprepitant + Palonosetron + Dexamethasone)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm 2: Granisetron + Dexamethasone (Day 1), Compazine + Placebo (Days 2 & 3)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm 1 (Palonosetron + Dexamethasone + Compazine)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm 2 (Granisetron + Dexamethasone + Compazine)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm 4 (Palonosetron + Dexamethasone + Compazine + Dexamethasone)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 23075175 a_Summary_SoE.pdf",
+    "pmid": "23075175",
+    "trial_design_summary": "Phase 3 head-to-head comparison of peripheral-blood stem-cell versus bone marrow transplantation from unrelated donors. Direct comparison of two graft sources with no designated standard-of-care or control arm.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Marrow Transplantation)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm A (PBSC Transplantation)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 24881463 a_Summary_SoE.pdf",
+    "pmid": "24881463",
+    "trial_design_summary": "Combined TEXT+SOFT analysis comparing exemestane plus ovarian suppression versus tamoxifen plus ovarian suppression in premenopausal HR-positive breast cancer; exemestane+OFS reduced recurrence. Abstract addresses only the OFS-containing arms, not tamoxifen alone.",
+    "arms": [
+      {
+        "arm_name": "SOFT Arm A (Tamoxifen alone)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "TEXT Arm A (GnRH analogue + Tamoxifen)",
+        "designation": "control",
+        "evidence": "exemestane plus ovarian suppression, as compared with tamoxifen plus ovarian suppression, significantly reduced recurrence."
+      },
+      {
+        "arm_name": "SOFT Arm B & C (OFS + Tamoxifen/Exemestane)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "TEXT Arm A & B (GnRH analogue + Tamoxifen/Exemestane)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "TEXT Arm A (GnRH analogue plus Tamoxifen)",
+        "designation": "control",
+        "evidence": "exemestane plus ovarian suppression, as compared with tamoxifen plus ovarian suppression, significantly reduced recurrence."
+      },
+      {
+        "arm_name": "TEXT Arm B (GnRH analogue plus Exemestane)",
+        "designation": "intervention",
+        "evidence": "adjuvant treatment with exemestane plus ovarian suppression... significantly reduced recurrence."
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 25495490 a_Summary_SoE.pdf",
+    "pmid": "25495490",
+    "trial_design_summary": "SOFT: premenopausal HR-positive breast cancer randomized to tamoxifen, tamoxifen plus ovarian suppression, or exemestane plus ovarian suppression. Primary test was whether adding ovarian suppression to tamoxifen improves disease-free survival.",
+    "arms": [
+      {
+        "arm_name": "Arm A (Tamoxifen alone)",
+        "designation": "control",
+        "evidence": "tested the hypothesis that tamoxifen plus ovarian suppression would improve disease-free survival, as compared with tamoxifen alone."
+      },
+      {
+        "arm_name": "Arm B (OFS plus Tamoxifen)",
+        "designation": "intervention",
+        "evidence": "for women... who remained premenopausal, the addition of ovarian suppression improved disease outcomes."
+      },
+      {
+        "arm_name": "Arm C (OFS plus Exemestane)",
+        "designation": "intervention",
+        "evidence": "Further improvement was seen with the use of exemestane plus ovarian suppression."
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 26040499 a_Summary_SoE.pdf",
+    "pmid": "26040499",
+    "trial_design_summary": "ABCSG-18: double-blind, placebo-controlled trial of adjuvant denosumab 60 mg versus placebo every 6 months in postmenopausal aromatase-inhibitor-treated HR-positive breast cancer. Denosumab delayed time to first clinical fracture.",
+    "arms": [
+      {
+        "arm_name": "Placebo (Q6M)",
+        "designation": "control",
+        "evidence": "randomly assigned in a 1:1 ratio to receive either denosumab 60 mg or placebo administered subcutaneously every 6 months."
+      },
+      {
+        "arm_name": "Denosumab (60mg Q6M)",
+        "designation": "intervention",
+        "evidence": "Adjuvant denosumab 60 mg twice per year reduces the risk of clinical fractures in postmenopausal women with breast cancer."
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 26122726 a_Summary_SoE.pdf",
+    "pmid": "26122726",
+    "trial_design_summary": "PMID-MISMATCH: arm_names describe radiosurgery +/- whole-brain radiotherapy, but the abstract reports EP2006 (a filgrastim biosimilar) versus reference filgrastim for preventing severe neutropenia in breast cancer. Different drugs and disease setting entirely.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Radiosurgery + WBRT)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm A (Radiosurgery alone)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 26412349 a_Summary_SoE.pdf",
+    "pmid": "26412349",
+    "trial_design_summary": "TAILORx 21-gene assay validation. This abstract reports only the recurrence-score 0-10 cohort assigned to endocrine therapy alone without chemotherapy; it is a single observational arm with no chemotherapy-comparator results and no designated intervention/control roles.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Hormonal Therapy Alone)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm C (Chemotherapy + Hormonal Therapy)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 27569442 CT_Summary_SoE.pdf",
+    "pmid": "27569442",
+    "trial_design_summary": "EURAMOS-1 poor-responder randomization: high-grade osteosarcoma with poor preoperative response randomized to postoperative MAP versus MAP plus ifosfamide/etoposide (MAPIE). MAPIE added toxicity without improving event-free survival; MAP defines standard of care. The MAP-plus-interferon (good-responder) arm is not addressed here.",
+    "arms": [
+      {
+        "arm_name": "Arm A & C (MAP - Control)",
+        "designation": "control",
+        "evidence": "either postoperative cisplatin, doxorubicin, and methotrexate (MAP) or MAP plus ifosfamide and etoposide (MAPIE)... results define standard of care."
+      },
+      {
+        "arm_name": "Arm B (MAP + Pegylated Interferon alfa-2b)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm D (MAP + Ifosfamide/Etoposide)",
+        "designation": "intervention",
+        "evidence": "do not support the addition of ifosfamide and etoposide to postoperative chemotherapy... associated with increased toxicity."
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 28384065 a_Summary_SoE.pdf",
+    "pmid": "28384065",
+    "trial_design_summary": "SWOG S0518: phase 3 head-to-head comparison of depot octreotide plus interferon alfa-2b versus depot octreotide plus bevacizumab in advanced carcinoid/NETs. Symmetric comparison with similar antitumor activity and no designated standard-of-care or control arm.",
+    "arms": [
+      {
+        "arm_name": "Arm 2 (Depot Octreotide Plus Interferon Alpha-2b)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm 1 (Depot Octreotide Plus Bevacizumab)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 28438473 a_Summary_SoE.pdf",
+    "pmid": "28438473",
+    "trial_design_summary": "GOG-0213 bevacizumab objective: platinum-sensitive recurrent ovarian cancer randomized to standard paclitaxel-carboplatin chemotherapy versus the same plus bevacizumab. Adding bevacizumab improved median overall survival. The secondary cytoreductive-surgery objective is ongoing and not reported here.",
+    "arms": [
+      {
+        "arm_name": "Arm I/V (No Surgery + Chemotherapy)",
+        "designation": "control",
+        "evidence": "randomly assigned (1:1) to standard chemotherapy (six 3-weekly cycles of paclitaxel and carboplatin) or the same chemotherapy regimen plus bevacizumab."
+      },
+      {
+        "arm_name": "Arm III/VII (Surgery + CT/GC)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm IV/VIII (Surgery + Chemotherapy + Bevacizumab)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm II (Carboplatin + Paclitaxel + Bevacizumab)",
+        "designation": "intervention",
+        "evidence": "The addition of bevacizumab to standard chemotherapy, followed by maintenance therapy until progression, improved the median overall survival."
+      },
+      {
+        "arm_name": "Arm IV (Surgery + Carboplatin + Paclitaxel + Bevacizumab)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 28632865 a_Summary_SoE.pdf",
+    "pmid": "28632865",
+    "trial_design_summary": "CALGB/SWOG 80405: KRAS wild-type metastatic colorectal cancer, first-line FOLFOX/FOLFIRI randomized to cetuximab versus bevacizumab. Pure head-to-head of two biologics with no significant survival difference and no designated standard-of-care or control arm.",
+    "arms": [
+      {
+        "arm_name": "Arm A (Bevacizumab + FOLFOX/FOLFIRI)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm B (Cetuximab + FOLFOX/FOLFIRI)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 29238824 a_Summary_SoE.pdf",
+    "pmid": "29238824",
+    "trial_design_summary": "Placebo-controlled randomized trial of perioperative gabapentin versus active placebo (lorazepam) in a mixed surgical cohort, assessing time to pain resolution and opioid cessation. Only two randomized arms are described; no observational arm is reported.",
+    "arms": [
+      {
+        "arm_name": "Placebo Arm",
+        "designation": "control",
+        "evidence": "Gabapentin... or active placebo (lorazepam, 0.5 mg) preoperatively followed by inactive placebo postoperatively."
+      },
+      {
+        "arm_name": "Observational Arm",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Gabapentin Arm",
+        "designation": "intervention",
+        "evidence": "To determine the effect of perioperative gabapentin on remote postoperative time to pain resolution and opioid cessation."
+      }
+    ],
+    "abstract_states_roles": true
+  },
+  {
+    "filename": "PMID 30105668 a_Summary_SoE.pdf",
+    "pmid": "30105668",
+    "trial_design_summary": "PMID-MISMATCH: arm_names describe VMP versus daratumumab-VMP (multiple myeloma), but the abstract is a phase 1 dose-escalation study of momelotinib plus gemcitabine/nab-paclitaxel in metastatic pancreatic adenocarcinoma. Different drugs and disease entirely.",
+    "arms": [
+      {
+        "arm_name": "Arm A (VMP)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm B (D-VMP)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  },
+  {
+    "filename": "PMID 30995176 CT a_Summary_SoE.pdf",
+    "pmid": "30995176",
+    "trial_design_summary": "ARM-STRUCTURE-MISMATCH: drug matches (GS-1101 = idelalisib), but arm_names describe standard-dose versus high-dose GS-1101, whereas the abstract reports idelalisib (single 150 mg dose) plus rituximab versus placebo plus rituximab in relapsed CLL. The abstract does not describe any dose-level comparison arms.",
+    "arms": [
+      {
+        "arm_name": "Arm B (Standard-dose GS-1101)",
+        "designation": "unresolved",
+        "evidence": ""
+      },
+      {
+        "arm_name": "Arm A (High-dose GS-1101)",
+        "designation": "unresolved",
+        "evidence": ""
+      }
+    ],
+    "abstract_states_roles": false
+  }
+]

@@ -1,0 +1,128 @@
+9. Ann Oncol. 2020 Jul;31(7):942-950. doi: 10.1016/j.annonc.2020.04.001. Epub
+2020  Apr 12.
+
+Durvalumab with or without tremelimumab in patients with recurrent or metastatic 
+head and neck squamous cell carcinoma: EAGLE, a randomized, open-label phase III 
+study.
+
+Ferris RL(1), Haddad R(2), Even C(3), Tahara M(4), Dvorkin M(5), Ciuleanu TE(6), 
+Clement PM(7), Mesia R(8), Kutukova S(9), Zholudeva L(10), Daste A(11), 
+Caballero-Daroqui J(12), Keam B(13), Vynnychenko I(14), Lafond C(15), Shetty 
+J(16), Mann H(17), Fan J(16), Wildsmith S(17), Morsli N(17), Fayette J(18), 
+Licitra L(19).
+
+Author information:
+(1)Department of Otolaryngology, UPMC Hillman Cancer Center, Pittsburgh, USA. 
+Electronic address: ferrrl@UPMC.EDU.
+(2)Department of Medical Oncology, Dana Farber Cancer Institute, Boston, USA.
+(3)Head and Neck Department, Gustave Roussy, Villejuif, France.
+(4)National Cancer Center Hospital East, Kashiwa, Japan.
+(5)Omsk Regional Oncology Dispensary, Omsk, Omskaya, Russian Federation.
+(6)Ion Chiricuta Institute of Oncology, Iuliu Haţieganu University of Medicine 
+and Pharmacy, Cluj-Napoca, Romania.
+(7)Department of Oncology, Leuven Cancer Institute, KU Leuven, Leuven, Belgium.
+(8)Catalan Institute of Oncology, IDIBELL, L'Hospitalet de Llobregat, Barcelona, 
+Spain.
+(9)Chemotherapy Department, SPb SBIH City Clinical Oncology Dispensary, Saint 
+Petersburg, Russian Federation.
+(10)Regional Transcarpathian Oncological Dispensary, Uzhgorod, Ukraine.
+(11)Centre Hospitalier Universitaire de Bordeaux, Bordeaux, France.
+(12)Department of Oncology, Hospital Universitario La Fe, Valencia, Spain.
+(13)Department of Internal Medicine, Seoul National University Hospital, Seoul, 
+Republic of Korea.
+(14)Sumy State University, Sumy Regional Oncology Center, Sumy, Ukraine.
+(15)Department of Oncology, Clinique Victor Hugo/Centre Jean Bernard, Le Mans, 
+France.
+(16)Late-stage ImmunoOncology, AstraZeneca, Gaithersburg, USA.
+(17)Research and Development Oncology, AstraZeneca, Cambridge, UK.
+(18)Department of Medical Oncology, Centre Léon Bérard, Lyon, France.
+(19)Head & Neck Medical Oncology, Fondazione IRCCS Istituto Nazionale Tumori 
+Milano, University of Milan, Milan, Italy. Electronic address: 
+lisa.licitra@istitutotumori.mi.it.
+
+Comment in
+    Ann Oncol. 2020 Jul;31(7):830-831. doi: 10.1016/j.annonc.2020.04.474.
+
+BACKGROUND: Targeting the programmed cell death protein 1 (PD-1)/programmed cell 
+death ligand 1 (PD-L1) axis has demonstrated clinical benefit in 
+recurrent/metastatic head and neck squamous cell carcinoma (R/M HNSCC). 
+Combining immunotherapies targeting PD-L1 and cytotoxic T-lymphocyte-associated 
+antigen 4 (CTLA-4) has shown evidence of additive activity in several tumor 
+types. This phase III study evaluated the efficacy of durvalumab (an anti-PD-L1 
+monoclonal antibody) or durvalumab plus tremelimumab (an anti-CTLA-4 monoclonal 
+antibody) versus standard of care (SoC) in R/M HNSCC patients.
+PATIENTS AND METHODS: Patients were randomly assigned to receive 1 : 1 : 1 
+durvalumab (10 mg/kg every 2 weeks [q2w]), durvalumab plus tremelimumab 
+(durvalumab 20 mg/kg q4w plus tremelimumab 1 mg/kg q4w × 4, then durvalumab 10 
+mg/kg q2w), or SoC (cetuximab, a taxane, methotrexate, or a fluoropyrimidine). 
+The primary end points were overall survival (OS) for durvalumab versus SoC, and 
+OS for durvalumab plus tremelimumab versus SoC. Secondary end points included 
+progression-free survival (PFS), objective response rate, and duration of 
+response.
+RESULTS: Patients were randomly assigned to receive durvalumab (n = 240), 
+durvalumab plus tremelimumab (n = 247), or SoC (n = 249). No statistically 
+significant improvements in OS were observed for durvalumab versus SoC [hazard 
+ratio (HR): 0.88; 95% confidence interval (CI): 0.72-1.08; P = 0.20] or 
+durvalumab plus tremelimumab versus SoC (HR: 1.04; 95% CI: 0.85-1.26; P = 0.76). 
+The 12-month survival rates (95% CI) were 37.0% (30.9-43.1), 30.4% (24.7-36.3), 
+and 30.5% (24.7-36.4) for durvalumab, durvalumab plus tremelimumab, and SoC, 
+respectively. Treatment-related adverse events (trAEs) were consistent with 
+previous reports. The most common trAEs (any grade) were hypothyroidism for 
+durvalumab and durvalumab plus tremelimumab (11.4% and 12.2%, respectively), and 
+anemia (17.5%) for SoC. Grade ≥3 trAE rates were 10.1%, 16.3%, and 24.2% for 
+durvalumab, durvalumab plus tremelimumab, and SoC, respectively.
+CONCLUSION: There were no statistically significant differences in OS for 
+durvalumab or durvalumab plus tremelimumab versus SoC. However, higher survival 
+rates at 12 to 24 months and response rates demonstrate clinical activity for 
+durvalumab.
+TRIAL REGISTRATION: ClinicalTrials.gov: NCT02369874.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.annonc.2020.04.001
+PMID: 32294530 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures AstraZeneca contributed to the study 
+drug, data collection, data analysis, data interpretation, and writing of this 
+manuscript. All authors had full access to all the data in the study and full 
+responsibility for the decision to submit. RLF: consulting or advisory 
+role—Aduro Biotech, Inc.; Amgen; AstraZeneca/MedImmune; Bain Capital Life 
+Sciences; Bristol-Myers Squibb; EMD Serono; GlaxoSmithKline; Iovance 
+Biotherapeutics, Inc; Lilly; MacroGenics; Merck; Nanobiotix; Numab Therapeutics 
+AG; Oncorus, Inc.; Ono Pharmaceutical Co. Ltd.; Pfizer; PPD (Benitec, 
+Immunicum); Regeneron Pharmaceuticals, Inc.; Tesaro; Torque Therapeutics Inc.; 
+TTMS. Research funding—AstraZeneca/MedImmune; Bristol-Myers Squibb; Merck; 
+Tesaro; TTMS; VentiRx. RH: consulting or advisory role—AstraZeneca; 
+Bristol-Myers Squibb; Celgene; Genentech; Bayer; Eisai; Merck; Pfizer; 
+AstraZeneca; EMD Serono; Nanobiotix; GlaxoSmithKline. Research 
+funding—AstraZeneca (Inst); Boehringer Ingelheim (Inst); Bristol-Myers Squibb 
+(Inst); Merck (Inst); Pfizer (Inst); Genentech (Inst). CE: consulting or 
+advisory role—AstraZeneca; Bristol-Myers Squibb; Innate Pharma; MSD Oncology. 
+MT: honoraria—Bayer; Bristol-Myers Squibb; Eisai; Merck Serono; Takeda. 
+Consulting or advisory role—Bayer; Boehringer Ingelheim; Bristol-Myers Squibb; 
+Merck Sharp & Dohme; Ono Pharmaceutical; Pfizer. Research funding—AstraZeneca 
+(Inst); Bayer (Inst); Boehringer Ingelheim (Inst); Eisai (Inst); Merck Sharp & 
+Dohme (Inst); NanoCarrier (Inst); Novartis (Inst); Ono Pharmaceutical (Inst); 
+Pfizer (Inst). MD: no relationships to disclose. T-EC: consulting or advisory 
+role—Amgen; Astellas Pharma; AstraZeneca; Boehringer Ingelheim; Bristol-Myers 
+Squibb; GlaxoSmithKline/Novartis; Janssen; Lilly; Merck Serono; Merck Sharp & 
+Dohme; Novartis; Pfizer; Roche; Sanofi. Travel, accommodations, expenses—A&D 
+Pharma; Amgen; AstraZeneca; Boehringer Ingelheim; Ipsen; Merck; Pfizer; Sanofi; 
+Servier. JF: leadership—Glycotope GmbH. Honoraria—AstraZeneca; Bristol-Myers 
+Squibb. PMC: consulting or advisory role—Abbvie; Bristol-Myers Squibb; LEO 
+Pharma; Merck Sharp & Dohme; Vifor Pharma. Speakers' Bureau—AstraZeneca; 
+Bristol-Myers Squibb; Merck Serono, Merck Sharp & Dohme. Research 
+funding—AstraZeneca. Patents, royalties, other intellectual property —NIH/NCI. 
+RM: consulting or advisory role—AstraZeneca; Bayer; Bristol-Myers Squibb; Merck 
+KGaA; Merck Sharp & Dohme; Nanobiotix; Roche. Speakers' Bureau—Merck KGaA. 
+Travel, accommodations, expenses—Merck KGaA. Research funding: Merck KGaA. SK: 
+no relationships to disclose. LZ: no relationships to disclose. AD: consulting 
+or advisory role—Bristol-Myers Squibb; Merck KGaA. JS: employed by AstraZeneca. 
+HM: employed by AstraZeneca. SW: employed by AstraZeneca. NM: employed by 
+AstraZeneca. LL: consulting or advisory role—Amgen; AstraZeneca; Bayer; 
+Boehringer Ingelheim; Bristol-Myers Squibb; Debiopharm Group; Eisai; Merck 
+Serono; Merck Sharp & Dohme; Novartis; Roche; SOBI. Research funding—Amgen 
+(Inst); AstraZeneca (Inst); Boehringer Ingelheim (Inst); Eisai (Inst); Merck 
+Serono (Inst); MSD (Inst); Novartis (Inst); Roche (Inst). Travel, 
+accommodations, expenses—Amgen; Bayer; Debiopharm Group; Merck Serono; SOBI. All 
+other authors have declared no conflicts of interest.

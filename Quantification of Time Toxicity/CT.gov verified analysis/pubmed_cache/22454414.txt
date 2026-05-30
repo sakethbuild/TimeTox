@@ -1,0 +1,45 @@
+11. J Clin Oncol. 2012 May 1;30(13):1534-40. doi: 10.1200/JCO.2011.39.4767. Epub 
+2012 Mar 26.
+
+Randomized, double-blind, placebo-controlled phase III trial comparing docetaxel 
+and prednisone with or without bevacizumab in men with metastatic 
+castration-resistant prostate cancer: CALGB 90401.
+
+Kelly WK(1), Halabi S, Carducci M, George D, Mahoney JF, Stadler WM, Morris M, 
+Kantoff P, Monk JP, Kaplan E, Vogelzang NJ, Small EJ.
+
+Author information:
+(1)Thomas Jefferson University, Philadelphia, PA, USA. 
+wm.kevin.kelly@jefferson.edu
+
+PURPOSE: A randomized, placebo-controlled study based on preclinical and 
+clinical data that supports the potential role of vascular endothelial growth 
+factor in prostate cancer was performed to evaluate the addition of bevacizumab 
+to standard docetaxel and prednisone therapy in patients with metastatic 
+castration-resistant prostate cancer (mCRPC).
+PATIENTS AND METHODS: Patients with chemotherapy-naive progressive mCRPC with 
+Eastern Cooperative Oncology Group performance status ≤ 2 and adequate bone 
+marrow, hepatic, and renal function were randomly assigned to receive docetaxel 
+75 mg/m(2) intravenously (IV) over 1 hour for 21 days plus prednisone 5 mg 
+orally twice per day (DP) with either bevacizumab 15 mg/kg IV every 3 weeks (DP 
++ B) or placebo. The primary end point was overall survival (OS), and secondary 
+end points were progression-free survival (PFS), 50% decline in 
+prostate-specific antigen, objective response (OR), and toxicity.
+RESULTS: In total, 1,050 patients were randomly assigned. The median OS for 
+patients given DP + B was 22.6 months compared with 21.5 months for patients 
+treated with DP (hazard ratio, 0.91; 95% CI, 0.78 to 1.05; stratified log-rank P 
+= .181). The median PFS time was superior in the DP + B arm (9.9 v 7.5 months, 
+stratified log-rank P < .001) as was the proportion of patients with OR (49.4% v 
+35.5%; P = .0013). Grade 3 or greater treatment-related toxicity was more common 
+with DP + B (75.4% v 56.2%; P ≤ .001), as was the number of treatment-related 
+deaths (4.0% v 1.2%; P = .005).
+CONCLUSION: Despite an improvement in PFS and OR, the addition of bevacizumab to 
+docetaxel and prednisone did not improve OS in men with mCRPC and was associated 
+with greater toxicity.
+
+DOI: 10.1200/JCO.2011.39.4767
+PMCID: PMC3383121
+PMID: 22454414 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

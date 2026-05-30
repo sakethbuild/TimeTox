@@ -1,0 +1,154 @@
+8. JAMA Dermatol. 2022 Sep 1;158(9):1031-1039. doi:
+10.1001/jamadermatol.2022.2749.
+
+Efficacy and Safety of Topical Hypericin Photodynamic Therapy for Early-Stage 
+Cutaneous T-Cell Lymphoma (Mycosis Fungoides): The FLASH Phase 3 Randomized 
+Clinical Trial.
+
+Kim EJ(1), Mangold AR(2), DeSimone JA(3), Wong HK(4), Seminario-Vidal L(5), 
+Guitart J(6), Appel J(7)(8), Geskin L(9), Lain E(10), Korman NJ(11), Zeitouni 
+N(12), Nikbakht N(13), Dawes K(14), Akilov O(15), Carter J(16), Shinohara M(17), 
+Kuzel TM(18), Piette W(18), Bhatia N(19), Musiek A(20), Pariser D(21), Kim 
+YH(22), Elston D(23), Boh E(24), Duvic M(25), Huen A(25), Pacheco T(26), Zwerner 
+JP(27), Lee ST(28), Girardi M(29), Querfeld C(30), Bohjanen K(31), Olsen E(32), 
+Wood GS(33), Rumage A(34), Donini O(34), Haulenbeek A(34), Schaber CJ(34), 
+Straube R(34), Pullion C(34), Rook AH(1), Poligone B(35).
+
+Author information:
+(1)Department of Dermatology, Perelman School of Medicine at the University of 
+Pennsylvania, Philadelphia.
+(2)Mayo Clinic Arizona, Phoenix.
+(3)Inova Schar Cancer Institute, Annandale, Virginia.
+(4)University of Arkansas for Medical Sciences, Little Rock.
+(5)USF Health Morsani Center for Advanced Health Care, Tampa, Florida.
+(6)Feinberg School of Medicine at Northwestern University, Chicago, Illinois.
+(7)PMG Research of Wilmington, Wilmington, North Carolina.
+(8)Campbell University-Sampson Regional Medical Center, Buies Creek, North 
+Carolina.
+(9)Columbia University Medical Center, New York, New York.
+(10)Austin Institute for Clinical Research, Pflugerville, Texas.
+(11)University Hospitals Cleveland Medical Center, Cleveland, Ohio.
+(12)Medical Dermatology Specialists, University of Arizona, Phoenix.
+(13)Department of Dermatology and Cutaneous Biology, Thomas Jefferson 
+University, Philadelphia, Pennsylvania.
+(14)Dawes Fretzin Dermatology Group, Indianapolis, Indiana.
+(15)University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania.
+(16)Dartmouth Hitchcock Medical Center, Lebanon, New Hampshire.
+(17)University of Washington-Seattle Cancer Care Alliance, Seattle.
+(18)Rush University Cancer Center, Chicago, Illinois.
+(19)Therapeutics Clinical Research, San Diego, California.
+(20)Washington University School of Medicine, St Louis, Missouri.
+(21)Virginia Clinical Research, Norfolk.
+(22)Stanford University School of Medicine, Stanford, California.
+(23)Medical University of South Carolina, Charleston.
+(24)Tulane University, New Orleans, Louisiana.
+(25)University of Texas-MD Anderson Cancer Center, Houston.
+(26)University of Colorado Cancer Center, Aurora.
+(27)Vanderbilt Dermatology, Nashville, Tennessee.
+(28)University of Maryland Comprehensive Cancer Center, Baltimore.
+(29)Yale New Haven Hospital, New Haven, Connecticut.
+(30)City of Hope and Beckman Research Institute, Duarte, California.
+(31)Department of Dermatology, University of Minnesota, Minneapolis.
+(32)Duke University Medical Center, Durham, North Carolina.
+(33)University of Wisconsin, Madison.
+(34)Soligenix Inc, Princeton, New Jersey.
+(35)Rochester Skin Lymphoma Medical Group, Fairport, New York.
+
+IMPORTANCE: Given that mycosis fungoides-cutaneous T-cell lymphoma (MF/CTCL) is 
+chronic, there is a need for additional therapies with minimal short- and 
+long-term adverse effects. Topical synthetic hypericin ointment, 0.25%, 
+activated with visible light is a novel, nonmutagenic photodynamic therapy 
+(PDT).
+OBJECTIVES: To determine the efficacy and safety of topical synthetic hypericin 
+ointment, 0.25%, activated with visible light as a nonmutagenic PDT in 
+early-stage MF/CTCL.
+DESIGN, SETTINGS, AND PARTICIPANTS: This was a multicenter, placebo-controlled, 
+double-blinded, phase 3 randomized clinical trial (FLASH study) conducted from 
+December 2015 to November 2020 at 39 academic and community-based US medical 
+centers. Participants were adults (≥18 years) with early-stage (IA-IIA) MF/CTCL.
+INTERVENTIONS: In cycle 1, patients were randomized 2:1 to receive hypericin or 
+placebo to 3 index lesions twice weekly for 6 weeks. In cycle 2, all patients 
+received the active drug for 6 weeks to index lesions. In cycle 3 (optional), 
+both index and additional lesions received active drug for 6 weeks.
+MAIN OUTCOMES AND MEASURES: The primary end point was index lesion response rate 
+(ILRR), defined as 50% or greater improvement in modified Composite Assessment 
+of Index Lesion Severity (mCAILS) score from baseline after 6 weeks of therapy 
+for cycle 1. For cycles 2 and 3, open label response rates were secondary end 
+points. Adverse events (AEs) were assessed at each treatment visit, after each 
+cycle, and then monthly for 6 months. Data analyses were performed on December 
+21, 2020.
+RESULTS: The study population comprised 169 patients (mean [SD] age, 58.4 [16.0] 
+years; 96 [57.8%] men; 120 [72.3%] White individuals) with early-stage MF/CTCL. 
+After 6 weeks of treatment, hypericin PDT was more effective than placebo (cycle 
+1 ILRR, 16% vs 4%; P = .04). The ILRR increased to 40% in patients who received 
+2 cycles of hypericin PDT (P < .001 vs cycle 1 hypericin) and to 49% after 3 
+cycles (P < .001 vs cycle 1 hypericin). Significant clinical responses were 
+observed in both patch and plaque type lesions and were similar regardless of 
+age, sex, race, stage IA vs IB, time since diagnosis, and number of prior 
+therapies. The most common treatment-related AEs were mild local skin 
+(13.5%-17.3% across cycles 1-3 vs 10.5% for placebo in cycle 1) and 
+application-site reactions (3.2%-6.9% across cycles 1-3 vs 4% for placebo in 
+cycle 1). No drug-related serious AEs occurred.
+CONCLUSION AND RELEVANCE: The findings of this randomized clinical trial 
+indicate that synthetic hypericin PDT is effective in early-stage patch and 
+plaque MF/CTCL and has a favorable safety profile.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02448381.
+
+DOI: 10.1001/jamadermatol.2022.2749
+PMCID: PMC9301595
+PMID: 35857290 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr E. Kim 
+reported grants from Innate Pharma and Galderma; consulting/advisory fees from 
+Almirall, Galderma, and Helsinn; and honoraria from Ology and UpToDate, all 
+outside the submitted work. Dr Mangold reported grants from Crispr Therapeutics, 
+Elorac, Kyowa Hakko Kirin, and Sun Pharmaceuticals; consulting/advisory fees 
+from UCB, Eli Lilly, Regeneron, PHLEC, Corbus, Incyte, Pfizer, Novartis, Jansen, 
+Argenx, Akari, and Castle Biosciences, all outside the submitted work. Dr 
+Seminario-Vidal reported grants from Kyowa Kirin, and personal fees from Kyowa 
+Kirin, Novartis, Boehringer Ingelheim, Helsinn, Regeneron, Blueprint, Eli Lilly, 
+Soligenix, Helsinn, Eisai, AbbVie, Bristol Myers Squibb, Celgene, Glenmark, 
+Amgen, AnaptysBio, and Innate Pharma outside the submitted work; and being a 
+faculty member at the University of South Florida during the conduct of the 
+study. Dr Guitart reported personal fees from Kirin Kyowa and Elorac outside the 
+submitted work. Dr Korman reported consulting and advisory fees from AbbVie, 
+Amgen, Argenx, Boehringer Ingelheim, Bristol Myers Squibb, Celgene, 
+ChemoCentryx, Dermavant, Dermira, Eli Lilly, Galderma, Genentech, 
+GlaxoSmithKline, Immune, Janssen, Kyowa Hakko Kirin Pharma, Leo Pharma, Menlo 
+Therapeutics, Novartis, Pfizer, Principia, Prothena, Regeneron, Rhizen, 
+Soligenix, Sun Pharma, Syntimmune, Trevi Therapeutics, UCB, Valeant, and 
+XBiotech, outside the submitted work. Dr Zeitouni reported grants from Sun 
+Pharma, Biofrontera, and speaking honoraria from Biofrontera outside the 
+submitted work. Dr Nikbakht reported consulting fees and serving as a member of 
+Helsinn Advisory Board. Dr Shinohara reported grants from Elorac, Cabaletta Bio, 
+and Astex, and serving on the board of the US Cutaneous Lymphoma Consortium 
+outside the submitted work. Dr Piette reported a grant through Rush Medical 
+University from Soligenix outside the submitted work. Dr Kuzel reported grants 
+from Eisai and speaker’s honoraria from Kyowa Kirin. Dr Musiek reported personal 
+fees and grants from Kyowa, Elorac, UpToDate, ADD Board Prep Plus Author, 
+Pfizer, Bristol Myers Squibb, and Aristea Therapeutics, all outside the 
+submitted work. Dr Pariser reported consulting fees from Biofrontera, Dermira, 
+Novartis, Regeneron, Bickel Biotechnology, and Sanofi; and serving as a DSMB 
+member of Bristol Myers Squibb, on the advisory board for Pfizer, and a 
+researcher for Almirall, Amgen, AOBiome, Asana Biosciences, Bickel Biotech, 
+Celgene, Dermira, Eli Lilly, Leo Pharma, Menlo Therapeutics, Novartis, Novo 
+Nordisk, Ortho Dermatologics, Pfizer, and Regeneron, all outside the submitted 
+work. Dr Olsen reports receiving consulting fees from Kyowa Kirin, UpToDate, 
+Molecular Biotech, Helsinn, Soligenix and served on data safety monitoring board 
+for Affimed. Dr Boh reported grants through the Tulane School of Medicine during 
+the conduct of the study. Dr Duvic reported serving on the Soligenix scientific 
+advisory board during the conduct of the study; and personal fees from Eisai, 
+Bionz Consulting, and Bausch scientific advisory board outside the submitted 
+work. Dr Huen reported grants from Kyowa Kirin, Trillium, Galderma, Innate, 
+Eisai, and Seattle Genetics; and personal fees from Kyowa Kirin, Rhizen, 
+Stemline, Helsinn, all outside the submitted work. Dr Querfeld reported advisory 
+board fees from Helsinn, Kyowa Kirin, Mallinckrodt, Stemline, Helsinn, Celgene, 
+and speaking fees from Helsinn, all outside the submitted work. Dr Wood reported 
+serving on the scientific advisory board of Soligenix. Dr Rumage reported equity 
+in Soligenix and a grant from the US National Cancer Institute (NCI), outside 
+the submitted work. Dr Schaber reported a grant from NCI during the conduct of 
+the study and being the co-investor and holding a patent for the hypericin 
+process. Dr Straube reported a grant from NCI during the conduct of the study. 
+Dr Pullion reported personal fees from Soligenix outside the submitted work. Dr 
+Rook reported serving on the scientific advisory board of Soligenix and speaking 
+fees from Mallinckrodt. No other disclosures were reported.

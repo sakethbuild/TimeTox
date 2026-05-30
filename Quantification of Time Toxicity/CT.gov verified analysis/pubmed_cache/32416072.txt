@@ -1,0 +1,110 @@
+11. Lancet Oncol. 2020 Jun;21(6):796-807. doi: 10.1016/S1470-2045(20)30157-1.
+Epub  2020 May 13.
+
+Ivosidenib in IDH1-mutant, chemotherapy-refractory cholangiocarcinoma 
+(ClarIDHy): a multicentre, randomised, double-blind, placebo-controlled, phase 3 
+study.
+
+Abou-Alfa GK(1), Macarulla T(2), Javle MM(3), Kelley RK(4), Lubner SJ(5), Adeva 
+J(6), Cleary JM(7), Catenacci DV(8), Borad MJ(9), Bridgewater J(10), Harris 
+WP(11), Murphy AG(12), Oh DY(13), Whisenant J(14), Lowery MA(15), Goyal L(16), 
+Shroff RT(17), El-Khoueiry AB(18), Fan B(19), Wu B(19), Chamberlain CX(19), 
+Jiang L(19), Gliser C(19), Pandya SS(19), Valle JW(20), Zhu AX(21).
+
+Author information:
+(1)Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, 
+USA; Department of Medicine, Weill Medical College at Cornell University, New 
+York, NY, USA.
+(2)Vall d'Hebron University Hospital and Vall d'Hebron Institute of Oncology 
+(VHIO), Barcelona, Spain.
+(3)Department of Gastrointestinal Medical Oncology, MD Anderson Cancer Center, 
+Houston, TX, USA.
+(4)Helen Diller Family Comprehensive Cancer Center, University of California San 
+Francisco, San Francisco, CA, USA.
+(5)Department of Medicine, University of Wisconsin Carbone Cancer Center, 
+Madison, WI, USA.
+(6)Department of Medical Oncology, Hospital Universitario 12 de Octubre, Madrid, 
+Spain.
+(7)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, 
+USA.
+(8)Department of Medicine, University of Chicago Medical Center, Chicago, IL, 
+USA.
+(9)Department of Hematology-Oncology, Mayo Clinic Cancer Center, Phoenix, AZ, 
+USA.
+(10)Department of Medical Oncology, UCL Cancer Institute, London, UK.
+(11)Department of Medicine, University of Washington, Seattle, WA, USA.
+(12)Department of Oncology-Gastrointestinal Cancer, Johns Hopkins University, 
+Baltimore, MD, USA.
+(13)Department of Internal Medicine, Seoul National University Hospital, Cancer 
+Research Institute, Seoul National University College of Medicine, Seoul, Korea.
+(14)Medical Oncology and Hematology, Utah Cancer Specialists, Salt Lake City, 
+UT, USA.
+(15)Trinity St James Cancer Institute, Trinity College Dublin, Dublin, Ireland.
+(16)Department of Medicine, Massachusetts General Hospital Cancer Center, 
+Harvard Medical School, Boston, MA, USA.
+(17)Department of Medicine, University of Arizona Cancer Center, Tucson, AZ, 
+USA.
+(18)Department of Medicine, University of Southern California Norris 
+Comprehensive Cancer Center, Los Angeles, CA, USA.
+(19)Agios Pharmaceuticals, Cambridge, MA, USA.
+(20)Division of Cancer Sciences, University of Manchester, Manchester, UK; 
+Department of Medical Oncology, The Christie NHS Foundation Trust, Manchester, 
+UK.
+(21)Department of Medicine, Massachusetts General Hospital Cancer Center, 
+Harvard Medical School, Boston, MA, USA; Jiahui International Cancer Center, 
+Jiahui Health, Shanghai, China. Electronic address: azhu@mgh.harvard.edu.
+
+Erratum in
+    Lancet Oncol. 2020 Oct;21(10):e462. doi: 10.1016/S1470-2045(20)30547-7.
+    Lancet Oncol. 2024 Feb;25(2):e61. doi: 10.1016/S1470-2045(24)00013-5.
+
+Comment in
+    Lancet Oncol. 2020 Jun;21(6):738-739. doi: 10.1016/S1470-2045(20)30214-X.
+    Lancet Oncol. 2020 Aug;21(8):e370. doi: 10.1016/S1470-2045(20)30343-0.
+    Lancet Oncol. 2020 Aug;21(8):e371. doi: 10.1016/S1470-2045(20)30394-6.
+
+BACKGROUND: Isocitrate dehydrogenase 1 (IDH1) mutations occur in approximately 
+13% of patients with intrahepatic cholangiocarcinoma, a relatively uncommon 
+cancer with a poor clinical outcome. The aim of this international phase 3 study 
+was to assess the efficacy and safety of ivosidenib (AG-120)-a small-molecule 
+targeted inhibitor of mutated IDH1-in patients with previously treated 
+IDH1-mutant cholangiocarcinoma.
+METHODS: This multicentre, randomised, double-blind, placebo-controlled, phase 3 
+study included patients from 49 hospitals in six countries aged at least 18 
+years with histologically confirmed, advanced, IDH1-mutant cholangiocarcinoma 
+who had progressed on previous therapy, and had up to two previous treatment 
+regimens for advanced disease, an Eastern Cooperative Oncology Group performance 
+status score of 0 or 1, and a measurable lesion as defined by Response 
+Evaluation Criteria in Solid Tumors version 1.1. Patients were randomly assigned 
+(2:1) with a block size of 6 and stratified by number of previous systemic 
+treatment regimens for advanced disease to oral ivosidenib 500 mg or matched 
+placebo once daily in continuous 28-day cycles, by means of an interactive 
+web-based response system. Placebo to ivosidenib crossover was permitted on 
+radiological progression per investigator assessment. The primary endpoint was 
+progression-free survival by independent central review. The intention-to-treat 
+population was used for the primary efficacy analyses. Safety was assessed in 
+all patients who had received at least one dose of ivosidenib or placebo. 
+Enrolment is complete; this study is registered with ClinicalTrials.gov, 
+NCT02989857.
+FINDINGS: Between Feb 20, 2017, and Jan 31, 2019, 230 patients were assessed for 
+eligibility, and as of the Jan 31, 2019 data cutoff date, 185 patients were 
+randomly assigned to ivosidenib (n=124) or placebo (n=61). Median follow-up for 
+progression-free survival was 6·9 months (IQR 2·8-10·9). Progression-free 
+survival was significantly improved with ivosidenib compared with placebo 
+(median 2·7 months [95% CI 1·6-4·2] vs 1·4 months [1·4-1·6]; hazard ratio 0·37; 
+95% CI 0·25-0·54; one-sided p<0·0001). The most common grade 3 or worse adverse 
+event in both treatment groups was ascites (four [7%] of 59 patients receiving 
+placebo and nine [7%] of 121 patients receiving ivosidenib). Serious adverse 
+events were reported in 36 (30%) of 121 patients receiving ivosidenib and 13 
+(22%) of 59 patients receiving placebo. There were no treatment-related deaths.
+INTERPRETATION: Progression-free survival was significantly improved with 
+ivosidenib compared with placebo, and ivosidenib was well tolerated. This study 
+shows the clinical benefit of targeting IDH1 mutations in advanced, IDH1-mutant 
+cholangiocarcinoma.
+FUNDING: Agios Pharmaceuticals.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(20)30157-1
+PMCID: PMC7523268
+PMID: 32416072 [Indexed for MEDLINE]

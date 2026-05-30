@@ -1,0 +1,71 @@
+6. J Clin Oncol. 2022 Dec 10;40(35):4119-4128. doi: 10.1200/JCO.22.00146. Epub
+2022  Jun 27.
+
+Phase III Randomized Trial of Maintenance Taxanes Versus Surveillance in Women 
+With Advanced Ovarian/Tubal/Peritoneal Cancer: A Gynecologic Oncology Group 
+0212:NRG Oncology Study.
+
+Copeland LJ(1), Brady MF(2), Burger RA(3), Rodgers WH(4), Huang HQ(2), Cella 
+D(5), O'Malley DM(1), Street DG(6), Tewari KS(7), Bender DP(8), Morris RT(9), 
+Lowery WJ(10), Miller DS(11), Dewdney SB(12), Spirtos NM(13), Lele SB(14), 
+Guntupalli S(15), Ueland FR(16), Glaser GE(17), Mannel RS(6), DiSaia PJ(7)(18).
+
+Author information:
+(1)The Ohio State University, James Cancer Hospital, Columbus, OH.
+(2)Roswell Park Comprehensive Cancer Center, State University of New York at 
+Buffalo, Buffalo, NY.
+(3)University of Pennsylvania, Philadelphia, PA.
+(4)Weill Cornell Medical College, New York, NY.
+(5)Northwestern University, Chicago, IL.
+(6)The University of Oklahoma, Oklahoma City, OK.
+(7)UC Irvine Medical Center, Orange, CA.
+(8)University of Iowa Hospitals and Clinics, Iowa City, IA.
+(9)Barbara Ann Karmanos Cancer Institute, Detroit, MI.
+(10)Murtha Cancer Center, Walter Reed National Military Medical Center, Chicago, 
+IL.
+(11)The University of Texas Southwestern Medical Center, Dallas, TX.
+(12)Rush University Medical Center, Chicago, IL.
+(13)Women's Cancer Center, Las Vegas, NV.
+(14)Roswell Park Comprehensive Cancer Center, Buffalo, NY.
+(15)University of Colorado Denver, Aurora, CO.
+(16)University of Kentucky Medical Center, Lexington, KY.
+(17)Carilion Clinic, Roanoke, VA.
+(18)Deceased.
+
+Comment in
+    Ann Transl Med. 2023 Mar 31;11(6):275. doi: 10.21037/atm-22-6521.
+
+PURPOSE: To compare taxane maintenance chemotherapy, paclitaxel (P) and 
+paclitaxel poliglumex (PP), with surveillance (S) in women with ovarian, 
+peritoneal, or fallopian tube (O/PC/FT) cancer who attained clinical complete 
+response after first-line platinum-taxane therapy.
+METHODS: Women diagnosed with O/PC/FT cancer who attained clinical complete 
+response after first-line platinum-taxane-based chemotherapy were randomly 
+allocated 1:1:1 to S or maintenance, P 135 mg/m2 once every 28 days for 12 
+cycles, or PP at the same dose and schedule. Overall survival (OS) was the 
+primary efficacy end point.
+RESULTS: Between March 2005 and January 2014, 1,157 individuals were enrolled. 
+Grade 2 or worse GI adverse events were more frequent among those treated with 
+taxane (PP: 20%, P: 27% v S: 11%). Grade 2 or worse neurologic adverse events 
+occurred more often with taxane treatment (PP: 46%, P: 36% v S: 14%). At the 
+fourth scheduled interim analysis, both taxane regimens passed the OS futility 
+boundary and the Data Monitoring Committee approved an early release of results. 
+With a median follow-up of 8.1 years, 653 deaths were reported; none were 
+attributed to the study treatment. Median survival durations were 58.3, 56.8, 
+and 60.0 months for S, P, and PP, respectively. Relative to S, the hazard of 
+death for P was 1.091 (95% CI, 0.911 to 1.31; P = .343) and for PP, it was 1.033 
+(95% CI, 0.862 to 1.24; P = .725). The median times to first progression or 
+death (PFS) were 13.4, 18.9, and 16.3 months for S, P, and PP, respectively. 
+Hazard ratio = 0.801; 95% CI, 0.684 to 0.938; P = .006 for P and hazard ratio = 
+0.854; 95% CI, 0.729 to 1.00; P = .055 for PP.
+CONCLUSION: Maintenance therapy with P and PP did not improve OS among patients 
+with newly diagnosed O/tubal/peritoneal cancer, but may modestly increase PFS. 
+GI and neurologic toxicities were more frequent in the taxane treatment arms.
+
+DOI: 10.1200/JCO.22.00146
+PMCID: PMC9746779
+PMID: 35759733 [Indexed for MEDLINE]
+
+Conflict of interest statement: Robert S. Mannel Stock and Other Ownership 
+Interests: Edwards Lifesciences, Stryker, Danaher No other potential conflicts 
+of interest were reported.

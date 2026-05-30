@@ -1,0 +1,123 @@
+17. JAMA Oncol. 2020 Mar 1;6(3):e193692. doi: 10.1001/jamaoncol.2019.3692. Epub
+2020  Mar 12.
+
+Efficacy, Safety, and Tolerability of Pertuzumab, Trastuzumab, and Docetaxel for 
+Patients With Early or Locally Advanced ERBB2-Positive Breast Cancer in Asia: 
+The PEONY Phase 3 Randomized Clinical Trial.
+
+Shao Z(1), Pang D(2), Yang H(3), Li W(4), Wang S(5), Cui S(6), Liao N(7), Wang 
+Y(8), Wang C(9), Chang YC(10), Wang H(11), Kang SY(12), Seo JH(13), Shen K(14), 
+Laohawiriyakamol S(15), Jiang Z(16), Li J(1), Zhou J(17), Althaus B(18), Mao 
+Y(19)(20), Eng-Wong J(18).
+
+Author information:
+(1)Breast Surgery, Fudan University Shanghai Cancer Center, Shanghai, China.
+(2)Breast Surgery, Harbin Medical University Cancer Hospital, Harbin, China.
+(3)Breast Surgery, Zhejiang Cancer Hospital, Hangzhou, China.
+(4)Medicine-Oncology, The First Hospital of Jilin University, Changchun, China.
+(5)Medicine-Oncology, Sun Yat-sen University Cancer Center, Guangzhou, China.
+(6)Department of Breast Disease, Henan Cancer Hospital, Zhengzhou, China.
+(7)Department of Breast Disease, Guangdong General Hospital, Guangzhou, China.
+(8)Breast Disease Center, Shandong Cancer Hospital, Jinan, China.
+(9)Breast Surgery, Fujian Medical University Union Hospital, Fuzhou, China.
+(10)Department of General Surgery, Mackay Memorial Hospital, Taipei City, 
+Taiwan.
+(11)Department of Surgery, China Medical University Hospital, Taichung City, 
+Taiwan.
+(12)Department of Hematology-Oncology, Ajou University School of Medicine, 
+Suwon, Republic of Korea.
+(13)Division of Oncology/Hematology, Department of Internal Medicine, Korea 
+University Guro Hospital, Seoul, Republic of Korea.
+(14)Breast Disease Center, Ruijin Hospital, Shanghai Jiao Tong University School 
+of Medicine, Shanghai, China.
+(15)Department of Surgery, Songklanagarind Hospital, Songkhla, Thailand.
+(16)Medicine-Oncology, The Affiliated Hospital of Military Medical Sciences (The 
+307th Hospital of Chinese People's Liberation Army), Beijing, China.
+(17)Biometrics, Roche Product Development, Shanghai, China.
+(18)Product Development Oncology, Genentech, Inc, South San Francisco, 
+California.
+(19)Roche Product Development, Shanghai, China.
+(20)now at Oncology Clinical Research, Merck Sharp & Dohme China, Shanghai, 
+China.
+
+Comment in
+    Gland Surg. 2020 Aug;9(4):1086-1089. doi: 10.21037/gs.2020.03.11.
+    Gland Surg. 2020 Oct;9(5):1165-1166. doi: 10.21037/gs.2020.03.26.
+    Gland Surg. 2020 Oct;9(5):1167-1169. doi: 10.21037/gs.2020.03.12.
+
+IMPORTANCE: Prospective assessment of treatments known to benefit patients in 
+global clinical trials in specific racial groups is essential.
+OBJECTIVE: To compare the efficacy, safety, and tolerability of adding 
+pertuzumab to trastuzumab and docetaxel vs placebo, trastuzumab, and docetaxel 
+in Asian patients with ERBB2-positive early or locally advanced breast cancer.
+DESIGN, SETTING, AND PARTICIPANTS: This multicenter, double-blind, 
+placebo-controlled phase 3 trial enrolled 329 women with ERBB2-positive early 
+(T2-3, N0-1, M0) or locally advanced breast cancer (T2-3, N2 or N3, M0; T4, any 
+N, M0) and primary tumor larger than 2 cm from March 14, 2016, to March 13, 
+2017. Analysis of the primary end point was performed on an intention-to-treat 
+basis.
+INTERVENTIONS: Before surgery, patients received 4 cycles of intravenous 
+pertuzumab (840-mg loading dose and 420-mg maintenance doses), trastuzumab 
+(8-mg/kg loading dose and 6-mg/kg maintenance doses), and docetaxel (75 mg/m2) 
+or intravenous placebo, trastuzumab, and docetaxel every 3 weeks. After surgery, 
+patients received 3 cycles of intravenous fluorouracil, epirubicin, and 
+cyclophosphamide followed by 13 cycles of the same intravenous anti-ERBB2 
+therapy (pertuzumab and trastuzumab or placebo and trastuzumab) for up to 1 
+year.
+MAIN OUTCOMES AND MEASURES: The primary end point was independent review 
+committee-assessed total pathologic complete response rate. The 2-sided 
+Cochran-Mantel-Haenszel test, stratified by disease category and hormone 
+receptor status, was used to compare rates between treatment groups.
+RESULTS: In total, 329 female patients were randomized (pertuzumab, 219; and 
+placebo, 110; mean [SD] age, 48.8 [9.5] years). In the intention-to-treat 
+population, total pathologic complete response rates were 39.3% (86 of 219) in 
+the pertuzumab group and 21.8% (24 of 110) in the placebo group (difference, 
+17.5% [95% CI, 6.9%-28.0%]; P = .001). Of the most common grade 3 or higher 
+adverse events, there was a higher incidence of neutropenia in the pertuzumab 
+group (83 of 218 [38.1%] vs 36 of 110 [32.7%]). Serious adverse events were 
+reported in 10.1% of patients (22 of 218) in the pertuzumab group and 8.2% of 
+patients (9 of 110) in the placebo group.
+CONCLUSIONS AND RELEVANCE: Treatment with pertuzumab, trastuzumab, and docetaxel 
+resulted in a statistically significant improvement in the total pathologic 
+complete response rate vs placebo, trastuzumab, and docetaxel for the 
+neoadjuvant treatment of ERBB2-positive early or locally advanced breast cancer 
+in Asian patients. Safety data were in line with the known pertuzumab safety 
+profile and generally comparable between treatment groups. The PEONY trial adds 
+to the totality of data showing the benefit of the pertuzumab regimen.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT02586025.
+
+DOI: 10.1001/jamaoncol.2019.3692
+PMCID: PMC6813591
+PMID: 31647503 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: All authors 
+reported receiving support for third-party writing assistance for this 
+manuscript, provided by F. Hoffmann-La Roche Ltd. Dr Shao reported receiving 
+research funding from F. Hoffmann-La Roche Ltd (paid to institution). Dr Pang 
+reported receiving research funding from F. Hoffmann-La Roche Ltd (paid to 
+institution). Dr Yang reported receiving research funding from F. Hoffmann-La 
+Roche Ltd (paid to institution). Dr W. Li reported receiving research funding 
+from F. Hoffmann-La Roche Ltd (paid to institution). Dr S. Wang reported 
+receiving research funding from F. Hoffmann-La Roche Ltd (paid to institution) 
+and honoraria (personal). Dr Cui reported receiving research funding from F. 
+Hoffmann-La Roche Ltd (paid to institution). Dr Liao reported receiving research 
+funding from F. Hoffmann-La Roche Ltd (paid to institution). Dr Y. Wang reported 
+receiving research funding from F. Hoffmann-La Roche Ltd (paid to institution). 
+Dr C. Wang reported receiving research funding from F. Hoffmann-La Roche Ltd 
+(paid to institution). Dr Chang reported receiving research funding from F. 
+Hoffmann-La Roche Ltd (paid to institution). Dr H. Wang reported receiving 
+research funding (paid to institution) and lecture fees (personal) from F. 
+Hoffmann-La Roche Ltd. Dr Kang reported receiving research funding from F. 
+Hoffmann-La Roche Ltd (paid to institution). Dr Seo reported receiving research 
+funding from F. Hoffmann-La Roche Ltd (paid to institution). Dr Shen reported 
+receiving research funding from F. Hoffmann-La Roche Ltd (paid to institution). 
+Dr Laohawiriyakamol reported receiving research funding from F. Hoffmann-La 
+Roche Ltd/Genentech, Inc via Roche Thailand Ltd (paid to institution). Dr Jiang 
+reported receiving research funding from F. Hoffmann-La Roche Ltd (paid to 
+institution). Dr J. Li reported receiving research funding from F. Hoffmann-La 
+Roche Ltd (paid to institution). Dr Zhou is an employee of Roche Product 
+Development. Dr Althaus is an employee of Genentech, Inc and owns shares in F. 
+Hoffmann-La Roche Ltd. Dr Mao was an employee of Roche Product Development at 
+the time of the study and owns shares in F. Hoffmann-La Roche Ltd. Dr Eng-Wong 
+is an employee of Genentech, Inc and owns shares in F. Hoffmann-La Roche Ltd. No 
+other disclosures were reported.

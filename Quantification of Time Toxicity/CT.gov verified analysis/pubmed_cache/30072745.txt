@@ -1,0 +1,100 @@
+1. Br J Cancer. 2018 Aug;119(5):530-537. doi: 10.1038/s41416-018-0206-7. Epub
+2018  Aug 3.
+
+Phase III study of cisplatin with or without S-1 in patients with stage IVB, 
+recurrent, or persistent cervical cancer.
+
+Aoki Y(1), Ochiai K(2), Lim S(3), Aoki D(4), Kamiura S(5), Lin H(6), Katsumata 
+N(7)(8), Cha SD(9), Kim JH(10), Kim BG(11), Hirashima Y(12), Fujiwara K(13), Kim 
+YT(14), Kim SM(15), Chung HH(16), Chang TC(17), Kamura T(18), Takizawa K(19), 
+Takeuchi M(20), Kang SB(21).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Graduate School of Medical Science, 
+University of the Ryukyus, 207 Uehara Nishihara-cho, Nakagami-gun, Okinawa, 
+903-0215, Japan.
+(2)Department of Obstetrics and Gynecology, The Jikei University School of 
+Medicine, 3-19-18, Nishishimbashi, Minato-ku, Tokyo, 105-8471, Japan. 
+kochiai@jikei.ac.jp.
+(3)Department of Obstetrics and Gynecology, Gachon University Gil Medical 
+Center, 1198 Guwol-dong, Namdong-gu, Incheon, 405-760, Korea.
+(4)Department of Obstetrics and Gynecology, Keio University School of Medicine, 
+35 Shinanomachi, Shinjyuku-ku, Tokyo, 160-8582, Japan.
+(5)Department of Gynecology, Osaka International Cancer Institute, 3-1-69, 
+Otemae, Chuo-ku, Osaka, Osaka, 541-8567, Japan.
+(6)Department of Obstetrics and Gynecology, Kaohsiung Chang Gung Memorial 
+Hospital and Chang Gung University College of Medicine, No. 123, Ta-Pei Road, 
+Niao-Sung District, Kaohsiung, 83301, Taiwan.
+(7)Department of Breast and Medical Oncology, National Cancer Center Hospital, 
+5-1-1, Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan.
+(8)Department of Medical Oncology, Nippon Medical School Musashikosugi Hospital, 
+1-396, Kosugi-cho, Nakahara-ku, Kawasaki-shi, Kanagawa, 211-8533, Japan.
+(9)Department of Obstetrics and Gynecology, Keimyung University School of 
+Medicine, 194 Dong San Dong, Daegu, 700-712, Korea.
+(10)Department of Obstetrics and Gynecology, Yonsei University College of 
+Medicine, 50-1 Yonsei-ro, Seodaemun-gu, Seoul, 03722, Korea.
+(11)Department of Obstetrics and Gynecology, Samsung Medical Center, 
+Sungkyunkwan University School of Medicine, 50 Ilwon-Dong, Gangnam-gu, Seoul, 
+135-710, Korea.
+(12)Department of Gynecology, Shizuoka Cancer Center, 1007 Shimonagakubo, 
+Nagaizumi-cho, Sunto-gun, Shizuoka, 411-8777, Japan.
+(13)Department of Gynecologic Oncology, Saitama Medical University International 
+Medical Center, 1397-1, Yamane, Hidaka, Saitama, 350-1298, Japan.
+(14)Department of Obstetrics and Gynecology, Asan Medical Center, 388-1 
+Pungnap-2dong, Songpa-gu, Seoul, 138-736, Korea.
+(15)Department of Obstetrics and Gynecology, Chonnam National University Hwasun 
+Hospital, 160 Ilsimri Hwasun-eup, Hwasun, Jeonnam, 519-809, Korea.
+(16)Department of Obstetrics and Gynecology, Seoul National University College 
+of Medicine, 50 Ilwon-Dong, Gangnam-gu, Seoul, 135-710, Korea.
+(17)Department of Obstetrics and Gynecology, Linkou Chang Gung Memorial Hospital 
+and Chang Gung University Medical College, No.5, Fu-Shin Street, Kueishan 
+County, Taoyuan, 33305, Taiwan.
+(18)Department of Obstetrics and Gynecology, Kurume University School of 
+Medicine, Asahi-machi 67, Kurume, Fukuoka, 830-0011, Japan.
+(19)Department of Gynecology, Cancer Institute Hospital of the Japanese 
+Foundation for Cancer Research, 3-10-6, Ariake, Koto-ku, Tokyo, 135-8550, Japan.
+(20)Department of Clinical Medicine (Biostatistics), Kitasato University School 
+of Pharmacy, Shirokane 5-9-1, Minato-ku, Tokyo, 108-8641, Japan.
+(21)Department of Obstetrics and Gynecology, Konkuk University School of 
+Medicine, 120-1 Neungdong-ro, Gwangjin-gu, Seoul, 05080, Korea.
+
+BACKGROUND: This open-label phase III trial evaluated efficacy and safety of S-1 
+plus cisplatin vs. cisplatin alone as first-line chemotherapy in patients with 
+stage IVB, recurrent, or persistent cervical cancer.
+METHODS: Patients were randomised (1:1) to S-1 plus cisplatin (study group) or 
+cisplatin alone (control group). In each cycle, cisplatin 50 mg/m2 was 
+administered on Day 1 in both groups. S-1 was administered orally at 80-120 mg 
+daily on Days 1-14 of a 21-day cycle in the study group. The primary endpoint 
+was overall survival (OS).
+RESULTS: A total of 375 patients were enrolled, of whom 364 (188, study group; 
+176, control group) received treatment. Median OS was 21.9 and 19.5 months in 
+the study and control groups, respectively (log-rank P = 0.125; hazard ratio 
+[HR] 0.84, 95% confidence interval [CI] 0.67-1.05). Median progression-free 
+survival (PFS) was 7.3 and 4.9 months in the study and control groups, 
+respectively (HR 0.62, 95% CI 0.48-0.80, P < 0.001). The adverse event (AE) rate 
+increased in the study group despite the absence of any unexpected AEs.
+CONCLUSIONS: S-1 plus cisplatin did not show superiority over cisplatin alone in 
+OS but significantly increased PFS in patients with stage IVB, recurrent, or 
+persistent cervical cancer. Since the standard therapy has changed in the course 
+of this study, further studies are warranted to confirm the clinical positioning 
+of S-1 combined with cisplatin for this population.
+
+DOI: 10.1038/s41416-018-0206-7
+PMCID: PMC6162273
+PMID: 30072745 [Indexed for MEDLINE]
+
+Conflict of interest statement: Y.A. has received research funding from Taiho. 
+K.O. has served as a consultant for Taiho and Zeria. S.L. has received travel 
+expense from Taiho. D.A. has received honoraria and research funding from Taiho. 
+N.K. has received honoraria from Taiho, Sawai, Pfizer, Kyowa Hakko Kirin, Ono, 
+Eisai, Takeda, Chugai, Nippon Kayaku, GlaxoSmithKline, Shionogi, Daiichi Sankyo, 
+Yakult, Astellas, and Mochida. Y.H. has received honoraria from Taiho. K.F. has 
+received honoraria from Kyowa Hakko Kirin, Zeria, Nippon Kayaku, Chugai, Eisai, 
+Taiho, Yakult Honsha, Janssen Oncology, Daiichi Sankyo, Novartis, Eli Lilly 
+Japan, Asahi Kasei, and Ono; has served as a consultant for Chugai, AstraZeneca, 
+MSD, Pfizer, Taiho, and Eisai; and has received research funding from Eisai, 
+GlaxoSmithKline, Taiho, Pfizer, Kaken, Chugai, Shionogi, Immunogen, 
+Oncotherapeutics, AstraZeneca, Eli Lilly, Zeria, Ono, and MSD. M.T. has served 
+as a consultant for AstraZeneca, Hisamitsu, AbbVie, Kyorin, Sanofi, Kowa, Taiho, 
+Takeda, and Mitsubishi Tanabe. The remaining authors declare no competing 
+interests.

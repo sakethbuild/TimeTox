@@ -1,0 +1,99 @@
+12. JAMA Oncol. 2018 May 1;4(5):652-659. doi: 10.1001/jamaoncol.2017.5818.
+
+Pacritinib vs Best Available Therapy, Including Ruxolitinib, in Patients With 
+Myelofibrosis: A Randomized Clinical Trial.
+
+Mascarenhas J(1), Hoffman R(1), Talpaz M(2), Gerds AT(3), Stein B(4), Gupta 
+V(5), Szoke A(6), Drummond M(7), Pristupa A(8), Granston T(9), Daly R(9), 
+Al-Fayoumi S(9), Callahan JA(9), Singer JW(9), Gotlib J(10), Jamieson C(11), 
+Harrison C(12), Mesa R(13), Verstovsek S(14).
+
+Author information:
+(1)Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, 
+New York.
+(2)University of Michigan, Comprehensive Cancer Center, Ann Arbor.
+(3)Cleveland Clinic, Cleveland, Ohio.
+(4)Northwestern University, Feinberg School of Medicine, Chicago, Illinois.
+(5)Princess Margaret Cancer Center, University of Toronto, Ontario, Canada.
+(6)Albert Szent-Györgyi Clinical Center, University of Szeged, Szeged, Hungary.
+(7)Beatson West of Scotland Cancer Centre, Glasgow, Scotland.
+(8)Ryazan's Clinical Hospital, Ryazan, Russia.
+(9)CTI BioPharma Corp, Seattle, Washington.
+(10)Stanford University School of Medicine/Stanford Cancer Institute, Stanford, 
+California.
+(11)University of California-San Diego, La Jolla.
+(12)Guy's and St Thomas' NHS Foundation Trust, London, England.
+(13)Mayo Clinic, Scottsdale, Arizona.
+(14)MD Anderson Cancer Center, Houston, Texas.
+
+Comment in
+    JAMA Oncol. 2018 May 1;4(5):659-660. doi: 10.1001/jamaoncol.2017.5802.
+    JAMA Oncol. 2018 Dec 1;4(12):1786-1787. doi: 10.1001/jamaoncol.2018.4830.
+    JAMA Oncol. 2018 Dec 1;4(12):1787. doi: 10.1001/jamaoncol.2018.4842.
+
+IMPORTANCE: Myelofibrosis is a hematologic malignancy characterized by 
+splenomegaly and debilitating symptoms. Thrombocytopenia is a poor prognostic 
+feature and limits use of Janus kinase 1 (JAK1)/Janus kinase 2 (JAK2) inhibitor 
+ruxolitinib.
+OBJECTIVE: To compare the efficacy and safety of JAK2 inhibitor pacritinib with 
+that of best available therapy (BAT), including ruxolitinib, in patients with 
+myelofibrosis and thrombocytopenia.
+DESIGN, SETTING, AND PARTICIPANTS: For this phase 3 randomized international 
+multicenter study-the PERSIST-2 study-of pacritinib vs BAT, 311 patients with 
+myelofibrosis and platelet count 100 × 109/L or less were recruited for 
+analysis. Crossover from BAT was allowed after week 24 or for progression of 
+splenomegaly.
+INTERVENTIONS: Patients were randomized 1:1:1 to pacritinib 400 mg once daily, 
+pacritinib 200 mg twice daily, or BAT.
+MAIN OUTCOMES AND MEASURES: Coprimary end points were rates of patients 
+achieving 35% or more spleen volume reduction (SVR) and 50% or more reduction in 
+total symptom score (TSS) at week 24. Efficacy analyses were performed on the 
+intention-to-treat efficacy population, comprising all patients with a 
+randomization date allowing for week 24 data.
+RESULTS: Overall, 311 patients (mean [SD] age, 63.70 [9.08] years; 171 men [55%] 
+and 140 women [45%]) were included in the study; 149 patients (48%) had prior 
+ruxolitinib. The most common BAT was ruxolitinib (44 patients [45%]); 19 
+patients (19%) received watchful-waiting only. The intention-to-treat efficacy 
+population included 75 patients randomized to pacritinib once daily; 74, 
+pacritinib twice daily, and 72, BAT. Pacritinib (arms combined) was more 
+effective than BAT for 35% or more SVR (27 patients [18%] vs 2 patients [3%]; 
+P = .001) and had a nonsignificantly greater rate of 50% or more reduction in 
+TSS (37 patients [25%] vs 10 patients [14%]; P = .08). Pacritinib twice daily 
+led to significant improvements in both end points over BAT (≥35% SVR: 16 
+patients [22%] vs 2 patients [3%]; P = .001; ≥50% reduction in TSS: 24 patients 
+[32%] vs 10 patients [14%]; P = .01). Clinical improvement in hemoglobin and 
+reduction in transfusion burden were greatest with pacritinib twice daily. For 
+pacritinib once daily, pacritinib twice daily, and BAT, the most common (>10%) 
+grade 3 or 4 adverse events were thrombocytopenia (32 patients [31%], 34 
+patients [32%], 18 patients [18%]), and anemia (28 patients [27%], 23 patients 
+[22%], 14 patients [14%]). In the pacritinib once daily, twice daily, and BAT 
+arms, discontinuation owing to adverse events occurred in 15 patients (14%), 10 
+patients (9%), and 4 patients (4%).
+CONCLUSIONS AND RELEVANCE: In patients with myelofibrosis and thrombocytopenia, 
+including those with prior anti-JAK therapy, pacritinib twice daily was more 
+effective than BAT, including ruxolitinib, for reducing splenomegaly and 
+symptoms.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT02055781.
+
+DOI: 10.1001/jamaoncol.2017.5818
+PMCID: PMC5885169
+PMID: 29522138 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Mascarenhas 
+has received research funding from CTI BioPharma Corp, Incyte, and Promedior. Dr 
+Gerds has a consultancy and/or advisory role for CTI BioPharma Corp, Incyte, and 
+AstraZeneca. Dr Gupta has received research funding from Incyte and Novartis. Dr 
+Drummond has a consultancy and/or advisory role for CTI BioPharma Corp and 
+Novartis and is on the speaker’s bureau for Novartis and Celgene. Drs Granston, 
+Daly, and Al-Fayoumi, and Ms Callahan are employed by CTI BioPharma Corp. Dr 
+Singer is employed by and has equity ownership in CTI Biopharma Corp. Dr Gotlib 
+has received research funding from CTI BioPharma Corp. Dr Jamieson has received 
+research funding from Johnson & Johnson, GlaxoSmithKlein, CTI BioPharma Corp and 
+is employed by Impact Biomedicines. Dr Harrison has received research funding 
+from Novartis, is on the speaker’s bureau for CTI BioPharma Corp, Novartis, 
+Sanofi, and Baxter, and has a consultancy and/or advisory role for CTI BioPharma 
+Corp, Novartis, Gilead, Baxter. Dr Mesa has received research funding from 
+Incyte, Gilead, CTI BioPharma Corp, Promedior, and Celgene, and has a 
+consultancy and/or advisory role for Novartis, Ariad, Galena. Dr Verstovsek has 
+received research funding from Incyte, Roche, AstraZeneca, Lily Oncology, Geron, 
+NS Pharma, Bristol-Myers Squibb, and Celgene. No other conflicts are reported.

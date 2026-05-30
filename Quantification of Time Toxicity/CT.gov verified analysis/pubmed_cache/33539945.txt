@@ -1,0 +1,164 @@
+11. Ann Oncol. 2021 May;32(5):600-608. doi: 10.1016/j.annonc.2021.01.070. Epub
+2021  Feb 1.
+
+Ibrutinib in combination with nab-paclitaxel and gemcitabine for first-line 
+treatment of patients with metastatic pancreatic adenocarcinoma: phase III 
+RESOLVE study.
+
+Tempero M(1), Oh DY(2), Tabernero J(3), Reni M(4), Van Cutsem E(5), Hendifar 
+A(6), Waldschmidt DT(7), Starling N(8), Bachet JB(9), Chang HM(10), Maurel 
+J(11), Garcia-Carbonero R(12), Lonardi S(13), Coussens LM(14), Fong L(15), Tsao 
+LC(16), Cole G Jr(17), James D(18), Macarulla T(3).
+
+Author information:
+(1)Department of Medicine, University of California San Francisco, San 
+Francisco, USA. Electronic address: Margaret.Tempero@ucsf.edu.
+(2)Department of Internal Medicine, Cancer Research Institute, Seoul National 
+University Hospital, Seoul National University College of Medicine, Seoul, South 
+Korea.
+(3)Department of Medical Oncology, Vall d'Hebron University Hospital and 
+Institute of Oncology (VHIO), IOB-Quiron, UVic-UICC, CIBERONC, Barcelona, Spain.
+(4)Department of Radiochemotherapy, San Raffaele Hospital Scientific Institute, 
+Milan, Italy.
+(5)Department of Digestive Oncology, University Hospitals Gasthuisberg/Leuven & 
+KU Leuven, Leuven, Belgium.
+(6)Department of Medical Oncology, Cedars-Sinai Medical Center, Los Angeles, 
+USA.
+(7)Department of General, Visceral and Cancer Surgery, University of Cologne, 
+Köln, Germany.
+(8)Section of GI and Lymphoma Units, Department of Medicine, The Royal Marsden, 
+London, UK.
+(9)Department of Hepatogastroenterology, UPMC, Sorbonne University, Pitié 
+Salpêtrière Hospital, APHP, Paris, France.
+(10)Division of Oncology, Department of Internal Medicine, University of Ulsan 
+College of Medicine, Seoul, South Korea.
+(11)Department of Medical Oncology, Translational Genomics and Targeted 
+Therapeutics in Solid Tumors Group, IDIBAPS, Hospital Clinic Barcelona, 
+University of Barcelona, Barcelona, Spain.
+(12)Department of Medical Oncology, Hospital Universitario Doce de Octubre, 
+Imas12, UCM, CNIO, CIBERONC, Madrid, Spain.
+(13)Dipartimento di Oncologia Clinical e Sperimentale, Veneto Institute of 
+Oncology IOV - IRCCS, Padua, Italy.
+(14)Department of Cell, Developmental & Cancer Biology, Knight Cancer Institute, 
+Oregon Health & Science University, Portland, USA.
+(15)Department of Medicine, University of California San Francisco, San 
+Francisco, USA.
+(16)Department of Statistics, Pharmacyclics LLC, an AbbVie Company, Sunnyvale, 
+USA.
+(17)Department of Oncology Development, Pharmacyclics LLC, an AbbVie Company, 
+Sunnyvale, USA.
+(18)Department of Clinical Science, Pharmacyclics LLC, an AbbVie Company, 
+Sunnyvale, USA.
+
+Comment in
+    Ann Oncol. 2021 May;32(5):582-583. doi: 10.1016/j.annonc.2021.02.009.
+
+BACKGROUND: First-line treatment of metastatic pancreatic ductal adenocarcinoma 
+(PDAC) includes nab-paclitaxel/gemcitabine. Ibrutinib, a Bruton's tyrosine 
+kinase inhibitor, exhibits antitumor activity through tumor microenvironment 
+modulation. The safety and efficacy of first-line ibrutinib plus 
+nab-paclitaxel/gemcitabine treatment in patients with PDAC were evaluated.
+PATIENTS AND METHODS: RESOLVE (NCT02436668) was a phase III, randomized, 
+double-blind, placebo-controlled study. Patients (histologically-confirmed PDAC; 
+stage IV diagnosis ≥6 weeks of randomization; Karnofsky performance score ≥70) 
+were randomized to once-daily oral ibrutinib (560 mg) or placebo plus 
+nab-paclitaxel (125 mg/m2) and gemcitabine (1000 mg/m2). Primary endpoints were 
+overall survival (OS) and investigator-assessed progression-free survival (PFS); 
+overall response rate and safety were assessed.
+RESULTS: In total, 424 patients were randomized (ibrutinib arm, n = 211; placebo 
+arm, n = 213). Baseline characteristics were balanced across arms. After a 
+median follow-up of 25 months, there was no significant difference in OS between 
+ibrutinib plus nab-paclitaxel/gemcitabine versus placebo plus 
+nab-paclitaxel/gemcitabine (median of 9.7 versus 10.8 months; P = 0.3225). PFS 
+was shorter for ibrutinib plus nab-paclitaxel/gemcitabine compared with placebo 
+plus nab-paclitaxel/gemcitabine (median 5.3 versus 6.0 months; P < 0.0001). 
+Overall response rates were 29% and 42%, respectively (P = 0.0058). Patients in 
+the ibrutinib arm had less time on treatment and received lower cumulative doses 
+for all agents compared with the placebo arm. The most common grade ≥3 adverse 
+events for ibrutinib versus placebo arms included neutropenia (24% versus 35%), 
+peripheral sensory neuropathy (17% versus 8%), and anemia (16% versus 17%). 
+Primary reasons for any treatment discontinuation were disease progression and 
+adverse events.
+CONCLUSIONS: Ibrutinib plus nab-paclitaxel/gemcitabine did not improve OS or PFS 
+for patients with PDAC. Safety was consistent with known profiles for these 
+agents.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.annonc.2021.01.070
+PMID: 33539945 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure MT: consultancy/advisory role with 
+Advance Medical, AstraZeneca, Bristol-Myers Squibb (BMS), EcoR1 Capital, Elicio 
+Therapeutics, FibroGen, Inc., GlaxoSmithKline, Immunovia, ISPEN, Karyopharm 
+Therapeutics, Merck & Co., Inc., and Swedish Orphan Biovitrum; research funding 
+from Celgene and Halozyme; other relationship(s) with Astellas Pharma Global 
+Development, Inc. (DSMC). D-YO: consultancy/advisory role with ASLAN, 
+AstraZeneca, Bayer, Genentech/Roche, Halozyme, Merck Serono, Novartis, Taiho, 
+and Zymeworks; research funding from Array, AstraZeneca, and Eli Lilly. JT: 
+consultancy/advisory role with Array Biopharma, AstraZeneca, Bayer, BeiGene, 
+Biocartis, Boehringer Ingelheim, Chugai, F. Hoffmann-La Roche Ltd, Foundation 
+Medicine, Genentech, Inc., Genmab A/S, HalioDX SAS, Halozyme, Imugene Limited, 
+Inflection Biosciences Limited, Ipsen, Kura Oncology, Lilly, Merck Sharp & Dohme 
+(MSD), Menarini, Merck Serono, Merrimack, Merus, Molecular Partners, Novartis, 
+Peptomyc, Pfizer, Pharmacyclics LLC, an AbbVie Company, ProteoDesign SL, Rafael 
+Pharmaceuticals, Roche Diagnostics, Sanofi, Seagen, Seattle Genetics, Servier, 
+Symphogen, Taiho, and VCN Biosciences. MR: honoraria from Baxalta, Celgene, and 
+Shire; consultancy/advisory role with Baxalta, Celgene, Eli Lilly, Novartis, 
+Novocure, Pfizer, and Shire; research funding to Institution from Celgene; 
+travel expenses from Celgene, AstraZeneca; other relationship(s) with 
+AstraZeneca, Boston Pharmaceuticals, and Celgene. EVC: consultancy/advisory role 
+with AstraZeneca, Bayer, BMS, Celgene, Lilly, MSD, Merck DGaA, Novartis, Roche, 
+and Servier; research funding from Amgen, Bayer, Boehringer Ingelheim, BMS, 
+Celgene, Ipsen, Lilly, Merck, Merck KGaA, Novartis, Roche, and Servier. AH: 
+consultancy/advisory role with AbbVie, Ipsen, Merck, and Novartis; research 
+funding from Ipsen. D-TW: speakers' bureau for AstraZeneca, BMS, Celgene, Eisai, 
+Falk, Ipsen, Novartis, Roche, Servier, Shire Baxalta, and Sirtex; travel 
+expenses from Bayer Health Pharma, Celgene, Ipsen, Novartis, and Sirtex. NS: 
+honoraria from Eli Lilly, Merck Serono, MSD Oncology, and Pierre Fabre; 
+consultancy/advisory role with AstraZeneca, Pfizer, and Servier; research 
+funding from AstraZeneca, BMS, and Pfizer; travel expenses from AstraZeneca, 
+BMS, Eli Lilly, Merck, and Roche. J-BB: honoraria from Amgen, AstraZeneca, 
+Bayer, Celgene, Merck Serono, Mundipharma, Pierre Fabre, Roche, Sanofi, and 
+Servier; consultancy/advisory role with Amgen, AstraZeneca, Bayer, Merck Serono, 
+Pierre Fabre, and Servier; travel expenses from Amgen, Bayer, Celgene, Merck 
+Serono, Roche, Sanofi, and Servier. H-MC: research funding from Astellas, 
+Halozyme, Pharmacyclics LLC, an AbbVie Company, Senhwa Biosciences, Taiho 
+Oncology. JM: consultancy/advisory role with Advance Medical, AstraZeneca, 
+Bayer, Pierre-Fabre, Roche, Sanofi, Servier, Shire, and Sirtex; research funding 
+from Amgen, Biocartis, Incyte, Merck, Nanostring, and Servier; patents, 
+royalties, or other intellectual property with GAIS-42-patent P5020EP00. RG: 
+honoraria from AAA, Amgen, Bayer, BMS, Ipsen, Lilly, Merck, MSD, Novartis, 
+PharmaMar, Pfizer, Roche, and Sanofi; research funding from ARMO Biosciences, 
+AstraZeneca, Pfizer, Novartis, Ipsen, Roche, Pharmacyclics LLC, an AbbVie 
+Company, Boston Biomedicals, Merck, MSD, Amgen, Sanofi, Bayer, BMS, Boehringer, 
+Sysmex, Gilead Sciences, Servier, Adacap, VCN, Lilly, PharmaMar; travel expenses 
+from Ipsen, Merck, Novartis, and Servier. SL: consultancy/advisory role with 
+Amgen, Lilly, Merck Serono, and Servier; research funding from Amgen and Merck 
+Serono; speakers' bureau for BMS, Lilly, Merck Serono, Roche, and Servier. LMC: 
+employment with Oregon Health & Science University; honoraria from Aduro 
+Biotech, AstraZeneca, Carisma Therapeutics, Inc., Cell Signaling Technologies, 
+CytomX Therapeutics, Inc., Jackson Laboratories, Seattle Genetics, Syndax 
+Pharmaceuticals, Inc., Verseau Therapeutics, Inc., and Zymeworks, Inc.; 
+consultancy/advisory role with Carisma Therapeutics Inc., Cell Signaling 
+Technologies, CytomX Therapeutics, Inc., Syndax Pharmaceuticals, Inc., Verseau 
+Therapeutics, Inc., and Zymeworks, Inc.; research funding (for profit) Acerta 
+Pharma, Deciphera Pharmaceuticals, Innate Pharma, Roche Glycart and Parker 
+Institute for Immunotherapy, and Syndax Pharmaceuticals, Inc.; patents, 
+royalties, or other intellectual property with Oregon Health & Science 
+University; other relationship(s) with Reagent from Reagent support from: Acerta 
+Pharma, LLC, Cell Signaling Technologies, Deciphera Pharmaceuticals, 
+Genentech/Roche Glycart AG, NanoString Technologies, Inc., Plexxikon, Inc, and 
+Syndax Pharmaceuticals. LF: research funding from AbbVie, Bavarian Nordic, BMS, 
+Dendreon, Janssen, Merck, Roche/Genentech. GC: employment with Pharmacyclics 
+LLC, an AbbVie Company; stock ownership in AbbVie. DJ: employment with 
+Pharmacyclics LLC, an AbbVie Company; leadership role with Pharmacyclics LLC, an 
+AbbVie Company; stock ownership in AbbVie; patents, royalties, or other 
+intellectual property with Pharmacyclics LLC, an AbbVie Company. TM: 
+consultancy/advisory role with Advance Medical HCMS, Baxter, BioLineRX Ltd, 
+Celgene SLU, Eisai, Genzyme, Incyte, IPSEN Pharma Lab. Menarini, Lab. Servier, 
+Lilly, QED Therapeutics, MSD, Prime Oncology EU, QED Therapeutics Inc., 
+Sanofi-Aventis; research funding from Agios, ASLAN, AstraZeneca, Bayer, Celgene, 
+Genentech, Hallozyme, Immunomedics, Lilly, Merimarck, Millenium, Novartis, 
+Pfizer, Pharmacyclics LLC, an AbbVie Company, and Roche; travel expenses from 
+Servier and Incyte. LCT has declared no conflicts of interest.

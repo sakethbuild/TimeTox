@@ -1,0 +1,152 @@
+7. Lancet. 2020 Nov 14;396(10262):1563-1573. doi: 10.1016/S0140-6736(20)32292-3.
+
+Once-per-week selinexor, bortezomib, and dexamethasone versus twice-per-week 
+bortezomib and dexamethasone in patients with multiple myeloma (BOSTON): a 
+randomised, open-label, phase 3 trial.
+
+Grosicki S(1), Simonova M(2), Spicka I(3), Pour L(4), Kriachok I(5), 
+Gavriatopoulou M(6), Pylypenko H(7), Auner HW(8), Leleu X(9), Doronin V(10), 
+Usenko G(11), Bahlis NJ(12), Hajek R(13), Benjamin R(14), Dolai TK(15), Sinha 
+DK(16), Venner CP(17), Garg M(18), Gironella M(19), Jurczyszyn A(20), Robak 
+P(21), Galli M(22), Wallington-Beddoe C(23), Radinoff A(24), Salogub G(25), 
+Stevens DA(26), Basu S(27), Liberati AM(28), Quach H(29), Goranova-Marinova 
+VS(30), Bila J(31), Katodritou E(32), Oliynyk H(33), Korenkova S(34), Kumar 
+J(35), Jagannath S(36), Moreau P(37), Levy M(38), White D(39), Gatt ME(40), 
+Facon T(41), Mateos MV(42), Cavo M(43), Reece D(44), Anderson LD Jr(45), 
+Saint-Martin JR(46), Jeha J(46), Joshi AA(46), Chai Y(46), Li L(46), Peddagali 
+V(46), Arazy M(46), Shah J(46), Shacham S(46), Kauffman MG(46), Dimopoulos 
+MA(47), Richardson PG(48), Delimpasi S(49).
+
+Author information:
+(1)Medical University of Silesia, Katowice, Poland. Electronic address: 
+sgrosicki@wp.pl.
+(2)Institute of Blood Pathology and Transfusion Medicine, National Academy of 
+Medical Sciences of Ukraine, Lviv, Ukraine.
+(3)Charles University and General Hospital, Prague, Czech Republic.
+(4)Clinic of Internal Medicine-Hematology and Oncology, University Hospital 
+Brno, Brno, Czech Republic.
+(5)National Cancer Institute Ukraine, Kiev, Ukraine.
+(6)Alexandra Hospital, School of Medicine, National and Kapodistrian University 
+of Athens, Athens, Greece.
+(7)Department of Hematology, Cherkassy Regional Oncological Center, Cherkassy, 
+Ukraine.
+(8)Imperial College London, London, UK.
+(9)Department of Hematology, CHU la Miletrie and Inserm CIC 1402, Poitiers, 
+France.
+(10)City Clinical Hospital No. 40, Moscow, Russia.
+(11)City Clinical Hospital 4 of Dnipro City Council, City Hematology Center, 
+Dnipro, Ukraine.
+(12)Charbonneau Cancer Research Institute, University of Calgary, Calgary, AB, 
+Canada.
+(13)Department of Hemato-oncology, University Hospital Ostrava and Faculty of 
+Medicine, University of Ostrava, Ostrava, Czech Republic.
+(14)Kings College NHS Foundation Trust, Kings College London, London, UK.
+(15)Nil Ratan Sircar Medical College and Hospital, Kolkata, India.
+(16)State Cancer Institute, Indira Gandhi Institute of Medical Sciences, Patna, 
+India.
+(17)Cross Cancer Institute, University of Alberta, Edmonton, AB, Canada.
+(18)University Hospitals of Leicester NHS Trust, Leicester, UK.
+(19)Vall d'Hebron University Hospital, Barcelona, Spain.
+(20)Department of Hematology, Jagiellonian University Medical College, Kraków, 
+Poland.
+(21)Department of Hematology, Copernicus Memorial Hospital, Medical University 
+of Lodz, Lodz, Poland.
+(22)Department of Oncology and Hematology, Papa Giovanni XXIII Hospital, 
+Bergamo, Italy.
+(23)Flinders Medical Centre and Flinders University, Adelaide, SA, Australia.
+(24)University Hospital "St Ivan Rilski" EAD, Sofia, Bulgaria.
+(25)Chemotherapy of Oncology Diseases-Bone Marrow Transplantation Department 1, 
+Almazov National Medical Research Centre, Ministry of Health of Russia, St 
+Petersburg, Russia.
+(26)Norton Cancer Institute, St Matthews Campus, Louisville, KY, USA.
+(27)New Cross Hospital, Royal Wolverhampton NHS Trust and University of 
+Wolverhampton, Wolverhampton, UK.
+(28)Oncohematology Hospital S Maria Terni, University of Perugia, Terni, Italy.
+(29)University of Melbourne, St Vincent's Hospital, Melbourne, VIC, Australia.
+(30)University Hospital "Sv Georgi" EAD, Clinic of Clinical Hematology, Medical 
+University of Plovdiv, Plovdiv, Bulgaria.
+(31)Clinic for Hematology, Clinical Centre of Serbia, Belgrade, Serbia.
+(32)Hematology Department, Theagenion Cancer Hospital, Thessaloniki, Greece.
+(33)Department of Hematology, Vinnytsia M I Pyrohov Regional Clinical Hospital, 
+Vinnytsia, Ukraine.
+(34)Bone Marrow Transplantation Department, Kyiv Bone Marrow Transplantation 
+Center, Kyiv, Ukraine.
+(35)Tata Medical Center, Kolkata, India.
+(36)Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, 
+NY, USA.
+(37)University Hospital, Hotel-Dieu, Nantes, France.
+(38)Baylor University Medical Center, Dallas, TX, USA.
+(39)Queen Elizabeth II Health Sciences Centre, Dalhousie University, Halifax, 
+NS, Canada.
+(40)Hadassah Hebrew University Medical Center, Jerusalem, Israel.
+(41)CHU Lille Service des Maladies du Sang F-59000, Lille, France.
+(42)Hospital Universitario de Salamanca, Salamanca, Spain.
+(43)Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy; Istituto di 
+Ematologia "Seràgnoli", Dipartimento di Medicina Specialistica, Diagnostica e 
+Sperimentale, Università degli Studi, Bologna, Italy.
+(44)University Health Network-Princess Margaret Cancer Centre, Toronto, ON, 
+Canada.
+(45)Simmons Comprehensive Cancer Center, University of Texas Southwestern 
+Medical Center, Dallas, TX, USA.
+(46)Karyopharm Therapeutics, Newton, MA, USA.
+(47)School of Medicine, National and Kapodistrian University of Athens, Athens, 
+Greece.
+(48)Dana-Farber Cancer Institute, Boston, MA, USA.
+(49)General Hospital Evangelismos, Athens, Greece.
+
+Comment in
+    Lancet. 2021 May 1;397(10285):1620-1621. doi: 10.1016/S0140-6736(21)00274-9.
+    Lancet. 2021 May 1;397(10285):1621-1623. doi: 10.1016/S0140-6736(21)00271-3.
+    Lancet. 2021 May 1;397(10285):1621. doi: 10.1016/S0140-6736(21)00270-1.
+
+BACKGROUND: Selinexor combined with dexamethasone has shown activity in patients 
+with heavily pre-treated multiple myeloma. In a phase 1b/2 study, the 
+combination of oral selinexor with bortezomib (a proteasome inhibitor) and 
+dexamethasone induced high response rates with low rates of peripheral 
+neuropathy, the main dose-limiting toxicity of bortezomib. We aimed to evaluate 
+the clinical benefit of weekly selinexor, bortezomib, and dexamethasone versus 
+standard bortezomib and dexamethasone in patients with previously treated 
+multiple myeloma.
+METHODS: This phase 3, randomised, open-label trial was done at 123 sites in 21 
+countries. Patients aged 18 years or older, who had multiple myeloma, and who 
+had previously been treated with one to three lines of therapy, including 
+proteasome inhibitors, were randomly allocated (1:1) to receive selinexor (100 
+mg once per week), bortezomib (1·3 mg/m2 once per week), and dexamethasone (20 
+mg twice per week), or bortezomib (1·3 mg/m2 twice per week for the first 24 
+weeks and once per week thereafter) and dexamethasone (20 mg four times per week 
+for the first 24 weeks and twice per week thereafter). Randomisation was done 
+using interactive response technology and stratified by previous proteasome 
+inhibitor therapy, lines of treatment, and multiple myeloma stage. The primary 
+endpoint was progression-free survival in the intention-to-treat population. 
+Patients who received at least one dose of study treatment were included in the 
+safety population. This trial is registered at ClinicalTrials.gov, NCT03110562. 
+The trial is ongoing, with 55 patients remaining on randomised therapy as of Feb 
+20, 2020.
+FINDINGS: Of 457 patients screened for eligibility, 402 were randomly 
+allocated-195 (49%) to the selinexor, bortezomib, and dexamethasone group and 
+207 (51%) to the bortezomib and dexamethasone group-and the first dose of study 
+medication was given between June 6, 2017, and Feb 5, 2019. Median follow-up 
+durations were 13·2 months [IQR 6·2-19·8] for the selinexor, bortezomib, and 
+dexamethasone group and 16·5 months [9·4-19·8] for the bortezomib and 
+dexamethasone group. Median progression-free survival was 13·93 months (95% CI 
+11·73-not evaluable) with selinexor, bortezomib, and dexamethasone and 9·46 
+months (8·11-10·78) with bortezomib and dexamethasone (hazard ratio 0·70 [95% CI 
+0·53-0·93], p=0·0075). The most frequent grade 3-4 adverse events were 
+thrombocytopenia (77 [39%] of 195 patients in the selinexor, bortezomib, and 
+dexamethasone group vs 35 [17%] of 204 in the bortezomib and dexamethasone 
+group), fatigue (26 [13%] vs two [1%]), anaemia (31 [16%] vs 20 [10%]), and 
+pneumonia (22 [11%] vs 22 [11%]). Peripheral neuropathy of grade 2 or above was 
+less frequent with selinexor, bortezomib, and dexamethasone (41 [21%] patients) 
+than with bortezomib and dexamethasone (70 [34%] patients; odds ratio 0·50 [95% 
+CI 0·32-0·79], p=0·0013). 47 (24%) patients in the selinexor, bortezomib, and 
+dexamethasone group and 62 (30%) in the bortezomib and dexamethasone group died.
+INTERPRETATION: A once-per-week regimen of selinexor, bortezomib, and 
+dexamethasone is a novel, effective, and convenient treatment option for 
+patients with multiple myeloma who have received one to three previous lines of 
+therapy.
+FUNDING: Karyopharm Therapeutics.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(20)32292-3
+PMID: 33189178 [Indexed for MEDLINE]

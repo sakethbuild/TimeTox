@@ -1,0 +1,70 @@
+5. J Clin Oncol. 2020 Dec 10;38(35):4138-4148. doi: 10.1200/JCO.20.01888. Epub
+2020  Oct 7.
+
+Randomized Phase III KEYNOTE-181 Study of Pembrolizumab Versus Chemotherapy in 
+Advanced Esophageal Cancer.
+
+Kojima T(1), Shah MA(2), Muro K(3), Francois E(4), Adenis A(5), Hsu CH(6), Doi 
+T(7), Moriwaki T(8), Kim SB(9), Lee SH(10), Bennouna J(11), Kato K(12), Shen 
+L(13), Enzinger P(14), Qin SK(15), Ferreira P(16), Chen J(17), Girotto G(18), de 
+la Fouchardiere C(19), Senellart H(20), Al-Rajabi R(21), Lordick F(22), Wang 
+R(23), Suryawanshi S(23), Bhagia P(23), Kang SP(23), Metges JP(24); KEYNOTE-181 
+Investigators.
+
+Author information:
+(1)National Cancer Center Hospital East, Kashiwa, Japan.
+(2)Weill Cornell Medical College, New York, NY.
+(3)Aichi Cancer Center Hospital, Nagoya, Japan.
+(4)CLCC Antoine Lacassagne, Nice, France.
+(5)IRCM, Inserm, Université Montpellier, ICM, Montpellier, France.
+(6)National Taiwan University Hospital, Taipei, Taiwan.
+(7)National Cancer Center Hospital East, Chiba, Japan.
+(8)University of Tsukuba Hospital, Tsukuba, Japan.
+(9)Asan Medical Center, Seoul, South Korea.
+(10)Samsung Medical Center, Seoul, South Korea.
+(11)Institut de Cancerologie de L'Ouest, Nantes, France.
+(12)National Cancer Center Hospital, Tokyo, Japan.
+(13)Beijing Cancer Hospital, Beijing, China.
+(14)Dana Farber Cancer Institute and Harvard Medical School, Boston, MA.
+(15)PLA Cancer Centre of Nanjing Bayi Hospital, Nanjing, China.
+(16)Instituto Portugues de Oncologia Do Porto Francisco Gentil E.P.E., Porto, 
+Portugal.
+(17)Jiangsu Cancer Hospital, Nanging, China.
+(18)Hospital de Base de Sao Jose do Rio Preto, Sao Jose do Rio Preto, Brazil.
+(19)Centre Leon Berard, Lyon, France.
+(20)Centre Rene Gauducheau ICO, Saint Herblain, France.
+(21)University of Kansas Cancer Center, Westwood, KS.
+(22)University Cancer Center Leipzig, Leipzig, Germany.
+(23)Merck & Co, Inc, Kenilworth, NJ.
+(24)CHU Brest - Institut de Cancerologie et d'Hematologie, Arpego Network, 
+Brest, France.
+
+Comment in
+    J Clin Oncol. 2021 Jul 10;39(20):2317-2318. doi: 10.1200/JCO.20.03262.
+
+PURPOSE: Patients with advanced esophageal cancer have a poor prognosis and 
+limited treatment options after first-line chemotherapy.
+PATIENTS AND METHODS: In this open-label, phase III study, we randomly assigned 
+(1:1) 628 patients with advanced/metastatic squamous cell carcinoma or 
+adenocarcinoma of the esophagus, that progressed after one prior therapy, to 
+pembrolizumab 200 mg every 3 weeks for up to 2 years or chemotherapy 
+(investigator's choice of paclitaxel, docetaxel, or irinotecan). Primary end 
+points were overall survival (OS) in patients with programmed death ligand-1 
+(PD-L1) combined positive score (CPS) ≥ 10, in patients with squamous cell 
+carcinoma, and in all patients (one-sided α 0.9%, 0.8%, and 0.8%, respectively).
+RESULTS: At final analysis, conducted 16 months after the last patient was 
+randomly assigned, OS was prolonged with pembrolizumab versus chemotherapy for 
+patients with CPS ≥ 10 (median, 9.3 v 6.7 months; hazard ratio [HR], 0.69 [95% 
+CI, 0.52 to 0.93]; P = .0074). Estimated 12-month OS rate was 43% (95% CI, 33.5% 
+to 52.1%) with pembrolizumab versus 20% (95% CI, 13.5% to 28.3%) with 
+chemotherapy. Median OS was 8.2 months versus 7.1 months (HR, 0.78 [95% CI, 0.63 
+to 0.96]; P = .0095) in patients with squamous cell carcinoma and 7.1 months 
+versus 7.1 months (HR, 0.89 [95% CI, 0.75 to 1.05]; P = .0560) in all patients. 
+Grade 3-5 treatment-related adverse events occurred in 18.2% of patients with 
+pembrolizumab versus 40.9% in those who underwent chemotherapy.
+CONCLUSION: Pembrolizumab prolonged OS versus chemotherapy as second-line 
+therapy for advanced esophageal cancer in patients with PD-L1 CPS ≥ 10, with 
+fewer treatment-related adverse events.
+
+DOI: 10.1200/JCO.20.01888
+PMID: 33026938 [Indexed for MEDLINE]

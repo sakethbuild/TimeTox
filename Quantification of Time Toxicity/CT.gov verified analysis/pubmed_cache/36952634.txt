@@ -1,0 +1,123 @@
+16. J Clin Oncol. 2023 Jun 20;41(18):3339-3351. doi: 10.1200/JCO.22.01649. Epub
+2023  Mar 23.
+
+Niraparib and Abiraterone Acetate for Metastatic Castration-Resistant Prostate 
+Cancer.
+
+Chi KN(1), Rathkopf D(2), Smith MR(3), Efstathiou E(4), Attard G(5), Olmos D(6), 
+Lee JY(7), Small EJ(8), Pereira de Santana Gomes AJ(9), Roubaud G(10), Saad 
+M(11), Zurawski B(12), Sakalo V(13), Mason GE(14), Francis P(15), Wang G(14), Wu 
+D(16), Diorio B(17), Lopez-Gitlitz A(16), Sandhu S(18); MAGNITUDE Principal 
+Investigators.
+
+Collaborators: Alvarez M, Gatica G, Greco M, Korbenfeld E, Metrebian E, Salinas 
+J, Salvatierra A, Tatangelo M, Ferguson T, Gurney H, Hovey E, Joshua A, Marco M, 
+Marx G, Morris M, Ng S, Pook D, Sandhu S, Tafreshi A, Tan TH, Tosheva T, Andrade 
+L, Cruz F, Faria L, Figueiredo J, Franke F, Gomes AJ, Kann A, Kussumoto C, 
+Martins S, Murad A, Pinczowski H, Pioner G, Pires L, Preto D, Santos G, Silva E, 
+Silva J, Viana L, Vianna K, Paula A, Chen Z, Chi K, Emmenegger U, Fleshner N, 
+Parimi S, Saad F, Vera-Badillo F, Guo H, Luo H, Ma L, Qui M, Xue W, Yonglian G, 
+Li L, Pu J, Zheng S, Zou Q, Brodak M, Hora M, Samal V, Student V, Vanasek J, 
+Bompas E, Barthelemy P, Borchiellini D, Flechon A, Mahammedi H, Roubaud G, 
+Thiery-Vuillemin A, Tosi D, Dominique S, Helissey C, Boegemann M, Feyerabend S, 
+Hellmis E, Schostak M, Attard G, Lydon A, Sayers I, Parikh O, Wheatley D, Arkosy 
+P, Erfan J, Geczi L, Nyirady P, Olah J, Papos I, Piko B, Berger R, Peer A, Basso 
+U, Bracarda S, Caffo O, Carrozza F, Del Conte G, Galli L, Gasparro D, Pignata S, 
+Ricotta R, Santini D, Tortora G, Byun S, Choo S, Chung B, Joung J, Jung W, Kang 
+TW, Kwak C, Kwon T, Lee HJ, Lee JY, Seo S, Choi Y, Ha H, Kim C, Tze Chong FL, 
+Lim CS, Manogran V, Soo Hoo HF, Teh GC, Saad M, Dominguez DC, Cardenas A, Saenz 
+J, Bergman A, Helgason H, Hunting CB, Somford R, Byrski T, Drewa T, Filarska D, 
+LuniewskaBury J, Marcheluk A, Talasiewicz K, Tupikowski K, Zaucha R, Zurawski B, 
+Madeira P, Mansinho A, Vau N, Alyasova A, Chistyakova V, Khvorostenko D, 
+Kirtbaya D, Kolesnikov G, Kopyltsov E, Lifirenko I, Lykov A, Penkov K, Semenov 
+A, Shkolnik M, Skopin P, Smirnov R, Usynin E, Varlamov S, Vladimirov V, Alonso 
+T, Breijo S, Castro E, Gallardo E, Banos JG, Juarez A, Lozano R, Maroto P, 
+Puente J, Rodriguez-Vida A, Girones R, Mellado B, Castellanos E, Li C, Chang CH, 
+Chung HJ, Huang KH, Ou YC, Tsai YC, Wang SS, Wu WJ, Pang ST, Arslan C, Cabuk D, 
+Coskun H, Gumus M, Ozguroglu M, Oksuzoglu B, Sahin B, Tural D, Yalcin B, Cicin 
+I, Bondarenko I, Gotsuliak Y, Hotko Y, Khareba G, Lychkovskyy O, Lytvyn I, 
+Nalbandyan T, Paramonov V, Sakalo V, Stakhovsky E, Stus V, Babu S, Bryce A, Cahn 
+D, Chao H, Chu F, Dunshee C, Goodman O, Grable M, Hafron J, Hamilton J, Hauke R, 
+Maly J, Morris D, Newman G, Pilie P, Shore N, Sieber P, Smith M, Trainer A, 
+Tutrone R.
+
+Author information:
+(1)BC Cancer - Vancouver Center, University of British Columbia, Vancouver, BC, 
+Canada.
+(2)Memorial Sloan Kettering Cancer Center and Weill Cornell Medicine, New York, 
+NY.
+(3)Massachusetts General Hospital Cancer Center and Harvard Medical School, 
+Boston, MA.
+(4)Houston Methodist Cancer Center, Houston, TX.
+(5)University College London, London, UK.
+(6)Department of Medical Oncology, Hospital Universitario 12 de Octubre, 
+Instituto de Investigación Sanitaria Hospital 12 de Octubre (imas12), Madrid, 
+Spain.
+(7)Department of Urology Cancer Center, Seoul St Mary's Hospital, The Catholic 
+University of Korea, Seoul, South Korea.
+(8)Helen Diller Family Comprehensive Cancer Center, University of California San 
+Francisco, San Francisco, CA.
+(9)Liga Norte Riograndense Contra o Câncer, Natal, Brazil.
+(10)Department of Medical Oncology, Institut Bergonié, Bordeaux, France.
+(11)Department of Clinical Oncology, Faculty of Medicine, University of Malaya, 
+Kuala Lumpur, Malaysia.
+(12)Department of Outpatient Chemotherapy, Professor Franciszek Lukaszczyk 
+Oncology Center, Bydgoszcz, Poland.
+(13)Kyiv City Clinical Oncology Center and Academician O.F. Vozianov Institute 
+of Urology of the National Academy of Medical Sciences of Ukraine, Kyiv, 
+Ukraine.
+(14)Janssen Research & Development, LLC, Spring House, PA.
+(15)Janssen Research & Development, LLC, Raritan, NJ.
+(16)Janssen Research & Development, LLC, Los Angeles, CA.
+(17)Janssen Research & Development, LLC, Titusville, NJ.
+(18)Peter MacCallum Cancer Centre and the University of Melbourne, Melbourne, 
+Australia.
+
+Comment in
+    J Clin Oncol. 2023 Jun 20;41(18):3291-3294. doi: 10.1200/JCO.23.00270.
+    Eur Urol. 2023 Oct;84(4):437-438. doi: 10.1016/j.eururo.2023.04.029.
+    Eur Urol. 2024 Jan;85(1):96-97. doi: 10.1016/j.eururo.2023.09.012.
+
+PURPOSE: Metastatic castration-resistant prostate cancer (mCRPC) remains a 
+lethal disease with current standard-of-care therapies. Homologous recombination 
+repair (HRR) gene alterations, including BRCA1/2 alterations, can sensitize 
+cancer cells to poly (ADP-ribose) polymerase inhibition, which may improve 
+outcomes in treatment-naïve mCRPC when combined with androgen receptor signaling 
+inhibition.
+METHODS: MAGNITUDE (ClinicalTrials.gov identifier: NCT03748641) is a phase III, 
+randomized, double-blinded study that evaluates niraparib and abiraterone 
+acetate plus prednisone (niraparib + AAP) in patients with (HRR+, n = 423) or 
+without (HRR-, n = 247) HRR-associated gene alterations, as prospectively 
+determined by tissue/plasma-based assays. Patients were assigned 1:1 to receive 
+niraparib + AAP or placebo + AAP. The primary end point, radiographic 
+progression-free survival (rPFS) assessed by central review, was evaluated first 
+in the BRCA1/2 subgroup and then in the full HRR+ cohort, with secondary end 
+points analyzed for the full HRR+ cohort if rPFS was statistically significant. 
+A futility analysis was preplanned in the HRR- cohort.
+RESULTS: Median rPFS in the BRCA1/2 subgroup was significantly longer in the 
+niraparib + AAP group compared with the placebo + AAP group (16.6 v 10.9 months; 
+hazard ratio [HR], 0.53; 95% CI, 0.36 to 0.79; P = .001). In the overall HRR+ 
+cohort, rPFS was significantly longer in the niraparib + AAP group compared with 
+the placebo + AAP group (16.5 v 13.7 months; HR, 0.73; 95% CI, 0.56 to 0.96; P = 
+.022). These findings were supported by improvement in the secondary end points 
+of time to symptomatic progression and time to initiation of cytotoxic 
+chemotherapy. In the HRR- cohort, futility was declared per the prespecified 
+criteria. Treatment with niraparib + AAP was tolerable, with anemia and 
+hypertension as the most reported grade ≥ 3 adverse events.
+CONCLUSION: Combination treatment with niraparib + AAP significantly lengthened 
+rPFS in patients with HRR+ mCRPC compared with standard-of-care AAP.
+[Media: see text].
+
+DOI: 10.1200/JCO.22.01649
+PMCID: PMC10431499
+PMID: 36952634 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/jco/authors/author-center. Open Payments is a public database 
+containing information reported by companies about payments made to US-licensed 
+physicians (Open Payments).

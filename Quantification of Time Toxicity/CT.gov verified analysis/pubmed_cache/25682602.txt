@@ -1,0 +1,50 @@
+12. Haematologica. 2015 Jun;100(6):842-8. doi: 10.3324/haematol.2014.118471. Epub
+ 2015 Feb 14.
+
+Effectiveness and safety of lower dose prednisone for initial treatment of acute 
+graft-versus-host disease: a randomized controlled trial.
+
+Mielcarek M(1), Furlong T(2), Storer BE(3), Green ML(4), McDonald GB(3), 
+Carpenter PA(3), Flowers ME(3), Storb R(3), Boeckh M(4), Martin PJ(3).
+
+Author information:
+(1)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA University of Washington, Seattle, WA, USA mmielcar@fhcrc.org.
+(2)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA.
+(3)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA University of Washington, Seattle, WA, USA.
+(4)University of Washington, Seattle, WA, USA Vaccines and Infectious Disease 
+Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+
+We conducted a phase III study to test the hypothesis that initial therapy with 
+"lower dose" prednisone is effective and safe for patients with newly diagnosed 
+acute graft-versus-host disease. We hypothesized that a 50% decrease in the 
+initial dose of prednisone for treatment of acute graft-versus-host disease 
+would suffice to control graft-versus-host disease without increasing the 
+incidence of secondary treatment. Patients with grade IIa manifestations (upper 
+gastrointestinal symptoms, stool volumes <1.0 L/day, rash involving <50% of the 
+body surface, no hepatic dysfunction; n=102) were randomized to start treatment 
+with prednisone at 1 mg/kg/day or 0.5 mg/kg/day. Those with grade IIb or higher 
+manifestations (rash involving ≥50% of the body surface, stool volumes ≥1.0 
+L/day or hepatic involvement; n=62) were randomized to start treatment with 
+prednisone at 2 mg/kg/day or 1 mg/kg/day. The primary study end point (a ≥33% 
+relative reduction of the mean cumulative prednisone dose by day 42 after 
+initial treatment with lower dose prednisone) was not reached. With a median 
+follow up of 36 months (range 7-53), initial treatment with lower dose 
+prednisone appeared to be effective for patients presenting with grade IIa 
+manifestations since it did not increase the likelihood of requiring secondary 
+immunosuppressive therapy. Further exploratory analyses suggested that for 
+patients presenting with skin-predominant grade IIb or higher manifestations, 
+initial treatment with lower dose prednisone was associated with an increased 
+risk of requiring secondary immunosuppressive therapy (41% vs. 7%; P=0.001). In 
+summary, initial treatment of newly diagnosed acute graft-versus-host disease 
+with lower dose prednisone is effective. Within the statistical limitations of 
+the study, results showed no suggestion that initial use of lower dose 
+prednisone adversely affected survival.
+
+Copyright© Ferrata Storti Foundation.
+
+DOI: 10.3324/haematol.2014.118471
+PMCID: PMC4450631
+PMID: 25682602 [Indexed for MEDLINE]

@@ -1,0 +1,182 @@
+11. J Clin Oncol. 2024 Jul 1;42(19):2317-2326. doi: 10.1200/JCO.23.02110. Epub
+2024  Apr 22.
+
+RESILIENT Part 2: A Randomized, Open-Label Phase III Study of Liposomal 
+Irinotecan Versus Topotecan in Adults With Relapsed Small Cell Lung Cancer.
+
+Spigel DR(1), Dowlati A(2), Chen Y(3), Navarro A(4), Yang JC(5), Stojanovic 
+G(6), Jove M(7), Rich P(8), Andric ZG(9), Wu YL(10), Rudin CM(11), Chen H(12), 
+Zhang L(12), Yeung S(12), Benzaghou F(12), Paz-Ares L(13), Bunn PA(14); 
+RESILIENT Trial Investigators.
+
+Collaborators: Clingan P, Hayes T, Underhill C, Demey W, Forget F, Lambrechts M, 
+Nackaerts K, André Franke F, Azambuja AA, Guimaraes R, Mourao Dias J, Santos V, 
+Cezar Uchoa Junior B, Alves GV, de Melo Sette CV, Bi M, Cui J, Fang J, Shi J, 
+Wang K, Wang Z, Yu X, Dayen C, Greillier L, Quere G, Baraniskin A, Bischoff H, 
+Griesinger F, Waller C, Csoszi T, Galffy G, Laczo I, Losonczy G, Tehenes S, 
+Delmonte A, Follador A, Batura-Gabryel H, Centkowski P, Danielewicz I, 
+Kazarnowicz A, Ramlau R, Muntean AS, Oprean CM, Schenker M, Tiut C, Adrian Udrea 
+A, Ungureanu A, Karaseva N, Kislov N, Poddubskaya E, Rozhkova I, Solovyeva E, 
+Zimina A, Andric Z, Kovcin V, Petrovic M, Radojevic Z, Stojanovic G, Hong S, Kim 
+SW, Lee KH, Shim BY, Alonso Garcia M, Calles Blanco A, Calderon VG, Juan Vidal 
+OJ, Massuti Sureda B, Navarro Mendivil A, Palmero Sanchez R, Paz-Ares Rodriguez 
+L, Ho CL, Lin SH, Liu CY, Yang CH, Cicin I, Gumus M, Harputluoglu H, Ozguroglu 
+M, Selcuk Seber E, Sezer A, Adamchuk H, Bondarenko I, Hotko Y, Kobziev O, 
+Koshelenko O, Kurochkin A, Semegen Y, Sinielnikov I, Tarasenko T, Trukhin D, 
+Carlisle J, Carr L, Chaudhry A, Chen H, Chen Y, Dowlati A, Duvivier H, Edenfield 
+W, Hussein M, Jotte R, Jujjavarapu S, Lingerfelt B, McCune S, Nagajothi N, Rubin 
+P, Scilla K, Spigel D, Srkalovic G, Weise A, Zuniga R.
+
+Author information:
+(1)Sarah Cannon Research Institute/Tennessee Oncology, Nashville, TN.
+(2)University Hospitals Seidman Cancer Center and Case Western Reserve 
+University, Cleveland, OH.
+(3)Cancer and Hematology Centers of Western Michigan, Grand Rapids, MI.
+(4)Hospital Universitario Vall d'Hebron and Vall d'Hebron Institute of Oncology 
+(VHIO), Barcelona, Spain.
+(5)National Taiwan University Hospital and National Taiwan University Cancer 
+Center, Taipei, Taiwan.
+(6)Institute for Pulmonary Diseases of Vojvodina, Sremska Kamenica, Serbia.
+(7)Institut Català d'Oncologia Hospital Duran i Reynals, Barcelona, Spain.
+(8)Southeastern Regional Medical Center, Newnan, GA.
+(9)University Clinical Hospital Center Bezanijska Kosa, Belgrade, Serbia.
+(10)Guangdong Lung Cancer Institute, Guangzhou, China.
+(11)Druckenmiller Center for Lung Cancer Research, Memorial Sloan Kettering 
+Cancer Center, New York, NY.
+(12)Ipsen, Cambridge, MA.
+(13)Hospital Universitario 12 de Octubre, H120-CNIO Lung Cancer Unit, 
+Universidad Complutense and Ciberonc, Madrid, Spain.
+(14)University of Colorado School of Medicine, Aurora, CO.
+
+PURPOSE: The phase III RESILIENT trial compared second-line liposomal irinotecan 
+with topotecan in patients with small cell lung cancer (SCLC).
+PATIENTS AND METHODS: Patients with SCLC and progression on or after first-line 
+platinum-based chemotherapy were randomly assigned (1:1) to intravenous (IV) 
+liposomal irinotecan (70 mg/m2 every 2 weeks in a 6-week cycle) or IV topotecan 
+(1.5 mg/m2 daily for 5 consecutive days, every 3 weeks in a 6-week cycle). The 
+primary end point was overall survival (OS). Key secondary end points included 
+progression-free survival (PFS) and objective response rate (ORR).
+RESULTS: Among 461 randomly assigned patients, 229 received liposomal irinotecan 
+and 232 received topotecan. The median follow-up was 18.4 months. The median OS 
+was 7.9 months with liposomal irinotecan versus 8.3 months with topotecan 
+(hazard ratio [HR], 1.11 [95% CI, 0.90 to 1.37]; P = .31). The median PFS per 
+blinded independent central review (BICR) was 4.0 months with liposomal 
+irinotecan and 3.3 months with topotecan (HR, 0.96 [95% CI, 0.77 to 1.20]; 
+nominal P = .71); ORR per BICR was 44.1% (95% CI, 37.6 to 50.8) and 21.6% (16.4 
+to 27.4), respectively. Overall, 42.0% and 83.4% of patients receiving liposomal 
+irinotecan and topotecan, respectively, experienced grade ≥3 related 
+treatment-emergent adverse events (TEAEs). The most common grade ≥3 related 
+TEAEs were diarrhea (13.7%), neutropenia (8.0%), and decreased neutrophil count 
+(4.4%) with liposomal irinotecan and neutropenia (51.6%), anemia (30.9%), and 
+leukopenia (29.1%) with topotecan.
+CONCLUSION: Liposomal irinotecan and topotecan demonstrated similar median OS 
+and PFS in patients with relapsed SCLC. Although the primary end point of OS was 
+not met, liposomal irinotecan demonstrated a higher ORR than topotecan. The 
+safety profile of liposomal irinotecan was consistent with its known safety 
+profile; no new safety concerns emerged.
+
+DOI: 10.1200/JCO.23.02110
+PMCID: PMC11210946
+PMID: 38648575 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/jco/authors/author-center. Open Payments is a public database 
+containing information reported by companies about payments made to US-licensed 
+physicians (Open Payments). David R. Spigel Leadership: ASCO (Inst) Consulting 
+or Advisory Role: Genentech/Roche (Inst), Novartis (Inst), Bristol Myers Squibb 
+(Inst), AstraZeneca (Inst), GlaxoSmithKline (Inst), Jazz Pharmaceuticals (Inst), 
+Sanofi/Aventis (Inst), Ipsen (Inst), Monte Rosa Therapeutics (Inst), AbbVie 
+(Inst), Lyell Immunopharma (Inst), Novocure (Inst), Amgen (Inst), MedImmune 
+(Inst) Research Funding: Genentech/Roche (Inst), Novartis (Inst), Celgene 
+(Inst), Bristol Myers Squibb (Inst), Lilly (Inst), AstraZeneca (Inst), 
+University of Texas Southwestern Medical Center—Simmons Cancer Center (Inst), 
+Merck (Inst), G1 Therapeutics (Inst), Neon Therapeutics (Inst), Nektar (Inst), 
+Celldex (Inst), Daiichi Sankyo (Inst), Astellas Pharma (Inst), Grail (Inst), 
+Transgene (Inst), Aeglea Biotherapeutics (Inst), Ipsen (Inst), Eisai (Inst), 
+ImClone Systems (Inst), Janssen Oncology (Inst), MedImmune (Inst), Agios (Inst), 
+GlaxoSmithKline (Inst), Tesaro (Inst), Cyteir (Inst), Novocure (Inst), Elevation 
+Oncology (Inst), Calithera Biosciences (Inst), Arcus Biosciences (Inst), Arrys 
+Therapeutics (Inst), Bayer (Inst), BeiGene (Inst), Blueprint Medicines (Inst), 
+Boehringer Ingelheim (Inst), Hutchison MediPharma (Inst), Incyte (Inst), Kronos 
+Bio (Inst), Loxo (Inst), Macrogenics (Inst), PureTech (Inst), Razor Genomics 
+(Inst), Repare Therapeutics (Inst), Rgenix (Inst), Tizona Therapeutics, Inc 
+(Inst), Verastem (Inst), BioNTech (Inst), AbbVie (Inst), Amgen (Inst), Anheart 
+Therapeutics (Inst), Ascendis Pharma (Inst), Endeavor BioMedicines (Inst), 
+Erasca, Inc (Inst), Faeth Therapeutics (Inst), Fujifilm (Inst), Gilead Sciences 
+(Inst), Jazz Pharmaceuticals (Inst), Lyell Immunopharma (Inst), Millennium 
+(Inst), Moderna Therapeutics (Inst), Monte Rosa Therapeutics (Inst), Peloton 
+Therapeutics (Inst), Shenzhen Chipscreen Biosciences (Inst), Stemline 
+Therapeutics (Inst), Synthekine (Inst), Taiho Oncology (Inst), Tango 
+Therapeutics (Inst), Tarveda Therapeutics (Inst), Zai Lab (Inst), Apollomics 
+(Inst), Strata Oncology (Inst), Asher Biotherapeutics (Inst), Denovo Biopharma 
+(Inst), Ellipses Pharma (Inst), EMD Serono (Inst), Evelo Biosciences (Inst), 
+Foundation Bio (Inst), Immunogen (Inst), Janux Therapeutics (Inst), Oncologie 
+(Inst), Pfizer (Inst), Phanes Therapeutics (Inst), PTC Therapeutics (Inst), 
+Seagen (Inst), Takeda (Inst) Travel, Accommodations, Expenses: AstraZeneca, 
+Genentech, Novartis Afshin Dowlati Consulting or Advisory Role: 
+AbbVie/Stemcentrx, AstraZeneca, Bristol Myers Squibb, Ipsen, Merck, Tempus 
+Research Funding: Lilly/ImClone (Inst), Amgen (Inst), Bristol Myers Squibb 
+(Inst), Tesaro (Inst), Takeda (Inst), Mirati Therapeutics (Inst), 
+AbbVie/Stemcentrx (Inst), Bayer (Inst), Seagen (Inst), Ipsen (Inst), Pionyr 
+(Inst), Coordination Pharmaceuticals (Inst), Astellas Pharma (Inst), Bicycle 
+Therapeutics (Inst), Gilead Sciences (Inst) Yuanbin Chen Honoraria: AstraZeneca, 
+Amgen, Takeda, Guardant Health, Bristol Myers Squibb/Pfizer, Jazz 
+Pharmaceuticals Consulting or Advisory Role: Bristol Myers Squibb, AstraZeneca 
+Speakers' Bureau: AstraZeneca, Bristol Myers Squibb, Takeda, Guardant Health, 
+Amgen, Jazz Pharmaceuticals Research Funding: AstraZeneca (Inst), Bristol Myers 
+Squibb (Inst), Amgen (Inst), Genentech (Inst), Merck (Inst), Daiichi 
+Sankyo/Astra Zeneca (Inst) Expert Testimony: AstraZeneca, Takeda Alejandro 
+Navarro Consulting or Advisory Role: Boehringer Ingelheim, Bristol Myers Squibb 
+Foundation, Pfizer, Amgen, Takeda, Adium Pharma, Eczacibasi Speakers' Bureau: 
+Roche, AstraZeneca Spain Expert Testimony: Oryzon Genomics, Medsir, Hengenix 
+Travel, Accommodations, Expenses: Boehringer Ingelheim, Pfizer, Roche James 
+Chih-Hsin Yang Honoraria: Boehringer Ingelheim, Roche, MSD, AstraZeneca, 
+Novartis, Bristol Myers Squibb, Ono Pharmaceutical, Takeda, Lilly, Pfizer, Amgen 
+(Inst), AstraZeneca/MedImmune (Inst), Boehringer Ingelheim (Inst), Dizal Pharma 
+(Inst), Taiho Pharmaceutical (Inst), Pfizer (Inst), Takeda (Inst), 
+Roche/Genentech (Inst), Daiichi Sankyo/Astra Zeneca (Inst), MSD Oncology (Inst), 
+BeiGene (Inst), Gilead Sciences (Inst), Sanofi/Regeneron (Inst) Consulting or 
+Advisory Role: Boehringer Ingelheim, Novartis, AstraZeneca, Clovis Oncology, 
+Lilly (Inst), MSD Oncology, Celgene, Bayer, Pfizer, Ono Pharmaceutical, Bristol 
+Myers Squibb, Boehringer Ingelheim (Inst), Yuhan, Hansoh, Blueprint Medicines, 
+Daiichi Sankyo, G1 Therapeutics, AbbVie, Takeda, Amgen, Incyte, GlaxoSmithKline 
+(Inst), Amgen (Inst), Takeda (Inst), AstraZeneca (Inst), Novartis (Inst), MSD 
+Oncology (Inst), Janssen Oncology (Inst), Merck KGaA (Inst), Daiichi 
+Sankyo/Astra Zeneca (Inst), Puma Biotechnology (Inst), Gilead Sciences (Inst), 
+Pfizer (Inst), Taiho Pharmaceutical (Inst), Bayer (Inst), Roche/Genentech 
+(Inst), Sanofi (Inst) Research Funding: AstraZeneca (Inst) Travel, 
+Accommodations, Expenses: Pfizer Maria Jove Speakers' Bureau: AstraZeneca 
+Travel, Accommodations, Expenses: Roche Yi-Long Wu Honoraria: AstraZeneca, 
+Roche, Pfizer, Boehringer Ingelheim, MSD Oncology, Bristol Myers Squibb/China, 
+Hengrui Pharmaceutical, BeiGene Beijing Consulting or Advisory Role: 
+AstraZeneca, Roche, Boehringer Ingelheim, Takeda Research Funding: Boehringer 
+Ingelheim (Inst), Roche (Inst), Pfizer (Inst), BMS (Inst) Charles M. Rudin 
+Consulting or Advisory Role: Harpoon Therapeutics, Genentech/Roche, AstraZeneca, 
+Bridge Medicines, Amgen, Jazz Pharmaceuticals, Earli, AbbVie, Daiichi Sankyo/UCB 
+Japan, Kowa, Merck, D2G Oncology, Auron Therapeutics, DISCO Research Funding: 
+Merck (Inst), Roche/Genentech (Inst), Daiichi Sankyo (Inst) Open Payments Link: 
+https://openpaymentsdata.cms.gov/physician/111056 Huanyu Chen Employment: Ipsen, 
+Modern Biosciences Stock and Other Ownership Interests: Ipsen, Moderna 
+Therapeutics Li Zhang Employment: Ipsen Stock and Other Ownership Interests: 
+Ipsen Stanley Yeung Employment: Ipsen, GlaxoSmithKline Stock and Other Ownership 
+Interests: GlaxoSmithKline, Ipsen Fawzi Benzaghou Employment: Ipsen Stock and 
+Other Ownership Interests: Ipsen Luis Paz-Ares Leadership: Altum Sequencing, 
+Stab Therapeutics Stock and Other Ownership Interests: Altum Sequencing, Stab 
+therapeutics Honoraria: Roche/Genentech, Lilly, Pfizer, Bristol Myers Squibb, 
+MSD, AstraZeneca, Merck Serono, PharmaMar, Novartis, Amgen, Sanofi, Bayer, 
+Takeda, Mirati, Daiichi Sankyo, BeiGene, GSK, Janssen, Medscape, Regeneron, 
+Boehringer Ingelheim Consulting or Advisory Role: Lilly, MSD, Roche, PharmaMar, 
+Merck, AstraZeneca, Novartis, Amgen, Pfizer, Sanofi, Bayer, BMS, Mirati, GSK, 
+Janssen, Takeda, Regeneron, AbbVie Speakers' Bureau: MSD Oncology, BMS, 
+Roche/Genentech, Pfizer, Lilly, AstraZeneca, Merck Serono Research Funding: BMS 
+(Inst), Astra Zeneca (Inst), PharmaMar (Inst), MSD (Inst), Pfizer (Inst) Other 
+Relationship: Novartis, Ipsen, Pfizer, Servier, Sanofi, Roche, Amgen, Merck, 
+Roche Paul A. Bunn Leadership: Verastem Honoraria: CStone Pharmaceuticals, 
+Ascentage Pharma, VieCure, Genentech/Roche Consulting or Advisory Role: CStone 
+Pharmaceuticals, Ascentage Pharma, Genentech/Roche, Ipsen No other potential 
+conflicts of interest were reported.

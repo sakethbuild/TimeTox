@@ -1,0 +1,95 @@
+6. Ann Oncol. 2020 May;31(5):609-618. doi: 10.1016/j.annonc.2020.02.006. Epub
+2020  Feb 20.
+
+ARCTIC: durvalumab with or without tremelimumab as third-line or later treatment 
+of metastatic non-small-cell lung cancer.
+
+Planchard D(1), Reinmuth N(2), Orlov S(3), Fischer JR(4), Sugawara S(5), 
+Mandziuk S(6), Marquez-Medina D(7), Novello S(8), Takeda Y(9), Soo R(10), Park 
+K(11), McCleod M(12), Geater SL(13), Powell M(14), May R(14), Scheuring U(15), 
+Stockman P(15), Kowalski D(16).
+
+Author information:
+(1)Gustave Roussy, Department of Medical Oncology, Thoracic Group, Villejuif, 
+France. Electronic address: David.PLANCHARD@gustaveroussy.fr.
+(2)Asklepios Lung Clinic, Munich-Gauting, Germany.
+(3)Pavlov State Medical University, St Petersburg, Russia.
+(4)Lungenklinik Loewenstein, Löwenstein, Germany.
+(5)Sendai Kousei Hospital, Sendai, Japan.
+(6)Medical University of Lublin, Lublin, Poland.
+(7)Arnau de Vilanova University Hospital, Lleida, Spain.
+(8)Department of Oncology, University of Turin, Azienda 
+Ospedaliero-Universitaria San Luigi, Orbassano, Italy.
+(9)National Center for Global Health and Medicine, Tokyo, Japan.
+(10)National University Hospital, Singapore.
+(11)Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, 
+South Korea.
+(12)Florida Cancer Specialists, Fort Myers, USA.
+(13)Prince of Songkla University, Songkhla, Thailand.
+(14)AstraZeneca, Gaithersburg, USA.
+(15)AstraZeneca, Cambridge, UK.
+(16)Maria Sklodowska-Curie Institute of Oncology, Warsaw, Poland.
+
+BACKGROUND: Many patients with metastatic non-small-cell lung cancer (mNSCLC) 
+experience disease progression after first- and second-line treatment; more 
+treatment options are required for these patients. ARCTIC, a phase III, 
+randomized, open-label study, assessed durvalumab ± tremelimumab versus standard 
+of care (SoC) as ≥ third-line treatment of mNSCLC.
+PATIENTS AND METHODS: ARCTIC comprised two independent sub-studies. Study A: 126 
+patients with ≥25% of tumor cells (TCs) expressing programmed cell death 
+ligand-1 (PD-L1) were randomized (1 : 1) to durvalumab [up to 12 months 10 mg/kg 
+every 2 weeks (q2w)] or SoC. Study B: 469 patients with PD-L1 TC <25% were 
+randomized (3 : 2 : 2 : 1) to durvalumab + tremelimumab (12 weeks durvalumab 20 
+mg/kg + tremelimumab 1 mg/kg q4w then 34 weeks durvalumab 10 mg/kg q2w), SoC, 
+durvalumab (up to 12 months 10 mg/kg q2w), or tremelimumab (24 weeks 10 mg/kg 
+q4w then 24 weeks q12w). Primary end points: overall survival (OS) and 
+progression-free survival (PFS) for durvalumab versus SoC (study A; descriptive 
+only) and durvalumab + tremelimumab versus SoC (study B).
+RESULTS: Study A: median OS 11.7 (durvalumab) versus 6.8 (SoC) months {hazard 
+ratio (HR) 0.63 [95% confidence interval (CI), 0.42-0.93]}; median PFS 3.8 
+(durvalumab) versus 2.2 (SoC) months [HR 0.71 (95% CI, 0.49-1.04)]. Study B: 
+median OS 11.5 (durvalumab + tremelimumab) versus 8.7 (SoC) months [HR 0.80 (95% 
+CI, 0.61-1.05); P = 0.109]. Median PFS of 3.5 months for both groups [HR 0.77 
+(95% CI, 0.59-1.01); P = 0.056]. Treatment-related grade 3/4 adverse events: 
+9.7% (durvalumab) and 44.4% (SoC; study A) and 22.0% (durvalumab + tremelimumab) 
+and 36.4% (SoC; study B).
+CONCLUSIONS: In heavily pretreated patients with mNSCLC, durvalumab demonstrated 
+clinically meaningful improvements in OS and PFS versus SoC (patients with PD-L1 
+TC ≥25%); numerical improvements in OS and PFS for durvalumab + tremelimumab 
+versus SoC were observed (patients with PD-L1 TC <25%). Safety profiles were 
+consistent with previous studies.
+TRIAL REGISTRATION: Clinicaltrials.gov identifier: NCT02352948.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.annonc.2020.02.006
+PMID: 32201234 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure DP has served in an advisory role and 
+provided consultancy or lectures for AstraZeneca, Bristol-Myers Squibb, 
+Boehringer-Ingelheim, Celgene, Daiichi Sankyo, Eli Lilly, Merck, Novartis, 
+Pfizer, prIME Oncology, Peer CME, and Roche, has received honoraria from 
+AstraZeneca, Bristol-Myers Squibb, Boehringer-Ingelheim, Celgene, Eli Lilly, 
+Merck, Novartis, Pfizer, prIME Oncology, Peer CME, and Roche, has undertaken 
+clinical trials research for AstraZeneca, Bristol-Myers Squibb, 
+Boehringer-Ingelheim, Eli Lilly, Merck, Novartis, Pfizer, Roche, MedImmune, 
+Sanofi-Aventis, Taiho Pharma, Novocure, and Daiichi Sankyo, and has received 
+travel/accommodation/expenses from AstraZeneca, Roche, Novartis, prIME Oncology, 
+and Pfizer. NR reports personal fees and non-financial support from AstraZeneca, 
+Boehringer-Ingelheim, Hoffmann La-Roche, Bristol-Myers Squibb, and Pfizer, 
+personal fees from MSD Sharp & Dohme and Takeda, and non-financial support from 
+AbbVie, all outside the submitted work. SS has received lecture fees and 
+research grants from AstraZeneca. DM-M has served as a speaker and advisory 
+board member for Roche, Bristol-Myers Squibb, Boehringer-Ingelheim, MSD, and 
+Pierre-Fabre. SN reports speakers’ bureau/advisory work for Eli Lilly, Roche, 
+Bristol-Myers Squibb, Takeda, Boehringer-Ingelheim, AstraZeneca, MSD, Pfizer, 
+Bayer, and AbbVie. YT has received research funding from Taiho, 
+Boehringer-Ingelheim, Chugai, and Kyowa Hakko Kirin. RS has served as an 
+advisory board member for AstraZeneca, Bristol-Myers Squibb, 
+Boehringer-Ingelheim, Lilly, Merck, Novartis, Pfizer, Roche, Taiho, Takeda, and 
+Yuhan, and has received research grants from AstraZeneca and 
+Boehringer-Ingelheim. SLG has received non-financial support from 
+Boehringer-Ingelheim, AstraZeneca, Sanofi-Aventis, and Novartis, and research 
+grants from Boehringer-Ingelheim, AstraZeneca, and Novartis. RM, US, and PS are 
+full-time employees of AstraZeneca. MP was a contractor for AstraZeneca at the 
+time of the study. All remaining authors have declared no conflicts of interest.

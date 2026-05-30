@@ -1,0 +1,304 @@
+[
+ {
+  "filename": "PMID 30990550 a_Summary_SoE.pdf",
+  "pmid": "30990550",
+  "trial_design_summary": "Two active mouthwashes vs placebo for radiotherapy oral mucositis pain",
+  "arms": [
+   {"arm_name": "Arm C (Placebo mouthwash)", "designation": "control", "evidence": "92 patients to placebo"},
+   {"arm_name": "Arm A (Doxepin mouthwash)", "designation": "intervention", "evidence": "To evaluate the effect of doxepin mouthwash or diphenhydramine-lidocaine-antacid mouthwash for the treatment of oral mucositis-related pain"},
+   {"arm_name": "Arm B (DLA mouthwash)", "designation": "intervention", "evidence": "diphenhydramine-lidocaine-antacid mouthwash compared with a single dose of placebo"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 30995176 CT a_Summary_SoE.pdf",
+  "pmid": "30995176",
+  "trial_design_summary": "Idelalisib plus rituximab vs placebo plus rituximab in relapsed CLL (arm labels do not match abstract)",
+  "arms": [
+   {"arm_name": "Arm B (Standard-dose GS-1101)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm A (High-dose GS-1101)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 31002578 a_Summary_SoE.pdf",
+  "pmid": "31002578",
+  "trial_design_summary": "IV reference chemo vs two intraperitoneal regimens, all plus bevacizumab, in ovarian cancer",
+  "arms": [
+   {"arm_name": "Arm I (TJIV: IV paclitaxel, IV carboplatin, IV bevacizumab)", "designation": "control", "evidence": "Compared with the IV carboplatin reference arm, the duration of PFS was not significantly increased with either IP regimen"},
+   {"arm_name": "Arm II (TJIP: IV paclitaxel, IP carboplatin, IV bevacizumab)", "designation": "intervention", "evidence": "Compared with the IV carboplatin reference arm, the duration of PFS was not significantly increased with either IP regimen"},
+   {"arm_name": "Arm III (TCTIP: IV paclitaxel, IP cisplatin, IP paclitaxel, IV bevacizumab)", "designation": "intervention", "evidence": "Compared with the IV carboplatin reference arm, the duration of PFS was not significantly increased with either IP regimen"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31003911 CT_Summary_SoE.pdf",
+  "pmid": "31003911",
+  "trial_design_summary": "Atezolizumab +/- cobimetinib vs regorafenib comparator in metastatic colorectal cancer",
+  "arms": [
+   {"arm_name": "Arm C (Regorafenib)", "designation": "control", "evidence": "comparison of atezolizumab plus cobimetinib or atezolizumab monotherapy versus regorafenib in the third-line setting"},
+   {"arm_name": "Arm B (Atezolizumab Monotherapy)", "designation": "intervention", "evidence": "atezolizumab plus cobimetinib or atezolizumab monotherapy versus regorafenib"},
+   {"arm_name": "Arm A (Cobimetinib + Atezolizumab)", "designation": "intervention", "evidence": "This phase 3 study was designed to assess atezolizumab plus cobimetinib in metastatic colorectal cancer"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31141632 a_Summary_SoE.pdf",
+  "pmid": "31141632",
+  "trial_design_summary": "Daratumumab added to lenalidomide-dexamethasone vs lenalidomide-dexamethasone control in untreated myeloma",
+  "arms": [
+   {"arm_name": "Arm A (Rd: Lenalidomide and Dexamethasone)", "designation": "control", "evidence": "lenalidomide and dexamethasone alone (control group)"},
+   {"arm_name": "Arm B (DRd: Daratumumab, Lenalidomide, and Dexamethasone)", "designation": "intervention", "evidence": "whether the addition of daratumumab would significantly reduce the risk of disease progression or death"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31150574 a_Summary_SoE.pdf",
+  "pmid": "31150574",
+  "trial_design_summary": "Apalutamide plus ADT vs placebo plus ADT in metastatic castration-sensitive prostate cancer",
+  "arms": [
+   {"arm_name": "Arm B (Placebo + ADT)", "designation": "control", "evidence": "as compared with placebo plus ADT"},
+   {"arm_name": "Arm A (Apalutamide + ADT)", "designation": "intervention", "evidence": "Whether the addition of apalutamide to androgen-deprivation therapy (ADT) would prolong radiographic progression-free survival"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31166681 a_Summary_SoE.pdf",
+  "pmid": "31166681",
+  "trial_design_summary": "Venetoclax-obinutuzumab vs chlorambucil-obinutuzumab in untreated CLL with comorbidities",
+  "arms": [
+   {"arm_name": "Arm B (Obinutuzumab + Chlorambucil)", "designation": "control", "evidence": "venetoclax-obinutuzumab was associated with longer progression-free survival than chlorambucil-obinutuzumab"},
+   {"arm_name": "Arm A (Obinutuzumab + Venetoclax)", "designation": "intervention", "evidence": "we investigated fixed-duration treatment with venetoclax and obinutuzumab"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31246522 CT_Summary_SoE.pdf",
+  "pmid": "31246522",
+  "trial_design_summary": "Clofarabine-cytarabine experimental induction vs conventional HD-ADE induction in pediatric AML",
+  "arms": [
+   {"arm_name": "Arm A: Conventional Induction (HD-ADE)", "designation": "control", "evidence": "we introduced clofarabine into the first course of remission induction to reduce exposure to daunorubicin and etoposide"},
+   {"arm_name": "Arm B: Experimental Induction (Clo/AraC)", "designation": "intervention", "evidence": "we introduced clofarabine into the first course of remission induction to reduce exposure to daunorubicin and etoposide"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31248843 CT_Summary_SoE.pdf",
+  "pmid": "31248843",
+  "trial_design_summary": "Addition of sirolimus to standard cyclosporine plus mycophenolate mofetil GVHD prophylaxis",
+  "arms": [
+   {"arm_name": "Arm 1 (Cyclosporine + Mycophenolate Mofetil)", "designation": "control", "evidence": "the standard GVHD prophylaxis regimen (cyclosporine and mycophenolate mofetil)"},
+   {"arm_name": "Arm 2 (Cyclosporine + Mycophenolate Mofetil + Sirolimus)", "designation": "intervention", "evidence": "evaluate the efficacy of adding sirolimus to the standard cyclosporine and mycophenolate mofetil prophylaxis therapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31329516 a_Summary_SoE.pdf",
+  "pmid": "31329516",
+  "trial_design_summary": "Enzalutamide plus ADT vs placebo plus ADT in metastatic hormone-sensitive prostate cancer",
+  "arms": [
+   {"arm_name": "Arm B (Placebo + ADT)", "designation": "control", "evidence": "randomly assigned 1:1 to enzalutamide (160 mg/day) or placebo, plus androgen deprivation therapy (ADT)"},
+   {"arm_name": "Arm A (Enzalutamide + ADT)", "designation": "intervention", "evidence": "the risk of radiographic progression or death was significantly reduced with enzalutamide plus ADT versus placebo plus ADT"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31345387 CT_Summary_SoE.pdf",
+  "pmid": "31345387",
+  "trial_design_summary": "Reduced-dose vs standard-of-care chemoradiation after induction in HPV+ oropharyngeal cancer",
+  "arms": [
+   {"arm_name": "Arm B (Standard Dose Radiation + Carboplatin)", "designation": "control", "evidence": "Clinical responders ... were randomized 1:2 to sdCRT (7000 cGy) or rdCRT (5600 cGy)"},
+   {"arm_name": "Arm C (Non-responders: Standard CRT + Carboplatin + Erbitux + Paclitaxel)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm A (Reduced Dose Radiation + Carboplatin)", "designation": "intervention", "evidence": "after induction chemotherapy (IC), reduced dose chemoradiation (rdCRT) would result in equivalent PFS and OS ... and would reduce toxicity"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31361535 a_Summary_SoE.pdf",
+  "pmid": "31361535",
+  "trial_design_summary": "Pemetrexed, bevacizumab, or combination maintenance in nonsquamous NSCLC (bevacizumab control)",
+  "arms": [
+   {"arm_name": "Arm A (Bevacizumab Maintenance)", "designation": "control", "evidence": "The primary end point was overall survival, with bevacizumab serving as the control group"},
+   {"arm_name": "Arm B (Pemetrexed Maintenance)", "designation": "intervention", "evidence": "randomly assigned to maintenance therapy with bevacizumab, pemetrexed, or a combination of the two agents"},
+   {"arm_name": "Arm C (Bevacizumab + Pemetrexed Maintenance)", "designation": "intervention", "evidence": "randomly assigned to maintenance therapy with bevacizumab, pemetrexed, or a combination of the two agents"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31399378 CT_Summary_SoE.pdf",
+  "pmid": "31399378",
+  "trial_design_summary": "Inactivated varicella-zoster virus vaccine vs placebo in immunocompromised cancer patients",
+  "arms": [
+   {"arm_name": "Placebo", "designation": "control", "evidence": "a two-arm, randomised, double-blind, phase 3 trial"},
+   {"arm_name": "V212 (Inactivated Varicella-Zoster Virus Vaccine)", "designation": "intervention", "evidence": "investigate the efficacy and safety of an inactivated varicella zoster virus (VZV) vaccine for herpes zoster prevention"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31454045 a_Summary_SoE.pdf",
+  "pmid": "31454045",
+  "trial_design_summary": "Tandem vs single autologous stem cell transplant in high-risk neuroblastoma",
+  "arms": [
+   {"arm_name": "Regimen A (Single Myeloablative Consolidation)", "designation": "control", "evidence": "To determine if tandem autologous transplant improves event-free survival (EFS) compared with single transplant"},
+   {"arm_name": "Regimen B (Tandem Myeloablative Consolidation)", "designation": "intervention", "evidence": "To determine if tandem autologous transplant improves event-free survival (EFS) compared with single transplant"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31486832 a_Summary_SoE.pdf",
+  "pmid": "31486832",
+  "trial_design_summary": "Doxorubicin added to sorafenib vs sorafenib alone in advanced hepatocellular carcinoma",
+  "arms": [
+   {"arm_name": "Arm B (Sorafenib alone)", "designation": "control", "evidence": "9.4 months ... in the sorafenib alone arm"},
+   {"arm_name": "Arm A (Sorafenib plus Doxorubicin)", "designation": "intervention", "evidence": "To determine if doxorubicin added to sorafenib therapy improves OS"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31582355 a_Summary_SoE.pdf",
+  "pmid": "31582355",
+  "trial_design_summary": "Nivolumab vs investigator's-choice chemotherapy in advanced oesophageal squamous cell carcinoma",
+  "arms": [
+   {"arm_name": "Arm B (Control - Paclitaxel)", "designation": "control", "evidence": "or investigator's choice of chemotherapy (paclitaxel 100 mg/m2 ... or docetaxel 75 mg/m2)"},
+   {"arm_name": "Paclitaxel", "designation": "control", "evidence": "or investigator's choice of chemotherapy (paclitaxel 100 mg/m2 ... or docetaxel 75 mg/m2)"},
+   {"arm_name": "Arm A (ONO-4538 / Nivolumab)", "designation": "intervention", "evidence": "overall survival was significantly improved in the nivolumab group compared with the chemotherapy group"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31590988 a_Summary_SoE.pdf",
+  "pmid": "31590988",
+  "trial_design_summary": "Durvalumab +/- tremelimumab plus platinum-etoposide vs platinum-etoposide in ES-SCLC",
+  "arms": [
+   {"arm_name": "EP alone", "designation": "control", "evidence": "durvalumab plus tremelimumab plus platinum-etoposide; or platinum-etoposide alone"},
+   {"arm_name": "Durvalumab + platinum-etoposide (EP)", "designation": "intervention", "evidence": "The CASPIAN trial assessed durvalumab, with or without tremelimumab, in combination with etoposide plus either cisplatin or carboplatin"},
+   {"arm_name": "Durvalumab + tremelimumab + EP", "designation": "intervention", "evidence": "The CASPIAN trial assessed durvalumab, with or without tremelimumab, in combination with etoposide plus either cisplatin or carboplatin"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31591063 CT a_Summary_SoE.pdf",
+  "pmid": "31591063",
+  "trial_design_summary": "Ramucirumab plus erlotinib vs placebo plus erlotinib in EGFR-mutated NSCLC",
+  "arms": [
+   {"arm_name": "Arm B (Erlotinib + Placebo)", "designation": "control", "evidence": "oral erlotinib (150 mg/day) plus either intravenous ramucirumab (10 mg/kg) or matching placebo"},
+   {"arm_name": "Arm A (Erlotinib + Ramucirumab)", "designation": "intervention", "evidence": "progression-free survival was significantly longer in the ramucirumab plus erlotinib group ... than in the placebo plus erlotinib group"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31618129 a_Summary_SoE.pdf",
+  "pmid": "31618129",
+  "trial_design_summary": "Platinum chemotherapy with or without bevacizumab in recurrent/metastatic head and neck cancer",
+  "arms": [
+   {"arm_name": "Arm A (Platinum-doublet chemotherapy alone)", "designation": "control", "evidence": "a platinum-based chemotherapy doublet with or without bevacizumab"},
+   {"arm_name": "Arm B (Platinum-doublet chemotherapy plus Bevacizumab)", "designation": "intervention", "evidence": "We evaluated the addition of bevacizumab ... to platinum-based chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31645288 CT_Summary_SoE.pdf",
+  "pmid": "31645288",
+  "trial_design_summary": "Regional anaesthesia-analgesia vs general anaesthesia with opioids for breast cancer recurrence",
+  "arms": [
+   {"arm_name": "General Anesthesia and Opioid Analgesia", "designation": "control", "evidence": "lower with regional anaesthesia-analgesia ... than with general anaesthesia with the volatile anaesthetic sevoflurane and opioid analgesia"},
+   {"arm_name": "Regional Anesthesia and Analgesia", "designation": "intervention", "evidence": "breast cancer recurrence after potentially curative surgery is lower with regional anaesthesia-analgesia using paravertebral blocks and the anaesthetic propofol"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31647503 a_Summary_SoE.pdf",
+  "pmid": "31647503",
+  "trial_design_summary": "Pertuzumab added to trastuzumab-docetaxel vs placebo-trastuzumab-docetaxel in ERBB2+ breast cancer",
+  "arms": [
+   {"arm_name": "Arm B (Placebo + Trastuzumab + Docetaxel)", "designation": "control", "evidence": "vs placebo, trastuzumab, and docetaxel in Asian patients"},
+   {"arm_name": "Arm A (Pertuzumab + Trastuzumab + Docetaxel)", "designation": "intervention", "evidence": "To compare the efficacy ... of adding pertuzumab to trastuzumab and docetaxel vs placebo, trastuzumab, and docetaxel"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31679945 a_Summary_SoE.pdf",
+  "pmid": "31679945",
+  "trial_design_summary": "Pembrolizumab alone or with chemo vs cetuximab-chemo standard in recurrent/metastatic HNSCC",
+  "arms": [
+   {"arm_name": "Cetuximab + Platinum + 5-FU (Standard Treatment)", "designation": "control", "evidence": "or cetuximab plus a platinum and 5-fluorouracil (cetuximab with chemotherapy)"},
+   {"arm_name": "Pembrolizumab Monotherapy", "designation": "intervention", "evidence": "randomly allocated (1:1:1) to pembrolizumab alone, pembrolizumab plus a platinum and 5-fluorouracil ... or cetuximab"},
+   {"arm_name": "Pembrolizumab + Platinum + 5-FU", "designation": "intervention", "evidence": "Pembrolizumab alone or with chemotherapy versus cetuximab with chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31693129 CT_Summary_SoE.pdf",
+  "pmid": "31693129",
+  "trial_design_summary": "Head-to-head comparison of three adjuvant bisphosphonates in breast cancer (no designated control)",
+  "arms": [
+   {"arm_name": "Arm 2 (Clodronate)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm 1 (Zoledronic Acid)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm 3 (Ibandronate)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm 3 (Ibandronate)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 31820339 CT_Summary_SoE.pdf",
+  "pmid": "31820339",
+  "trial_design_summary": "Rituximab biosimilar PF-05280586 vs rituximab reference product (MabThera) in follicular lymphoma",
+  "arms": [
+   {"arm_name": "Arm B (rituximab-EU / MabThera)", "designation": "control", "evidence": "versus rituximab reference product sourced from the EU (MabThera; rituximab-EU)"},
+   {"arm_name": "Arm A (PF-05280586 / rituximab-Pfizer)", "designation": "intervention", "evidence": "evaluated the efficacy, safety, immunogenicity ... of PF-05280586 (Ruxience [a rituximab biosimilar]) versus rituximab reference product"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 31935026 a_Summary_SoE.pdf",
+  "pmid": "31935026",
+  "trial_design_summary": "Behavioral vegetable-intake intervention vs control in early-stage prostate cancer",
+  "arms": [
+   {"arm_name": "Arm B (Control Group)", "designation": "control", "evidence": "a control group, which received written information about diet and prostate cancer"},
+   {"arm_name": "Arm A (MEAL Program Intervention)", "designation": "intervention", "evidence": "a counseling behavioral intervention by telephone promoting consumption of 7 or more daily vegetable servings (MEAL intervention)"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32010577 a_Summary_SoE.pdf",
+  "pmid": "32010577",
+  "trial_design_summary": "Bevacizumab biosimilar IBI305 vs bevacizumab plus paclitaxel/carboplatin in nonsquamous NSCLC",
+  "arms": [
+   {"arm_name": "Bevacizumab + Paclitaxel/Carboplatin", "designation": "control", "evidence": "randomized (1:1) into IBI305 or bevacizumab groups"},
+   {"arm_name": "IBI305 + Paclitaxel/Carboplatin", "designation": "intervention", "evidence": "Biosimilar candidate IBI305 plus paclitaxel/carboplatin for the treatment of non-squamous non-small cell lung cancer"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32031887 CT_Summary_SoE.pdf",
+  "pmid": "32031887",
+  "trial_design_summary": "Early integrated palliative and oncology care vs usual oncology care in advanced cancer",
+  "arms": [
+   {"arm_name": "Arm 2 (Standard Oncology Care)", "designation": "control", "evidence": "or usual oncology care (n = 196) at sites through the Alliance for Clinical Trials in Oncology"},
+   {"arm_name": "Arm 1 (Early Palliative Care)", "designation": "intervention", "evidence": "We randomly assigned patients ... to early integrated palliative and oncology care (n = 195) or usual oncology care"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32058845 a_Summary_SoE.pdf",
+  "pmid": "32058845",
+  "trial_design_summary": "Hippocampal-avoidance WBRT plus memantine vs WBRT plus memantine for brain metastases",
+  "arms": [
+   {"arm_name": "Arm 1 (WBRT + Memantine)", "designation": "control", "evidence": "Risk of cognitive failure was significantly lower after HA-WBRT plus memantine versus WBRT plus memantine"},
+   {"arm_name": "Arm 2 (HA-WBRT + Memantine)", "designation": "intervention", "evidence": "Hippocampal avoidance (HA) using intensity-modulated radiotherapy during whole-brain radiotherapy (WBRT) is hypothesized to preserve cognition"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32145827 a_Summary_SoE.pdf",
+  "pmid": "32145827",
+  "trial_design_summary": "Oral etoposide or bleomycin-vincristine (investigational) vs paclitaxel control for AIDS-associated Kaposi sarcoma",
+  "arms": [
+   {"arm_name": "Arm 1C (Paclitaxel plus ART)", "designation": "control", "evidence": "or intravenous paclitaxel (the control arm), together with antiretroviral therapy (ART)"},
+   {"arm_name": "Etoposide plus ART (ET+ART)", "designation": "intervention", "evidence": "either intravenous bleomycin and vincristine or oral etoposide (the investigational arms)"},
+   {"arm_name": "Arm 1A (Etoposide plus ART)", "designation": "intervention", "evidence": "either intravenous bleomycin and vincristine or oral etoposide (the investigational arms)"},
+   {"arm_name": "Arm 1B (Bleomycin and vincristine plus ART)", "designation": "intervention", "evidence": "either intravenous bleomycin and vincristine or oral etoposide (the investigational arms)"}
+  ],
+  "abstract_states_roles": true
+ }
+]

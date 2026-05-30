@@ -1,0 +1,143 @@
+8. N Engl J Med. 2021 Jul 29;385(5):395-405. doi: 10.1056/NEJMoa2104162.
+
+Duration of Adjuvant Aromatase-Inhibitor Therapy in Postmenopausal Breast 
+Cancer.
+
+Gnant M(1), Fitzal F(1), Rinnerthaler G(1), Steger GG(1), Greil-Ressler S(1), 
+Balic M(1), Heck D(1), Jakesz R(1), Thaler J(1), Egle D(1), Manfreda D(1), 
+Bjelic-Radisic V(1), Wieder U(1), Singer CF(1), Melbinger-Zeinitzer E(1), 
+Haslbauer F(1), Sevelda P(1), Trapl H(1), Wette V(1), Wimmer K(1), Gampenrieder 
+SP(1), Bartsch R(1), Kacerovsky-Strobl S(1), Suppan C(1), Brunner C(1), 
+Deutschmann C(1), Soelkner L(1), Fesl C(1), Greil R(1); Austrian Breast and 
+Colorectal Cancer Study Group.
+
+Collaborators: Bago-Horvath Z, Bartsch R, Bolliger M, Devyatko Y, Dubsky P, 
+Exner R, Fitzal F, Forstner H, Frank N, Fuereder T, Gnant M, Helbich T, Hola Z, 
+Hussian D, Jakesz R, Kandioler D, Koennyue A, Konrad S, Korkmaz B, Kauer-Dorner 
+D, Pluschnig U, Poglitsch FA, Rudas M, Schoen-Andres H, Steger GG, 
+Kacerovsky-Strobl S, Urak M, Widder J, Wimmer K, Galid A, Riegler V, Schliegl K, 
+Wieder U, Aiginger P, Blum M, Öhler L, Papala TD, Schlemmer K, Schmidbauer U, 
+Bruns A, Denison U, Dixer B, Duduleanu I, Hnizdo P, Janauer M, Lazar S, 
+Modarressy-Onghaie T, Mossig M, Pichler M, Potzmann S, Promberger-Ott R, Salat 
+J, Schütz ME, Sevelda P, Sevelda F, Siegl S, Thell E, Vavra C, Veneziano N, Vogl 
+K, Wang X, Weigert M, Witschko E, Zant B, Zelger-Hosmann B, Zwick C, Baumhauer 
+D, Grünbeck M, Hofmann M, Hules G, Kovanyi-Holzer B, Renner K, Stiastny M, Bruno 
+V, Fojta C, Gassinger R, Lass H, Maier B, Sartor D, Sevelda U, Tayel O, Arth NM, 
+Bauer D, Hofbauer F, Lang M, Margaritidis M, Mladensich M, Swoboda U, Dubecz S, 
+Herold K, Kaiser E, Klug E, Koller G, Luka F, Prager M, Samek V, Schmaldienst E, 
+Arth NM, Fandl G, Hammerl G, Horvath W, Kalmann M, Luisser I, Pelzmann B, Pirsch 
+S, Jandl W, Holzer M, Holzmüller K, Langer NO, Marcher E, Omann J, Sadjak M, 
+Urbania A, Huber G, Poschinger-Fuchs N, Reichenauer A, Riepl B, Baumgartner G, 
+Kranz A, Melbinger-Zeinitzer E, Prentner F, Rutrecht D, Schug A, Vallant D, 
+Keckstein J, Lanner M, Montoneri C, Tuttlies F, Unterrieder K, Wagner M, 
+Forsthuber EP, Gallob N, Ofner S, Regenfelder A, Wagner W, Rabitsch A, Eckner K, 
+Haider K, Kristandl E, Kwasny W, Lengheimer A, Michlmayr L, Payrits T, Pötscher 
+A, Viragos-Toth I, Punzengruber R, Kretschmer A, Topakian T, Fuchs S, Gunesch A, 
+Lang F, Langebner T, Michlmayr G, Ömer V, Rechberger E, Rinner A, 
+Tschurtschenthaler G, Zöchbauer AC, Fridrik M, Greul R, Hackl J, Hengstschläger 
+A, Hochreiner G, Höflinger N, Morbitzer E, Pfleger B, Steinmaurer G, Urbaniak A, 
+Voskova D, Wahl G, Weggesser T, Wernsdorfer S, Adamski-Kondert E, Baldinger C, 
+Haberfellner H, Heibl C, Heibl S, Koch B, Kühr T, Mayrbäurl B, Pillichshammer S, 
+Piringer G, Pusch R, Reder C, Reisenberger K, Stadlhuber-Treffner I, Thaler J, 
+Trommet V, Wimmer L, Zauner D, Aschauer W, Hinterbuchinger CC, Frim G, Haslbauer 
+F, Langanger M, Wilthoner K, Balcz-Huber B, Erl M, Greil R, Grundbichler M, 
+Kappacher A, Mlineritsch B, Moik M, Romeder F, Rosenlechner S, Schachner M, 
+Stoll M, Webersberger F, Berning S, Heider R, Hettegger A, Holzknecht H, 
+Kepplinger R, Medek B, Pöhl B, Reisch L, Schäfer S, Seidel C, Zeilmann W, 
+Zückert F, Balic MM, Bauernhofer T, Jaritz L, Schaberl-Moser R, Stöger H, Suppan 
+C, Ackerl J, Eberhard N, Fürschuss F, Heinrich K, Herz W, Maderdonner M, 
+Niernberger T, Rabl H, Themel MJ, Bischof G, Kiendler C, Parthl H, Riessner M, 
+Simader H, Bader A, Bjelic-Radisic V, Boandl A, Dorfer M, Frudinger A, Gold D, 
+Greimel UE, Hajdinyak A, Hermann F, Humpel VS, Lerch J, Luschin G, Pfiniß I, 
+Pristauz-Telsnigg G, Schreiner N, Trapp EK, Uitz B, Hartner E, Hojas S, Seewann 
+H, Bergmann N, Dünser MA, Iannetti C, Laimer E, Perathoner A, Schulze E, Siegele 
+B, Unger A, Mühlthaler M, Pointner S, Sandbichler P, Wirtenberger W, Altenburger 
+N, Bermoser K, Gstir JG, Knebelreiter M, Kommes G, Markl A, Pittl T, Rapp E, 
+Wild S, Alicke DS, Felgel-Farnholz C, Spechtenhauser B, Anderl P, Draxler U, 
+Hittler D, Lagger K, Mitterdorfer B, Trost W, Volgger B, Albertini C, Brunner C, 
+Egle D, Hubalek M, Ramoni A, Taucher S, Abendstein B, Haid A, Mathis J, Amann H, 
+Bischofberger K, Buzinkay B, Furtenbach E, Hagen S, Hager C, Hasenburger H, 
+Ludescher K, Moll A, Neunteufel W, Niederer B, Niederkofler M, Pollner-Bereuter 
+R, Poyßl C, Reinstadler E, Riedl C, Schwarzbraun E, Seyr M, Spangenberg M, 
+Wilhelmi-Schwab I, Schmid FX, Stephan H, Binder-Reisinger M, Fehrer HJ, Heck D, 
+Knauer M, Kurz B, Lindlbauer B, Wolf C, Brunner A, Kremer J, Nicka A, Riss P, 
+Sagmeister T, Bachner M, Pleva W, Salem G, Ausch C, Brandstötter R, Bruckner B, 
+Dinböck B, Kalisch D, Perndorfer MC, Nöbauer C, Reichenbach M, Breit-Cerncic A, 
+Edhofer-Rössler N, Lechner C, Leitgeb M, Schmoranzer G, Tögel K, Glas A, Reiner 
+G, Semmler D, Wenzl-Eybl SA, Bauer H, Schwab B, Trapl H, Vedadinejad M, Weibel 
+R, Ackerl RJ, Miller-Pittler P, Peintinger F, Ralph G, Rapp N, Schlagbauer GM, 
+Schmölzer LM, Tamegger A, Hofmann H, Jager O, Jagersberger I, Radl C, Göschl P, 
+Loncsar G, Buxhofer-Ausch V, Dorner S, Etz S, Habertheuer KH, Kitzweger E, 
+Polster I, Ruckser R, Tatzreiter G, Vyhnalik M, Schiffer M, Függer R, Havlicek 
+W, Roth N, Bartl M, Ronaghi F, Stopfer JK, Berger A, Bernhaus A, Domanig M, 
+Hartmann B, Johannides B, Kaltenegger A, Kappler M, Takhti F, Fortelny A, 
+Lilgenau MG, Seitel A, Weisskirchner R, Labuda RB, Magg P, Tiritas U, 
+Blatt-Gunegger M, Grabner O, Gunegger D, Hasibeter M, Hämmerle C, Reisenhofer M, 
+Leitner M, Reindl O, Röblreiter E, Schildberger R, Zeinhofer P, Holzberger P, 
+Mittendorfer H, Hoffmann B, Schleifer M, Jakesz M, Odehnal G, Schrempf B, Dadak 
+C, Taibl B, Diem G, Deutschmann C, Gschwantler-Kaulich D, Kubista E, Seifert M, 
+Singer CF, Manfreda D, Sabitzer W, Renner M, Haar R, Neuhold R, Thiel I, 
+Zehetleitner G, Grabuschnig S, Wette V, Labuda B, Weissinger G, Benedicic B, 
+Hartreil K, Schmid M, Luft P, Oser E, Pöstlberger S, Reifmüller-Grillberger C, 
+Tausch C, Tausch B.
+
+Author information:
+(1)From the Comprehensive Cancer Center (M.G., C.F.S., C.D., F.F., K.W., 
+S.K.-S.), the Department of General Surgery (F.F., K.W., S.K.-S.), the 
+Department of Internal Medicine I, Division of Oncology (G.G.S., R.B.), and the 
+Department of Obstetrics and Gynecology (C.F.S., C.D.), Medical University of 
+Vienna, Austrian Breast and Colorectal Cancer Study Group (M.G., R.J., L.S., 
+C.F.), Breast Care Center, Hanusch Hospital (U.W.), the Department of 
+Gynecology, Hospital Hietzing, and Karl Landsteiner Institute for Gynecological 
+Oncology and Senology (P.S.), Vienna, the Department of Internal Medicine III 
+and Salzburg Cancer Research Institute-Center for Clinical Cancer and Immunology 
+Trials, Paracelsus Medical University Salzburg, Salzburg (G.R., S.G.-R., S.P.G., 
+R.G.), the Departments of Oncology (M.B., C.S.) and Gynecology (V.B.-R.), 
+Medical University Graz, Graz, the Department of Surgery, Ordensklinikum Linz, 
+Linz (D.H.), the Department of Internal Medicine IV, Klinikum Wels-Grieskirchen, 
+Wels (J.T.), the Department of Gynecology, Medical University Innsbruck, 
+Innsbruck (D.E., C.B.), Doctor's Office Manfreda, Klagenfurt (D.M.), the 
+Department of Surgery, Hospital Wolfsberg, Wolfsberg (E.M.-Z.), the Department 
+of Internal Medicine, Hospital Vöcklabruck, Vöcklabruck (F.H.), the Department 
+of Surgery, General Hospital Baden, Baden (H.T.), and the Breast Center, 
+Doctor's Office Wette, Sankt Veit an der Glan (V.W.) - all in Austria; and the 
+Breast Unit, University Hospital Helios, University Witten Herdecke, Wuppertal, 
+Germany (V.B.-R.).
+
+Comment in
+    N Engl J Med. 2021 Jul 29;385(5):462-463. doi: 10.1056/NEJMe2109356.
+    Med. 2021 Sep 10;2(9):996-998. doi: 10.1016/j.medj.2021.08.010.
+
+BACKGROUND: For postmenopausal women with hormone-receptor-positive breast 
+cancer, the most effective duration for adjuvant therapy with an aromatase 
+inhibitor remains unclear.
+METHODS: In this prospective, phase 3 trial, we randomly assigned postmenopausal 
+women with hormone-receptor-positive breast cancer who had received 5 years of 
+adjuvant endocrine therapy to receive the aromatase inhibitor anastrozole for an 
+additional 2 years (2-year group, receiving a total of 7 years) or an additional 
+5 years (5-year group, receiving a total of 10 years). The primary end point was 
+disease-free survival. The primary analysis included all the patients who were 
+still participating in the trial and who had no recurrence 2 years after 
+randomization (i.e., when treatment in the 2-year group had ended). Secondary 
+end points were overall survival, contralateral breast cancer, second primary 
+cancer, and clinical bone fracture.
+RESULTS: Among the 3484 women who were enrolled in the trial, 3208 remained in 
+the trial without disease progression after the first 2 years of extended 
+anastrozole treatment following randomization. Among these women, disease 
+progression or death occurred in 335 women in each treatment group in the 
+primary-analysis set at 8 years (hazard ratio, 0.99; 95% confidence interval 
+[CI], 0.85 to 1.15; P = 0.90). No between-group differences occurred in most 
+secondary end points, and subgroup analyses did not indicate differences in any 
+particular subgroup. The risk of clinical bone fracture was higher in the 5-year 
+group than in the 2-year group (hazard ratio, 1.35; 95% CI, 1.00 to 1.84).
+CONCLUSIONS: In postmenopausal women with hormone-receptor-positive breast 
+cancer who had received 5 years of adjuvant endocrine therapy, extending hormone 
+therapy by 5 years provided no benefit over a 2-year extension but was 
+associated with a greater risk of bone fracture. (Funded by AstraZeneca and the 
+Austrian Breast and Colorectal Cancer Study Group; ABCSG-16/SALSA 
+ClinicalTrials.gov number, NCT00295620.).
+
+Copyright © 2021 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2104162
+PMID: 34320285 [Indexed for MEDLINE]

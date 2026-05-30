@@ -1,0 +1,148 @@
+18. Lancet. 2019 Nov 23;394(10212):1915-1928. doi: 10.1016/S0140-6736(19)32591-7.
+ Epub 2019 Nov 1.
+
+Pembrolizumab alone or with chemotherapy versus cetuximab with chemotherapy for 
+recurrent or metastatic squamous cell carcinoma of the head and neck 
+(KEYNOTE-048): a randomised, open-label, phase 3 study.
+
+Burtness B(1), Harrington KJ(2), Greil R(3), Soulières D(4), Tahara M(5), de 
+Castro G Jr(6), Psyrri A(7), Basté N(8), Neupane P(9), Bratland Å(10), Fuereder 
+T(11), Hughes BGM(12), Mesía R(13), Ngamphaiboon N(14), Rordorf T(15), Wan Ishak 
+WZ(16), Hong RL(17), González Mendoza R(18), Roy A(19), Zhang Y(19), Gumuscu 
+B(19), Cheng JD(19), Jin F(19), Rischin D(20); KEYNOTE-048 Investigators.
+
+Collaborators: Lerzo G, Tatangelo M, Varela M, Zarba JJ, Boyer M, Gan H, Gao B, 
+Hughes B, Mallesara G, Rischin D, Taylor A, Burian M, Fuereder T, Greil R, 
+Barrios CH, de Castro Junior DO, Castro G, Franke FA, Girotto G, Lima IPF, 
+Nicolau UR, Pinto GDJ, Santos L, Victorino AP, Chua N, Couture F, Gregg R, 
+Hansen A, Hilton J, McCarthy J, Soulieres D, Ascui R, Gonzalez P, Villanueva L, 
+Torregroza M, Zambrano A, Holeckova P, Kral Z, Melichar B, Prausova J, Vosmik M, 
+Andersen M, Gyldenkerne N, Jurgens H, Putnik K, Reinikainen P, Gruenwald V, 
+Laban S, Aravantinos G, Boukovinas I, Georgoulias V, Psyrri A, Kwong D, 
+Al-Farhat Y, Csoszi T, Erfan J, Horvai G, Landherr L, Remenar E, Ruzsa A, Szota 
+J, Billan S, Gluck I, Gutfeld O, Popovtzer A, Benasso M, Bui S, Ferrari V, 
+Licitra L, Nole F, Fujii T, Fujimoto Y, Hanai N, Hara H, Matsumoto K, Mitsugi K, 
+Monden N, Nakayama M, Okami K, Oridate N, Shiga K, Shimizu Y, Sugasawa M, Tahara 
+M, Takahashi M, Takahashi S, Tanaka K, Ueda T, Yamaguchi H, Yamazaki T, 
+Yasumatsu R, Yokota T, Yoshizaki T, Kudaba I, Stara Z, Wan Ishak WZ, Cheah SK, 
+Aguilar Ponce J, Gonzalez Mendoza R, Hernandez Hernandez C, Medina Soto F, Buter 
+J, Hoeben A, Oosting S, Suijkerbuijk K, Bratland A, Brydoey M, Alvarez R, Mas L, 
+Caguioa P, Querol J, Regala EE, Tamayo MB, Villegas EM, Kawecki A, Karpenko A, 
+Klochikhin A, Smolin A, Zarubenkov O, Goh BC, Cohen G, du Toit J, Jordaan C, 
+Landers G, Ruff P, Szpak W, Tabane N, Brana I, Iglesias Docampo L, Lavernia J, 
+Mesia R, Abel E, Muratidu V, Nielsen N, Cristina V, Rordorf T, Rothschild S, 
+Hong RL, Wang HM, Yang MH, Yeh SP, Yen CJ, Ngamphaiboon N, Soparattanapaisarn N, 
+Sriuranpong V, Aksoy S, Cicin I, Ekenel M, Harputluoglu H, Ozyilkan O, 
+Harrington K, Agarwala S, Ali H, Alter R, Anderson D, Bruce J, Burtness B, 
+Campbell N, Conde M, Deeken J, Edenfield W, Feldman L, Gaughan E, Goueli B, 
+Halmos B, Hegde U, Hunis B, Jotte R, Karnad A, Khan S, Laudi N, Laux D, 
+Martincic D, McCune S, McGaughey D, Misiukiewicz K, Mulford D, Nadler E, Neupane 
+P, Nunnink J, Ohr J, O'Malley M, Patson B, Paul D, Popa E, Powell S, Redman R, 
+Rella V, Rocha Lima C, Sivapiragasam A, Su Y, Sukari A, Wong S, Yilmaz E, Yorio 
+J.
+
+Author information:
+(1)Yale School of Medicine and Yale Cancer Center, New Haven, CT, USA. 
+Electronic address: barbara.burtness@yale.edu.
+(2)The Institute of Cancer Research and The Royal Marsden NHS Foundation Trust 
+National Institute of Health Research Biomedical Research Centre, London, UK.
+(3)Paracelsus Medical University, Salzburg Cancer Research Institute, Salzburg, 
+Austria; Cancer Cluster Salzburg, Salzburg, Austria.
+(4)Centre Hospitalier de l'Université de Montréal, Montréal, QC, Canada.
+(5)National Cancer Center Hospital East, Kashiwa, Japan.
+(6)Instituto do Cancer do Estado de Sao Paulo, Sao Paulo, Brazil.
+(7)National Kapodistrian University of Athens, Attikon University Hospital, 
+Athens, Greece.
+(8)Vall d'Hebron University Hospital, Barcelona, Spain.
+(9)University of Kansas Medical Center, Kansas City, KS, USA.
+(10)Oslo University Hospital, Oslo, Norway.
+(11)Medical University of Vienna, Vienna, Austria.
+(12)Royal Brisbane and Women's Hospital and University of Queensland, Brisbane, 
+QLD, Australia.
+(13)Catalan Institute of Oncology, Hospitalet de Llobregat, Barcelona, Spain.
+(14)Ramathibodi Hospital, Mahidol University, Bangkok, Thailand.
+(15)University Hospital, Zurich, Switzerland.
+(16)University Malaya, Kuala Lumpur, Malaysia.
+(17)National Taiwan University Hospital, Taipei, Taiwan.
+(18)Unidad de Investigación en Salud, Chihuahua, Mexico.
+(19)Merck & Co, Kenilworth, NJ, USA.
+(20)Peter MacCallum Cancer Centre, Melbourne, VIC, Austrialia; University of 
+Melbourne, Melbourne, VIC, Australia.
+
+Erratum in
+    Lancet. 2020 Jan 25;395(10220):272. doi: 10.1016/S0140-6736(20)30116-1.
+    Lancet. 2020 Feb 22;395(10224):564. doi: 10.1016/S0140-6736(20)30254-3.
+    Lancet. 2021 Jun 12;397(10291):2252. doi: 10.1016/S0140-6736(21)01119-3.
+
+Comment in
+    Lancet. 2019 Nov 23;394(10212):1882-1884. doi: 
+10.1016/S0140-6736(19)32539-5.
+    Nat Rev Clin Oncol. 2020 Feb;17(2):69. doi: 10.1038/s41571-019-0303-4.
+    Oral Oncol. 2020 Jun;105:104762. doi: 10.1016/j.oraloncology.2020.104762.
+    Lancet. 2020 Aug 8;396(10248):378. doi: 10.1016/S0140-6736(20)30903-X.
+    Lancet. 2020 Aug 8;396(10248):378-379. doi: 10.1016/S0140-6736(20)30904-1.
+    Lancet. 2020 Aug 8;396(10248):379. doi: 10.1016/S0140-6736(20)30907-7.
+    Ann Transl Med. 2020 Aug;8(15):975. doi: 10.21037/atm.2020.03.164.
+    Oral Oncol. 2021 Jan;112:104983. doi: 10.1016/j.oraloncology.2020.104983.
+
+BACKGROUND: Pembrolizumab is active in head and neck squamous cell carcinoma 
+(HNSCC), with programmed cell death ligand 1 (PD-L1) expression associated with 
+improved response.
+METHODS: KEYNOTE-048 was a randomised, phase 3 study of participants with 
+untreated locally incurable recurrent or metastatic HNSCC done at 200 sites in 
+37 countries. Participants were stratified by PD-L1 expression, p16 status, and 
+performance status and randomly allocated (1:1:1) to pembrolizumab alone, 
+pembrolizumab plus a platinum and 5-fluorouracil (pembrolizumab with 
+chemotherapy), or cetuximab plus a platinum and 5-fluorouracil (cetuximab with 
+chemotherapy). Investigators and participants were aware of treatment 
+assignment. Investigators, participants, and representatives of the sponsor were 
+masked to the PD-L1 combined positive score (CPS) results; PD-L1 positivity was 
+not required for study entry. The primary endpoints were overall survival (time 
+from randomisation to death from any cause) and progression-free survival (time 
+from randomisation to radiographically confirmed disease progression or death 
+from any cause, whichever came first) in the intention-to-treat population (all 
+participants randomly allocated to a treatment group). There were 14 primary 
+hypotheses: superiority of pembrolizumab alone and of pembrolizumab with 
+chemotherapy versus cetuximab with chemotherapy for overall survival and 
+progression-free survival in the PD-L1 CPS of 20 or more, CPS of 1 or more, and 
+total populations and non-inferiority (non-inferiority margin: 1·2) of 
+pembrolizumab alone and pembrolizumab with chemotherapy versus cetuximab with 
+chemotherapy for overall survival in the total population. The definitive 
+findings for each hypothesis were obtained when statistical testing was 
+completed for that hypothesis; this occurred at the second interim analysis for 
+11 hypotheses and at final analysis for three hypotheses. Safety was assessed in 
+the as-treated population (all participants who received at least one dose of 
+allocated treatment). This study is registered at ClinicalTrials.gov, number 
+NCT02358031.
+FINDINGS: Between April 20, 2015, and Jan 17, 2017, 882 participants were 
+allocated to receive pembrolizumab alone (n=301), pembrolizumab with 
+chemotherapy (n=281), or cetuximab with chemotherapy (n=300); of these, 754 
+(85%) had CPS of 1 or more and 381 (43%) had CPS of 20 or more. At the second 
+interim analysis, pembrolizumab alone improved overall survival versus cetuximab 
+with chemotherapy in the CPS of 20 or more population (median 14·9 months vs 
+10·7 months, hazard ratio [HR] 0·61 [95% CI 0·45-0·83], p=0·0007) and CPS of 1 
+or more population (12·3 vs 10·3, 0·78 [0·64-0·96], p=0·0086) and was 
+non-inferior in the total population (11·6 vs 10·7, 0·85 [0·71-1·03]). 
+Pembrolizumab with chemotherapy improved overall survival versus cetuximab with 
+chemotherapy in the total population (13·0 months vs 10·7 months, HR 0·77 [95% 
+CI 0·63-0·93], p=0·0034) at the second interim analysis and in the CPS of 20 or 
+more population (14·7 vs 11·0, 0·60 [0·45-0·82], p=0·0004) and CPS of 1 or more 
+population (13·6 vs 10·4, 0·65 [0·53-0·80], p<0·0001) at final analysis. Neither 
+pembrolizumab alone nor pembrolizumab with chemotherapy improved 
+progression-free survival at the second interim analysis. At final analysis, 
+grade 3 or worse all-cause adverse events occurred in 164 (55%) of 300 treated 
+participants in the pembrolizumab alone group, 235 (85%) of 276 in the 
+pembrolizumab with chemotherapy group, and 239 (83%) of 287 in the cetuximab 
+with chemotherapy group. Adverse events led to death in 25 (8%) participants in 
+the pembrolizumab alone group, 32 (12%) in the pembrolizumab with chemotherapy 
+group, and 28 (10%) in the cetuximab with chemotherapy group.
+INTERPRETATION: Based on the observed efficacy and safety, pembrolizumab plus 
+platinum and 5-fluorouracil is an appropriate first-line treatment for recurrent 
+or metastatic HNSCC and pembrolizumab monotherapy is an appropriate first-line 
+treatment for PD-L1-positive recurrent or metastatic HNSCC.
+FUNDING: Merck Sharp & Dohme.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(19)32591-7
+PMID: 31679945 [Indexed for MEDLINE]

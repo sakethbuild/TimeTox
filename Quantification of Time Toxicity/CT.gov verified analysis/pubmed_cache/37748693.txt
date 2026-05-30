@@ -1,0 +1,75 @@
+4. J Thorac Oncol. 2024 Feb;19(2):297-313. doi: 10.1016/j.jtho.2023.09.1445. Epub
+ 2023 Sep 24.
+
+Avelumab Versus Platinum-Based Doublet Chemotherapy as First-Line Treatment for 
+Patients With High-Expression Programmed Death-Ligand 1-Positive Metastatic 
+NSCLC: Primary Analysis From the Phase 3 JAVELIN Lung 100 Trial.
+
+Reck M(1), Barlesi F(2), Yang JC(3), Westeel V(4), Felip E(5), Özgüroğlu M(6), 
+Dols MC(7), Sullivan R(8), Kowalski DM(9), Andric Z(10), Lee DH(11), Sezer 
+A(12), Hu P(13), Wang X(13), von Heydebreck A(14), Jacob N(14), Mehr KT(14), 
+Park K(15).
+
+Author information:
+(1)LungenClinic Grosshansdorf, Airway Research Center North, German Center for 
+Lung Research, Grosshansdorf, Germany. Electronic address: 
+m.reck@lungenclinic.de.
+(2)Université Paris Saclay, Faculté de Médecine, Kremlin Bicêtre, France; 
+Medical Oncology department, Gustave Roussy, Villejuif, France; Present Address: 
+Université Paris Saclay, Faculté de Médecine, Kremlin Bicêtre, France; Medical 
+Oncology Department, Gustave Roussy, Villejuif, France.
+(3)National Taiwan University Hospital, Taipei, Taiwan.
+(4)Hôpital Jean Minjoz, Centre hospitalier universitaire de Besançon, UMR1098, 
+Université de Franche, Comté, France.
+(5)Hospital Universitari Vall d'Hebron, Barcelona, Spain.
+(6)Department of Internal Medicine, Division of Medical Oncology, Cerrahpaşa 
+Medical Faculty, Istanbul University-Cerrahpaşa, Istanbul, Turkey.
+(7)Medical Oncology Intercenter Unit, Regional and Virgen de la Victoria 
+University Hospitals, IBIMA, Málaga, Spain; Present address: UGC Intercentros de 
+Oncología Médica, Hospitales Universitarios Regional y Virgen de la Victoria, 
+IBIMA, Málaga, Spain.
+(8)Auckland City Hospital, Auckland, Australia.
+(9)Department of Lung Cancer and Thoracic Tumours, Maria Sklodowska-Curie 
+National Research Institute of Oncology, Warsaw, Poland.
+(10)Clinical Center Bezanijska Kosa, Belgrade, Serbia.
+(11)Asan Medical Center, Seoul, South Korea.
+(12)Baskent University Adana Application and Research Center, Adana, Turkey.
+(13)EMD Serono Research & Development Institute, Inc., Billerica, Massachusetts.
+(14)the healthcare business of Merck KGaA, Darmstadt, Germany.
+(15)Division of Hematology-Oncology, Samsung Medical Center, Sungkyunkwan 
+University School of Medicine, Seoul, South Korea; Present Address: MD Anderson 
+Cancer Center, Houston, Texas.
+
+INTRODUCTION: We report the primary analysis from JAVELIN Lung 100, a phase 3 
+trial comparing avelumab (anti⁠-programmed death-ligand 1 [PD-L1]) versus 
+platinum-based doublet chemotherapy as first-line treatment for PD-L1-positive 
+(+) advanced NSCLC.
+METHODS: Adults with PD-L1+ (≥1% of tumor cells; PD-L1 immunohistochemistry 
+73-10 pharmDx), EGFR and ALK wild-type, previously untreated, stage IV NSCLC 
+were randomized to avelumab 10 mg/kg every 2 weeks (Q2W), avelumab 10 mg/kg once 
+weekly (QW) for 12 weeks and Q2W thereafter, or platinum-based doublet 
+chemotherapy every 3 weeks. Primary end points were overall survival (OS) and 
+progression-free survival (PFS) per independent review committee. The primary 
+analysis population was patients with high-expression PD-L1+ tumors (≥80% of 
+tumor cells).
+RESULTS: A total of 1214 patients were randomized to avelumab Q2W (n = 366), 
+avelumab QW (n = 322), or chemotherapy (n = 526). In the primary analysis 
+population, hazard ratios (HRs) for OS and PFS with avelumab Q2W (n = 151) 
+versus chemotherapy (n = 216) were 0.85 (95% confidence interval [CI]: 
+0.67-1.09; one-sided p = 0.1032; median OS, 20.1 versus 14.9 mo) and 0.71 (95% 
+CI: 0.54-0.93; one-sided p = 0.0070; median PFS, 8.4 versus 5.6 mo), 
+respectively. With avelumab QW (n = 130) versus chemotherapy (n = 129), HRs were 
+0.79 (95% CI: 0.59-1.07; one-sided p = 0.0630; median OS, 19.3 versus 15.3 mo) 
+and 0.72 (95% CI: 0.52-0.98; one-sided p = 0.0196; median PFS, 7.5 versus 5.6 
+mo), respectively. No new safety signals were observed.
+CONCLUSIONS: Longer median OS and PFS were observed with avelumab versus 
+platinum-based doublet chemotherapy in advanced NSCLC, but differences in OS and 
+PFS were not statistically significant, and the trial did not meet its primary 
+objective.
+CLINICALTRIALS: gov Identifier: NCT02576574.
+
+Copyright © 2023 International Association for the Study of Lung Cancer. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jtho.2023.09.1445
+PMID: 37748693 [Indexed for MEDLINE]

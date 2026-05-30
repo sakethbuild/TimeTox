@@ -1,0 +1,48 @@
+4. J Clin Oncol. 2013 Jun 1;31(16):1947-53. doi: 10.1200/JCO.2011.40.5241. Epub 
+2013 Mar 18.
+
+Randomized trial of lapatinib versus placebo added to paclitaxel in the 
+treatment of human epidermal growth factor receptor 2-overexpressing metastatic 
+breast cancer.
+
+Guan Z(1), Xu B, DeSilvio ML, Shen Z, Arpornwirat W, Tong Z, Lorvidhaya V, Jiang 
+Z, Yang J, Makhson A, Leung WL, Russo MW, Newstat B, Wang L, Chen G, Oliva C, 
+Gomez H.
+
+Author information:
+(1)Sun Yat-Sen University Cancer Center, Guangzhou, China. 
+guanzhzh@mail.sysu.edu.cn
+
+Comment in
+    Nat Rev Clin Oncol. 2013 Jun;10(6):312-3. doi: 10.1038/nrclinonc.2013.72.
+    J Clin Oncol. 2013 Nov 20;31(33):4271. doi: 10.1200/JCO.2013.51.0289.
+    J Clin Oncol. 2013 Nov 20;31(33):4272. doi: 10.1200/JCO.2013.52.4520.
+
+PURPOSE: Lapatinib is an oral small-molecule tyrosine kinase inhibitor of both 
+epidermal growth factor receptor and human epidermal growth factor receptor 2 
+(HER2). This study is designed to test whether the addition of lapatinib to 
+paclitaxel improves overall survival (OS) compared with placebo plus paclitaxel 
+in patients with HER2-overexpressing metastatic breast cancer (MBC).
+PATIENTS AND METHODS: This phase III, randomized, double-blind study assessed 
+the efficacy and safety of lapatinib plus paclitaxel compared with placebo plus 
+paclitaxel in patients with newly diagnosed HER2-positive MBC. The primary end 
+point was OS. Secondary end points included progression-free survival (PFS), 
+overall response rate (ORR), clinical benefit rate, and safety.
+RESULTS: The addition of lapatinib to paclitaxel significantly improved OS 
+versus paclitaxel (treatment hazard ratio [HR], 0.74; 95% CI, 0.58 to 0.94; P = 
+.0124); median OS was 27.8 versus 20.5 months, respectively. Median PFS was 
+prolonged by 3.2 months, from 6.5 months with placebo plus paclitaxel to 9.7 
+months with lapatinib plus paclitaxel (HR, 0.52; 95% CI, 0.42 to 0.64; 
+stratified log-rank P < .001). ORR was significantly higher with lapatinib plus 
+paclitaxel compared with placebo plus paclitaxel (69% v 50%, respectively; P < 
+.001). The incidence of grades 3 and 4 diarrhea and neutropenia was higher in 
+the lapatinib plus paclitaxel arm. Only 4% of patients in this group reported 
+febrile neutropenia. Cardiac events were low grade, asymptomatic, and mostly 
+reversible. The incidence of hepatic events was similar in both arms. There were 
+no fatal adverse events in the lapatinib plus paclitaxel arm.
+CONCLUSION: This trial demonstrated that lapatinib combined with paclitaxel 
+offers a significant and clinically meaningful survival advantage over 
+paclitaxel alone in patients with HER2-positive MBC.
+
+DOI: 10.1200/JCO.2011.40.5241
+PMID: 23509322 [Indexed for MEDLINE]

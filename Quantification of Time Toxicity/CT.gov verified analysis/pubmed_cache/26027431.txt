@@ -1,0 +1,84 @@
+16. N Engl J Med. 2015 Jul 2;373(1):23-34. doi: 10.1056/NEJMoa1504030. Epub 2015
+May  31.
+
+Combined Nivolumab and Ipilimumab or Monotherapy in Untreated Melanoma.
+
+Larkin J(1), Chiarion-Sileni V, Gonzalez R, Grob JJ, Cowey CL, Lao CD, 
+Schadendorf D, Dummer R, Smylie M, Rutkowski P, Ferrucci PF, Hill A, Wagstaff J, 
+Carlino MS, Haanen JB, Maio M, Marquez-Rodas I, McArthur GA, Ascierto PA, Long 
+GV, Callahan MK, Postow MA, Grossmann K, Sznol M, Dreno B, Bastholt L, Yang A, 
+Rollin LM, Horak C, Hodi FS, Wolchok JD.
+
+Author information:
+(1)From the Department of Medical Oncology, Royal Marsden Hospital, London 
+(J.L.), and South West Wales Cancer Institute, Singleton Hospital, Swansea 
+(J.W.) - both in the United Kingdom; Melanoma Oncology Unit, Veneto Region 
+Oncology Research Institute, Padua (V.C.-S.), Oncology of Melanoma Unit, 
+European Institute of Oncology, Milan (P.F.F.), University Hospital of Siena, 
+Siena (M.M.), and Istituto Nazionale Tumori Fondazione Pascale, Naples (P.A.A.) 
+- all in Italy; Division of Medical Oncology, University of Colorado, Denver, 
+Denver (R.G.); Aix-Marseille University, Hôpital de La Timone, Assitance 
+Publique-Hôpitaux de Marseille, Marseille (J.J.G.), and Hôtel Dieu Place Alexis 
+Ricordeau, Nantes (B.D.) - both in France; Baylor Charles A. Sammons Cancer 
+Center, Dallas (C.L.C.); Departments of Internal Medicine and Dermatology, 
+University of Michigan, Ann Arbor (C.D.L.); Department of Dermatology, 
+University of Essen, Essen, Germany (D.S.); University of Zürich Hospital, 
+Zurich, Switzerland (R.D.); Cross Cancer Institute, Edmonton, AB, Canada (M. 
+Smylie); Maria Sklodowska-Curie Memorial Cancer Center and Institute of 
+Oncology, Warsaw, Poland (P.R.); Tasman Oncology Research, Southport Gold Coast, 
+QLD (A.H.), and Westmead and Blacktown Hospitals (M.S.C.) and Melanoma Institute 
+Australia (M.S.C., G.V.L.), University of Sydney, and the Mater Hospital 
+(G.V.L.), Sydney, and Peter MacCallum Cancer Centre and University of Melbourne, 
+Melbourne, VIC (G.A.M.) - all in Australia; Division of Medical Oncology, the 
+Netherlands Cancer Institute, Amsterdam (J.B.H.); Servicio de Oncología Médica, 
+Hospital General Universitario Gregorio Marañón, Madrid (I.M.-R.); Ludwig 
+Center, Memorial Sloan Kettering Cancer Center (M.K.C., M.A.P., J.D.W.) and 
+Weill Cornell Medical College (M.K.C., M.A.P., J.D.W.) - both in New York; 
+Huntsman Cancer Institute, University of Utah, Salt Lake City (K.G.); Yale 
+Cancer Center, Smilow Cancer Hospital of the Yale-New Haven Hospital, Yale 
+University Sc
+
+Erratum in
+    N Engl J Med. 2018 Nov 29;379(22):2185. doi: 10.1056/NEJMx180040.
+
+Comment in
+    BMJ. 2015 Jun 01;350:h2993. doi: 10.1136/bmj.h2993.
+    Nat Rev Clin Oncol. 2015 Aug;12(8):435. doi: 10.1038/nrclinonc.2015.112.
+    N Engl J Med. 2015 Sep 24;373(13):1270-1. doi: 10.1056/NEJMc1509660.
+    N Engl J Med. 2015 Sep 24;373(13):1270. doi: 10.1056/NEJMc1509660.
+    JCO Clin Cancer Inform. 2023 Sep;7:e2300132. doi: 10.1200/CCI.23.00132.
+
+BACKGROUND: Nivolumab (a programmed death 1 [PD-1] checkpoint inhibitor) and 
+ipilimumab (a cytotoxic T-lymphocyte-associated antigen 4 [CTLA-4] checkpoint 
+inhibitor) have been shown to have complementary activity in metastatic 
+melanoma. In this randomized, double-blind, phase 3 study, nivolumab alone or 
+nivolumab plus ipilimumab was compared with ipilimumab alone in patients with 
+metastatic melanoma.
+METHODS: We assigned, in a 1:1:1 ratio, 945 previously untreated patients with 
+unresectable stage III or IV melanoma to nivolumab alone, nivolumab plus 
+ipilimumab, or ipilimumab alone. Progression-free survival and overall survival 
+were coprimary end points. Results regarding progression-free survival are 
+presented here.
+RESULTS: The median progression-free survival was 11.5 months (95% confidence 
+interval [CI], 8.9 to 16.7) with nivolumab plus ipilimumab, as compared with 2.9 
+months (95% CI, 2.8 to 3.4) with ipilimumab (hazard ratio for death or disease 
+progression, 0.42; 99.5% CI, 0.31 to 0.57; P<0.001), and 6.9 months (95% CI, 4.3 
+to 9.5) with nivolumab (hazard ratio for the comparison with ipilimumab, 0.57; 
+99.5% CI, 0.43 to 0.76; P<0.001). In patients with tumors positive for the PD-1 
+ligand (PD-L1), the median progression-free survival was 14.0 months in the 
+nivolumab-plus-ipilimumab group and in the nivolumab group, but in patients with 
+PD-L1-negative tumors, progression-free survival was longer with the combination 
+therapy than with nivolumab alone (11.2 months [95% CI, 8.0 to not reached] vs. 
+5.3 months [95% CI, 2.8 to 7.1]). Treatment-related adverse events of grade 3 or 
+4 occurred in 16.3% of the patients in the nivolumab group, 55.0% of those in 
+the nivolumab-plus-ipilimumab group, and 27.3% of those in the ipilimumab group.
+CONCLUSIONS: Among previously untreated patients with metastatic melanoma, 
+nivolumab alone or combined with ipilimumab resulted in significantly longer 
+progression-free survival than ipilimumab alone. In patients with PD-L1-negative 
+tumors, the combination of PD-1 and CTLA-4 blockade was more effective than 
+either agent alone. (Funded by Bristol-Myers Squibb; CheckMate 067 
+ClinicalTrials.gov number, NCT01844505.).
+
+DOI: 10.1056/NEJMoa1504030
+PMCID: PMC5698905
+PMID: 26027431 [Indexed for MEDLINE]

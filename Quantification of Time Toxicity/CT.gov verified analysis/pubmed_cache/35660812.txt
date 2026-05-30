@@ -1,0 +1,123 @@
+4. N Engl J Med. 2022 Jul 14;387(2):132-147. doi: 10.1056/NEJMoa2204925. Epub
+2022  Jun 5.
+
+Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma.
+
+Richardson PG(1), Jacobus SJ(1), Weller EA(1), Hassoun H(1), Lonial S(1), Raje 
+NS(1), Medvedova E(1), McCarthy PL(1), Libby EN(1), Voorhees PM(1), Orlowski 
+RZ(1), Anderson LD Jr(1), Zonder JA(1), Milner CP(1), Gasparetto C(1), Agha 
+ME(1), Khan AM(1), Hurd DD(1), Gowin K(1), Kamble RT(1), Jagannath S(1), 
+Nathwani N(1), Alsina M(1), Cornell RF(1), Hashmi H(1), Campagnaro EL(1), 
+Andreescu AC(1), Gentile T(1), Liedtke M(1), Godby KN(1), Cohen AD(1), Openshaw 
+TH(1), Pasquini MC(1), Giralt SA(1), Kaufman JL(1), Yee AJ(1), Scott E(1), Torka 
+P(1), Foley A(1), Fulciniti M(1), Hebert K(1), Samur MK(1), Masone K(1), Maglio 
+ME(1), Zeytoonjian AA(1), Nadeem O(1), Schlossman RL(1), Laubach JP(1), 
+Paba-Prada C(1), Ghobrial IM(1), Perrot A(1), Moreau P(1), Avet-Loiseau H(1), 
+Attal M(1), Anderson KC(1), Munshi NC(1); DETERMINATION Investigators.
+
+Collaborators: Richardson PG, Nadeem O, Schlossman RL, Laubach JP, Paba-Prada C, 
+Ghobrial IM, Anderson KC, Munshi NC, Hassoun H, Lonial S, Kaufman JL, Nooka AK, 
+Raje NS, Yee AJ, Medvedova E, Scott E, McCarthy PL, Torka P, Libby EN, Voorhees 
+PM, Reeves B, Orlowski RZ, Wang M, Anderson LD Jr, Zonder JA, Milner CP, Buck T, 
+Gasparetto C, Long G, Agha M, Khan A, Efebera YA, Hurd DD, Rodriguez Valdes C, 
+Gowin K, Anwer F, Agarwal A, Kamble RT, Jagannath S, Nathwani N, Krishnan A, 
+Alsina M, Cornell RF, Savona MR, Hashmi H, Chhabra S, Campagnaro E, Couriel D, 
+Andreescu AA, Openshaw T, Gentile T, Liedtke M, Godby KN, Innis-Shelton RD, 
+Cohen AD, Basile F, Avigan D, Davis C, Costello C, Matous J, Friedman R, Wolf J, 
+Nathan S, Kreislew W, Jakubowiak A, Himenz J, Fung H, Weckstein D, Becker M, 
+Lentzsch S, Lazarus H.
+
+Author information:
+(1)From the Department of Medical Oncology, Dana-Farber Cancer Institute, Jerome 
+Lipper Multiple Myeloma Center (P.G.R., M.F., M.K.S., K.M., M.E.M., A.A.Z., 
+O.N., R.L.S., J.P.L., C.P.-P., I.M.G., K.C.A., N.C.M.), the Department of Data 
+Science, Dana-Farber Cancer Institute (S.J.J., K.H.), the Division of Hematology 
+and Oncology, Boston Children's Hospital (E.A.W.), the Center for Multiple 
+Myeloma, Massachusetts General Hospital (N.S.R., A.J.Y.), Harvard Medical School 
+(P.G.R., S.J.J., E.A.W., N.S.R., A.J.Y.. M.F., K.H., M.K.S., K.M., M.E.M., 
+A.A.Z., O.N., R.L.S., J.P.L., C.P.-P., I.M.G., K.C.A., N.C.M.), and the Veterans 
+Affairs Boston Healthcare System (N.C.M.), Boston, and the Department of Medical 
+Oncology, Davenport-Mugar Cancer Center, Cape Cod Hospital, Hyannis (T.H.O.) - 
+all in Massachusetts; Myeloma Service, the Department of Medicine, Memorial 
+Sloan Kettering Cancer Center (H. Hassoun, S.A.G.), and the Division of 
+Hematology and Medical Oncology, Icahn School of Medicine at Mount Sinai (S.J.), 
+New York, the Department of Medicine, Roswell Park Comprehensive Cancer Center, 
+Buffalo (P.L.M., P.T.), and State University of New York Upstate Medical 
+University, Syracuse (T.G.) - all in New York; the Winship Cancer Institute of 
+Emory University, Atlanta (S.L., J.L.K.); Knight Cancer Institute, Oregon Health 
+and Science University, Portland (E.M., E.S.); the Division of Medical Oncology 
+and Fred Hutchinson Cancer Research Center, University of Washington, Seattle 
+(E.N.L.); the Department of Hematologic Oncology and Blood Disorders, Levine 
+Cancer Institute, Atrium Health, Charlotte (P.M.V.), Duke University Medical 
+Center, Durham (C.G.), and the Hematology and Oncology-Cancer Center, Atrium 
+Health Wake Forest Baptist Medical Center, Winston-Salem (D.D.H.) - all in North 
+Carolina; the Department of Lymphoma and Myeloma, University of Texas M.D. 
+Anderson Cancer Center (R.Z.O.), and Center for Cell and Gene Therapy, Baylor 
+College of Medicine and Houston Methodist Hospital (R.T.K.), Houston, and 
+Myeloma, Waldenstrom's, and Amyloidosis Program, Simmons Comprehensive Cancer 
+Center, University of Texas Southwestern Medical Center, Dallas (L.D.A.) - all 
+in Texas; the Barbara Ann Karmanos Cancer Institute, Wayne State University 
+School of Medicine, Detroit (J.A.Z.), and the Division of Hematology and 
+Oncology, Department of Internal Medicine, University of Michigan, Ann Arbor 
+(E.L.C.) - both in Michigan; the Division of Hematology and Oncology, University 
+of Mississippi Medical Center, Jackson (C.P.M.); University of Pittsburgh 
+Medical Center Hillman Cancer Center, Pittsburgh (M.E.A.), and the Abramson 
+Cancer Center, University of Pennsylvania, Philadelphia (A.D.C.) - both in 
+Pennsylvania; the Division of Hematology, Ohio State University Comprehensive 
+Cancer Center, Columbus (A.M.K.); the Department of Bone Marrow Transplant and 
+Cellular Therapy, University of Arizona, Tucson (K.G.); Judy and Bernard Briskin 
+Center for Multiple Myeloma Research, City of Hope Comprehensive Cancer Center, 
+Duarte (N.N.), and the Department of Medicine, Division of Hematology, Stanford 
+University, Stanford (M.L.) - both in California; the Department of Blood and 
+Marrow Transplant and Cellular Immunotherapy, H. Lee Moffitt Cancer Center and 
+Research Institute, Tampa, Florida (M. Alsina); Vanderbilt University Medical 
+Center, Nashville (R.F.C.); the Division of Hematology Oncology, Medical 
+University of South Carolina, Charleston (H. Hashmi); Northern Light Eastern 
+Maine Medical Center Cancer Care, Brewer (A.C.A.), and the Cancer Care Center of 
+Maine, Bangor (T.H.O.); O'Neal Comprehensive Cancer Center, the University of 
+Alabama at Birmingham, Birmingham (K.N.G.); the Center for International Blood 
+and Marrow Transplant Research (CIBMTR), Division of Hematology and Oncology, 
+Department of Medicine, Medical College of Wisconsin, Milwaukee (M.C.P.); the 
+National Marrow Donor Program, CIBMTR, Minneapolis (A.F.); and the Department of 
+Hematology (A.P., M. Attal) and Unit for Genomics in Myeloma (H.A.-L.), Institut 
+Universitaire du Cancer de Toulouse-Oncopole, University Hospital, Toulouse, and 
+the Department of Hematology, University Hospital Hôtel-Dieu, Nantes (P.M.) - 
+both in France.
+
+Comment in
+    Expert Rev Hematol. 2023 Jul-Dec;16(8):561-563. doi: 
+10.1080/17474086.2023.2227789.
+
+BACKGROUND: In patients with newly diagnosed multiple myeloma, the effect of 
+adding autologous stem-cell transplantation (ASCT) to triplet therapy 
+(lenalidomide, bortezomib, and dexamethasone [RVD]), followed by lenalidomide 
+maintenance therapy until disease progression, is unknown.
+METHODS: In this phase 3 trial, adults (18 to 65 years of age) with symptomatic 
+myeloma received one cycle of RVD. We randomly assigned these patients, in a 1:1 
+ratio, to receive two additional RVD cycles plus stem-cell mobilization, 
+followed by either five additional RVD cycles (the RVD-alone group) or high-dose 
+melphalan plus ASCT followed by two additional RVD cycles (the transplantation 
+group). Both groups received lenalidomide until disease progression, 
+unacceptable side effects, or both. The primary end point was progression-free 
+survival.
+RESULTS: Among 357 patients in the RVD-alone group and 365 in the 
+transplantation group, at a median follow-up of 76.0 months, 328 events of 
+disease progression or death occurred; the risk was 53% higher in the RVD-alone 
+group than in the transplantation group (hazard ratio, 1.53; 95% confidence 
+interval [CI], 1.23 to 1.91; P<0.001); median progression-free survival was 46.2 
+months and 67.5 months. The percentage of patients with a partial response or 
+better was 95.0% in the RVD-alone group and 97.5% in the transplantation group 
+(P = 0.55); 42.0% and 46.8%, respectively, had a complete response or better 
+(P = 0.99). Treatment-related adverse events of grade 3 or higher occurred in 
+78.2% and 94.2%, respectively; 5-year survival was 79.2% and 80.7% (hazard ratio 
+for death, 1.10; 95% CI, 0.73 to 1.65).
+CONCLUSIONS: Among adults with multiple myeloma, RVD plus ASCT was associated 
+with longer progression-free survival than RVD alone. No overall survival 
+benefit was observed. (Funded by the National Heart, Lung, and Blood Institute 
+and others; DETERMINATION ClinicalTrials.gov number, NCT01208662.).
+
+Copyright © 2022 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2204925
+PMCID: PMC10040899
+PMID: 35660812 [Indexed for MEDLINE]

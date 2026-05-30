@@ -1,0 +1,182 @@
+14. Lancet. 2023 Jan 28;401(10373):269-280. doi: 10.1016/S0140-6736(22)02036-0.
+
+Momelotinib versus danazol in symptomatic patients with anaemia and 
+myelofibrosis (MOMENTUM): results from an international, double-blind, 
+randomised, controlled, phase 3 study.
+
+Verstovsek S(1), Gerds AT(2), Vannucchi AM(3), Al-Ali HK(4), Lavie D(5), 
+Kuykendall AT(6), Grosicki S(7), Iurlo A(8), Goh YT(9), Lazaroiu MC(10), Egyed 
+M(11), Fox ML(12), McLornan D(13), Perkins A(14), Yoon SS(15), Gupta V(16), 
+Kiladjian JJ(17), Granacher N(18), Lee SE(19), Ocroteala L(20), Passamonti 
+F(21), Harrison CN(13), Klencke BJ(22), Ro S(22), Donahue R(22), Kawashima 
+J(22), Mesa R(23); MOMENTUM Study Investigators.
+
+Collaborators: Abulafia AS, Al-Ali HK, Andreasson B, Angona A, Ayala R, Bang SM, 
+Bank B, Barraco F, Beggiato E, Benghiat FS, Bonifacio M, Bories C, Borsaru G, 
+Brabrand M, Braester A, Broliden A, Buxhofer-Ausch V, Cambier N, Caramella M, 
+Carpentier B, Cascavilla N, Castellano MG, Chang H, Chen CC, Cheong JW, Choi Y, 
+Choi P, Corsetti MT, Cuadrado IM, Cunningham J, Damaj GL, De Stefano V, Delage 
+R, Delgado RG, Diaz JMT, Dombi P, Dubruille V, Egyed M, El Fassi D, 
+Elinder-Camburn A, Elli EM, Ellis M, Fava C, Fazal S, Fleischman A, Foltz L, Fox 
+L, Gabrail N, Garcĺa-Gutiérrez JV, Gerds A, Girault S, Gisslinger H, Gluvacov A, 
+Goh YT, Göthert J, Granacher N, Grosicki S, Gupta V, Hadjiev Hadzhiev EE, 
+Hafraoui K, Hamed A, Harrison C, Hasselbalch H, Hauser H, Heaney M, Hebart H, 
+Hernandez Rivas JM, Higuero Saavedra V, Hillis C, Hou HA, How J, Huang D, Hus M, 
+Illés A, Isidori A, Iurlo A, Ivanov V, Johansson P, Jung CW, Kiladjian JJ, 
+Kirgner I, Koren-Michowitz M, Koschmieder S, Kosztolanyi SO, Kreiniz N, 
+Kuykendall A, Lambert J, Laribi K, Lascaux A, Lavie N, Lavie D, Lazaroiu M, 
+Leahy M, Lech-Maranda E, Lee SE, Lee WS, Legrand O, Lemoli R, Liang J, Lim SN, 
+Loschi M, Lucchesi A, Macarie I, Marolleau JP, Martelli M, Mayer J, McCloskey J, 
+McDermott C, McLornan D, McMahon B, Mehta P, Mesa R, Mikala G, Milojkovic D, 
+Mineur P, Mishchenko E, Moon JH, Nagy Z, Narayanan S, O'Connell C, Ocroteala L, 
+Oh S, Ojeda-Uribe M, Ong KH, Otegbeye F, Palmer J, Pane F, Passamonti F, 
+Patriarca A, Perkins A, Pietrantuono G, Plander M, Platzbecker U, Prasad R, 
+Prejzner W, Rachow T, Radinoff A, Rejtő L, Rinaldi C, Robak T, Rodriguez MAF, 
+Ronson A, Ross D, Sacha T, Sadjadian P, Salar A, Santillana GS, Scheid C, 
+Schmidt A, Severinsen MT, Stoeva V, Szwedyk P, Tiribelli M, Trautmann-Grill K, 
+Trottier A, Tzvetkov N, van Droogenbroeck J, Vannucchi A, Verstovsek S, Vianelli 
+N, von Bubnoff N, Wolf D, Woszczyk D, Woźny T, Wróbel T, Xicoy B, Yeh SP, Yoon 
+SS.
+
+Author information:
+(1)Department of Leukemia, The University of Texas MD Anderson Cancer Center, 
+Houston, TX, USA. Electronic address: sverstov@mdanderson.org.
+(2)Department of Hematology and Medical Oncology, Cleveland Clinic Taussig 
+Cancer Institute, Cleveland, OH, USA.
+(3)Department of Hematology, University of Florence, Florence, Italy; Center of 
+Research and Innovation of Myeloproliferative Neoplasms, AOU Careggi, Florence, 
+Italy.
+(4)Krukenberg Cancer Center, University Hospital of Halle, Halle, Germany.
+(5)Department of Hematology and Bone Marrow Transplantation, Hadassah-Hebrew 
+University Medical Center, Jerusalem, Israel.
+(6)Department of Malignant Hematology, Moffitt Cancer Center, Tampa, FL, USA.
+(7)Department of Hematology and Cancer Prevention, Medical University of 
+Silesia, Katowice, Poland.
+(8)Hematology Division, Foundation IRCCS Ca' Granda Ospedale Maggiore 
+Policlinico, Milan, Italy.
+(9)Department of Haematology, Singapore General Hospital, Singapore.
+(10)Department of Hematology, Policlinica de Diagnostic Rapid Brasov, Brasov, 
+Romania.
+(11)Department of Hematology, Somogy County Mór Kaposi General Hospital, 
+Kaposvár, Hungary.
+(12)Vall d'Hebron Institute of Oncology, University Hospital Vall d'Hebron, 
+Barcelona, Spain.
+(13)Department of Haematology, Guy's and St Thomas' NHS Foundation Trust, 
+London, UK.
+(14)Department of Haematology, Alfred Hospital, Monash University, Melbourne, 
+Australia.
+(15)Department of Internal Medicine, Seoul National University College of 
+Medicine, Seoul National University Hospital, Seoul, South Korea.
+(16)Department of Medicine, Princess Margaret Cancer Centre, Toronto, ON, 
+Canada.
+(17)Université de Paris, AP-HP, Hoôpital Saint-Louis, Centre d'Investigations 
+Cliniques, INSERM, CIC1427, Paris, France.
+(18)Department of Hematology, Ziekenhuis Netwerk Antwerpen, Antwerp, Belgium.
+(19)Department of Laboratory Medicine, Seoul St Mary's Hospital, College of 
+Medicine, Catholic University of Korea, Seoul, South Korea.
+(20)Filantropia Hospital, Craiova, Romania.
+(21)Department of Medicine and Surgery, University of Insubria, Varese, Italy.
+(22)Sierra Oncology, San Mateo, CA, USA.
+(23)Mays Cancer Center, UT Health San Antonio MD Anderson, San Antonio, TX, USA.
+
+Erratum in
+    Lancet. 2023 Apr 29;401(10386):1426. doi: 10.1016/S0140-6736(23)00819-X.
+    Lancet. 2023 Dec 9;402(10418):2196. doi: 10.1016/S0140-6736(23)02708-3.
+
+Comment in
+    Lancet. 2023 Jan 28;401(10373):248-249. doi: 10.1016/S0140-6736(23)00171-X.
+
+BACKGROUND: Janus kinase (JAK) inhibitors approved for myelofibrosis provide 
+spleen and symptom improvements but do not meaningfully improve anaemia. 
+Momelotinib, a first-in-class inhibitor of activin A receptor type 1 as well as 
+JAK1 and JAK2, has shown symptom, spleen, and anaemia benefits in myelofibrosis. 
+We aimed to confirm the differentiated clinical benefits of momelotinib versus 
+the active comparator danazol in JAK-inhibitor-exposed, symptomatic patients 
+with anaemia and intermediate-risk or high-risk myelofibrosis.
+METHODS: MOMENTUM is an international, double-blind, randomised, controlled, 
+phase 3 study that enrolled patients at 107 sites across 21 countries worldwide. 
+Eligible patients were 18 years or older with a confirmed diagnosis of primary 
+myelofibrosis or post-polycythaemia vera or post-essential thrombocythaemia 
+myelofibrosis. Patients were randomly assigned (2:1) to receive momelotinib (200 
+mg orally once per day) plus danazol placebo (ie, the momelotinib group) or 
+danazol (300 mg orally twice per day) plus momelotinib placebo (ie, the danazol 
+group), stratified by total symptom score (TSS; <22 vs ≥22), spleen size (<12 cm 
+vs ≥12 cm), red blood cell or whole blood units transfused in the 8 weeks before 
+randomisation (0 units vs 1-4 units vs ≥5 units), and study site. The primary 
+endpoint was the Myelofibrosis Symptom Assessment Form (MFSAF) TSS response rate 
+at week 24 (defined as ≥50% reduction in mean MFSAF TSS over the 28 days 
+immediately before the end of week 24 compared with baseline). MOMENTUM is 
+registered with ClinicalTrials.gov, number NCT04173494, and is active but not 
+recruiting.
+FINDINGS: 195 patients were randomly assigned to either the momelotinib group 
+(130 [67%]) or danazol group (65 [33%]) and received study treatment in the 
+24-week randomised treatment period between April 24, 2020, and Dec 3, 2021. A 
+significantly greater proportion of patients in the momelotinib group reported a 
+50% or more reduction in TSS than in the danazol group (32 [25%] of 130 vs six 
+[9%] of 65; proportion difference 16% [95% CI 6-26], p=0·0095). The most 
+frequent grade 3 or higher treatment-emergent adverse events with momelotinib 
+and danazol were haematological abnormalities by laboratory values: anaemia (79 
+[61%] of 130 vs 49 [75%] of 65) and thrombocytopenia (36 [28%] vs 17 [26%]). The 
+most frequent non-haematological grade 3 or higher treatment-emergent adverse 
+events with momelotinib and danazol were acute kidney injury (four [3%] of 130 
+vs six [9%] of 65) and pneumonia (three [2%] vs six [9%]).
+INTERPRETATION: Treatment with momelotinib, compared with danazol, resulted in 
+clinically significant improvements in myelofibrosis-associated symptoms, 
+anaemia measures, and spleen response, with favourable safety. These findings 
+support the future use of momelotinib as an effective treatment in patients with 
+myelofibrosis, especially in those with anaemia.
+FUNDING: Sierra Oncology.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(22)02036-0
+PMID: 36709073 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests SV reports consulting 
+fees from Bristol Myers Squibb/Celgene, Incyte, Novartis, and Sierra Oncology. 
+ATG reports consulting fees from AbbVie, Bristol Myers Squibb, 
+Constellation/MorphoSys, CTI Biopharma, Novartis, Pharma Essentia, and Sierra 
+Oncology. ATK reports grants from AbbVie, Bristol Myers Squibb, Prelude, and 
+Sierra; consulting fees from AbbVie and Prelude; honoraria from Bristol Myers 
+Squibb, Incyte, and Novartis; and participation on a data safety monitoring 
+board or advisory board for AbbVie, Bristol Myers Squibb, CTI Biopharma, Geron, 
+Imago, and Incyte. MLF reports payment for expert testimony from OncLive; 
+meeting attendance or travel support from Novartis; and participation on a data 
+safety monitoring board or advisory board for Bristol Myers Squibb, Novartis, 
+and Sierra Oncology. DM reports research grants from Bristol Myers 
+Squibb/Celgene, and Constellation Biopharma; honoraria from AbbVie, Celgene, 
+Jazz, and Novartis; meeting attendance or travel support from Jazz; 
+participation on a data safety monitoring board or advisory board for the 
+ALL-RIC study; and leadership role with the European Society of Hematology and 
+the EBMT Chronic Malignancies Working Party. AP reports honoraria, meeting 
+attendance and travel support, and participation on an advisory board from 
+Novartis Oncology. S-SY reports research grants from Kyowa Kirin and 
+Roche/Genentech; consulting fees from Astellas, Amgen, Antengene, and Celgene; 
+and honoraria from Novartis. VG reports consulting fees from AbbVie, Bristol 
+Myers Squibb/Celgene, Constellation Biopharma, Novartis, Pfizer, and Sierra 
+Oncology; honoraria from Bristol Myers Squibb, Constellation Biopharma, and 
+Novartis; and participation on data safety monitoring board or advisory board 
+for AbbVie, Bristol Myers Squibb/Celgene, Pfizer, and Roche. J-JK reports 
+honoraria from Novartis; participation on a data safety monitoring board or 
+advisory board for AbbVie, Bristol Myers Squibb, Incyte, and Novartis. NG 
+reports consulting fees from Alexion, Bristol Myers Squibb/Celgene, Incyte, and 
+Novartis; honoraria from Bristol Myers Squibb/Celgene, Janssen, and Novartis; 
+leadership or fiduciary role for Alexion, Incyte, and Novartis; and meeting 
+attendance or travel support from AbbVie, Genzyme, and Sanofi. FP reports 
+research grant from Bristol Myers Squibb/Celgene; consulting fees from AbbVie, 
+APO, Bristol Myers Squibb/Celgene, Karyopharm, Kyowa Kirin, MEI, Novartis, and 
+Roche; and honoraria from Bristol Myers Squibb/Celgene, Janssen, and Novartis. 
+CNH reports grant support from Bristol Myers Squibb/Celgene, Constellation 
+Biopharma, and Novartis; consulting fees from AOP, Galecto, Keros, and Roche; 
+honoraria from AbbVie, Celgene, Constellation Biopharma, CTI Biopharma, Janssen, 
+and Novartis; participation in data safety monitoring board or advisory board 
+for AbbVie, AOP, CTI Biopharma, Geron, Promedior, Roche, and Sierra Oncology; 
+and leadership or fiduciary role in the European Hematology Association and MPN 
+Voice. BJK, SR, and RD report employment and stock or stock options at Sierra 
+Oncology. JK reports employment and stock or stock options at Sierra Oncology 
+and former employment and stock and stock options from Gilead. RM reports 
+research grants from AbbVie, Celgene, CTI Biopharma, Constellation Biopharma, 
+Genotech, Incyte, Promedior, Samus, and the Mays Cancer Center P30 Cancer Center 
+Support Grant from the National Cancer Institute (CA054174); and consulting fees 
+from Constellation Biopharma, LaJolla, Novartis, and Sierra Oncology. All other 
+authors declare no competing interests.

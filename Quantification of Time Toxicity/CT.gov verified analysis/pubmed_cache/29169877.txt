@@ -1,0 +1,110 @@
+8. Lancet Oncol. 2018 Jan;19(1):101-114. doi: 10.1016/S1470-2045(17)30694-0. Epub
+ 2017 Nov 20.
+
+Cetuximab plus carboplatin and paclitaxel with or without bevacizumab versus 
+carboplatin and paclitaxel with or without bevacizumab in advanced NSCLC (SWOG 
+S0819): a randomised, phase 3 study.
+
+Herbst RS(1), Redman MW(2), Kim ES(3), Semrad TJ(4), Bazhenova L(5), Masters 
+G(6), Oettel K(7), Guaglianone P(8), Reynolds C(9), Karnad A(10), Arnold SM(11), 
+Varella-Garcia M(12), Moon J(2), Mack PC(4), Blanke CD(13), Hirsch FR(12), Kelly 
+K(4), Gandara DR(4).
+
+Author information:
+(1)Yale Cancer Center, Yale School of Medicine, New Haven, CT, USA. Electronic 
+address: roy.herbst@yale.edu.
+(2)Southwest Oncology Group (SWOG) Statistical Center and Clinical 
+Biostatistics, Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+(3)Levine Cancer Institute, Carolinas Healthcare System, Charlotte, NC, USA.
+(4)University of California Davis Comprehensive Cancer Center, Sacramento, CA, 
+USA.
+(5)Moores Cancer Center, University of California, San Diego, San Diego, CA, 
+USA.
+(6)Christiana Care Health Systems, Helen F Graham Cancer Center and Research 
+Institute, Wilmington, DE, USA.
+(7)Wisconsin National Cancer Institute Community Oncology Research Program 
+(NCORP), Gundersen Health System, LaCrosse, WI, USA.
+(8)Heartland Cancer Research NCORP, Cancer Care Specialists of Central Illinois, 
+Decatur, IL, USA.
+(9)Michigan Cancer Research Consortium NCORP, St Joseph Mercy Health System, Ann 
+Arbor, MI, USA.
+(10)University of Texas Health Science Center at San Antonio, San Antonio, TX, 
+USA.
+(11)Markey Cancer Center, University of Kentucky, Lexington, KY, USA.
+(12)Department of Medicine, Division of Medical Oncology, University of 
+Colorado, Aurora, CO, USA.
+(13)SWOG Group Chair's Office, Oregon Health & Science University, Portland, OR, 
+USA.
+
+Comment in
+    Lancet Oncol. 2018 Jan;19(1):10-12. doi: 10.1016/S1470-2045(17)30873-2.
+    J Thorac Dis. 2018 Jun;10(Suppl 17):S1940-S1944. doi: 
+10.21037/jtd.2018.04.126.
+    J Thorac Dis. 2018 Sep;10(Suppl 26):S3043-S3046. doi: 
+10.21037/jtd.2018.08.33.
+    Transl Lung Cancer Res. 2018 Sep;7(Suppl 3):S195-S197. doi: 
+10.21037/tlcr.2018.04.14.
+    Transl Lung Cancer Res. 2019 Aug;8(4):539-542. doi: 
+10.21037/tlcr.2019.04.04.
+
+BACKGROUND: EGFR antibodies have shown promise in patients with advanced 
+non-small-cell lung cancer (NSCLC), particularly with squamous cell histology. 
+We hypothesised that EGFR copy number by fluorescence in-situ hybridisation 
+(FISH) can identify patients most likely to benefit from these drugs combined 
+with chemotherapy and we aimed to explore the activity of cetuximab with 
+chemotherapy in patients with advanced NSCLC who are EGFR FISH-positive.
+METHODS: We did this open-label, phase 3 study (SWOG S0819) at 277 sites in the 
+USA and Mexico. We randomly assigned (1:1) eligible patients with 
+treatment-naive stage IV NSCLC to receive paclitaxel (200 mg/m2; every 21 days) 
+plus carboplatin (area under the curve of 6 by modified Calvert formula; every 
+21 days) or carboplatin plus paclitaxel and bevacizumab (15 mg/kg; every 21 
+days), either with cetuximab (250 mg/m2 weekly after loading dose; cetuximab 
+group) or without (control group), stratified by bevacizumab treatment, smoking 
+status, and M-substage using a dynamic-balancing algorithm. Co-primary endpoints 
+were progression-free survival in patients with EGFR FISH-positive cancer and 
+overall survival in the entire study population. We analysed clinical outcomes 
+with the intention-to-treat principle and analysis of safety outcomes included 
+patients who received at least one dose of study drug. This study is registered 
+with ClinicalTrials.gov (number NCT00946712).
+FINDINGS: Between Aug 13, 2009, and May 30, 2014, we randomly assigned 1313 
+patients to the control group (n=657; 277 with bevacizumab and 380 without 
+bevacizumab in the intention-to-treat population) or the cetuximab group (n=656; 
+283 with bevacizumab and 373 without bevacizumab in the intention-to-treat 
+population). EGFR FISH was assessable in 976 patients and 400 patients (41%) 
+were EGFR FISH-positive. The median follow-up for patients last known to be 
+alive was 35·2 months (IQR 22·9-39·9). After 194 progression-free survival 
+events in the cetuximab group and 198 in the control group in the EGFR 
+FISH-positive subpopulation, progression-free survival did not differ between 
+treatment groups (hazard ratio [HR] 0·92, 95% CI 0·75-1·12; p=0·40; median 5·4 
+months [95% CI 4·5-5·7] vs 4·8 months [3·9-5·5]). After 570 deaths in the 
+cetuximab group and 593 in the control group, overall survival did not differ 
+between the treatment groups in the entire study population (HR 0·93, 95% CI 
+0·83-1·04; p=0·22; median 10·9 months [95% CI 9·5-12·0] vs 9·2 months 
+[8·7-10·3]). In the prespecified analysis of EGFR FISH-positive subpopulation 
+with squamous cell histology, overall survival was significantly longer in the 
+cetuximab group than in the control group (HR 0·58, 95% CI 0·36-0·86; p=0·0071), 
+although progression-free survival did not differ between treatment groups in 
+this subgroup (0·68, 0·46-1·01; p=0·055). Overall survival and progression-free 
+survival did not differ among patients who were EGFR FISH non-positive with 
+squamous cell histology (HR 1·04, 95% CI 0·78-1·40; p=0·77; and 1·02, 0·77-1·36; 
+p=0·88 respectively) or patients with non-squamous histology regardless of EGFR 
+FISH status (for EGFR FISH-positive 0·88, 0·68-1·14; p=0·34; and 0·99, 
+0·78-1·27; p=0·96; respectively; and for EGFR FISH non-positive 1·00, 0·85-1·17; 
+p=0·97; and 1·03, 0·88-1·20; p=0·69; respectively). The most common grade 3-4 
+adverse events were decreased neutrophil count (210 [37%] in the cetuximab group 
+vs 158 [25%] in the control group), decreased leucocyte count (103 [16%] vs 74 
+[20%]), fatigue (81 [13%] vs 74 [20%]), and acne or rash (52 [8%] vs one [<1%]). 
+59 (9%) patients in the cetuximab group and 31 (5%) patients in the control 
+group had severe adverse events. Deaths related to treatment occurred in 32 (6%) 
+patients in the cetuximab group and 13 (2%) patients in the control group.
+INTERPRETATION: Although this study did not meet its primary endpoints, 
+prespecified subgroup analyses of patients with EGFR FISH-positive squamous-cell 
+carcinoma cancers are encouraging and support continued evaluation of anti-EGFR 
+antibodies in this subpopulation.
+FUNDING: National Cancer Institute and Eli Lilly and Company.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(17)30694-0
+PMCID: PMC5847342
+PMID: 29169877 [Indexed for MEDLINE]

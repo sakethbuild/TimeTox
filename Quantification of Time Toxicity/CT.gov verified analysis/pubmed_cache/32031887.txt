@@ -1,0 +1,57 @@
+3. J Palliat Med. 2020 Jul;23(7):922-929. doi: 10.1089/jpm.2019.0377. Epub 2020
+Feb  7.
+
+Multisite, Randomized Trial of Early Integrated Palliative and Oncology Care in 
+Patients with Advanced Lung and Gastrointestinal Cancer: Alliance A221303.
+
+Temel JS(1), Sloan J(2), Zemla T(2), Greer JA(1), Jackson VA(1), El-Jawahri 
+A(1), Kamdar M(1), Kamal A(3), Blinderman CD(4), Strand J(2), Zylla D(5), 
+Daugherty C(6), Furqan M(7), Obel J(8), Razaq M(9), Roeland EJ(10), Loprinzi 
+C(2).
+
+Author information:
+(1)Massachusetts General Hospital, Boston, Massachusetts, USA.
+(2)Mayo Clinic, Rochester, Minnesota, USA.
+(3)Duke University Medical Center, Durham, North Carolina, USA.
+(4)Columbia University Medical Center, New York, New York, USA.
+(5)Park Nicollet/HealthPartners, Metro-Minnesota Community Oncology Research 
+Consortium, Minneapolis, Minnesota, USA.
+(6)University of Chicago Comprehensive Cancer Center, Chicago, Illinois, USA.
+(7)University of Iowa Hospitals and Clinics, Iowa City, Iowa, USA.
+(8)NorthShore University HealthSystem CCOP, Evanston, Illinois, USA.
+(9)University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
+(10)University of California San Diego Moores Cancer Center, La Jolla, 
+California, USA.
+
+Background: We conducted a multicenter, randomized trial of early integrated 
+palliative and oncology care in patients with advanced cancer to confirm the 
+benefits of early palliative care (PC) seen in prior single-center studies. 
+Methods: We randomly assigned patients with newly diagnosed incurable cancer to 
+early integrated palliative and oncology care (n = 195) or usual oncology care 
+(n = 196) at sites through the Alliance for Clinical Trials in Oncology. 
+Patients assigned to the intervention were expected to meet with a PC clinician 
+at least monthly until death, whereas usual care patients consulted PC on 
+request. The primary endpoint was the change in quality of life from baseline to 
+week 12 per the Functional Assessment of Cancer Therapy-General (FACT-G). 
+Secondary outcomes included anxiety, depression, and communication about 
+prognosis and end-of-life care. Results: Due to significant morbidity and a high 
+proportion of measures that were not completed within the protocol window or for 
+unknown reasons, the rate of missing data was high. We anticipated that 70% of 
+patients (n = 280) would complete the FACT-G at baseline and week 12, but only 
+49.3% (n = 193/391) completed the measure. Delivery of the intervention was also 
+suboptimal, as 14.9% (n = 29/195) of intervention patients had no PC visits by 
+week 12. Intervention patients reported a mean 3.35 (standard deviation 
+[SD] = 14.7) increase in FACT-G scores from baseline to week 12 compared with 
+usual care patients who reported a 0.12 (SD = 12.7) increase from baseline 
+(p = 0.10). Conclusion: This study highlights the difficulties of conducting 
+multicenter trials of supportive care interventions in patients with advanced 
+cancer. Clinical Trials Registration: NCT02349412.
+
+DOI: 10.1089/jpm.2019.0377
+PMCID: PMC7307668
+PMID: 32031887 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.K.: CompleteCare, Vivtex, Amorsa Therapuetics; 
+A.K.: Acclivity Health, Prepped Health; M.R.: Merck; E.J.R.: Helsinn, BASF, 
+Napo, American Imaging Mangement, Imuneering, Heron; C.L.: PledPharma, Disarm 
+Therapeutics, Asahi Kasei, and Metys Pharmaceuticals; Others: none.

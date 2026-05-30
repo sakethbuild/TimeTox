@@ -1,0 +1,96 @@
+12. Blood Adv. 2023 Feb 28;7(4):602-610. doi: 10.1182/bloodadvances.2022008802.
+
+Ibrutinib plus RICE or RVICI for relapsed/refractory mature B-cell non-Hodgkin 
+lymphoma in children and young adults: SPARKLE trial.
+
+Burke GAA(1), Vinti L(2), Kabickova E(3), Beishuizen A(4)(5), Tacyildiz N(6), 
+Uyttebroeck A(7)(8), Kang HJ(9), Luisi F(10), Minard-Colin V(11), Burkhardt 
+B(12), Tamegnon M(13), Sun S(14), Curtis M(15), Deshpande S(13), Nottage K(13), 
+Howes A(15), Srinivasan S(16), Bhojwani D(17), Norris R(18), Cairo M(19).
+
+Author information:
+(1)Department of Paediatric Haematology, Oncology and Palliative Care, Cambridge 
+University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge, 
+United Kingdom.
+(2)Department of Pediatric Hematology/Oncology and Cell and Gene Therapy, 
+Ospedale Pediatrico Bambino Gesù, Rome, Italy.
+(3)Department of Pediatric Hematology and Oncology, Charles University and 
+University Hospital Motol, Prague, Czech Republic.
+(4)Department of Hemato-Oncology, Princess Máxima Center for Pediatric Oncology, 
+Utrecht, The Netherlands.
+(5)Department of Pediatric Hematology/Oncology, Erasmus MC - Sophia Children's 
+Hospital, Rotterdam, The Netherlands.
+(6)Department of Pediatric Hematology and Oncology, Ankara University Cebeci 
+Hospital, Ankara, Turkey.
+(7)Department of Pediatric Hematology and Oncology, University Hospitals Leuven, 
+Leuven, Belgium.
+(8)Department of Oncology, KU Leuven, Leuven, Belgium.
+(9)Department of Pediatrics, Seoul National University College of Medicine, 
+Seoul National University Cancer Research Institute, Wide River Institute of 
+Immunology, Seoul National University Children's Hospital, Seoul, South Korea.
+(10)Pediatric Oncology Institute, GRAACC, São Paulo, Brazil.
+(11)Department of Pediatric and Adolescent Oncology, INSERM U1015, Gustave 
+Roussy, Université Paris-Saclay, Villejuif, France.
+(12)Pediatric Hematology and Oncology, University Hospital Münster, Münster, 
+Germany.
+(13)Clinical Oncology, Janssen Research & Development, Raritan, NJ.
+(14)Clinical Biostats, Janssen Research & Development, Raritan, NJ.
+(15)Clinical Oncology, Janssen Research & Development, High Wycombe, United 
+Kingdom.
+(16)Oncology Translational Research, Janssen Research & Development, Lower 
+Gwynedd Township, PA.
+(17)Cancer and Blood Disease Institute, Children's Hospital Los Angeles, Los 
+Angeles, CA.
+(18)Department of Pediatrics, University of Cincinnati College of Medicine, 
+Cincinnati Children's Hospital Medical Center, Cincinnati, OH.
+(19)Departments of Pediatrics, Medicine, Pathology, Microbiology & Immunology, 
+and Cell Biology, New York Medical College, Valhalla, NY.
+
+Part 1 results of the open-label, randomized, global phase 3 SPARKLE trial 
+supported continued assessment of ibrutinib with either modified rituximab, 
+ifosfamide, carboplatin, and etoposide (RICE) or rituximab, vincristine, 
+ifosfamide, carboplatin, idarubicin, and dexamethasone (RVICI) in pediatric 
+patients with relapsed/refractory (R/R) mature B-cell non-Hodgkin lymphoma 
+(B-NHL). We report final results of Part 2 evaluating the efficacy of ibrutinib 
+plus RICE or RVICI vs RICE/RVICI alone. Patients aged 1 to 30 years (initial 
+diagnosis <18 years) were randomized 2:1 to receive ibrutinib with or without 
+RICE/RVICI. Primary endpoint was event-free survival (EFS) based on independent 
+committee-confirmed events. Fifty-one patients were enrolled. Median age was 15 
+years; Burkitt lymphoma, Burkitt leukemia, and Burkitt-like lymphoma (total: 
+45%) and diffuse large B-cell lymphoma/primary mediastinal B-cell lymphoma (51%) 
+were the most common subtypes. At the preplanned interim analysis, median EFS 
+was 6.1 vs 7.0 months with ibrutinib plus RICE/RVICI vs RICE/RVICI, respectively 
+(hazard ratio, 0.9; 90% confidence interval, 0.5-1.6; P = .387); further 
+enrollment was ceased. With ibrutinib plus RICE/RVICI vs RICE/RVICI, median 
+overall survival was 14.1 vs 11.1 months, overall response rate was 69% vs 81%, 
+and 46% vs 44% proceeded to stem cell transplantation. In both treatment arms, 
+100% of patients experienced grade ≥3 treatment-emergent adverse events. No EFS 
+benefit was seen with ibrutinib. Salvage was generally poor in patients who 
+received prior rituximab, regardless of treatment arm. No new safety signals 
+were observed. Ibrutinib exposure in pediatric patients fell within the target 
+range of exposure in adults. Trial is registered on www.clinicaltrials.gov 
+(NCT02703272).
+
+© 2023 by The American Society of Hematology. Licensed under Creative Commons 
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), 
+permitting only noncommercial, nonderivative use with attribution. All other 
+rights reserved.
+
+DOI: 10.1182/bloodadvances.2022008802
+PMCID: PMC9984435
+PMID: 36541957 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts-of-interest disclosure: G.A.A.B.’s 
+institution received consultancy fees from Janssen, Merck, Takeda, Roche, and 
+Oxford Immune Algorithmics. H.J.K. participated on an advisory board for Amgen, 
+Novartis, and Cartexell and received research funding from Amgen. F.L.’s 
+institution received consultancy fees from Janssen. V.M-C.’s institution 
+received consultancy fees from Janssen, Roche, BMS, Novartis, and Celgene and 
+research funding from Roche and BMS. B.B.’s institution received consultancy 
+fees from Janssen, Roche, ADC Therapeutics, Novartis, and Celgene. M.T. and S. 
+Srinivasan are employed by Janssen. M. Curtis S.D., K.N., A.H., and S. Sun are 
+employed by Janssen and hold J&J stock. M. Cairo had research funding from 
+Janssen, participated on a speakers bureau for Jazz Pharmaceuticals, Sobi, 
+Amgen, Servier, and Sanofi, and was a consultant for Jazz Pharmaceuticals, 
+Novartis, AstraZeneca, and Omeros. L.V., E.K., A.B., N.T., A.U., D.B., and R.N. 
+have nothing to disclose.

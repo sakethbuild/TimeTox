@@ -1,0 +1,629 @@
+[
+ {
+  "filename": "PIMD 27718847 a_Summary_SoE.pdf",
+  "pmid": "27718847",
+  "trial_design_summary": "SOC chemo vs experimental immunotherapy",
+  "arms": [
+   {
+    "arm_name": "Arm B (Standard of Care Platinum-based Chemotherapy)",
+    "designation": "control",
+    "evidence": "either pembrolizumab ... or the investigator's choice of platinum-based chemotherapy"
+   },
+   {
+    "arm_name": "Arm A (Pembrolizumab Monotherapy)",
+    "designation": "intervention",
+    "evidence": "pembrolizumab was associated with significantly longer progression-free and overall survival ... than was platinum-based chemotherapy"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 19213681 a_Summary_SoE.pdf",
+  "pmid": "19213681",
+  "trial_design_summary": "endocrine backbone with/without added zoledronic acid",
+  "arms": [
+   {
+    "arm_name": "Arm A (Nolvadex alone)",
+    "designation": "control",
+    "evidence": "addition of zoledronic acid to endocrine therapy, as compared with endocrine therapy without zoledronic acid"
+   },
+   {
+    "arm_name": "Arm C (Arimidex alone)",
+    "designation": "control",
+    "evidence": "addition of zoledronic acid to endocrine therapy, as compared with endocrine therapy without zoledronic acid"
+   },
+   {
+    "arm_name": "Arm C (Arimidex alone)",
+    "designation": "control",
+    "evidence": "addition of zoledronic acid to endocrine therapy, as compared with endocrine therapy without zoledronic acid"
+   },
+   {
+    "arm_name": "Arm B (Nolvadex plus zoledronate)",
+    "designation": "intervention",
+    "evidence": "The addition of zoledronic acid to adjuvant endocrine therapy improves disease-free survival"
+   },
+   {
+    "arm_name": "Arm D (Arimidex plus zoledronate)",
+    "designation": "intervention",
+    "evidence": "The addition of zoledronic acid to adjuvant endocrine therapy improves disease-free survival"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 20525992 a_Summary_SoE.pdf",
+  "pmid": "20525992",
+  "trial_design_summary": "vaccine comparator vs experimental antibody (alone or add-on)",
+  "arms": [
+   {
+    "arm_name": "Arm A (Melanoma Peptide Vaccine Monotherapy)",
+    "designation": "control",
+    "evidence": "administered with or without a glycoprotein 100 (gp100) peptide vaccine was compared with gp100 alone"
+   },
+   {
+    "arm_name": "Arm B (MDX-010 + Melanoma Peptide Vaccine)",
+    "designation": "intervention",
+    "evidence": "Ipilimumab, with or without a gp100 peptide vaccine, as compared with gp100 alone, improved overall survival"
+   },
+   {
+    "arm_name": "Arm C (MDX-010 Monotherapy)",
+    "designation": "intervention",
+    "evidence": "The median overall survival with ipilimumab alone was 10.1 months ... in the comparison with gp100 alone"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 20525993 a_Summary_SoE.pdf",
+  "pmid": "20525993",
+  "trial_design_summary": "established comparator vs experimental agent",
+  "arms": [
+   {
+    "arm_name": "Arm C (Imatinib 400 mg QD)",
+    "designation": "control",
+    "evidence": "We evaluated the efficacy and safety of nilotinib, as compared with imatinib"
+   },
+   {
+    "arm_name": "Arm A (Nilotinib 300 mg BID)",
+    "designation": "intervention",
+    "evidence": "Nilotinib ... was superior to imatinib in patients with newly diagnosed chronic-phase ... CML"
+   },
+   {
+    "arm_name": "Arm B (Nilotinib 400 mg BID)",
+    "designation": "intervention",
+    "evidence": "Nilotinib at a dose of either 300 mg or 400 mg twice daily was superior to imatinib"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 20818862 a_Summary_SoE.pdf",
+  "pmid": "20818862",
+  "trial_design_summary": "placebo-controlled immunotherapy",
+  "arms": [
+   {
+    "arm_name": "Arm B (Placebo)",
+    "designation": "control",
+    "evidence": "randomly assigned 512 patients in a 2:1 ratio to receive either sipuleucel-T ... or placebo"
+   },
+   {
+    "arm_name": "Arm A (Sipuleucel-T)",
+    "designation": "intervention",
+    "evidence": "The use of sipuleucel-T prolonged overall survival among men with metastatic castration-resistant prostate cancer"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 21631324 a_Summary_SoE.pdf",
+  "pmid": "21631324",
+  "trial_design_summary": "IL-2 backbone with/without added vaccine",
+  "arms": [
+   {
+    "arm_name": "Arm 2: High-dose IL-2 alone",
+    "designation": "control",
+    "evidence": "Patients were randomly assigned to receive interleukin-2 alone ... followed by interleukin-2"
+   },
+   {
+    "arm_name": "Arm 1: gp100:209-217(210M) peptide vaccine + high-dose IL-2",
+    "designation": "intervention",
+    "evidence": "the response rate was higher and progression-free survival longer with vaccine and interleukin-2 than with interleukin-2 alone"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 21962393 CT_Summary_SoE.pdf",
+  "pmid": "21962393",
+  "trial_design_summary": "established tandem-autologous comparator vs experimental allogeneic strategy",
+  "arms": [
+   {
+    "arm_name": "Arm B2 (Auto-Auto + Observation)",
+    "designation": "control",
+    "evidence": "allogeneic HSCT ... compared with tandem autologous HSCT"
+   },
+   {
+    "arm_name": "Arm A (Auto-Allo: ASCT followed by NMSCT)",
+    "designation": "intervention",
+    "evidence": "we aimed to assess effectiveness of allogeneic HSCT with non-myeloablative conditioning after autologous HSCT compared with tandem autologous HSCT"
+   },
+   {
+    "arm_name": "Arm B1 (Auto-Auto + Maintenance)",
+    "designation": "control",
+    "evidence": "allogeneic HSCT ... compared with tandem autologous HSCT"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 21991949 a_Summary_SoE.pdf",
+  "pmid": "21991949",
+  "trial_design_summary": "truncated abstract; only the new nonanthracycline regimen identifiable",
+  "arms": [
+   {
+    "arm_name": "AC→T (Doxorubicin and Cyclophosphamide followed by Docetaxel)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "AC→TH (Doxorubicin and Cyclophosphamide followed by Docetaxel and Trastuzumab)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "TCH (Docetaxel, Carboplatin and Trastuzumab)",
+    "designation": "intervention",
+    "evidence": "We wanted to evaluate the efficacy and safety of a new nonanthracycline regimen with trastuzumab"
+   }
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 22204724 a_Summary_SoE.pdf",
+  "pmid": "22204724",
+  "trial_design_summary": "placebo-controlled add-on",
+  "arms": [
+   {
+    "arm_name": "Arm I (Standard Chemotherapy + Placebo)",
+    "designation": "control",
+    "evidence": "The control treatment was chemotherapy with placebo added in cycles 2 through 22"
+   },
+   {
+    "arm_name": "Arm II (Concurrent Bevacizumab + Placebo Maintenance)",
+    "designation": "intervention",
+    "evidence": "bevacizumab-initiation treatment was chemotherapy with bevacizumab ... added in cycles 2 through 6"
+   },
+   {
+    "arm_name": "Arm III (Extended Bevacizumab)",
+    "designation": "intervention",
+    "evidence": "Bevacizumab-throughout treatment was chemotherapy with bevacizumab added in cycles 2 through 22"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22257673 a_Summary_SoE.pdf",
+  "pmid": "22257673",
+  "trial_design_summary": "established monotherapy comparator vs experimental dual blockade",
+  "arms": [
+   {
+    "arm_name": "Lapatinib alone",
+    "designation": "intervention",
+    "evidence": "the two anti-HER2 agents given together would be better than single-agent therapy"
+   },
+   {
+    "arm_name": "Trastuzumab alone",
+    "designation": "control",
+    "evidence": "pCR rate was significantly higher in the group given lapatinib and trastuzumab ... than in the group given trastuzumab alone"
+   },
+   {
+    "arm_name": "Lapatinib + Trastuzumab",
+    "designation": "intervention",
+    "evidence": "pCR rate was significantly higher in the group given lapatinib and trastuzumab"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22454414 a_Summary_SoE.pdf",
+  "pmid": "22454414",
+  "trial_design_summary": "placebo-controlled add-on",
+  "arms": [
+   {
+    "arm_name": "Arm A (Docetaxel + Prednisone + Placebo)",
+    "designation": "control",
+    "evidence": "docetaxel ... plus prednisone ... (DP) with either bevacizumab ... or placebo"
+   },
+   {
+    "arm_name": "Arm B (Docetaxel + Prednisone + Bevacizumab)",
+    "designation": "intervention",
+    "evidence": "evaluate the addition of bevacizumab to standard docetaxel and prednisone therapy"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22551107 a_Summary_SoE.pdf",
+  "pmid": "22551107",
+  "trial_design_summary": "head-to-head of two combination regimens, no SOC labeled",
+  "arms": [
+   {
+    "arm_name": "Arm B (Sz/M: Streptozotocin, Mitotane)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm A (EDP/M: Etoposide, Doxorubicin, Cisplatin, Mitotane)",
+    "designation": "unresolved",
+    "evidence": ""
+   }
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 22571200 a_Summary_SoE.pdf",
+  "pmid": "22571200",
+  "trial_design_summary": "standard backbone vs experimental add-on (lenalidomide)",
+  "arms": [
+   {
+    "arm_name": "Arm C (MP plus placebo induction followed by placebo maintenance)",
+    "designation": "control",
+    "evidence": "melphalan-prednisone (MP) followed by placebo in patients 65 years of age or older"
+   },
+   {
+    "arm_name": "Arm A (MPR induction followed by lenalidomide maintenance)",
+    "designation": "intervention",
+    "evidence": "median progression-free survival was significantly longer with MPR-R (31 months) than with MPR ... or MP"
+   },
+   {
+    "arm_name": "Arm B (MPR induction followed by placebo maintenance)",
+    "designation": "intervention",
+    "evidence": "Response rates were superior with MPR-R and MPR ... vs. 50% with MP"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22585697 a_Summary_SoE.pdf",
+  "pmid": "22585697",
+  "trial_design_summary": "placebo-controlled add-on",
+  "arms": [
+   {
+    "arm_name": "Arm A (Placebo + Intermediate Dose cytarabine [IDAC])",
+    "designation": "control",
+    "evidence": "Patients were randomly assigned to receive either clofarabine (Clo) 40 mg/m(2) or a placebo followed by Ara-C"
+   },
+   {
+    "arm_name": "Arm B (Clofarabine + Intermediate Dose cytarabine [IDAC])",
+    "designation": "intervention",
+    "evidence": "Clo+Ara-C significantly improved response rates and EFS"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22663011 a_Summary_SoE.pdf",
+  "pmid": "22663011",
+  "trial_design_summary": "chemo comparator vs experimental MEK inhibitor (with crossover arm)",
+  "arms": [
+   {
+    "arm_name": "Arm B (Chemotherapy - Dacarbazine or Paclitaxel)",
+    "designation": "control",
+    "evidence": "randomly assigned 322 patients ... to receive either trametinib ... or chemotherapy in a 2:1 ratio"
+   },
+   {
+    "arm_name": "Arm A (GSK1120212 / Trametinib)",
+    "designation": "intervention",
+    "evidence": "Trametinib, as compared with chemotherapy, improved rates of progression-free and overall survival"
+   },
+   {
+    "arm_name": "Arm C (Extension Arm - Crossover to GSK1120212)",
+    "designation": "intervention",
+    "evidence": "Patients in the chemotherapy group who had disease progression were permitted to cross over to receive trametinib"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22689805 a_Summary_SoE.pdf",
+  "pmid": "22689805",
+  "trial_design_summary": "standard treatment-choice comparator vs experimental agent",
+  "arms": [
+   {
+    "arm_name": "Arm A (Supportive Care or Low-dose Cytarabine)",
+    "designation": "control",
+    "evidence": "compared the efficacy and safety of decitabine with treatment choice (TC)"
+   },
+   {
+    "arm_name": "Arm B (Decitabine)",
+    "designation": "intervention",
+    "evidence": "decitabine improved response rates compared with standard therapies"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22735384 a_Summary_SoE.pdf",
+  "pmid": "22735384",
+  "trial_design_summary": "standard chemo comparator vs experimental targeted agent",
+  "arms": [
+   {
+    "arm_name": "Arm B (DTIC)",
+    "designation": "control",
+    "evidence": "randomly assigned (3:1) to receive dabrafenib ... or dacarbazine"
+   },
+   {
+    "arm_name": "Arm A (GSK2118436)",
+    "designation": "intervention",
+    "evidence": "Dabrafenib significantly improved progression-free survival compared with dacarbazine"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22808955 a_Summary_SoE.pdf",
+  "pmid": "22808955",
+  "trial_design_summary": "observation/watchful-waiting vs active surgery",
+  "arms": [
+   {
+    "arm_name": "Expectant Management (Watchful Waiting)",
+    "designation": "control",
+    "evidence": "radical prostatectomy did not significantly reduce all-cause or prostate-cancer mortality, as compared with observation"
+   },
+   {
+    "arm_name": "Radical Prostatectomy",
+    "designation": "intervention",
+    "evidence": "The effectiveness of surgery versus observation for men with localized prostate cancer ... is not known"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 22915657 a_Summary_SoE.pdf",
+  "pmid": "22915657",
+  "trial_design_summary": "comparative-effectiveness antiemetic trial, no intervention/control framing",
+  "arms": [
+   {
+    "arm_name": "Arm 3 (Aprepitant + Palonosetron + Dexamethasone)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm 2: Granisetron + Dexamethasone (Day 1), Compazine + Placebo (Days 2 & 3)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm 1 (Palonosetron + Dexamethasone + Compazine)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm 2 (Granisetron + Dexamethasone + Compazine)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm 4 (Palonosetron + Dexamethasone + Compazine + Dexamethasone)",
+    "designation": "unresolved",
+    "evidence": ""
+   }
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 22965965 a_Summary_SoE.pdf",
+  "pmid": "22965965",
+  "trial_design_summary": "placebo-controlled add-on",
+  "arms": [
+   {
+    "arm_name": "Placebo + XELOX (Arms C, E)",
+    "designation": "control",
+    "evidence": "FOLFOX/CAPOX with or without cediranib ... cediranib (20 or 30 mg per day) or placebo plus FOLFOX/CAPOX"
+   },
+   {
+    "arm_name": "Placebo + FOLFOX (Arms C, E)",
+    "designation": "control",
+    "evidence": "cediranib (20 or 30 mg per day) or placebo plus FOLFOX/CAPOX"
+   },
+   {
+    "arm_name": "Cediranib + XELOX (Arms A, B, D)",
+    "designation": "intervention",
+    "evidence": "The addition of cediranib to FOLFOX/CAPOX resulted in PFS prolongation"
+   },
+   {
+    "arm_name": "Cediranib + FOLFOX (Arms A, B, D)",
+    "designation": "intervention",
+    "evidence": "The addition of cediranib to FOLFOX/CAPOX resulted in PFS prolongation"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 23075175 a_Summary_SoE.pdf",
+  "pmid": "23075175",
+  "trial_design_summary": "head-to-head of two graft sources, no SOC labeled",
+  "arms": [
+   {
+    "arm_name": "Arm B (Marrow Transplantation)",
+    "designation": "unresolved",
+    "evidence": ""
+   },
+   {
+    "arm_name": "Arm A (PBSC Transplantation)",
+    "designation": "unresolved",
+    "evidence": ""
+   }
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 23295793 a_Summary_SoE.pdf",
+  "pmid": "23295793",
+  "trial_design_summary": "placebo-controlled prevention",
+  "arms": [
+   {
+    "arm_name": "Arm B (Placebo)",
+    "designation": "control",
+    "evidence": "randomly assigned 1:1 to receive toremifene citrate 20 mg or placebo"
+   },
+   {
+    "arm_name": "Arm A (Toremifene Citrate 20 mg)",
+    "designation": "intervention",
+    "evidence": "We evaluated the efficacy of toremifene citrate 20 mg in PCa prevention"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 23358971 a_Summary_SoE.pdf",
+  "pmid": "23358971",
+  "trial_design_summary": "established AI comparator vs experimental AI (celecoxib factorial unaddressed)",
+  "arms": [
+   {
+    "arm_name": "Arm 2: Exemestane + Placebo",
+    "designation": "intervention",
+    "evidence": "exemestane ... could prove superior to anastrozole regarding efficacy and toxicity"
+   },
+   {
+    "arm_name": "Arm 4: Anastrozole + Placebo",
+    "designation": "control",
+    "evidence": "exemestane ... could prove superior to anastrozole"
+   },
+   {
+    "arm_name": "Arm 1: Exemestane + Celecoxib",
+    "designation": "intervention",
+    "evidence": "exemestane ... could prove superior to anastrozole regarding efficacy and toxicity"
+   },
+   {
+    "arm_name": "Arm 3: Anastrozole + Celecoxib",
+    "designation": "control",
+    "evidence": "exemestane ... could prove superior to anastrozole"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 23509322 a_Summary_SoE.pdf",
+  "pmid": "23509322",
+  "trial_design_summary": "placebo-controlled add-on",
+  "arms": [
+   {
+    "arm_name": "Paclitaxel + Placebo",
+    "designation": "control",
+    "evidence": "compared with placebo plus paclitaxel in patients with HER2-overexpressing metastatic breast cancer"
+   },
+   {
+    "arm_name": "Paclitaxel + Lapatinib",
+    "designation": "intervention",
+    "evidence": "The addition of lapatinib to paclitaxel significantly improved OS versus paclitaxel"
+   },
+   {
+    "arm_name": "Arm A (Lapatinib + Paclitaxel)",
+    "designation": "intervention",
+    "evidence": "lapatinib combined with paclitaxel offers a significant ... survival advantage over paclitaxel alone"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 23724913 a_Summary_SoE.pdf",
+  "pmid": "23724913",
+  "trial_design_summary": "standard chemo comparator vs experimental targeted agent",
+  "arms": [
+   {
+    "arm_name": "Arm B (Standard of Care Chemotherapy)",
+    "designation": "control",
+    "evidence": "Crizotinib is superior to standard chemotherapy in patients with previously treated ... ALK rearrangement"
+   },
+   {
+    "arm_name": "Arm A (PF-02341066)",
+    "designation": "intervention",
+    "evidence": "Crizotinib is superior to standard chemotherapy"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 23835708 a_Summary_SoE.pdf",
+  "pmid": "23835708",
+  "trial_design_summary": "maintenance backbone with/without added pemetrexed",
+  "arms": [
+   {
+    "arm_name": "Arm A (Bevacizumab Maintenance)",
+    "designation": "control",
+    "evidence": "bevacizumab plus pemetrexed maintenance was associated with a significant PFS benefit compared with bevacizumab alone"
+   },
+   {
+    "arm_name": "Arm B (Bevacizumab + Pemetrexed Maintenance)",
+    "designation": "intervention",
+    "evidence": "evaluated the safety and efficacy of bevacizumab with or without pemetrexed as continuation maintenance treatment"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 23940216 a_Summary_SoE.pdf",
+  "pmid": "23940216",
+  "trial_design_summary": "established comparator (lomustine) vs experimental agent (alone or add-on)",
+  "arms": [
+   {
+    "arm_name": "Arm C (Lomustine + Placebo)",
+    "designation": "control",
+    "evidence": "cediranib ... either as monotherapy or in combination with lomustine versus lomustine"
+   },
+   {
+    "arm_name": "Arm A (Cediranib 30 mg Monotherapy)",
+    "designation": "intervention",
+    "evidence": "determine the efficacy of cediranib ... either as monotherapy or in combination with lomustine versus lomustine"
+   },
+   {
+    "arm_name": "Arm B (Cediranib 20 mg + Lomustine)",
+    "designation": "intervention",
+    "evidence": "cediranib ... in combination with lomustine versus lomustine"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 23940225 a_Summary_SoE.pdf",
+  "pmid": "23940225",
+  "trial_design_summary": "two standard regimens vs experimental fourth-drug addition",
+  "arms": [
+   {
+    "arm_name": "Group 1 (TAC)",
+    "designation": "control",
+    "evidence": "whether the incorporation of a fourth drug could improve outcomes relative to two standard regimens"
+   },
+   {
+    "arm_name": "Group 2 (DD AC -> P)",
+    "designation": "control",
+    "evidence": "incorporation of a fourth drug could improve outcomes relative to two standard regimens"
+   },
+   {
+    "arm_name": "Group 3 (DD AC -> PG)",
+    "designation": "intervention",
+    "evidence": "DD AC->P with four cycles of gemcitabine (G) added to the DD paclitaxel (DD AC->PG)"
+   }
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 23960180 a_Summary_SoE.pdf",
+  "pmid": "23960180",
+  "trial_design_summary": "observation vs experimental maintenance therapy",
+  "arms": [
+   {
+    "arm_name": "Arm B (No further therapy/Observation)",
+    "designation": "control",
+    "evidence": "randomly assigned to rituximab maintenance (arm A) ... or to observation (arm B)"
+   },
+   {
+    "arm_name": "Arm A (Maintenance Rituximab)",
+    "designation": "intervention",
+    "evidence": "To evaluate the efficacy of rituximab maintenance ... responding to brief first-line chemoimmunotherapy"
+   }
+  ],
+  "abstract_states_roles": true
+ }
+]

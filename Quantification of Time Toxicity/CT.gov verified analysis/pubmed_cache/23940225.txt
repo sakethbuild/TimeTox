@@ -1,0 +1,76 @@
+8. J Clin Oncol. 2013 Sep 10;31(26):3197-204. doi: 10.1200/JCO.2012.48.1275. Epub
+ 2013 Aug 12.
+
+Definitive results of a phase III adjuvant trial comparing three chemotherapy 
+regimens in women with operable, node-positive breast cancer: the NSABP B-38 
+trial.
+
+Swain SM(1), Tang G, Geyer CE Jr, Rastogi P, Atkins JN, Donnellan PP, 
+Fehrenbacher L, Azar CA, Robidoux A, Polikoff JA, Brufsky AM, Biggs DD, Levine 
+EA, Zapas JL, Provencher L, Northfelt DW, Paik S, Costantino JP, Mamounas EP, 
+Wolmark N.
+
+Author information:
+(1)Sandra M. Swain, Gong Tang, Charles E. Geyer Jr, Priya Rastogi, James N. 
+Atkins, Paul P. Donnellan, Louis Fehrenbacher, Catherine A. Azar, André 
+Robidoux, Jonathan A. Polikoff, Adam M. Brufsky, David D. Biggs, Edward A. 
+Levine, John L. Zapas, Louise Provencher, Soonmyung Paik, Joseph P. Costantino, 
+Eleftherios P. Mamounas, and Norman Wolmark, National Surgical Adjuvant Breast 
+and Bowel Project (NSABP); Norman Wolmark, Allegheny General Hospital, Allegheny 
+Health Network; Gong Tang and Joseph P. Costantino, NSABP Biostatistical Center 
+and University of Pittsburgh Graduate School of Public Health; Priya Rastogi, 
+University of Pittsburgh Cancer Institute; Adam M. Brufsky, Magee-Womens 
+Hospital of University of Pittsburgh Medical Center, Pittsburgh, PA; Sandra M. 
+Swain, MedStar Washington Hospital Center, Washington, DC; Charles E. Geyer Jr, 
+Virginia Commonwealth University, Richmond, VA; James N. Atkins, Southeast 
+Cancer Control Consortium-Community Clinical Oncology Program, Goldsboro; Edward 
+A. Levine, Wake Forest University, Winston-Salem, NC; Paul P. Donnellan, 
+University Hospital, Galway, and the All-Ireland Cooperative Oncology Research 
+Group, Dublin, Ireland; Louis Fehrenbacher, Kaiser Permanente Northern 
+California, Vallejo; Jonathan A. Polikoff, Kaiser Permanente Southern 
+California, San Diego, CA; Catherine A. Azar, Kaiser Permanente, Denver, CO; 
+André Robidoux, Centre hopitalier de l'Université de Montréal (CHUM), Montréal; 
+Louise Provencher, CHU de Québec, Hôpital du Saint-Sacrement, Québec City, QC, 
+Canada; David D. Biggs, Helen F. Graham Cancer Center, Christiana Care Health 
+System, Newark, DE; John L. Zapas, Medstar Franklin Square Medical Center, 
+Baltimore, MD; Donald W. Northfelt, Mayo Clinic Arizona, Scottsdale, AZ; and 
+Eleftherios P. Mamounas, MD Anderson Cancer Center, Orlando, FL.
+
+Comment in
+    J Clin Oncol. 2014 Feb 20;32(6):605-6. doi: 10.1200/JCO.2013.53.6771.
+    J Clin Oncol. 2014 Feb 20;32(6):606-7. doi: 10.1200/JCO.2013.53.8744.
+
+PURPOSE: Anthracycline- and taxane-based three-drug chemotherapy regimens have 
+proven benefit as adjuvant therapy for early-stage breast cancer. This trial 
+(NSABP B-38; Combination Chemotherapy in Treating Women Who Have Undergone 
+Surgery for Node-Positive Breast Cancer) asked whether the incorporation of a 
+fourth drug could improve outcomes relative to two standard regimens and 
+provided a direct comparison of those two regimens.
+PATIENTS AND METHODS: We randomly assigned 4,894 women with node-positive 
+early-stage breast cancer to six cycles of docetaxel, doxorubicin, and 
+cyclophosphamide (TAC), four cycles of dose-dense (DD) doxorubicin and 
+cyclophosphamide followed by four cycles of DD paclitaxel (P; DD AC→P), or DD 
+AC→P with four cycles of gemcitabine (G) added to the DD paclitaxel (DD AC→PG). 
+Primary granulocyte colony-stimulating factor support was required; 
+erythropoiesis-stimulating agents (ESAs) were used at the investigator's 
+discretion.
+RESULTS: There were no significant differences in 5-year disease-free survival 
+(DFS) between DD AC→PG and DD AC→P (80.6% v 82.2%; HR, 1.07; P = .41), between 
+DD AC→PG and TAC (80.6% v 80.1%; HR, 0.93; P = .39), in 5-year overall survival 
+(OS) between DD AC→PG and DD AC→P (90.8% v 89.1%; HR, 0.85; P = .13), between DD 
+AC→PG and TAC (90.8% v 89.6%; HR, 0.86; P = .17), or between DD AC→P versus TAC 
+for DFS (HR, 0.87; P = .07) and OS (HR, 1.01; P = .96). Grade 3 to 4 toxicities 
+for TAC, DD AC→P, and DD AC→PG, respectively, were febrile neutropenia (9%, 3%, 
+3%; P < .001), sensory neuropathy (< 1%, 7%, 6%; P < .001), and diarrhea (7%, 
+2%, 2%; P < .001). Exploratory analyses for ESAs showed no association with DFS 
+events (HR, 1.02; P = .95).
+CONCLUSION: Adding G to DD AC→P did not improve outcomes. No significant 
+differences in efficacy were identified between DD AC→P and TAC, although 
+toxicity profiles differed.
+
+DOI: 10.1200/JCO.2012.48.1275
+PMCID: PMC3757290
+PMID: 23940225 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

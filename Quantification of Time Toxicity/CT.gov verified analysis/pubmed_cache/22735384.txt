@@ -1,0 +1,54 @@
+17. Lancet. 2012 Jul 28;380(9839):358-65. doi: 10.1016/S0140-6736(12)60868-X.
+Epub  2012 Jun 25.
+
+Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre, open-label, phase 
+3 randomised controlled trial.
+
+Hauschild A(1), Grob JJ, Demidov LV, Jouary T, Gutzmer R, Millward M, Rutkowski 
+P, Blank CU, Miller WH Jr, Kaempgen E, Martín-Algarra S, Karaszewska B, Mauch C, 
+Chiarion-Sileni V, Martin AM, Swann S, Haney P, Mirakhur B, Guckert ME, Goodman 
+V, Chapman PB.
+
+Author information:
+(1)University Hospital, Schleswig-Holstein, Department of Dermatology, Kiel, 
+Germany. ahauschild@dermatology.unikiel.de
+
+Comment in
+    Lancet. 2012 Jul 28;380(9839):320-2. doi: 10.1016/S0140-6736(12)60993-3.
+    Br J Dermatol. 2013 Mar;168(3):467-70; discussion 470-1. doi: 
+10.1111/bjd.12238.
+
+BACKGROUND: Dabrafenib, an inhibitor of mutated BRAF, has clinical activity with 
+a manageable safety profile in studies of phase 1 and 2 in patients with 
+BRAF(V600)-mutated metastatic melanoma. We studied the efficacy of dabrafenib in 
+patients with BRAF(V600E)-mutated metastatic melanoma.
+METHODS: We enrolled patients in this open-label phase 3 trial between Dec 23, 
+2010, and Sept 1, 2011. This report is based on a data cutoff date of Dec 19, 
+2011. Patients aged 18 years or older with previously untreated, stage IV or 
+unresectable stage III BRAF(V600E) mutation-positive melanoma were randomly 
+assigned (3:1) to receive dabrafenib (150 mg twice daily, orally) or dacarbazine 
+(1000 mg/m(2) intravenously every 3 weeks). Patients were stratified according 
+to American Joint Committee on Cancer stage (unresectable III+IVM1a+IVM1b vs 
+IVM1c). The primary endpoint was investigator-assessed progression-free survival 
+and was analysed by intention to treat; safety was assessed per protocol. This 
+study is registered with ClinicalTrials.gov, number NCT01227889.
+FINDINGS: Of the 733 patients screened, 250 were randomly assigned to receive 
+either dabrafenib (187 patients) or dacarbazine (63 patients). Median 
+progression-free survival was 5·1 months for dabrafenib and 2·7 months for 
+dacarbazine, with a hazard ratio (HR) of 0·30 (95% CI 0·18-0·51; p<0·0001). At 
+data cutoff, 107 (57%) patients in the dabrafenib group and 14 (22%) in the 
+dacarbazine group remained on randomised treatment. Treatment-related adverse 
+events (grade 2 or higher) occurred in 100 (53%) of the 187 patients who 
+received dabrafenib and in 26 (44%) of the 59 patients who received dacarbazine. 
+The most common adverse events with dabrafenib were skin-related toxic effects, 
+fever, fatigue, arthralgia, and headache. The most common adverse events with 
+dacarbazine were nausea, vomiting, neutropenia, fatigue, and asthenia. Grade 3-4 
+adverse events were uncommon in both groups.
+INTERPRETATION: Dabrafenib significantly improved progression-free survival 
+compared with dacarbazine.
+FUNDING: GlaxoSmithKline.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(12)60868-X
+PMID: 22735384 [Indexed for MEDLINE]

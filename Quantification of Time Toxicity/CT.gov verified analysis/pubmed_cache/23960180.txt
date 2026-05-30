@@ -1,0 +1,62 @@
+9. J Clin Oncol. 2013 Sep 20;31(27):3351-9. doi: 10.1200/JCO.2012.44.8290. Epub 
+2013 Aug 19.
+
+Rituximab maintenance compared with observation after brief first-line R-FND 
+chemoimmunotherapy with rituximab consolidation in patients age older than 60 
+years with advanced follicular lymphoma: a phase III randomized study by the 
+Fondazione Italiana Linfomi.
+
+Vitolo U(1), Ladetto M, Boccomini C, Baldini L, De Angelis F, Tucci A, Botto B, 
+Chiappella A, Chiarenza A, Pinto A, De Renzo A, Zaja F, Castellino C, Bari A, 
+Alvarez De Celis I, Evangelista A, Parvis G, Gamba E, Lobetti-Bodoni C, Ciccone 
+G, Rossi G.
+
+Author information:
+(1)Umberto Vitolo, Marco Ladetto, Carola Boccomini, Barbara Botto, Annalisa 
+Chiappella, Andrea Evangelista, Chiara Lobetti-Bodoni, and Giovannino Ciccone, 
+Città della Salute e della Scienza Hospital and University, Turin; Luca Baldini, 
+Fondazione Istituto di Ricovero e Cura a Carattere Scientifico Cà Granda 
+Ospedale Maggiore Policlinico, Università di Milano, Milan; Federico De Angelis, 
+Sapienza University, Rome; Alessandra Tucci and Giuseppe Rossi, Spedali Civili 
+Hospital and University, Brescia; Annalisa Chiarenza, Ferrarotto Hospital, 
+Catania; Antonello Pinto, National Institute for Study and Cure of Tumors, 
+Pascale Foundation; Amalia De Renzo, Federico II University, Napoli; Francesco 
+Zaja, Santa Maria della Misericordia Hospital and University, Udine; Claudia 
+Castellino, Santa Croce and Carle Hospital, Cuneo; Alessia Bari, University of 
+Modena and Reggio Emilia, Modena; Isabel Alvarez De Celis, Arcispedale Santa 
+Maria Nuova, Istituto di Ricovero e Cura a Carattere Scientifico, Reggio Emilia; 
+Guido Parvis, San Luigi Gonzaga Hospital and University, Orbassano; and Enrica 
+Gamba, Roche Italia, Monza, Italy.
+
+Comment in
+    J Clin Oncol. 2013 Sep 20;31(27):3307-8. doi: 10.1200/JCO.2013.50.0454.
+    JAMA Oncol. 2018 Jun 1;4(6):859-860. doi: 10.1001/jamaoncol.2018.0111.
+
+PURPOSE: To evaluate the efficacy of rituximab maintenance in 60- to 75-year-old 
+patients with advanced follicular lymphoma responding to brief first-line 
+chemoimmunotherapy followed by rituximab consolidation.
+PATIENTS AND METHODS: A total of 234 treatment-naive 60- to 75-year-old patients 
+began chemoimmunotherapy with four monthly courses of rituximab, fludarabine, 
+mitoxantrone, and dexamethasone (R-FND) followed by four weekly cycles of 
+rituximab consolidation. Of these, 210 patients completed the planned treatment, 
+and 202 responders were randomly assigned to rituximab maintenance (arm A) for 8 
+months, once every 2 months for a total of four doses, or to observation (arm 
+B).
+RESULTS: Median ages in arms A and B were 66 and 65 years, respectively. After 
+induction and consolidation therapy, the overall response rate was 86%, with 69% 
+complete remissions (CR). After a 42-month median follow-up from diagnosis, 
+3-year progression-free survival (PFS; the primary end point) and overall 
+survival (OS) were 66% (95% CI, 59% to 72%) and 89% (95% CI, 85% to 93%), 
+respectively. After randomization, 2-year PFS was 81% for rituximab maintenance 
+versus 69% for observation, with a hazard ratio of 0.74 (95% CI, 0.45 to 1.21; P 
+= .226), although this was not statistically significant. No differences between 
+the two arms were detected for OS. Overall, the regimen was well-tolerated. The 
+most frequent grade 3 to 4 toxicity was neutropenia (25% of treatment courses), 
+with 13 infections. Two toxic deaths (0.8%) occurred during induction treatment.
+CONCLUSION: A brief R-FND induction plus rituximab consolidation achieved 
+excellent results with high CR and PFS rates, supporting the feasibility of this 
+regimen in patients older than 60 years. A short rituximab maintenance did not 
+achieve a statistically significant PFS improvement over observation.
+
+DOI: 10.1200/JCO.2012.44.8290
+PMID: 23960180 [Indexed for MEDLINE]

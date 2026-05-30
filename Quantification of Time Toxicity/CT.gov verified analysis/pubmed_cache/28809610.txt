@@ -1,0 +1,66 @@
+4. J Clin Oncol. 2017 Oct 1;35(28):3198-3206. doi: 10.1200/JCO.2016.72.1076. Epub
+ 2017 Aug 15.
+
+Phase III Study Comparing a Reduced Dose of Cabazitaxel (20 mg/m(2)) and the 
+Currently Approved Dose (25 mg/m(2)) in Postdocetaxel Patients With Metastatic 
+Castration-Resistant Prostate Cancer-PROSELICA.
+
+Eisenberger M(1), Hardy-Bessard AC(1), Kim CS(1), Géczi L(1), Ford D(1), Mourey 
+L(1), Carles J(1), Parente P(1), Font A(1), Kacso G(1), Chadjaa M(1), Zhang 
+W(1), Bernard J(1), de Bono J(1).
+
+Author information:
+(1)Mario Eisenberger, The Sidney Kimmel Comprehensive Cancer Center at Johns 
+Hopkins, Baltimore, MD; Anne-Claire Hardy-Bessard, Centre Armoricain 
+d'Oncologie, Centre Armoricain de Radiothérapie, d'Imagerie Médicale et 
+d'Oncologie-Hôpital Privé Des Côtes d'Armor, Plérin; Loïc Mourey, Institut 
+Claudius Regaud, l'Institut Universitaire du Cancer de Toulouse Oncopole, 
+Toulouse; Mustapha Chadjaa, Sanofi, Vitry-sur-Seine, France; Choung Soo Kim, 
+Asan Medical Center, Seoul, South Korea; Lajos Géczi, National Institute of 
+Oncology, Budapest, Hungary; Daniel Ford, City Hospital, Cancer Centre at Queen 
+Elizabeth Hospital, Birmingham; Johann de Bono, Prostate Cancer Targeted Therapy 
+Team, Royal Marsden National Health Service Foundation Trust/The Institute of 
+Cancer Research, Sutton, United Kingdom; Joan Carles, Vall d'Hebron University 
+Hospital, Vall d'Hebron Institute of Oncology, Barcelona; Phillip Parente, 
+Eastern Health Clinical School, Monash University, Box Hill Hospital, Melbourne, 
+Victoria, Australia; Albert Font, Institut Català d'Oncologia, Hospital 
+Universitari Germans Trias i Pujol, Badalona, Spain; Gabriel Kacso, Iuliu 
+Hatieganu Medical University, Amethyst Radiology Therapeutic Center, Cluj, 
+Romania; Wenping Zhang, Sanofi, Bridgewater, NJ; and John Bernard, Sanofi, 
+Cambridge, MA.
+
+Comment in
+    J Clin Oncol. 2017 Oct 1;35(28):3175-3177. doi: 10.1200/JCO.2017.74.7931.
+    J Clin Oncol. 2018 Mar 10;36(8):826-827. doi: 10.1200/JCO.2017.76.3748.
+    J Clin Oncol. 2018 Mar 10;36(8):825-826. doi: 10.1200/JCO.2017.75.9829.
+
+Purpose Cabazitaxel 25 mg/m2 (C25) significantly improved overall survival (OS) 
+versus mitoxantrone ( P < .001) in postdocetaxel patients with metastatic 
+castration-resistant prostate cancer (mCRPC) in the phase III TROPIC study. The 
+phase III PROSELICA study ( ClinicalTrials.gov identifier: NCT01308580) assessed 
+the noninferiority of cabazitaxel 20 mg/m2 (C20) versus C25 in postdocetaxel 
+patients with mCRPC. Methods Patients were stratified by Eastern Cooperative 
+Oncology Group performance status, measurability of disease per Response 
+Evaluation Criteria in Solid Tumors (RECIST), and region, and randomly assigned 
+to receive C20 or C25. To claim noninferiority of C20 (maintenance of ≥ 50% of 
+the OS benefit of C25 v mitoxantrone in TROPIC) with 95% confidence level, the 
+upper boundary of the CI of the hazard ratio (HR) for C20 versus C25 could not 
+exceed 1.214 under a one-sided 98.89% CI after interim analyses. Secondary end 
+points included progression-free survival, prostate-specific antigen (PSA), 
+tumor and pain responses and progression, health-related quality of life, and 
+safety. Results Overall, 1,200 patients were randomly assigned (C20, n = 598; 
+C25, n = 602). Baseline characteristics were similar in both arms. Median OS was 
+13.4 months for C20 and 14.5 months for C25 (HR, 1.024). The upper boundary of 
+the HR CI was 1.184 (less than the 1.214 noninferiority margin). Significant 
+differences were observed in favor of C25 for PSA response (C20, 29.5%; C25, 
+42.9%; nominal P < .001) and time to PSA progression (median: C20, 5.7 months; 
+C25, 6.8 months; HR for C20 v C25, 1.195; 95% CI, 1.025 to 1.393). 
+Health-related quality of life did not differ between cohorts. Rates of grade 3 
+or 4 treatment-emergent adverse events were 39.7% for C20 and 54.5% for C25. 
+Conclusion The efficacy of cabazitaxel in postdocetaxel patients with mCRPC was 
+confirmed. The noninferiority end point was met; C20 maintained ≥ 50% of the OS 
+benefit of C25 versus mitoxantrone in TROPIC. Secondary efficacy end points 
+favored C25. Fewer adverse events were observed with C20.
+
+DOI: 10.1200/JCO.2016.72.1076
+PMID: 28809610 [Indexed for MEDLINE]

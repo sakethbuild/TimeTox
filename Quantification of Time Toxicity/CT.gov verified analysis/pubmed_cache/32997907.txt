@@ -1,0 +1,64 @@
+3. N Engl J Med. 2020 Oct 1;383(14):1328-1339. doi: 10.1056/NEJMoa1917346.
+
+Atezolizumab for First-Line Treatment of PD-L1-Selected Patients with NSCLC.
+
+Herbst RS(1), Giaccone G(1), de Marinis F(1), Reinmuth N(1), Vergnenegre A(1), 
+Barrios CH(1), Morise M(1), Felip E(1), Andric Z(1), Geater S(1), Özgüroğlu 
+M(1), Zou W(1), Sandler A(1), Enquist I(1), Komatsubara K(1), Deng Y(1), Kuriki 
+H(1), Wen X(1), McCleland M(1), Mocci S(1), Jassem J(1), Spigel DR(1).
+
+Author information:
+(1)From the Yale School of Medicine, New Haven, CT (R.S.H.); Weill Cornell 
+Medical Center, New York (G.G.); the European Institute of Oncology, IRCCS, 
+Milan (F.M.); Asklepios Lung Clinic, Munich-Gauting, Germany (N.R.); University 
+Hospital Limoges, Limoges, France (A.V.); Centro de Pesquisa Clínica, Hospital 
+São Lucas, Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, 
+Brazil (C.H.B.); Nagoya University Graduate School of Medicine, Aichi, Japan (M. 
+Morise); Vall d'Hebron University Hospital, Barcelona (E.F.); Clinical Hospital 
+Center Bezanijska Kosa, Belgrade, Serbia (Z.A.); Prince of Songkla 
+University-Hat Yai, Songkhla, Thailand (S.G.); Istanbul University-Cerrahpaşa, 
+Cerrahpaşa Faculty of Medicine, Istanbul, Turkey (M.O.); Genentech, South San 
+Francisco, CA (W.Z., A.S., I.E., K.K., Y.D., H.K., X.W., M. McCleland, S.M.); 
+the Medical University of Gdańsk, Gdansk, Poland (J.J.); and the Sarah Cannon 
+Research Institute at Tennessee Oncology, Nashville (D.R.S.).
+
+Comment in
+    N Engl J Med. 2021 Feb 11;384(6):583-584. doi: 10.1056/NEJMc2032432.
+    N Engl J Med. 2021 Feb 11;384(6):584. doi: 10.1056/NEJMc2032432.
+
+BACKGROUND: The efficacy and safety of the anti-programmed death ligand 1 
+(PD-L1) monoclonal antibody atezolizumab, as compared with those of 
+platinum-based chemotherapy, as first-line treatment for patients with 
+metastatic non-small-cell lung cancer (NSCLC) with PD-L1 expression are not 
+known.
+METHODS: We conducted a randomized, open-label, phase 3 trial involving patients 
+with metastatic nonsquamous or squamous NSCLC who had not previously received 
+chemotherapy and who had PD-L1 expression on at least 1% of tumor cells or at 
+least 1% of tumor-infiltrating immune cells as assessed by the SP142 
+immunohistochemical assay. Patients were assigned in a 1:1 ratio to receive 
+atezolizumab or chemotherapy. Overall survival (primary end point) was tested 
+hierarchically according to PD-L1 expression status among patients in the 
+intention-to-treat population whose tumors were wild-type with respect to EGFR 
+mutations or ALK translocations. Within the population with EGFR and ALK 
+wild-type tumors, overall survival and progression-free survival were also 
+prospectively assessed in subgroups defined according to findings on two PD-L1 
+assays as well as by blood-based tumor mutational burden.
+RESULTS: Overall, 572 patients were enrolled. In the subgroup of patients with 
+EGFR and ALK wild-type tumors who had the highest expression of PD-L1 (205 
+patients), the median overall survival was longer by 7.1 months in the 
+atezolizumab group than in the chemotherapy group (20.2 months vs. 13.1 months; 
+hazard ratio for death, 0.59; P = 0.01). Among all the patients who could be 
+evaluated for safety, adverse events occurred in 90.2% of the patients in the 
+atezolizumab group and in 94.7% of those in the chemotherapy group; grade 3 or 4 
+adverse events occurred in 30.1% and 52.5% of the patients in the respective 
+groups. Overall and progression-free survival favored atezolizumab in the 
+subgroups with a high blood-based tumor mutational burden.
+CONCLUSIONS: Atezolizumab treatment resulted in significantly longer overall 
+survival than platinum-based chemotherapy among patients with NSCLC with high 
+PD-L1 expression, regardless of histologic type. (Funded by F. Hoffmann-La 
+Roche/Genentech; IMpower110 ClinicalTrials.gov number, NCT02409342.).
+
+Copyright © 2020 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa1917346
+PMID: 32997907 [Indexed for MEDLINE]

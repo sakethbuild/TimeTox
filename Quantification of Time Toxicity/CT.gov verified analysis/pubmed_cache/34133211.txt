@@ -1,0 +1,118 @@
+3. J Clin Oncol. 2021 Sep 10;39(26):2903-2913. doi: 10.1200/JCO.20.02914. Epub
+2021  Jun 16.
+
+PRODIGY: A Phase III Study of Neoadjuvant Docetaxel, Oxaliplatin, and S-1 Plus 
+Surgery and Adjuvant S-1 Versus Surgery and Adjuvant S-1 for Resectable Advanced 
+Gastric Cancer.
+
+Kang YK(1), Yook JH(2), Park YK(3), Lee JS(4), Kim YW(5), Kim JY(6), Ryu MH(1), 
+Rha SY(7), Chung IJ(8), Kim IH(9), Oh SC(10), Park YS(11), Son T(12), Jung 
+MR(3), Heo MH(6), Kim HK(5), Park C(13), Yoo CH(14), Choi JH(15), Zang DY(16), 
+Jang YJ(17), Sul JY(18), Kim JG(19), Kim BS(2), Beom SH(7), Cho SH(8), Ryu 
+SW(20), Kook MC(5), Ryoo BY(1), Kim HK(21), Yoo MW(2), Lee NS(22), Lee SH(23), 
+Kim G(24), Lee Y(24), Lee JH(24), Noh SH(25).
+
+Author information:
+(1)Department of Oncology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Republic of Korea.
+(2)Department of Surgery, Asan Medical Center, University of Ulsan, Seoul, 
+Republic of Korea.
+(3)Department of Surgery, Chonnam National University Medical School, Hwasun, 
+Republic of Korea.
+(4)Department of Radiology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Republic of Korea.
+(5)Center for Gastric Cancer, Research Institute & Hospital, National Cancer 
+Center, Graduate School of Cancer Science and Policy, Goyang, Republic of Korea.
+(6)Division of Hemato-Oncology, Department of Internal Medicine, Keimyung 
+University Dongsan Hospital, Daegu, Republic of Korea.
+(7)Department of Internal Medicine, Yonsei Cancer Center, Yonsei University, 
+Seoul, Republic of Korea.
+(8)Department of Internal Medicine, Chonnam National University Hwasun Hospital, 
+Chonnam National University Medical School, Jeonnam, Republic of Korea.
+(9)Division of Medical Oncology, Department of Internal Medicine, Seoul St 
+Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, 
+Republic of Korea.
+(10)Department of Internal Medicine, Korea University Guro Hospital, Seoul, 
+Republic of Korea.
+(11)Department of Pathology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Republic of Korea.
+(12)Department of Surgery, Yonsei Cancer Center, Yonsei University Health 
+System, Seoul, Republic of Korea.
+(13)Department of Surgery, Seoul St Mary's Hospital, College of Medicine, The 
+Catholic University of Korea, Seoul, Republic of Korea.
+(14)Department of Surgery, Sungkyunkwan University School of Medicine, Kangbuk 
+Samsung Hospital, Seoul, Republic of Korea.
+(15)Department of Hematology-Oncology, Ajou University School of Medicine, 
+Suwon, Republic of Korea.
+(16)Department of Internal Medicine, Hallym University Sacred Heart Hospital, 
+Anyang, Republic of Korea.
+(17)Department of Surgery, Korea University Guro Hospital, Seoul, Republic of 
+Korea.
+(18)Department of Surgery, Chungnam National University Hospital, Daejeon, 
+Republic of Korea.
+(19)Department of Internal Medicine, Kyungpook National University, Daegu, 
+Republic of Korea.
+(20)Department of Surgery, Keimyung University Dongsan Medical Center, Daegu, 
+Republic of Korea.
+(21)Department of Pathology, Yonsei University College of Medicine, Seoul, 
+Republic of Korea.
+(22)Department of Internal Medicine, Soon Chun Hyang University Hospital, Seoul, 
+Republic of Korea.
+(23)Department of Surgery, Kosin University Gospel Hospital, Busan, Republic of 
+Korea.
+(24)Sanofi Korea, Seoul, Republic of Korea.
+(25)Department of Surgery, Gangnam Severance Hospital, Yonsei University Health 
+System, Seoul, Republic of Korea.
+
+Comment in
+    J Clin Oncol. 2021 Dec 1;39(34):3884-3886. doi: 10.1200/JCO.21.02043.
+    J Clin Oncol. 2021 Dec 1;39(34):3883-3884. doi: 10.1200/JCO.21.01528.
+
+PURPOSE: Adjuvant chemotherapy after D2 gastrectomy is standard for resectable 
+locally advanced gastric cancer (LAGC) in Asia. Based on positive findings for 
+perioperative chemotherapy in European phase III studies, the phase III PRODIGY 
+study (ClinicalTrials.gov identifier: NCT01515748) investigated whether 
+neoadjuvant docetaxel, oxaliplatin, and S-1 (DOS) followed by surgery and 
+adjuvant S-1 could improve outcomes versus standard treatment in Korean patients 
+with resectable LAGC.
+PATIENTS AND METHODS: Patients 20-75 years of age, with Eastern Cooperative 
+Oncology Group performance status 0-1, and with histologically confirmed primary 
+gastric or gastroesophageal junction adenocarcinoma (clinical TNM staging: 
+T2-3N+ or T4Nany) were randomly assigned to D2 surgery followed by adjuvant S-1 
+(40-60 mg orally twice a day, days 1-28 every 6 weeks for eight cycles; SC 
+group) or neoadjuvant DOS (docetaxel 50 mg/m2, oxaliplatin 100 mg/m2 
+intravenously day 1, S-1 40 mg/m2 orally twice a day, days 1-14 every 3 weeks 
+for three cycles) before D2 surgery, followed by adjuvant S-1 (CSC group). The 
+primary objective was progression-free survival (PFS) with CSC versus SC. Two 
+sensitivity analyses were performed: intent-to-treat and landmark PFS analysis.
+RESULTS: Between January 18, 2012, and January 2, 2017, 266 patients were 
+randomly assigned to CSC and 264 to SC at 18 Korean study sites; 238 and 246 
+patients, respectively, were treated (full analysis set). Follow-up was ongoing 
+in 176 patients at data cutoff (January 21, 2019; median follow-up 38.6 months 
+[interquartile range, 23.5-62.1]). CSC improved PFS versus SC (adjusted hazard 
+ratio, 0.70; 95% CI, 0.52 to 0.95; stratified log-rank P = .023). Sensitivity 
+analyses confirmed these findings. Treatments were well tolerated. Two grade 5 
+adverse events (febrile neutropenia and dyspnea) occurred during neoadjuvant 
+treatment.
+CONCLUSION: PRODIGY showed that neoadjuvant DOS chemotherapy, as part of 
+perioperative chemotherapy, is effective and tolerable in Korean patients with 
+LAGC.
+
+DOI: 10.1200/JCO.20.02914
+PMCID: PMC8425847
+PMID: 34133211 [Indexed for MEDLINE]
+
+Conflict of interest statement: Yoon-Koo KangConsulting or Advisory Role: DAEHWA 
+Pharmaceutical, Bristol-Myers Squibb, Zymeworks, ALX Oncology, Amgen, Novartis, 
+MacroGenics, Surface Oncology Min-Hee RyuHonoraria: DAEHWA Pharmaceutical, 
+Bristol-Myers Squibb, Lilly, Ono Pharmaceutical, MSD, Taiho Pharmaceutical, 
+Novartis, Daiichi Sankyo, AstraZenecaConsulting or Advisory Role: DAEHWA 
+Pharmaceutical, Bristol-Myers Squibb, Lilly, Ono Pharmaceutical, MSD, Taiho 
+Pharmaceutical, Novartis, Daiichi Sankyo, AstraZeneca Sun Young RhaConsulting or 
+Advisory Role: MSD Oncology, Ipsen, Daiichi Sankyo, Eisai, Amgen, 
+IndivumedSpeakers' Bureau: Lilly, EisaiResearch Funding: MSD Oncology, 
+Bristol-Myers Squibb, Eisai, Roche/Genentech, MedPacto, ASLAN Pharmaceuticals, 
+SillaJen, Bayer, Immunomet Gyunji KimEmployment: Sanofi, NovartisStock and Other 
+Ownership Interests: Sanofi YeonJu LeeEmployment: SanofiStock and Other 
+Ownership Interests: Sanofi Jee Hyun LeeEmployment: SanofiNo other potential 
+conflicts of interest were reported.

@@ -1,0 +1,311 @@
+[
+ {
+  "filename": "PMID 26056177 a_Summary_SoE.pdf",
+  "pmid": "26056177",
+  "trial_design_summary": "Comparison of three frontline bortezomib-based myeloma regimens (VD vs VTD vs VMP)",
+  "arms": [
+   {"arm_name": "VD (VELCADE and Dexamethasone)", "designation": "control", "evidence": "VTD and VMP did not appear to offer an advantage over VD in transplantation-ineligible patients"},
+   {"arm_name": "VTD (VELCADE, Thalidomide, and Dexamethasone)", "designation": "intervention", "evidence": "VTD and VMP did not appear to offer an advantage over VD"},
+   {"arm_name": "VMP (VELCADE, Melphalan, and Prednisone)", "designation": "intervention", "evidence": "VTD and VMP did not appear to offer an advantage over VD"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26122726 a_Summary_SoE.pdf",
+  "pmid": "26122726",
+  "trial_design_summary": "Abstract describes filgrastim biosimilar vs reference; arm_names (radiosurgery) do not match abstract content",
+  "arms": [
+   {"arm_name": "Arm B (Radiosurgery + WBRT)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm A (Radiosurgery alone)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 26206652 CT_Summary_SoE.pdf",
+  "pmid": "26206652",
+  "trial_design_summary": "Goal-directed fluid therapy vs standard resuscitation after liver resection",
+  "arms": [
+   {"arm_name": "Group 1 (Standard fluid management)", "designation": "control", "evidence": "randomized to GDT using stroke volume variation as an end point or to standard perioperative resuscitation"},
+   {"arm_name": "Group 2 (Goal-directed fluid therapy - GDT)", "designation": "intervention", "evidence": "randomized to GDT using stroke volume variation as an end point or to standard perioperative resuscitation"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26351350 a_Summary_SoE.pdf",
+  "pmid": "26351350",
+  "trial_design_summary": "Placebo-controlled trial of GM-CSF, peptide vaccination, both, or placebo in resected melanoma",
+  "arms": [
+   {"arm_name": "Arm F: GM-CSF Placebo (HLA-A2-)", "designation": "control", "evidence": "HLA-A2-negative patients, GM-CSF or placebo"},
+   {"arm_name": "Arm D: GM-CSF Placebo + Peptide Placebo (HLA-A2+)", "designation": "control", "evidence": "HLA-A2-positive patients were randomly assigned to receive GM-CSF, PV, both, or placebo"},
+   {"arm_name": "Arm E: GM-CSF (HLA-A2-)", "designation": "intervention", "evidence": "evaluate the effect of granulocyte-macrophage colony-stimulating factor (GM-CSF) and peptide vaccination"},
+   {"arm_name": "Arm A: GM-CSF + Peptide Vaccination (HLA-A2+)", "designation": "intervention", "evidence": "HLA-A2-positive patients were randomly assigned to receive GM-CSF, PV, both, or placebo"},
+   {"arm_name": "Arm B: GM-CSF Placebo + Peptide Vaccination (HLA-A2+)", "designation": "intervention", "evidence": "evaluate the effect of granulocyte-macrophage colony-stimulating factor (GM-CSF) and peptide vaccination (PV)"},
+   {"arm_name": "Arm C: GM-CSF + Peptide Placebo (HLA-A2+)", "designation": "intervention", "evidence": "HLA-A2-positive patients were randomly assigned to receive GM-CSF, PV, both, or placebo"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26412349 a_Summary_SoE.pdf",
+  "pmid": "26412349",
+  "trial_design_summary": "21-gene assay validation; abstract reports only the low-risk endocrine-therapy-alone group, not the randomized chemo comparison",
+  "arms": [
+   {"arm_name": "Arm B (Hormonal Therapy Alone)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm C (Chemotherapy + Hormonal Therapy)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 26673811 a_Summary_SoE.pdf",
+  "pmid": "26673811",
+  "trial_design_summary": "Ibrutinib vs temsirolimus in relapsed/refractory mantle-cell lymphoma",
+  "arms": [
+   {"arm_name": "Arm B (Temsirolimus)", "designation": "control", "evidence": "primary hypothesis that ibrutinib compared with temsirolimus significantly improves progression-free survival"},
+   {"arm_name": "Arm A (Ibrutinib)", "designation": "intervention", "evidence": "primary hypothesis that ibrutinib compared with temsirolimus significantly improves progression-free survival"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26712084b_Summary_SoE.pdf",
+  "pmid": "26712084",
+  "trial_design_summary": "Pembrolizumab (two doses) vs docetaxel in previously treated PD-L1-positive NSCLC",
+  "arms": [
+   {"arm_name": "Docetaxel 75 mg/m2 Q3W", "designation": "control", "evidence": "We assessed the efficacy of pembrolizumab for patients with previously treated, PD-L1-positive, advanced non-small-cell lung cancer"},
+   {"arm_name": "MK-3475 10 mg/kg Q3W", "designation": "intervention", "evidence": "overall survival was significantly longer for pembrolizumab... 10 mg/kg versus docetaxel"},
+   {"arm_name": "MK-3475 2 mg/kg Q3W", "designation": "intervention", "evidence": "Overall survival was significantly longer for pembrolizumab 2 mg/kg versus docetaxel"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26933849 a_Summary_SoE.pdf",
+  "pmid": "26933849",
+  "trial_design_summary": "Dose-dense weekly vs every-3-week paclitaxel plus carboplatin in ovarian cancer",
+  "arms": [
+   {"arm_name": "Every-3-week Paclitaxel + Carboplatin", "designation": "control", "evidence": "whether dose-dense weekly paclitaxel and carboplatin would prolong PFS as compared with paclitaxel and carboplatin administered every 3 weeks"},
+   {"arm_name": "Weekly Paclitaxel + Carboplatin", "designation": "intervention", "evidence": "whether dose-dense weekly paclitaxel and carboplatin would prolong progression-free survival as compared with paclitaxel... every 3 weeks"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 26997579 a _Summary_SoE.pdf",
+  "pmid": "26997579",
+  "trial_design_summary": "APF530 (extended-release granisetron) vs ondansetron, each in a three-drug regimen for delayed CINV",
+  "arms": [
+   {"arm_name": "Ondansetron + fosaprepitant + dexamethasone", "designation": "control", "evidence": "APF530 versus the standard three-drug regimen provided superior control of delayed-phase CINV"},
+   {"arm_name": "APF530 (granisetron extended-release) + fosaprepitant + dexamethasone", "designation": "intervention", "evidence": "We compared efficacy and safety of APF530 versus ondansetron for delayed CINV"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 27264120 a_Summary_SoE.pdf",
+  "pmid": "27264120",
+  "trial_design_summary": "Extended (additional 5 years) letrozole vs placebo as adjuvant aromatase-inhibitor therapy",
+  "arms": [
+   {"arm_name": "Arm 2 (Placebo)", "designation": "control", "evidence": "double-blind, placebo-controlled trial to assess the effect of the extended use of letrozole for an additional 5 years"},
+   {"arm_name": "Arm 2: Placebo (MA.17 Core Study)", "designation": "control", "evidence": "double-blind, placebo-controlled trial to assess the effect of the extended use of letrozole"},
+   {"arm_name": "Arm 1 (Letrozole)", "designation": "intervention", "evidence": "to assess the effect of the extended use of letrozole for an additional 5 years"},
+   {"arm_name": "Arm 1: Letrozole (MA.17 Core Study)", "designation": "intervention", "evidence": "to assess the effect of the extended use of letrozole for an additional 5 years"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 27458945 a_Summary_SoE.pdf",
+  "pmid": "27458945",
+  "trial_design_summary": "De-escalation: stereotactic radiosurgery alone vs SRS plus whole-brain radiotherapy (cognitive endpoint)",
+  "arms": [
+   {"arm_name": "Arm B (Radiosurgery + Whole Brain Radiation Therapy)", "designation": "control", "evidence": "WBRT significantly improves tumor control in the brain after stereotactic radiosurgery, yet... its role... remains controversial"},
+   {"arm_name": "Arm A (Radiosurgery alone)", "designation": "intervention", "evidence": "for patients with 1 to 3 brain metastases amenable to radiosurgery, SRS alone may be a preferred strategy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 27569442 CT_Summary_SoE.pdf",
+  "pmid": "27569442",
+  "trial_design_summary": "MAPIE vs MAP for poor-responder osteosarcoma (only title available; no abstract body)",
+  "arms": [
+   {"arm_name": "Arm A & C (MAP - Control)", "designation": "control", "evidence": "Comparison of MAPIE versus MAP in patients with a poor response to preoperative chemotherapy"},
+   {"arm_name": "Arm B (MAP + Pegylated Interferon alfa-2b)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm D (MAP + Ifosfamide/Etoposide)", "designation": "intervention", "evidence": "Comparison of MAPIE versus MAP in patients with a poor response to preoperative chemotherapy"}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 27717299 a_Summary_SoE.pdf",
+  "pmid": "27717299",
+  "trial_design_summary": "Niraparib vs placebo maintenance in platinum-sensitive recurrent ovarian cancer",
+  "arms": [
+   {"arm_name": "Placebo", "designation": "control", "evidence": "evaluate the efficacy of niraparib versus placebo as maintenance treatment"},
+   {"arm_name": "Niraparib", "designation": "intervention", "evidence": "evaluate the efficacy of niraparib versus placebo as maintenance treatment"},
+   {"arm_name": "Niraparib (Food Effect Sub-Study)", "designation": "intervention", "evidence": "evaluate the efficacy of niraparib versus placebo as maintenance treatment"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 27908454 CT_Summary_SoE.pdf",
+  "pmid": "27908454",
+  "trial_design_summary": "Fulvestrant vs anastrozole (standard-of-care aromatase inhibitor) in endocrine-naive advanced breast cancer",
+  "arms": [
+   {"arm_name": "Arm B (Anastrozole 1 mg)", "designation": "control", "evidence": "Fulvestrant... is a preferred treatment option... compared with a third-generation aromatase inhibitor, a standard of care"},
+   {"arm_name": "Arm A (Fulvestrant 500 mg)", "designation": "intervention", "evidence": "whether the selective oestrogen receptor degrader fulvestrant could improve progression-free survival compared with anastrozole"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 27914822_Summary_SoE.pdf",
+  "pmid": "27914822",
+  "trial_design_summary": "Sodium thiosulfate vs observation to prevent cisplatin-induced hearing loss in children",
+  "arms": [
+   {"arm_name": "Observation Arm (Control)", "designation": "control", "evidence": "randomly assigned (1:1) to receive sodium thiosulfate or observation (control group)"},
+   {"arm_name": "STS Arm (Sodium Thiosulfate)", "designation": "intervention", "evidence": "randomly assigned (1:1) to receive sodium thiosulfate or observation (control group)"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 27918724 a_Summary_SoE.pdf",
+  "pmid": "27918724",
+  "trial_design_summary": "Telotristat ethyl (250 or 500 mg) vs placebo added to somatostatin analog for carcinoid syndrome",
+  "arms": [
+   {"arm_name": "Arm B (Placebo)", "designation": "control", "evidence": "received (1:1:1) placebo, telotristat ethyl 250 mg, or telotristat ethyl 500 mg three times per day"},
+   {"arm_name": "Arm A (Telotristat etiprate 250 mg or 500 mg tid)", "designation": "intervention", "evidence": "Estimated differences in BM frequency per day versus placebo averaged over 12 weeks were -0.81 for telotristat ethyl 250 mg"},
+   {"arm_name": "Telotristat etiprate 500 mg tid", "designation": "intervention", "evidence": "-0.69 for telotristat ethyl 500 mg (P < .001)"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28030702 a_Summary_SoE.pdf",
+  "pmid": "28030702",
+  "trial_design_summary": "De-escalation: zoledronic acid every 12 weeks vs standard every 4 weeks in bone metastases",
+  "arms": [
+   {"arm_name": "Arm A (Zoledronic acid every 4 weeks)", "designation": "control", "evidence": "whether zoledronic acid administered every 12 weeks is noninferior to zoledronic acid administered every 4 weeks"},
+   {"arm_name": "Arm B (Zoledronic acid every 12 weeks)", "designation": "intervention", "evidence": "whether zoledronic acid administered every 12 weeks is noninferior to zoledronic acid administered every 4 weeks"},
+   {"arm_name": "Arm B (Zoledronic acid 4 mg IV every 12 weeks)", "designation": "intervention", "evidence": "use of zoledronic acid every 12 weeks compared with the standard dosing interval of every 4 weeks"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28056202 a_Summary_SoE.pdf",
+  "pmid": "28056202",
+  "trial_design_summary": "MARIANNE: T-DM1, or T-DM1+pertuzumab, vs trastuzumab plus taxane (control) in HER2+ breast cancer",
+  "arms": [
+   {"arm_name": "Arm A (Trastuzumab + Taxane)", "designation": "control", "evidence": "randomly assigned 1:1:1 to control (trastuzumab plus taxane), T-DM1 plus placebo... or T-DM1 plus pertuzumab"},
+   {"arm_name": "Arm B (Trastuzumab emtansine + Pertuzumab)", "designation": "intervention", "evidence": "Neither experimental arm showed PFS superiority to trastuzumab plus taxane"},
+   {"arm_name": "Arm C (Trastuzumab emtansine + Pertuzumab-placebo)", "designation": "intervention", "evidence": "T-DM1 and T-DM1 plus pertuzumab showed noninferior PFS compared with trastuzumab plus taxane"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28125763 a_Summary_SoE.pdf",
+  "pmid": "28125763",
+  "trial_design_summary": "De-escalation: zoledronic acid every 12 weeks vs every 4 weeks in breast cancer bone metastases (OPTIMIZE-2)",
+  "arms": [
+   {"arm_name": "Arm A (Zometa 4 mg every 4 weeks)", "designation": "control", "evidence": "whether zoledronic acid every 12 weeks was noninferior to zoledronic acid every 4 weeks"},
+   {"arm_name": "Arm B (Zometa 4 mg every 12 weeks)", "designation": "intervention", "evidence": "whether zoledronic acid every 12 weeks was noninferior to zoledronic acid every 4 weeks"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28296618 a_Summary_SoE.pdf",
+  "pmid": "28296618",
+  "trial_design_summary": "Short-course radiotherapy plus temozolomide vs radiotherapy alone in elderly glioblastoma",
+  "arms": [
+   {"arm_name": "Arm 1 (Short-course Radiation Therapy alone)", "designation": "control", "evidence": "the benefit of adding temozolomide to a shorter course of radiotherapy is unknown"},
+   {"arm_name": "Arm 2 (Short-course Radiation Therapy + Temozolomide)", "designation": "intervention", "evidence": "the addition of temozolomide to short-course radiotherapy resulted in longer survival than short-course radiotherapy alone"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28384065 a_Summary_SoE.pdf",
+  "pmid": "28384065",
+  "trial_design_summary": "Octreotide plus bevacizumab vs octreotide plus interferon in advanced carcinoid; both framed as experimental additions",
+  "arms": [
+   {"arm_name": "Arm 2 (Depot Octreotide Plus Interferon Alpha-2b)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm 1 (Depot Octreotide Plus Bevacizumab)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 28438473 a_Summary_SoE.pdf",
+  "pmid": "28438473",
+  "trial_design_summary": "GOG-0213 bevacizumab objective: chemotherapy plus bevacizumab vs standard chemotherapy (surgical objective ongoing/not reported)",
+  "arms": [
+   {"arm_name": "Arm I/V (No Surgery + Chemotherapy)", "designation": "control", "evidence": "Patients were randomly assigned (1:1) to standard chemotherapy (six 3-weekly cycles of paclitaxel... and carboplatin)"},
+   {"arm_name": "Arm III/VII (Surgery + CT/GC)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm IV/VIII (Surgery + Chemotherapy + Bevacizumab)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm II (Carboplatin + Paclitaxel + Bevacizumab)", "designation": "intervention", "evidence": "the same chemotherapy regimen plus bevacizumab... every 3 weeks and continued as maintenance"},
+   {"arm_name": "Arm IV (Surgery + Carboplatin + Paclitaxel + Bevacizumab)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28492898 CT_Summary_SoE.pdf",
+  "pmid": "28492898",
+  "trial_design_summary": "Selumetinib plus docetaxel vs placebo plus docetaxel in KRAS-mutant NSCLC (SELECT-1)",
+  "arms": [
+   {"arm_name": "Arm B (Placebo + Docetaxel)", "designation": "control", "evidence": "254 to receive selumetinib + docetaxel and 256 to receive placebo + docetaxel"},
+   {"arm_name": "Arm A (Selumetinib + Docetaxel)", "designation": "intervention", "evidence": "compare efficacy of the... MEK inhibitor selumetinib + docetaxel with docetaxel alone as a second-line therapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28632865 a_Summary_SoE.pdf",
+  "pmid": "28632865",
+  "trial_design_summary": "Cetuximab vs bevacizumab added to chemotherapy in KRAS wild-type colorectal cancer; optimal biologic unknown",
+  "arms": [
+   {"arm_name": "Arm A (Bevacizumab + FOLFOX/FOLFIRI)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm B (Cetuximab + FOLFOX/FOLFIRI)", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 28746153 CT_Summary_SoE.pdf",
+  "pmid": "28746153",
+  "trial_design_summary": "Thoracic epidural analgesia vs intravenous patient-controlled analgesia after HPB surgery",
+  "arms": [
+   {"arm_name": "Intravenous Patient Controlled Analgesia (IVPCA)", "designation": "control", "evidence": "compare thoracic epidural analgesia (TEA) to intravenous patient-controlled analgesia (IV-PCA) for pain control"},
+   {"arm_name": "Thoracic Epidural Analgesia (TEA)", "designation": "intervention", "evidence": "In major HPB surgery, TEA provides a superior patient experience through improved pain control and less narcotic use"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28809610 a_Summary_SoE.pdf",
+  "pmid": "28809610",
+  "trial_design_summary": "De-escalation: reduced-dose cabazitaxel 20 mg/m2 vs approved 25 mg/m2 in metastatic CRPC (PROSELICA)",
+  "arms": [
+   {"arm_name": "Arm B (Cabazitaxel 25 mg/m²)", "designation": "control", "evidence": "noninferiority of cabazitaxel 20 mg/m2 (C20) versus C25... the Currently Approved Dose (25 mg/m2)"},
+   {"arm_name": "Arm A (Cabazitaxel 20 mg/m²)", "designation": "intervention", "evidence": "assessed the noninferiority of cabazitaxel 20 mg/m2 (C20) versus C25 in postdocetaxel patients with mCRPC"},
+   {"arm_name": "Arm B (Cabazitaxel 25 mg/m² + Prednisone)", "designation": "control", "evidence": "the Currently Approved Dose (25 mg/m2)... C20 maintained >=50% of the OS benefit of C25"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28891423 a_Summary_SoE.pdf",
+  "pmid": "28891423",
+  "trial_design_summary": "Adjuvant nivolumab vs ipilimumab (approved adjuvant comparator) in resected stage III/IV melanoma",
+  "arms": [
+   {"arm_name": "Arm A (Ipilimumab 10 mg/kg + Nivolumab Placebo)", "designation": "control", "evidence": "In the United States, ipilimumab has also been approved as adjuvant therapy for melanoma"},
+   {"arm_name": "Arm B (Nivolumab 3 mg/kg + Ipilimumab Placebo)", "designation": "intervention", "evidence": "determine the efficacy of nivolumab versus ipilimumab for adjuvant therapy in patients with resected advanced melanoma"},
+   {"arm_name": "Arm B (Nivolumab 3 mg/kg)", "designation": "intervention", "evidence": "determine the efficacy of nivolumab versus ipilimumab for adjuvant therapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 28935843 a_Summary_SoE.pdf",
+  "pmid": "28935843",
+  "trial_design_summary": "Subcutaneous vs intravenous (standard) rituximab plus CHOP in first-line DLBCL",
+  "arms": [
+   {"arm_name": "Rituximab IV plus CHOP", "designation": "control", "evidence": "Intravenous rituximab plus chemotherapy is standard treatment for diffuse large B-cell lymphoma"},
+   {"arm_name": "Rituximab SC plus CHOP", "designation": "intervention", "evidence": "A subcutaneous formulation of rituximab is expected to simplify and shorten drug preparation and administration"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 29158011 CT_Summary_SoE.pdf",
+  "pmid": "29158011",
+  "trial_design_summary": "Extended adjuvant intermittent letrozole vs continuous letrozole (SOLE; only title available, no abstract body)",
+  "arms": [
+   {"arm_name": "Arm A (Continuous Letrozole)", "designation": "control", "evidence": "Extended adjuvant intermittent letrozole versus continuous letrozole in postmenopausal women with breast cancer"},
+   {"arm_name": "Arm A (Continuous letrozole)", "designation": "control", "evidence": "Extended adjuvant intermittent letrozole versus continuous letrozole in postmenopausal women with breast cancer"},
+   {"arm_name": "Arm B (Intermittent letrozole)", "designation": "intervention", "evidence": "Extended adjuvant intermittent letrozole versus continuous letrozole in postmenopausal women with breast cancer"}
+  ],
+  "abstract_states_roles": false
+ }
+]

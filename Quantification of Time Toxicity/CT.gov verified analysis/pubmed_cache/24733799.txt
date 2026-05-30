@@ -1,0 +1,61 @@
+17. J Clin Oncol. 2014 May 20;32(15):1571-7. doi: 10.1200/JCO.2013.53.2630. Epub 
+2014 Apr 14.
+
+Doxepin rinse versus placebo in the treatment of acute oral mucositis pain in 
+patients receiving head and neck radiotherapy with or without chemotherapy: a 
+phase III, randomized, double-blind trial (NCCTG-N09C6 [Alliance]).
+
+Leenstra JL(1), Miller RC(2), Qin R(1), Martenson JA(1), Dornfeld KJ(1), Bearden 
+JD(1), Puri DR(1), Stella PJ(1), Mazurczak MA(1), Klish MD(1), Novotny PJ(1), 
+Foote RL(1), Loprinzi CL(1).
+
+Author information:
+(1)James L. Leenstra, St Vincent Regional Cancer Center, Green Bay, WI; Robert 
+C. Miller, Rui Qin, James A. Martenson, Paul J. Novotny, Robert L. Foote, and 
+Charles L. Loprinzi, Mayo Clinic, Rochester; Kenneth J. Dornfeld, Essentia 
+Health Cancer Center, Duluth, MN; James D. Bearden, Palmetto Hematology 
+Oncology, Spartanburg, SC; Dev R. Puri, Mercy Cancer Center, Des Moines, IA; 
+Philip J. Stella, St Joseph Mercy Cancer Care Center, Ann Arbor, MI; Miroslaw A. 
+Mazurczak, Sandford Health Cancer Center, Sioux Falls, SD; and Marie D. Klish, 
+Hope Cancer Center, Longmont, CO.
+(2)James L. Leenstra, St Vincent Regional Cancer Center, Green Bay, WI; Robert 
+C. Miller, Rui Qin, James A. Martenson, Paul J. Novotny, Robert L. Foote, and 
+Charles L. Loprinzi, Mayo Clinic, Rochester; Kenneth J. Dornfeld, Essentia 
+Health Cancer Center, Duluth, MN; James D. Bearden, Palmetto Hematology 
+Oncology, Spartanburg, SC; Dev R. Puri, Mercy Cancer Center, Des Moines, IA; 
+Philip J. Stella, St Joseph Mercy Cancer Care Center, Ann Arbor, MI; Miroslaw A. 
+Mazurczak, Sandford Health Cancer Center, Sioux Falls, SD; and Marie D. Klish, 
+Hope Cancer Center, Longmont, CO. miller.robert@mayo.edu.
+
+PURPOSE: Painful oral mucositis (OM) is a significant toxicity during 
+radiotherapy for head and neck cancers. The aim of this randomized, 
+double-blind, placebo-controlled trial was to test the efficacy of doxepin 
+hydrochloride in the reduction of radiotherapy-induced OM pain.
+PATIENTS AND METHODS: In all, 155 patients were randomly allocated to a doxepin 
+oral rinse or a placebo for the treatment of radiotherapy-related OM pain. 
+Patients received a single dose of doxepin or placebo on day 1 and then crossed 
+over to receive the opposite agent on a subsequent day. Pain questionnaires were 
+administered at baseline and at 5, 15, 30, 60, 120, and 240 minutes. Patients 
+were then given the option to continue doxepin. The primary end point was pain 
+reduction as measured by the area under the curve (AUC) of the pain scale using 
+data from day 1.
+RESULTS: Primary end point analysis revealed that the AUC for mouth and throat 
+pain reduction was greater for doxepin (-9.1) than for placebo (-4.7; P < .001). 
+Crossover analysis of patients completing both phases confirmed that patients 
+experienced greater mouth and throat pain reduction with doxepin (intrapatient 
+changes of 4.1 for doxepin-placebo arm and -2.8 for placebo-doxepin arm; P < 
+.001). Doxepin was associated with more stinging or burning, unpleasant taste, 
+and greater drowsiness than the placebo rinse. More patients receiving doxepin 
+expressed a desire to continue treatment than did patients with placebo after 
+completion of each of the randomized phases of the study.
+CONCLUSION: A doxepin rinse diminishes OM pain. Further studies are warranted to 
+determine its role in the management of OM.
+
+© 2014 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2013.53.2630
+PMCID: PMC4026580
+PMID: 24733799 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

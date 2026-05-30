@@ -1,0 +1,65 @@
+8. J Clin Oncol. 2019 Sep 10;37(26):2360-2367. doi: 10.1200/JCO.19.01006. Epub
+2019  Jul 30.
+
+Pemetrexed, Bevacizumab, or the Combination As Maintenance Therapy for Advanced 
+Nonsquamous Non-Small-Cell Lung Cancer: ECOG-ACRIN 5508.
+
+Ramalingam SS(1), Dahlberg SE(2), Belani CP(3), Saltzman JN(4), Pennell NA(5), 
+Nambudiri GS(6), McCann JC(7), Winegarden JD(8), Kassem MA(9), Mohamed MK(10), 
+Rothman JM(11), Lyss AP(12), Horn L(13), Stinchcombe TE(14), Schiller JH(15).
+
+Author information:
+(1)Winship Cancer Institute of Emory University, Atlanta, GA.
+(2)Dana-Farber Cancer Institute, Boston, MA.
+(3)Penn State Health Milton S. Hershey Medical Center, Hershey, PA.
+(4)University Hospitals Seidman Cancer Center, Cleveland, OH.
+(5)Cleveland Clinic, Cleveland, OH.
+(6)St John's Hospital, Maplewood, MN.
+(7)Baystate Health, Springfield, MA.
+(8)St Joseph Mercy Ann Arbor Hospital, Ann Arbor, MI.
+(9)Sinai Cancer Care and Infusion Center, Chicago, IL.
+(10)Moses H. Cone Memorial Hospital, Greensboro, NC.
+(11)Hillman Cancer Center, University Pittsburgh Medical Center, Pittsburgh, PA.
+(12)Missouri Baptist Medical Center, St Louis, MO.
+(13)Vanderbilt University, Nashville, TN.
+(14)Duke University, Durham, NC.
+(15)Inova Schar Cancer Center, Fairfax, VA.
+
+Comment in
+    J Clin Oncol. 2020 Mar 1;38(7):770-771. doi: 10.1200/JCO.19.02348.
+    J Clin Oncol. 2020 Mar 1;38(7):769-770. doi: 10.1200/JCO.19.02356.
+    J Clin Oncol. 2020 Mar 1;38(7):771-772. doi: 10.1200/JCO.19.02741.
+
+PURPOSE: Pemetrexed or bevacizumab is used for maintenance therapy of advanced 
+nonsquamous non-small-cell lung cancer (NSCLC). The combination of bevacizumab 
+and pemetrexed has also demonstrated efficacy. We conducted a randomized study 
+to determine the optimal maintenance therapy.
+PATIENTS AND METHODS: Patients with advanced nonsquamous NSCLC and no prior 
+systemic therapy received carboplatin (area under the curve, 6), paclitaxel (200 
+mg/m2), and bevacizumab (15 mg/kg) for up to four cycles. Patients without 
+progression after four cycles were randomly assigned to maintenance therapy with 
+bevacizumab (15 mg/kg), pemetrexed (500 mg/m2), or a combination of the two 
+agents. The primary end point was overall survival, with bevacizumab serving as 
+the control group.
+RESULTS: Of the 1,516 patients enrolled, 874 (57%) were randomly assigned after 
+induction therapy to one of the three maintenance therapy groups. With a median 
+follow-up of 50.6 months, median survival with pemetrexed was 15.9 months, 
+compared with 14.4 months with bevacizumab (hazard ratio [HR], 0.86; P = .12); 
+median survival with pemetrexed and bevacizumab was 16.4 months (HR, 0.9; P = 
+.28); median progression-free survival was 4.2, 5.1 (HR, 0.85; P = .06), and 7.5 
+months (HR, 0.67; P < .001) for the three groups, respectively. Incidence of 
+worst grade 3 to 4 toxicity was 29%, 37%, and 51%, respectively, for 
+bevacizumab, pemetrexed, and the combination regimen.
+CONCLUSION: Single-agent bevacizumab or pemetrexed is efficacious as maintenance 
+therapy for advanced nonsquamous NSCLC. Because of a lack of survival benefit 
+and higher toxicity, the combination of bevacizumab and pemetrexed cannot be 
+recommended.
+
+DOI: 10.1200/JCO.19.01006
+PMCID: PMC7001786
+PMID: 31361535 [Indexed for MEDLINE]
+
+Conflict of interest statement: The content is solely the responsibility of the 
+authors and does not necessarily represent the official views of the National 
+Institutes of Health, nor does mention of trade names, commercial products, or 
+organizations imply endorsement by the US government.

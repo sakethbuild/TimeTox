@@ -1,0 +1,66 @@
+13. N Engl J Med. 2012 May 10;366(19):1759-69. doi: 10.1056/NEJMoa1112704.
+
+Continuous lenalidomide treatment for newly diagnosed multiple myeloma.
+
+Palumbo A(1), Hajek R, Delforge M, Kropff M, Petrucci MT, Catalano J, Gisslinger 
+H, Wiktor-Jędrzejczak W, Zodelava M, Weisel K, Cascavilla N, Iosava G, Cavo M, 
+Kloczko J, Bladé J, Beksac M, Spicka I, Plesner T, Radke J, Langer C, Ben Yehuda 
+D, Corso A, Herbein L, Yu Z, Mei J, Jacques C, Dimopoulos MA; MM-015 
+Investigators.
+
+Collaborators: Augustson B, Horvath N, Joshua D, Mollee P, Prince M, Spencer A, 
+Taylor K, Gastl AG, Greil R, Ludwig H, Iskrov I, Uss A, Fillet G, Schots R, van 
+Droogenbroeck J, Maisnar V, Scudla V, Gregersen H, Attal M, Fermand JP, Jaccard 
+A, Macro M, Rossi J-, Dölken G, Engelhardt M, Goldschmidt H, Knop S, 
+Niederwieser D, Crotty G, Nagler A, Rowe J, Shpilberg O, Cafro AM, Caravita T, 
+Foa R, Gobbi M, Zweegman S, Dmoszynska A, Hellmann A, Skotnicki AB, Abdulkadyrov 
+K, Domnikova N, Osmanov E, Rossiev V, Rukavistin O, Alegre A, Capote FJ, Martino 
+ML, Miguel JS, Ahlgren T, Bauer S, Stenner F, Cagirgan S, Schey S, Yong K, 
+Kaplan P, Kyeting E, Lysa T, Maslyak Z, Pylypenko G, Tretyak N.
+
+Author information:
+(1)Myeloma Unit, Division of Hematology, University of Turin, Azienda 
+Ospedaliero-Universitaria, S. Giovanni Battista, Via Genova 3, 10126 Turin, 
+Italy. appalumbo@yahoo.com
+
+Erratum in
+    N Engl J Med. 2012 Jul 19;367(3):285.
+
+Comment in
+    N Engl J Med. 2012 May 10;366(19):1836-8. doi: 10.1056/NEJMe1202819.
+    N Engl J Med. 2012 Aug 9;367(6):573; author reply 573-5. doi: 
+10.1056/NEJMc1206734.
+    Internist (Berl). 2013 Jul;54(7):892-6. doi: 10.1007/s00108-013-3299-3.
+
+BACKGROUND: Lenalidomide has tumoricidal and immunomodulatory activity against 
+multiple myeloma. This double-blind, multicenter, randomized study compared 
+melphalan-prednisone-lenalidomide induction followed by lenalidomide maintenance 
+(MPR-R) with melphalan-prednisone-lenalidomide (MPR) or melphalan-prednisone 
+(MP) followed by placebo in patients 65 years of age or older with newly 
+diagnosed multiple myeloma.
+METHODS: We randomly assigned patients who were ineligible for transplantation 
+to receive MPR-R (nine 4-week cycles of MPR followed by lenalidomide maintenance 
+therapy until a relapse or disease progression occurred [152 patients]) or to 
+receive MPR (153 patients) or MP (154 patients) without maintenance therapy. The 
+primary end point was progression-free survival.
+RESULTS: The median follow-up period was 30 months. The median progression-free 
+survival was significantly longer with MPR-R (31 months) than with MPR (14 
+months; hazard ratio, 0.49; P<0.001) or MP (13 months; hazard ratio, 0.40; 
+P<0.001). Response rates were superior with MPR-R and MPR (77% and 68%, 
+respectively, vs. 50% with MP; P<0.001 and P=0.002, respectively, for the 
+comparison with MP). The progression-free survival benefit associated with MPR-R 
+was noted in patients 65 to 75 years of age but not in those older than 75 years 
+of age (P=0.001 for treatment-by-age interaction). After induction therapy, a 
+landmark analysis showed a 66% reduction in the rate of progression with MPR-R 
+(hazard ratio for the comparison with MPR, 0.34; P<0.001) that was 
+age-independent. During induction therapy, the most frequent adverse events were 
+hematologic; grade 4 neutropenia was reported in 35%, 32%, and 8% of the 
+patients in the MPR-R, MPR, and MP groups, respectively. The 3-year rate of 
+second primary tumors was 7% with MPR-R, 7% with MPR, and 3% with MP.
+CONCLUSIONS: MPR-R significantly prolonged progression-free survival in patients 
+with newly diagnosed multiple myeloma who were ineligible for transplantation, 
+with the greatest benefit observed in patients 65 to 75 years of age. (Funded by 
+Celgene; MM-015 ClinicalTrials.gov number, NCT00405756.).
+
+DOI: 10.1056/NEJMoa1112704
+PMID: 22571200 [Indexed for MEDLINE]

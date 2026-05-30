@@ -1,0 +1,124 @@
+19. Lancet Oncol. 2022 Feb;23(2):259-269. doi: 10.1016/S1470-2045(21)00718-X.
+Epub  2022 Jan 14.
+
+Trastuzumab with trimodality treatment for oesophageal adenocarcinoma with HER2 
+overexpression (NRG Oncology/RTOG 1010): a multicentre, randomised, phase 3 
+trial.
+
+Safran HP(1), Winter K(2), Ilson DH(3), Wigle D(4), DiPetrillo T(5), Haddock 
+MG(6), Hong TS(7), Leichman LP(8), Rajdev L(9), Resnick M(10), Kachnic LA(11), 
+Seaward S(12), Mamon H(13), Diaz Pardo DA(14), Anderson CM(15), Shen X(16), 
+Sharma AK(17), Katz AW(18), Salo J(19), Leonard KL(5), Moughan J(2), Crane 
+CH(20).
+
+Author information:
+(1)Department of Medical Oncology, Rhode Island Hospital, Providence, RI, USA. 
+Electronic address: hsafran@lifespan.org.
+(2)NRG Oncology Statistics and Data Management Center, American College of 
+Radiology, Philadelphia, PA, USA.
+(3)Department of Medical Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA.
+(4)Department of Thoracic Surgery, Mayo Clinic Rochester, Rochester, MN, USA.
+(5)Department of Radiation Oncology, Rhode Island Hospital, Providence, RI, USA.
+(6)Department of Radiation Oncology, Mayo Clinic Rochester, Rochester, MN, USA.
+(7)Department of Radiation Oncology, Massachusetts General Hospital Cancer 
+Center, Boston, MA, USA.
+(8)Department of Medical Oncology, UC San Diego Moores Cancer Center, New York, 
+NY, USA.
+(9)Department of Medical Oncology, Montefiore Medical Center-Weller 
+Hospital-Montefiore Medical Center for Cancer Care, New York, NY, USA.
+(10)Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, 
+NY, USA.
+(11)Department of Radiation Oncology, NYP/Columbia University Medical 
+Center-Herbert Irving Comprehensive Cancer Center, New York, NY, USA.
+(12)Department of Radiation Oncology, Kaiser Permanente Oncology Clinical 
+Trials, Oakland, CA, USA.
+(13)Department of Radiation Oncology, Brigham and Women's Hospital-Dana Farber 
+Cancer Institute, Boston, MA, USA.
+(14)Department of Radiation Oncology, The Ohio State University, Comprehensive 
+Cancer Center-James Hospital and Solove Research Institute, Columbus, OH, USA.
+(15)Department of Radiation Oncology, University of Iowa Hospitals and Clinics, 
+Iowa City, IA, USA.
+(16)Department of Radiation Oncology, University of Kansas Cancer Center, Kansas 
+City, KS, USA.
+(17)Department of Radiation Oncology, Medical University of South Carolina, 
+Charleston, SC, USA.
+(18)Department of Radiation Oncology, University of Rochester, Rochester, NY, 
+USA.
+(19)Department of Surgical Oncology, Carolinas Medical Center, Levine Cancer 
+Institute, Atrium Health, Charlotte, NC, USA.
+(20)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, 
+New York, NY, USA.
+
+Comment in
+    Lancet Oncol. 2022 Feb;23(2):188-190. doi: 10.1016/S1470-2045(22)00004-3.
+
+BACKGROUND: Trastuzumab is a monoclonal antibody against HER2 (also known as 
+ERBB2). The primary objective of the NRG Oncology/RTOG-1010 trial was to 
+establish whether trastuzumab improves disease-free survival when combined with 
+trimodality treatment (paclitaxel plus carboplatin and radiotherapy, followed by 
+surgery) for patients with untreated HER2-overexpressing oesophageal 
+adenocarcinoma.
+METHODS: NRG Oncology/RTOG-1010 was an open label, randomised, phase 3 trial for 
+which patients were accrued from 111 NRG-affiliated institutions in the USA. 
+Eligible patients were adults (aged ≥18 years) with newly diagnosed 
+pathologically confirmed oesophageal adenocarcinoma, American Joint Committee on 
+Cancer 7th edition T1N1-2 or T2-3N0-2 stage disease, and a Zubrod performance 
+status of 0-2. Patients were stratified by adenopathy (no vs yes [coeliac 
+absent] vs yes [coeliac present ≤2 cm]) and randomly assigned (1:1) to receive 
+weekly intravenous paclitaxel (50 mg/m2 intravenously over 1 h) and carboplatin 
+(area under the curve 2, intravenously over 30-60 min) for 6 weeks with 
+radiotherapy 50·4 Gy in 28 fractions (chemoradiotherapy) followed by surgery, 
+with or without intravenous trastuzumab (4 mg/kg in week one, 2 mg/kg per week 
+for 5 weeks during chemoradiotherapy, 6 mg/kg once presurgery, and 6 mg/kg every 
+3 weeks for 13 treatments starting 21-56 days after surgery). The primary 
+endpoint, disease-free survival, was defined as the time from randomisation to 
+death or first of locoregional disease persistence or recurrence, distant 
+metastases, or second primary malignancy. Analyses were done by modified 
+intention to treat. This study is registered with Clinicaltrials.gov, 
+NCT01196390; it is now closed and in follow-up.
+FINDINGS: 606 patients were entered for HER2 assessment from Dec 30, 2010 to Nov 
+10, 2015, and 203 eligible patients who were HER2-positive were enrolled and 
+randomly assigned to chemoradiotherapy plus trastuzumab (n=102) or 
+chemoradiotherapy alone (n=101). Median duration of follow-up was 2·8 years (IQR 
+1·4-5·7). Median disease-free survival was 19·6 months (95% CI 13·5-26·2) with 
+chemoradiotherapy plus trastuzumab compared with 14·2 months (10·5-23·0) for 
+chemoradiotherapy alone (hazard ratio 0·99 [95% CI 0·71-1·39], log-rank p=0·97). 
+Grade 3 treatment-related adverse events occurred in 41 (43%) of 95 patients in 
+the chemoradiotherapy plus trastuzumab group versus 52 (54%) of 96 in the 
+chemoradiotherapy group and grade 4 events occurred in 20 (21%) versus 21 (22%). 
+The most common grade 3 or worse treatment-related adverse events for both 
+groups were haematological (53 [56%] of 95 patients in the chemoradiotherapy 
+plus trastuzumab group vs 55 [57%] of 96 patients in the chemotherapy group) or 
+gastrointestinal disorders (28 [29%] vs 20 [21 %]). 34 (36%) of 95 patients in 
+the chemoradiotherapy plus trastuzumab group and 27 (28%) of 96 patients in the 
+chemoradiotherapy only group had treatment-related serious adverse events. There 
+were eight treatment-related deaths: five (5%) of 95 patients in the 
+chemoradiotherapy plus trastuzumab group (bronchopleural fistula, oesophageal 
+anastomotic leak, lung infection, sudden death, and death not otherwise 
+specified), and three (3%) of 96 in the chemoradiotherapy group (two multiorgan 
+failure and one sepsis).
+INTERPRETATION: The addition of trastuzumab to neoadjuvant chemoradiotherapy for 
+HER2-overexpressing oesophageal cancer was not effective. Trastuzumab did not 
+lead to increased toxicities, suggesting that future studies combining it with 
+or using other agents targeting HER2 in oesophageal cancer are warranted.
+FUNDING: National Cancer Institute and Genentech.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(21)00718-X
+PMCID: PMC8903071
+PMID: 35038433 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests LAK reports personal 
+fees from UpToDate and New Beta Innovations, and grants from Varian Medical 
+Systems, outside the submitted work. DHI reports personal fees from Bristol 
+Myers Squibb, Genentech, AstraZeneca, Merck, AMGEN, TAIHO, and Bayer, outside 
+the submitted work. KLL reports personal fees from Elsevier, outside the 
+submitted work. HM reports personal fees from Merck, outside the submitted work, 
+and has received honoraria as chapter co-author for UpToDate (the chapters are 
+all about gastrointestinal malignancies, but not oesophageal cancer). JM and KW 
+report grants from the National Cancer institute (NCI) and other support from 
+Genentech, during the conduct of the study. TD reports a patent for an 
+intraoperative brachytherapy device. AKS, AWK, MGH, HPS, CHC, SS, MR, DADP, TSH, 
+CMA, DW, LPL, XS, JS, and LR declare no competing interests.

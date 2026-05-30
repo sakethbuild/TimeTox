@@ -1,0 +1,65 @@
+6. N Engl J Med. 2014 Oct 30;371(18):1685-94. doi: 10.1056/NEJMoa1405584.
+
+One-unit versus two-unit cord-blood transplantation for hematologic cancers.
+
+Wagner JE Jr(1), Eapen M, Carter S, Wang Y, Schultz KR, Wall DA, Bunin N, 
+Delaney C, Haut P, Margolis D, Peres E, Verneris MR, Walters M, Horowitz MM, 
+Kurtzberg J; Blood and Marrow Transplant Clinical Trials Network.
+
+Collaborators: Petrovic A, Schultz KR, Chiang KY, Lehman L, Giller R, Bunin N, 
+Shaw P, Yu L, Walters M, Aquino V, Dalal J, Jacobsohn D, Rosenthal J, Eames G, 
+Kurtzberg J, Delaney C, Haut P, Chu R, Margolis D, Hudspeth MP, Gross T, Sandler 
+J, Ozkaynak F, Nemecek E, Adams R, Pulsipher M, Dietz A, Wall D, Reddy A, Horn 
+B, Wingard J, Cheerva A, Andreansky M, Peres E, Wagner J, Megason G, Frangoul H, 
+Godder K.
+
+Author information:
+(1)From the University of Minnesota Medical School, Minneapolis (J.E.W., 
+M.R.V.); Medical College of Wisconsin, Milwaukee (M.E., D.M., M.M.H.); EMMES 
+Corporation, Rockville, MD (S.C., Y.W.); BC Children's Hospital, Vancouver 
+(K.R.S.), and University of Manitoba, Winnipeg (D.A.W.) - both in Canada; 
+Children's Hospital of Philadelphia, Philadelphia (N.B.); Fred Hutchinson Cancer 
+Research Center, Seattle (C.D.); Indiana University, Indianapolis (P.H.); 
+University of Michigan, Ann Arbor (E.P.); University of California San Francisco 
+Benioff Children's Hospital Oakland, Oakland (M.W.); and Duke University, 
+Durham, NC (J.K.).
+
+Comment in
+    N Engl J Med. 2015 Jan 15;372(3):288. doi: 10.1056/NEJMc1414419.
+    N Engl J Med. 2015 Jan 15;372(3):287. doi: 10.1056/NEJMc1414419.
+    N Engl J Med. 2015 Jan 15;372(3):287-8. doi: 10.1056/NEJMc1414419.
+
+BACKGROUND: Umbilical-cord blood has been used as the source of hematopoietic 
+stem cells in an estimated 30,000 transplants. The limited number of 
+hematopoietic cells in a single cord-blood unit prevents its use in recipients 
+with larger body mass and results in delayed hematopoietic recovery and higher 
+mortality. Therefore, we hypothesized that the greater numbers of hematopoietic 
+cells in two units of cord blood would be associated with improved outcomes 
+after transplantation.
+METHODS: Between December 1, 2006, and February 24, 2012, a total of 224 
+patients 1 to 21 years of age with hematologic cancer were randomly assigned to 
+undergo double-unit (111 patients) or single-unit (113 patients) cord-blood 
+transplantation after a uniform myeloablative conditioning regimen and 
+immunoprophylaxis for graft-versus-host disease (GVHD). The primary end point 
+was 1-year overall survival.
+RESULTS: Treatment groups were matched for age, sex, self-reported race (white 
+vs. nonwhite), performance status, degree of donor-recipient HLA matching, and 
+disease type and status at transplantation. The 1-year overall survival rate was 
+65% (95% confidence interval [CI], 56 to 74) and 73% (95% CI, 63 to 80) among 
+recipients of double and single cord-blood units, respectively (P=0.17). Similar 
+outcomes in the two groups were also observed with respect to the rates of 
+disease-free survival, neutrophil recovery, transplantation-related death, 
+relapse, infections, immunologic reconstitution, and grade II-IV acute GVHD. 
+However, improved platelet recovery and lower incidences of grade III and IV 
+acute and extensive chronic GVHD were observed among recipients of a single 
+cord-blood unit.
+CONCLUSIONS: We found that among children and adolescents with hematologic 
+cancer, survival rates were similar after single-unit and double-unit cord-blood 
+transplantation; however, a single-unit cord-blood transplant was associated 
+with better platelet recovery and a lower risk of GVHD. (Funded by the National 
+Heart, Lung, and Blood Institute and the National Cancer Institute; 
+ClinicalTrials.gov number, NCT00412360.).
+
+DOI: 10.1056/NEJMoa1405584
+PMCID: PMC4257059
+PMID: 25354103 [Indexed for MEDLINE]

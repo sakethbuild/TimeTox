@@ -1,0 +1,149 @@
+9. Lancet Oncol. 2021 Sep;22(9):1275-1289. doi: 10.1016/S1470-2045(21)00342-9.
+Epub  2021 Aug 4.
+
+Chemotherapy with or without avelumab followed by avelumab maintenance versus 
+chemotherapy alone in patients with previously untreated epithelial ovarian 
+cancer (JAVELIN Ovarian 100): an open-label, randomised, phase 3 trial.
+
+Monk BJ(1), Colombo N(2), Oza AM(3), Fujiwara K(4), Birrer MJ(5), Randall L(6), 
+Poddubskaya EV(7), Scambia G(8), Shparyk YV(9), Lim MC(10), Bhoola SM(11), Sohn 
+J(12), Yonemori K(13), Stewart RA(14), Zhang X(15), Perkins Smith J(15), Linn 
+C(16), Ledermann JA(17).
+
+Author information:
+(1)Arizona Oncology (US Oncology Network), Phoenix, AZ, USA; Department of 
+Obstetrics and Gynecology, University of Arizona College of Medicine, Phoenix, 
+AZ, USA; Department of Obstetrics and Gynecology, Creighton University School of 
+Medicine at Dignity Health St Joseph's Hospital and Medical Center, Phoenix, AZ, 
+USA. Electronic address: bradley.monk@usoncology.com.
+(2)University of Milan-Bicocca, Milan, Italy; Istituto Europeo di Oncologia, 
+IRCCS, Milan, Italy.
+(3)Princess Margaret Cancer Centre, Toronto, ON, Canada.
+(4)Saitama Medical University International Medical Center, Hidaka-City, 
+Saitama, Japan.
+(5)Winthrop P Rockefeller Cancer Institute, Little Rock, AR, USA.
+(6)Virginia Commonwealth University, Massey Cancer Center, Richmond, VA, USA.
+(7)I M Sechenov First Moscow State Medical University, Moscow, Russia; Clinical 
+Center Vitamed, Moscow, Russia.
+(8)Gynecologic Oncology Unit, Fondazione Policlinico Universitario Agostino 
+Gemelli IRCCS, Rome, Italy.
+(9)Lviv State Oncological Regional Treatment and Diagnostic Center, Lviv, 
+Ukraine.
+(10)Research Institute and Hospital, National Cancer Center, Goyang, South 
+Korea.
+(11)Department of Obstetrics and Gynecology, University of Arizona College of 
+Medicine, Phoenix, AZ, USA; Arizona Oncology Associates PC-HAL, Tempe, AZ, USA; 
+Gynecologic Oncology, Cancer and Blood Specialists of Arizona, Gilbert, AZ, USA.
+(12)Severance Hospital, Yonsei University Health System, Seoul, South Korea.
+(13)Department of Breast and Medical Oncology, National Cancer Center Hospital, 
+Chuo-ku, Tokyo, Japan.
+(14)Pfizer Oncology, Pfizer, San Diego, CA, USA; Oncology Research and 
+Development, AstraZeneca, Cambridge, UK.
+(15)Pfizer Oncology, Pfizer, New York, NY, USA.
+(16)Global Product Development, Pfizer, Taipei, Taiwan.
+(17)UCL Cancer Institute and UCL Hospitals, London, UK.
+
+BACKGROUND: Although most patients with epithelial ovarian cancer respond to 
+frontline platinum-based chemotherapy, around 70% will relapse within 3 years. 
+The phase 3 JAVELIN Ovarian 100 trial compared avelumab (anti-PD-L1 monoclonal 
+antibody) in combination with chemotherapy followed by avelumab maintenance, or 
+chemotherapy followed by avelumab maintenance, versus chemotherapy alone in 
+patients with treatment-naive epithelial ovarian cancer.
+METHODS: JAVELIN Ovarian 100 was a global, open-label, three-arm, parallel, 
+randomised, phase 3 trial run at 159 hospitals and cancer treatment centres in 
+25 countries. Eligible women were aged 18 years and older with stage III-IV 
+epithelial ovarian, fallopian tube, or peritoneal cancer (following debulking 
+surgery, or candidates for neoadjuvant chemotherapy), and had an Eastern 
+Cooperative Oncology Group performance status of 0 or 1. Patients were randomly 
+assigned (1:1:1) via interactive response technology to receive chemotherapy 
+(six cycles; carboplatin dosed at an area under the serum-concentration-time 
+curve of 5 or 6 intravenously every 3 weeks plus paclitaxel 175 mg/m2 every 3 
+weeks or 80 mg/m2 once a week [investigators' choice]) followed by avelumab 
+maintenance (10 mg/kg intravenously every 2 weeks; avelumab maintenance group); 
+chemotherapy plus avelumab (10 mg/kg intravenously every 3 weeks) followed by 
+avelumab maintenance (avelumab combination group); or chemotherapy followed by 
+observation (control group). Randomisation was in permuted blocks of size six 
+and stratified by paclitaxel regimen and resection status. Patients and 
+investigators were masked to assignment to the two chemotherapy groups without 
+avelumab at the time of randomisation until completion of the chemotherapy 
+phase. The primary endpoint was progression-free survival assessed by blinded 
+independent central review in all randomly assigned patients (analysed by 
+intention to treat). Safety was analysed in all patients who received at least 
+one dose of study treatment. This trial is registered with ClinicalTrials.gov, 
+NCT02718417. The trial was fully enrolled and terminated at interim analysis due 
+to futility, and efficacy is no longer being assessed.
+FINDINGS: Between May 19, 2016 and Jan 23, 2018, 998 patients were randomly 
+assigned (avelumab maintenance n=332, avelumab combination n=331, and control 
+n=335). At the planned interim analysis (data cutoff Sept 7, 2018), prespecified 
+futility boundaries were crossed for the progression-free survival analysis, and 
+the trial was stopped as recommended by the independent data monitoring 
+committee and endorsed by the protocol steering committee. Median follow-up for 
+progression-free survival for all patients was 10·8 months (IQR 7·1-14·9); 11·1 
+months (7·0-15·3) for the avelumab maintenance group, 11·0 months (7·4-14·5) for 
+the avelumab combination group, and 10·2 months (6·7-14·0) for the control 
+group. Median progression-free survival was 16·8 months (95% CI 13·5-not 
+estimable [NE]) with avelumab maintenance, 18·1 months (14·8-NE) with avelumab 
+combination treatment, and NE (18·2 months-NE) with control treatment. The 
+stratified hazard ratio for progression-free survival was 1·43 (95% CI 
+1·05-1·95; one-sided p=0·99) with the avelumab maintenance regimen and 1·14 
+(0·83-1·56; one-sided p=0·79) with the avelumab combination regimen, versus 
+control treatment. The most common grade 3-4 adverse events were anaemia (69 
+[21%] patients in the avelumab maintenance group, 63 [19%] in the avelumab 
+combination group, and 53 [16%] in the control group), neutropenia (91 [28%], 99 
+[30%], and 88 [26%]), and neutrophil count decrease (49 [15%], 45 [14%], and 59 
+[18%]). Serious adverse events of any grade occurred in 92 (28%) patients in the 
+avelumab maintenance group, 118 (36%) in the avelumab combination group, and 64 
+(19%) in the control group. Treatment-related deaths occurred in one (<1%) 
+patient in the avelumab maintenance group (due to atrial fibrillation) and one 
+(<1%) patient in the avelumab combination group (due to disease progression).
+INTERPRETATION: Although no new safety signals were observed, results do not 
+support the use of avelumab in the frontline treatment setting. Alternative 
+treatment regimens are needed to improve outcomes in patients with advanced 
+epithelial ovarian cancer.
+FUNDING: Pfizer and Merck KGaA, Darmstadt, Germany.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(21)00342-9
+PMID: 34363762 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests BJM reports receiving 
+honoraria from and serving as a consultant or advisor for Agenus, Akeso, 
+Aravive, AstraZeneca, Clovis Oncology, Eisai, Elevar Therapeutics, Genmab and 
+Seattle Genetics, GOG Foundation, Gradalis, ImmunoGen, Karyopharm Therapeutics, 
+Iovance Biotherapeutics, Merck & Co, US Oncology Network (owned by McKesson), 
+Mersana Therapeutics, Novocure, Myriad Genetics, Pfizer, Puma Biotechnology, 
+Genentech (subsidiary of Roche), Sorrento Therapeutics, Tesaro (owned by 
+GlaxoSmithKline), and VBL Therapeutics. NC reports receiving honoraria from and 
+serving as a consultant or advisor for Amgen, AstraZeneca, Clovis Oncology, 
+GlaxoSmithKline, Pfizer, Roche, and Tesaro; receiving honoraria from Novartis; 
+serving as a consultant or advisor for Advaxis, BioCad, ImmunoGen, OncXerna, 
+Merck Sharp & Dohme, and Takeda; and participating on a data safety monitoring 
+board or advisory board for Advaxis, Amgen, AstraZeneca, BioCad, Clovis 
+Oncology, GlaxoSmithKline, ImmunoGen, Merck Sharp & Dohme, OncXerna, Pfizer, 
+Roche, Takeda, and Tesaro. KF reports receiving research funding and 
+reimbursement for travel, accommodation, and expenses from Pfizer. MJB reports 
+participating on a data safety monitoring board or advisory board for 
+AstraZeneca, Clovis Oncology, GlaxoSmithKline, OncoQuest, and VBL Therapeutics. 
+LR reports receiving honoraria from AstraZeneca, GlaxoSmithKline, and Merck & 
+Co; serving as a consultant or advisor for Agenus, Akeso Bio, AstraZeneca, 
+Clovis Oncology, EMD Serono, GlaxoSmithKline, Genentech, Intuitive Surgical, 
+Myriad, Novartis, and Rubius; and having received institutional research grants 
+from Akeso Biopharma, AstraZeneca, Genentech, GOG Foundation, GlaxoSmithKline, 
+Incyte, Karyopharm, Merck & Co, Mersana Therapeutics, On Target Laboratories, 
+and Seagen. GS reports receiving honoraria from Clovis Oncology; serving as a 
+consultant or advisor for Johnson & Johnson and Tesaro; and having received 
+research funding from Merck Sharp & Dohme. JS has received institutional 
+research funding from AstraZeneca, Boehringer Ingelheim, Daiichi Sankyo, 
+GlaxoSmithKline, Lilly, Merck Sharp & Dohme, Novartis, Pfizer, Roche, and 
+Sanofi. KY reports receiving honoraria from AstraZeneca, Chugai Pharma, Eisai, 
+Novartis, Pfizer, and Takeda; and serving as a consultant or advisor for 
+AstraZeneca, Chugai Pharma, Eisai, Novartis, Ono Pharmaceutical, and Takeda. RAS 
+reports employment at Pfizer at the time the study was done and owns stock in 
+Pfizer. XZ reports employment at and owns stock in Pfizer. JPS reports 
+employment at and owns stock in Pfizer. CL reports employment at Pfizer and owns 
+stock in Eli Lilly and Pfizer. JAL reports receiving honoraria from AstraZeneca, 
+GlaxoSmithKline, and Pfizer; and is the vice president of the European Society 
+of Gynaecological Oncology and an editor of the gynaecological clinical practice 
+guidelines for the European Society for Medical Oncology. AMO, EVP, YVS, MCL, 
+and SMB declare no competing interests.

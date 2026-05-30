@@ -1,0 +1,75 @@
+7. Lancet Oncol. 2011 Dec;12(13):1195-203. doi: 10.1016/S1470-2045(11)70243-1.
+Epub  2011 Sep 29.
+
+Autologous haemopoietic stem-cell transplantation followed by allogeneic or 
+autologous haemopoietic stem-cell transplantation in patients with multiple 
+myeloma (BMT CTN 0102): a phase 3 biological assignment trial.
+
+Krishnan A(1), Pasquini MC, Logan B, Stadtmauer EA, Vesole DH, Alyea E 3rd, 
+Antin JH, Comenzo R, Goodman S, Hari P, Laport G, Qazilbash MH, Rowley S, Sahebi 
+F, Somlo G, Vogl DT, Weisdorf D, Ewell M, Wu J, Geller NL, Horowitz MM, Giralt 
+S, Maloney DG; Blood Marrow Transplant Clinical Trials Network (BMT CTN).
+
+Author information:
+(1)City of Hope Cancer Center, Los Angeles, CA, USA.
+
+Comment in
+    Lancet Oncol. 2011 Dec;12(13):1176-7. doi: 10.1016/S1470-2045(11)70258-3.
+
+BACKGROUND: Autologous haemopoietic stem-cell transplantation (HSCT) improves 
+survival in patients with multiple myeloma, but disease progression remains an 
+issue. Allogeneic HSCT might reduce disease progression, but can be associated 
+with high treatment-related mortality. Thus, we aimed to assess effectiveness of 
+allogeneic HSCT with non-myeloablative conditioning after autologous HSCT 
+compared with tandem autologous HSCT.
+METHODS: In our phase 3 biological assignment trial, we enrolled patients with 
+multiple myeloma attending 37 transplant centres in the USA. Patients (<70 years 
+old) with adequate organ function who had completed at least three cycles of 
+systemic antimyeloma therapy within the past 10 months were eligible for 
+inclusion. We assigned patients to receive an autologous HSCT followed by an 
+allogeneic HSCT (auto-allo group) or tandem autologous HSCTs (auto-auto group) 
+on the basis of the availability of an HLA-matched sibling donor. Patients in 
+the auto-auto group subsequently underwent a random allocation (1:1) to 
+maintenance therapy (thalidomide plus dexamethasone) or observation. To avoid 
+enrolment bias, we classified patients as standard risk or high risk on the 
+basis of cytogenetics and β2-microglobulin concentrations. We used the 
+Kaplan-Meier method to estimate differences in 3-year progression-free survival 
+(PFS; primary endpoint) between patients with standard-risk disease in the 
+auto-allo group and the best results from the auto-auto group (maintenance, 
+observation, or pooled). This study is registered with ClinicalTrials.gov, 
+number NCT00075829.
+FINDINGS: Between Dec 17, 2003, and March 30, 2007, we enrolled 710 patients, of 
+whom 625 had standard-risk disease and received an autologous HSCT. 156 (83%) of 
+189 patients with standard-risk disease in the auto-allo group and 366 (84%) of 
+436 in the auto-auto group received a second transplant. 219 patients in the 
+auto-auto group were randomly assigned to observation and 217 to receive 
+maintenance treatment, of whom 168 (77%) completed this treatment. PFS and 
+overall survival did not differ between maintenance and observation groups and 
+pooled data were used. Kaplan-Meier estimates of 3-year PFS were 43% (95% CI 
+36-51) in the auto-allo group and 46% (42-51) in the auto-auto group (p=0·671); 
+overall survival also did not differ at 3 years (77% [95% CI 72-84] vs 80% 
+[77-84]; p=0·191). Within 3 years, 87 (46%) of 189 patients in the auto-allo 
+group had grade 3-5 adverse events as did 185 (42%) of 436 patients in the 
+auto-auto group. The adverse events that differed most between groups were 
+hyperbilirubinaemia (21 [11%] patients in the auto-allo group vs 14 [3%] in the 
+auto-auto group) and peripheral neuropathy (11 [6%] in the auto-allo group vs 52 
+[12%] in the auto-auto group).
+INTERPRETATION: Non-myeloablative allogeneic HSCT after autologous HSCT is not 
+more effective than tandem autologous HSCT for patients with standard-risk 
+multiple myeloma. Further enhancement of the graft versus myeloma effect and 
+reduction in transplant-related mortality are needed to improve the allogeneic 
+HSCT approach.
+FUNDING: US National Heart, Lung, and Blood Institute and the National Cancer 
+Institute.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(11)70243-1
+PMCID: PMC3611089
+PMID: 21962393 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: Authors declared 
+no conflict of interest: MCP, BL, EAS, ME, JW, SC, NLG, MMH, DTV, DW Potential 
+conflict of interest declared: Celgene Pharmaceutics: Speakers Bureau and 
+Consultant - AK Celgene Consultant - DGM Millenium Pharmaceutics: Speakers 
+Bureau - AK

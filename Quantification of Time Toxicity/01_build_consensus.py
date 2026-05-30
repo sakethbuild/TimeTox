@@ -31,10 +31,15 @@ def load_csv_runs():
 
 
 def normalize_intervention_type(df):
-    """Normalize intervention_type: placebo→control, active_comparator→intervention."""
+    """Normalize intervention_type: placebo→control, active_comparator→control.
+
+    Active-comparator arms represent the control/standard-of-care condition by
+    convention and are normalized to 'control'. Arm-label assignments were
+    externally verified against ClinicalTrials.gov and PubMed (see methods paper,
+    External Verification of Arm Labeling)."""
     df["intervention_type"] = df["intervention_type"].str.lower().str.strip()
     df.loc[df["intervention_type"] == "placebo", "intervention_type"] = "control"
-    df.loc[df["intervention_type"] == "active_comparator", "intervention_type"] = "intervention"
+    df.loc[df["intervention_type"] == "active_comparator", "intervention_type"] = "control"
     return df
 
 
@@ -138,7 +143,7 @@ def load_json_runs():
                 if arm_type == "placebo":
                     arm_type = "control"
                 elif arm_type == "active_comparator":
-                    arm_type = "intervention"
+                    arm_type = "control"
 
                 hcd = arm.get("healthcare_contact_days", {})
                 cb = arm.get("category_breakdown", {})

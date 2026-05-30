@@ -1,0 +1,96 @@
+17. N Engl J Med. 2020 Aug 13;383(7):617-629. doi: 10.1056/NEJMoa2012971.
+
+Azacitidine and Venetoclax in Previously Untreated Acute Myeloid Leukemia.
+
+DiNardo CD(1), Jonas BA(1), Pullarkat V(1), Thirman MJ(1), Garcia JS(1), Wei 
+AH(1), Konopleva M(1), Döhner H(1), Letai A(1), Fenaux P(1), Koller E(1), 
+Havelange V(1), Leber B(1), Esteve J(1), Wang J(1), Pejsa V(1), Hájek R(1), 
+Porkka K(1), Illés Á(1), Lavie D(1), Lemoli RM(1), Yamamoto K(1), Yoon SS(1), 
+Jang JH(1), Yeh SP(1), Turgut M(1), Hong WJ(1), Zhou Y(1), Potluri J(1), Pratz 
+KW(1).
+
+Author information:
+(1)From the Department of Leukemia, Division of Cancer Medicine, University of 
+Texas M.D. Anderson Cancer Center, Houston (C.D.D., M.K.); the Department of 
+Internal Medicine, Division of Hematology and Oncology, University of California 
+Davis School of Medicine, Sacramento (B.A.J.), the Department of Hematology and 
+Hematopoietic Cell Transplantation and Gehr Family Center for Leukemia Research, 
+City of Hope Comprehensive Cancer Center, Duarte (V. Pullarkat), and Genentech, 
+South San Francisco (W.-J.H.) - all in California; the Section of Hematology and 
+Oncology, Department of Medicine, University of Chicago Medicine, Chicago 
+(M.J.T.), and AbbVie, North Chicago (Y.Z., J.P.) - both in Illinois; the 
+Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical 
+School, Boston (J.S.G., A.L.); the Australian Centre for Blood Diseases, Alfred 
+Hospital and Monash University, Melbourne, VIC (A.H.W.); the Department of 
+Internal Medicine III, Ulm University Hospital, Ulm, Germany (H.D.); Hôpital St. 
+Louis, Assistance Publique-Hôpitaux de Paris and Université de Paris, Paris 
+(P.F.); the Third Medical Department for Hematology and Oncology, Hanusch 
+Hospital, Vienna (E.K.); the Department of Hematology, Cliniques Universitaires 
+Saint-Luc, Brussels (V.H.); the Department of Medicine, McMaster University, 
+Hamilton, ON, Canada (B.L.); the Department of Hematology, Hospital Clinic, 
+August Pi i Sunyer Biomedical Research Institute, Barcelona (J.E.); the 
+Institute of Hematology and Hospital of Blood Disease, Chinese Academy of 
+Medical Sciences, Peking Union Medical College, Tianjin, China (J.W.); the 
+Department of Hematology, University Hospital Dubrava, University of Zagreb 
+School of Medicine, Zagreb, Croatia (V. Pejsa); the Department of Clinic 
+Subjects, University Hospital Ostrava-Poruba, Ostrava, Czech Republic (R.H.); 
+Helsinki University Hospital Comprehensive Cancer Center, University of 
+Helsinki, Helsinki (K.P.); the Faculty of Medicine, Department of Hematology, 
+University of Debrecen, Debrecen, Hungary (A.I.); Hadassah Medical Center, 
+Jerusalem (D.L.); the Clinic of Hematology, Department of Internal Medicine, 
+University of Genoa, and San Martino Hospital IRCCS - both in Genoa, Italy 
+(R.M.L.); the Department of Hematology and Cell Therapy, Aichi Cancer Center, 
+Nagoya, Japan (K.Y.); the Department of Internal Medicine, Seoul National 
+University College of Medicine (S.-S.Y.), and the Department of 
+Hematology-Oncology, Samsung Medical Center, Sungkyunkwan University School of 
+Medicine (J.-H.J.) - both in Seoul, South Korea; the Department of Internal 
+Medicine, China Medical University Hospital, Taichung, Taiwan (S.-P.Y.); the 
+Faculty of Medicine, Department of Internal Medicine, Division of Hematology, 
+Ondokuz Mayıs University, Samsun, Turkey (M.T.); and Abramson Cancer Center, 
+University of Pennsylvania, Philadelphia (K.W.P.).
+
+Comment in
+    N Engl J Med. 2020 Aug 13;383(7):677-679. doi: 10.1056/NEJMe2023326.
+    Nat Rev Clin Oncol. 2020 Oct;17(10):592. doi: 10.1038/s41571-020-00430-8.
+    N Engl J Med. 2020 Nov 19;383(21):2087. doi: 10.1056/NEJMc2029153.
+    N Engl J Med. 2020 Nov 19;383(21):2087-2088. doi: 10.1056/NEJMc2029153.
+    N Engl J Med. 2020 Nov 19;383(21):2088. doi: 10.1056/NEJMc2029153.
+
+BACKGROUND: Older patients with acute myeloid leukemia (AML) have a dismal 
+prognosis, even after treatment with a hypomethylating agent. Azacitidine added 
+to venetoclax had promising efficacy in a previous phase 1b study.
+METHODS: We randomly assigned previously untreated patients with confirmed AML 
+who were ineligible for standard induction therapy because of coexisting 
+conditions, because they were 75 years of age or older, or both to azacitidine 
+plus either venetoclax or placebo. All patients received a standard dose of 
+azacitidine (75 mg per square meter of body-surface area subcutaneously or 
+intravenously on days 1 through 7 every 28-day cycle); venetoclax (target dose, 
+400 mg) or matching placebo was administered orally, once daily, in 28-day 
+cycles. The primary end point was overall survival.
+RESULTS: The intention-to-treat population included 431 patients (286 in the 
+azacitidine-venetoclax group and 145 in the azacitidine-placebo [control] 
+group). The median age was 76 years in both groups (range, 49 to 91). At a 
+median follow-up of 20.5 months, the median overall survival was 14.7 months in 
+the azacitidine-venetoclax group and 9.6 months in the control group (hazard 
+ratio for death, 0.66; 95% confidence interval, 0.52 to 0.85; P<0.001). The 
+incidence of complete remission was higher with azacitidine-venetoclax than with 
+the control regimen (36.7% vs. 17.9%; P<0.001), as was the composite complete 
+remission (complete remission or complete remission with incomplete hematologic 
+recovery) (66.4% vs. 28.3%; P<0.001). Key adverse events included nausea of any 
+grade (in 44% of the patients in the azacitidine-venetoclax group and 35% of 
+those in the control group) and grade 3 or higher thrombocytopenia (in 45% and 
+38%, respectively), neutropenia (in 42% and 28%), and febrile neutropenia (in 
+42% and 19%). Infections of any grade occurred in 85% of the patients in the 
+azacitidine-venetoclax group and 67% of those in the control group, and serious 
+adverse events occurred in 83% and 73%, respectively.
+CONCLUSIONS: In previously untreated patients who were ineligible for intensive 
+chemotherapy, overall survival was longer and the incidence of remission was 
+higher among patients who received azacitidine plus venetoclax than among those 
+who received azacitidine alone. The incidence of febrile neutropenia was higher 
+in the venetoclax-azacitidine group than in the control group. (Funded by AbbVie 
+and Genentech; VIALE-A ClinicalTrials.gov number, NCT02993523.).
+
+Copyright © 2020 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2012971
+PMID: 32786187 [Indexed for MEDLINE]

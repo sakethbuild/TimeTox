@@ -1,0 +1,66 @@
+19. J Clin Oncol. 2015 Nov 20;33(33):3921-9. doi: 10.1200/JCO.2014.58.7618. Epub 
+2015 Jun 8.
+
+Community-Based Phase IIIB Trial of Three UPFRONT Bortezomib-Based Myeloma 
+Regimens.
+
+Niesvizky R(1), Flinn IW(2), Rifkin R(2), Gabrail N(2), Charu V(2), Clowney 
+B(2), Essell J(2), Gaffar Y(2), Warr T(2), Neuwirth R(2), Zhu Y(2), Elliott 
+J(2), Esseltine DL(2), Niculescu L(2), Reeves J(2).
+
+Author information:
+(1)Ruben Niesvizky, Weill Cornell Medical College, New York Presbyterian 
+Hospital, New York, NY; Ian W. Flinn, Sarah Cannon Research Institute and 
+Tennessee Oncology, Nashville, TN; Robert Rifkin, US Oncology Research/McKesson 
+Specialty Health, The Woodlands, TX; Nashat Gabrail, Gabrail Cancer Center, 
+Canton, OH; Veena Charu, Pacific Cancer Medical Center, Anaheim, CA; Billy 
+Clowney, Santee Hematology/Oncology, Sumter, SC; James Essell, Sarah Cannon 
+Research Institute and Oncology Hematology Care, Cincinnati, OH; Yousuf Gaffar, 
+University of Maryland-St Joseph Medical Center, Towson, MD; Thomas Warr, Clinic 
+Cancer Care, Great Falls, MT; Rachel Neuwirth, Yanyan Zhu, Jennifer Elliott, 
+Dixie-Lee Esseltine, and Liviu Niculescu, Millennium Pharmaceuticals, Cambridge, 
+MA; and James Reeves, Sarah Cannon Research Institute and Florida Cancer 
+Specialists, Fort Myers, FL. run9001@med.cornell.edu.
+(2)Ruben Niesvizky, Weill Cornell Medical College, New York Presbyterian 
+Hospital, New York, NY; Ian W. Flinn, Sarah Cannon Research Institute and 
+Tennessee Oncology, Nashville, TN; Robert Rifkin, US Oncology Research/McKesson 
+Specialty Health, The Woodlands, TX; Nashat Gabrail, Gabrail Cancer Center, 
+Canton, OH; Veena Charu, Pacific Cancer Medical Center, Anaheim, CA; Billy 
+Clowney, Santee Hematology/Oncology, Sumter, SC; James Essell, Sarah Cannon 
+Research Institute and Oncology Hematology Care, Cincinnati, OH; Yousuf Gaffar, 
+University of Maryland-St Joseph Medical Center, Towson, MD; Thomas Warr, Clinic 
+Cancer Care, Great Falls, MT; Rachel Neuwirth, Yanyan Zhu, Jennifer Elliott, 
+Dixie-Lee Esseltine, and Liviu Niculescu, Millennium Pharmaceuticals, Cambridge, 
+MA; and James Reeves, Sarah Cannon Research Institute and Florida Cancer 
+Specialists, Fort Myers, FL.
+
+PURPOSE: The US community-based, phase IIIB UPFRONT trial was designed to 
+compare three frontline bortezomib-based regimens in transplantation-ineligible 
+patients with myeloma.
+PATIENTS AND METHODS: Patients (N = 502) were randomly assigned 1:1:1 to 24 
+weeks (eight 21-day cycles) of induction with bortezomib-dexamethasone (VD; n = 
+168; intravenous bortezomib 1.3 mg/m(2), days 1, 4, 8, and 11 plus oral 
+dexamethasone 20 mg, days 1, 2, 4, 5, 8, 9, 11, and 12 [cycles 1 to 4], or 1, 2, 
+4, and 5 [cycles 5 to 8]), bortezomib-thalidomide-dexamethasone (VTD; n = 167; 
+bortezomib and dexamethasone as before plus oral thalidomide 100 mg, days 1 to 
+21), or bortezomib-melphalan-prednisone (VMP; n = 167; bortezomib as before plus 
+oral melphalan 9 mg/m(2) and oral prednisone 60 mg/m(2), days 1 to 4, every 
+other cycle), followed by 25 weeks (five 35-day cycles) of bortezomib 
+maintenance (1.6 mg/m(2), days 1, 8, 15, and 22). The primary end point was 
+progression-free survival.
+RESULTS: After 42.7 months' median follow-up, median progression-free survival 
+with VD, VTD, and VMP was 14.7, 15.4, and 17.3 months, respectively; median 
+overall survival was 49.8, 51.5, and 53.1 months, with no significant 
+differences among treatments for either end point (global P = .46 and P = .79, 
+respectively, Wald test). Overall response rates were 73% (VD), 80% (VTD), and 
+70% (VMP). Adverse events were more common with VTD than VD or VMP. Bortezomib 
+maintenance was feasible without producing cumulative toxicity.
+CONCLUSION: Although all bortezomib-containing regimens produced good outcomes, 
+VTD and VMP did not appear to offer an advantage over VD in 
+transplantation-ineligible patients with myeloma treated in US community 
+practice.
+
+© 2015 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2014.58.7618
+PMID: 26056177 [Indexed for MEDLINE]

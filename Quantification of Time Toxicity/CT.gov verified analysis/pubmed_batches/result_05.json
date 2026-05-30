@@ -1,0 +1,322 @@
+[
+ {
+  "filename": "PMID 32201234 a_Summary_SoE.pdf",
+  "pmid": "32201234",
+  "trial_design_summary": "Durvalumab +/- tremelimumab vs standard of care in metastatic NSCLC",
+  "arms": [
+   {"arm_name": "Arm 4: Standard of Care (SoC)", "designation": "control", "evidence": "assessed durvalumab ± tremelimumab versus standard of care (SoC) as ≥ third-line treatment of mNSCLC"},
+   {"arm_name": "Arm 3: Tremelimumab Monotherapy", "designation": "intervention", "evidence": "assessed durvalumab ± tremelimumab versus standard of care (SoC)"},
+   {"arm_name": "Arm 2: Durvalumab + Tremelimumab", "designation": "intervention", "evidence": "durvalumab + tremelimumab versus SoC (study B)"},
+   {"arm_name": "Arm 1: Durvalumab Monotherapy", "designation": "intervention", "evidence": "durvalumab demonstrated clinically meaningful improvements in OS and PFS versus SoC"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32213342 a_Summary_SoE.pdf",
+  "pmid": "32213342",
+  "trial_design_summary": "Subcutaneous vs intravenous daratumumab non-inferiority in relapsed/refractory myeloma",
+  "arms": [
+   {"arm_name": "Arm B (Dara-IV)", "designation": "control", "evidence": "we tested the non-inferiority of subcutaneous daratumumab to intravenous daratumumab"},
+   {"arm_name": "Arm A (Dara-SC)", "designation": "intervention", "evidence": "Subcutaneous daratumumab is thought to be easier to administer ... we tested the non-inferiority of subcutaneous daratumumab"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32271377 a_Summary_SoE.pdf",
+  "pmid": "32271377",
+  "trial_design_summary": "Durvalumab +/- tremelimumab vs chemotherapy first-line metastatic NSCLC",
+  "arms": [
+   {"arm_name": "Standard of Care (SoC) Platinum-Based Chemotherapy", "designation": "control", "evidence": "To compare durvalumab, with or without tremelimumab, with chemotherapy as a first-line treatment"},
+   {"arm_name": "MEDI4736 + tremelimumab combination therapy", "designation": "intervention", "evidence": "OS and progression-free survival (PFS) for durvalumab plus tremelimumab vs chemotherapy"},
+   {"arm_name": "MEDI4736 monotherapy", "designation": "intervention", "evidence": "overall survival (OS) for durvalumab vs chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32294530 CT_Summary_SoE.pdf",
+  "pmid": "32294530",
+  "trial_design_summary": "Durvalumab +/- tremelimumab vs standard of care in recurrent/metastatic HNSCC",
+  "arms": [
+   {"arm_name": "Standard of Care (SoC)", "designation": "control", "evidence": "durvalumab ... or durvalumab plus tremelimumab ... versus standard of care (SoC) in R/M HNSCC patients"},
+   {"arm_name": "MEDI4736 Monotherapy (Durvalumab)", "designation": "intervention", "evidence": "The primary end points were overall survival (OS) for durvalumab versus SoC"},
+   {"arm_name": "MEDI4736 + Tremelimumab Combination", "designation": "intervention", "evidence": "OS for durvalumab plus tremelimumab versus SoC"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32372176 CT_Summary_SoE.pdf",
+  "pmid": "32372176",
+  "trial_design_summary": "Testosterone vs placebo (gel and pellet) for aromatase inhibitor arthralgias",
+  "arms": [
+   {"arm_name": "Arm B (Placebo Topical Gel)", "designation": "control", "evidence": "randomized to receive either a topical testosterone gel or a placebo gel"},
+   {"arm_name": "Arm D (Placebo Subcutaneous Pellet)", "designation": "control", "evidence": "randomly allocated to receive either a subcutaneous testosterone pellet versus a placebo pellet"},
+   {"arm_name": "Arm A (Testosterone Topical Gel)", "designation": "intervention", "evidence": "To evaluate the efficacy of testosterone supplementation ... a topical testosterone gel or a placebo gel"},
+   {"arm_name": "Arm C (Testosterone Subcutaneous Pellet)", "designation": "intervention", "evidence": "a subcutaneous testosterone pellet versus a placebo pellet"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32416072 CT a_Summary_SoE.pdf",
+  "pmid": "32416072",
+  "trial_design_summary": "Ivosidenib vs placebo in IDH1-mutant cholangiocarcinoma",
+  "arms": [
+   {"arm_name": "Arm B (Placebo)", "designation": "control", "evidence": "randomly assigned (2:1) ... to oral ivosidenib 500 mg or matched placebo once daily"},
+   {"arm_name": "Arm A (AG-120 / Ivosidenib)", "designation": "intervention", "evidence": "to assess the efficacy and safety of ivosidenib (AG-120)-a small-molecule targeted inhibitor of mutated IDH1"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32416073 CT_Summary_SoE.pdf",
+  "pmid": "32416073",
+  "trial_design_summary": "Camrelizumab vs investigator's choice chemotherapy in advanced esophageal SCC",
+  "arms": [
+   {"arm_name": "Control Arm (Docetaxel)", "designation": "control", "evidence": "camrelizumab ... or chemotherapy with docetaxel (75 mg/m2 every 3 weeks) or irinotecan"},
+   {"arm_name": "Control Arm (Irinotecan)", "designation": "control", "evidence": "chemotherapy with docetaxel ... or irinotecan (180 mg/m2 every 2 weeks)"},
+   {"arm_name": "Investigational Arm (SHR-1210)", "designation": "intervention", "evidence": "the anti-PD-1 antibody camrelizumab versus investigator's choice of chemotherapy in previously treated patients"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32459600 a_Summary_SoE.pdf",
+  "pmid": "32459600",
+  "trial_design_summary": "Acalabrutinib vs investigator's choice (idelalisib+rituximab or bendamustine+rituximab) in R/R CLL",
+  "arms": [
+   {"arm_name": "Arm B (Idelalisib plus Rituximab)", "designation": "control", "evidence": "Patients received acalabrutinib monotherapy or investigator's choice (idelalisib plus rituximab [I-R] or bendamustine plus rituximab [B-R])"},
+   {"arm_name": "Arm B (Bendamustine plus Rituximab)", "designation": "control", "evidence": "investigator's choice (idelalisib plus rituximab [I-R] or bendamustine plus rituximab [B-R])"},
+   {"arm_name": "Arm A (Acalabrutinib monotherapy)", "designation": "intervention", "evidence": "Acalabrutinib significantly improved PFS compared with I-R or B-R"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32460997 CT_Summary_SoE.pdf",
+  "pmid": "32460997",
+  "trial_design_summary": "Multi-day methotrexate vs pulse actinomycin-D in low-risk GTN",
+  "arms": [
+   {"arm_name": "Regimen 1 (IV pulse actinomycin-D)", "designation": "control", "evidence": "The control arm was ACT-D; the experimental arm was multi-day MTX regimen"},
+   {"arm_name": "Regimen 2 (IV methotrexate 5-day)", "designation": "intervention", "evidence": "the experimental arm was multi-day MTX regimen (institutional preference of 5 or 8 day)"},
+   {"arm_name": "Regimen 2: IV Methotrexate (5-day regimen)", "designation": "intervention", "evidence": "the experimental arm was multi-day MTX regimen (institutional preference of 5 or 8 day)"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32496902 a_Summary_SoE.pdf",
+  "pmid": "32496902",
+  "trial_design_summary": "Intrathecal triple therapy vs intrathecal methotrexate in high-risk B-ALL (arm labels not described in abstract)",
+  "arms": [
+   {"arm_name": "Very High Risk (VHR) B-ALL (Control Arm)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Very High Risk (VHR) B-ALL - Control Arm", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "High Risk (HR) B-ALL (Arm A/B)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Ph-like Dasatinib Arm", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Down Syndrome (DS) HR B-ALL", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Down Syndrome HR B-ALL Arm", "designation": "unresolved", "evidence": ""}
+  ],
+  "abstract_states_roles": false
+ },
+ {
+  "filename": "PMID 32534646 CT_Summary_SoE.pdf",
+  "pmid": "32534646",
+  "trial_design_summary": "Atezolizumab vs placebo added to vemurafenib+cobimetinib in BRAFV600 melanoma",
+  "arms": [
+   {"arm_name": "Arm A (Placebo + Cobimetinib + Vemurafenib)", "designation": "control", "evidence": "atezolizumab placebo, vemurafenib, and cobimetinib (control group)"},
+   {"arm_name": "Arm B (Atezolizumab + Cobimetinib + Vemurafenib)", "designation": "intervention", "evidence": "progression-free survival ... significantly prolonged with atezolizumab versus control"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32786187 a_Summary_SoE.pdf",
+  "pmid": "32786187",
+  "trial_design_summary": "Venetoclax vs placebo added to azacitidine in untreated AML",
+  "arms": [
+   {"arm_name": "Arm B (Placebo plus Azacitidine)", "designation": "control", "evidence": "the azacitidine-placebo [control] group"},
+   {"arm_name": "Arm A (Venetoclax plus Azacitidine)", "designation": "intervention", "evidence": "azacitidine plus either venetoclax or placebo ... median overall survival was 14.7 months in the azacitidine-venetoclax group"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32813610 a_Summary_SoE.pdf",
+  "pmid": "32813610",
+  "trial_design_summary": "2x2 nelarabine vs no nelarabine and Capizzi MTX vs high-dose MTX in newly diagnosed T-ALL",
+  "arms": [
+   {"arm_name": "Arm A (Capizzi MTX - Control)", "designation": "control", "evidence": "5-year disease-free survival (DFS) rates for patients ... randomly assigned to nelarabine (n = 323) and no nelarabine"},
+   {"arm_name": "Arm C (High Dose MTX)", "designation": "control", "evidence": "patients ... randomly assigned to nelarabine ... and no nelarabine (n = 336)"},
+   {"arm_name": "Arm B (Capizzi MTX + Nelarabine)", "designation": "intervention", "evidence": "addition of nelarabine to ABFM therapy improved DFS for children and young adults with newly diagnosed T-ALL"},
+   {"arm_name": "Arm D (High Dose MTX + Nelarabine)", "designation": "intervention", "evidence": "Patients treated with the best-performing arm, C-MTX plus nelarabine ... addition of nelarabine ... improved DFS"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32822286 a_Summary_SoE.pdf",
+  "pmid": "32822286",
+  "trial_design_summary": "Binimetinib vs physician's choice chemotherapy in low-grade serous ovarian carcinoma",
+  "arms": [
+   {"arm_name": "Physician's Choice: Liposomal Doxorubicin", "designation": "control", "evidence": "randomized study of binimetinib (45 mg twice daily) versus physician's choice chemotherapy (PCC)"},
+   {"arm_name": "Physician's Choice: Paclitaxel", "designation": "control", "evidence": "binimetinib ... versus physician's choice chemotherapy (PCC)"},
+   {"arm_name": "Physician's Choice: Topotecan", "designation": "control", "evidence": "binimetinib ... versus physician's choice chemotherapy (PCC)"},
+   {"arm_name": "MEK162 (Binimetinib)", "designation": "intervention", "evidence": "to evaluate binimetinib, a potent MEK1/2 inhibitor with demonstrated activity across multiple cancers, in LGSOC"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32880601a_Summary_SoE.pdf",
+  "pmid": "32880601",
+  "trial_design_summary": "Pembrolizumab or pembrolizumab+chemotherapy vs chemotherapy alone in advanced gastric cancer",
+  "arms": [
+   {"arm_name": "Arm 3 (Placebo + Chemotherapy)", "designation": "control", "evidence": "pembrolizumab plus chemotherapy ... or chemotherapy plus placebo, every 3 weeks"},
+   {"arm_name": "Arm 1 (Pembrolizumab Monotherapy)", "designation": "intervention", "evidence": "pembrolizumab was noninferior to chemotherapy for OS in patients with CPS of 1 or greater"},
+   {"arm_name": "Arm 2 (Pembrolizumab + Chemotherapy)", "designation": "intervention", "evidence": "Pembrolizumab plus chemotherapy was not superior to chemotherapy for OS"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32945632 a_Summary_SoE.pdf",
+  "pmid": "32945632",
+  "trial_design_summary": "Maintenance avelumab plus best supportive care vs best supportive care alone in urothelial carcinoma",
+  "arms": [
+   {"arm_name": "Arm B (Best Supportive Care Alone)", "designation": "control", "evidence": "the addition of maintenance avelumab to best supportive care significantly prolonged overall survival as compared with best supportive care alone (control)"},
+   {"arm_name": "Arm A (Avelumab + Best Supportive Care)", "designation": "intervention", "evidence": "Maintenance avelumab plus best supportive care significantly prolonged overall survival"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32971005 CT_Summary_SoE.pdf",
+  "pmid": "32971005",
+  "trial_design_summary": "Durvalumab +/- tremelimumab vs chemotherapy first-line metastatic urothelial carcinoma",
+  "arms": [
+   {"arm_name": "Standard of Care (SoC) - Cisplatin + Gemcitabine", "designation": "control", "evidence": "durvalumab ... with or without tremelimumab ... as a first-line treatment for metastatic urothelial carcinoma [vs chemotherapy]"},
+   {"arm_name": "Standard of Care (Cisplatin + Gemcitabine, 28-day cycle)", "designation": "control", "evidence": "durvalumab (a PD-L1 inhibitor), with or without tremelimumab ... versus chemotherapy"},
+   {"arm_name": "MEDI4736 + tremelimumab combination therapy", "designation": "intervention", "evidence": "durvalumab (a PD-L1 inhibitor), with or without tremelimumab (a CTLA-4 inhibitor), as a first-line treatment"},
+   {"arm_name": "MEDI4736 monotherapy", "designation": "intervention", "evidence": "We randomly assigned patients (1:1:1) to receive durvalumab monotherapy (1500 mg)"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 32997907 a_Summary_SoE.pdf",
+  "pmid": "32997907",
+  "trial_design_summary": "Atezolizumab vs platinum-based chemotherapy first-line PD-L1-selected NSCLC",
+  "arms": [
+   {"arm_name": "Arm B (Platinum-based Chemotherapy)", "designation": "control", "evidence": "atezolizumab, as compared with those of platinum-based chemotherapy, as first-line treatment"},
+   {"arm_name": "Platinum-based Chemotherapy - Squamous (Control)", "designation": "control", "evidence": "Patients were assigned in a 1:1 ratio to receive atezolizumab or chemotherapy"},
+   {"arm_name": "Arm A (Atezolizumab)", "designation": "intervention", "evidence": "Atezolizumab treatment resulted in significantly longer overall survival than platinum-based chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33010094 CT_Summary_SoE.pdf",
+  "pmid": "33010094",
+  "trial_design_summary": "Additive homeopathy vs placebo vs untreated control in stage IV NSCLC (retracted)",
+  "arms": [
+   {"arm_name": "Arm 2 (Placebo Homeopathic Treatment)", "designation": "control", "evidence": "evaluated the possible effects of additive homeopathic treatment compared with placebo"},
+   {"arm_name": "Arm 3 (Standard Care Control)", "designation": "control", "evidence": "52 control patients without any homeopathic treatment were observed for survival only"},
+   {"arm_name": "Arm 1 (Verum Homeopathic Treatment)", "designation": "intervention", "evidence": "received either individualized homeopathic remedies (n = 51) or placebo ... QoL improved significantly in the homeopathy group"},
+   {"arm_name": "Arm 2 (Placebo Homeopathic Treatment)", "designation": "control", "evidence": "additive homeopathic treatment compared with placebo in patients with stage IV NSCLC"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33026938 CT_Summary_SoE.pdf",
+  "pmid": "33026938",
+  "trial_design_summary": "Pembrolizumab vs investigator's choice chemotherapy second-line advanced esophageal cancer",
+  "arms": [
+   {"arm_name": "Docetaxel", "designation": "control", "evidence": "pembrolizumab ... or chemotherapy (investigator's choice of paclitaxel, docetaxel, or irinotecan)"},
+   {"arm_name": "Irinotecan", "designation": "control", "evidence": "chemotherapy (investigator's choice of paclitaxel, docetaxel, or irinotecan)"},
+   {"arm_name": "Paclitaxel", "designation": "control", "evidence": "chemotherapy (investigator's choice of paclitaxel, docetaxel, or irinotecan)"},
+   {"arm_name": "Pembrolizumab (MK-3475)", "designation": "intervention", "evidence": "Pembrolizumab prolonged OS versus chemotherapy as second-line therapy for advanced esophageal cancer"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33078978 a_Summary_SoE.pdf",
+  "pmid": "33078978",
+  "trial_design_summary": "Carboplatin+paclitaxel (TC) as noninferior alternative to doxorubicin+cisplatin+paclitaxel (TAP) in advanced endometrial cancer",
+  "arms": [
+   {"arm_name": "Regimen II (Carboplatin/Paclitaxel)", "designation": "intervention", "evidence": "The Gynecologic Oncology Group studied carboplatin plus paclitaxel (TC) as a noninferior alternative to TAP"},
+   {"arm_name": "Regimen II (Carboplatin/Paclitaxel)", "designation": "intervention", "evidence": "studied carboplatin plus paclitaxel (TC) as a noninferior alternative to TAP"},
+   {"arm_name": "Regimen I (Doxorubicin/Cisplatin/Paclitaxel + G-CSF)", "designation": "control", "evidence": "carboplatin plus paclitaxel (TC) as a noninferior alternative to TAP [paclitaxel-doxorubicin-cisplatin]"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33189178 a_Summary_SoE.pdf",
+  "pmid": "33189178",
+  "trial_design_summary": "Selinexor added to bortezomib+dexamethasone (SVd) vs bortezomib+dexamethasone (Vd) in multiple myeloma",
+  "arms": [
+   {"arm_name": "Vd (Bortezomib + Dexamethasone)", "designation": "control", "evidence": "Once-per-week selinexor, bortezomib, and dexamethasone versus twice-per-week bortezomib and dexamethasone"},
+   {"arm_name": "SVd (Selinexor + Bortezomib + Dexamethasone)", "designation": "intervention", "evidence": "We aimed to evaluate the clinical benefit of weekly selinexor, bortezomib, and [dexamethasone]"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33197226 a_Summary_SoE.pdf",
+  "pmid": "33197226",
+  "trial_design_summary": "Avelumab maintenance vs continued chemotherapy after induction in advanced gastric cancer",
+  "arms": [
+   {"arm_name": "Best Supportive Care (BSC) Only", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Chemotherapy Maintenance (Oxaliplatin + 5-FU)", "designation": "control", "evidence": "randomly assigned 1:1 to avelumab 10 mg/kg every 2 weeks or continued chemotherapy"},
+   {"arm_name": "Avelumab Maintenance", "designation": "intervention", "evidence": "We investigated avelumab (anti-programmed death ligand-1 [PD-L1]) maintenance after first-line induction chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33278935 a_Summary_SoE.pdf",
+  "pmid": "33278935",
+  "trial_design_summary": "Pembrolizumab vs placebo added to chemotherapy in metastatic triple-negative breast cancer",
+  "arms": [
+   {"arm_name": "Arm B (Placebo + Chemotherapy)", "designation": "control", "evidence": "pembrolizumab (200 mg) every 3 weeks plus chemotherapy ... or placebo plus chemotherapy"},
+   {"arm_name": "Arm A (Pembrolizumab + Chemotherapy)", "designation": "intervention", "evidence": "whether the addition of pembrolizumab would enhance the antitumour activity of chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33480963 a_Summary_SoE.pdf",
+  "pmid": "33480963",
+  "trial_design_summary": "Margetuximab vs trastuzumab, each with chemotherapy, in pretreated ERBB2-positive advanced breast cancer",
+  "arms": [
+   {"arm_name": "Arm B (Trastuzumab plus Chemotherapy)", "designation": "control", "evidence": "To compare the clinical efficacy of margetuximab vs trastuzumab, each with chemotherapy"},
+   {"arm_name": "Arm A (Margetuximab plus Chemotherapy)", "designation": "intervention", "evidence": "The chimeric antibody margetuximab shares ERBB2 specificity with trastuzumab but incorporates an engineered Fc region"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33539945 CT_Summary_SoE.pdf",
+  "pmid": "33539945",
+  "trial_design_summary": "Ibrutinib vs placebo added to nab-paclitaxel+gemcitabine in metastatic pancreatic adenocarcinoma",
+  "arms": [
+   {"arm_name": "Arm B (Placebo in combination with nab-paclitaxel and gemcitabine)", "designation": "control", "evidence": "randomized to once-daily oral ibrutinib (560 mg) or placebo plus nab-paclitaxel ... and gemcitabine"},
+   {"arm_name": "Arm A (Ibrutinib in combination with nab-paclitaxel and gemcitabine)", "designation": "intervention", "evidence": "The safety and efficacy of first-line ibrutinib plus nab-paclitaxel/gemcitabine treatment ... were evaluated"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33577729 a_Summary_SoE.pdf",
+  "pmid": "33577729",
+  "trial_design_summary": "Enfortumab vedotin vs investigator-chosen chemotherapy in previously treated advanced urothelial carcinoma",
+  "arms": [
+   {"arm_name": "Arm B (Chemotherapy: Docetaxel, Paclitaxel, or Vinflunine)", "designation": "control", "evidence": "enfortumab vedotin ... or investigator-chosen chemotherapy (standard docetaxel, paclitaxel, or vinflunine)"},
+   {"arm_name": "Arm A (Enfortumab Vedotin)", "designation": "intervention", "evidence": "Enfortumab vedotin significantly prolonged survival as compared with standard chemotherapy"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33651090 a_Summary_SoE.pdf",
+  "pmid": "33651090",
+  "trial_design_summary": "Blinatumomab vs chemotherapy consolidation in first relapse of B-ALL",
+  "arms": [
+   {"arm_name": "Arm A (HR/IR Control - Chemotherapy)", "designation": "control", "evidence": "substituting blinatumomab for intensive chemotherapy in consolidation therapy ... 2 cycles of multiagent chemotherapy"},
+   {"arm_name": "Arm C (LR Control - Chemotherapy)", "designation": "control", "evidence": "substituting blinatumomab for intensive chemotherapy ... 2 cycles of multiagent chemotherapy"},
+   {"arm_name": "Arm B (HR/IR Experimental - Blinatumomab)", "designation": "intervention", "evidence": "substituting blinatumomab for intensive chemotherapy in consolidation therapy would improve survival"},
+   {"arm_name": "Arm D (LR Experimental - Blinatumomab)", "designation": "intervention", "evidence": "substituting blinatumomab for intensive chemotherapy ... 2 cycles of blinatumomab"}
+  ],
+  "abstract_states_roles": true
+ },
+ {
+  "filename": "PMID 33657295 a_Summary_SoE.pdf",
+  "pmid": "33657295",
+  "trial_design_summary": "Nivolumab plus cabozantinib vs sunitinib in advanced renal-cell carcinoma",
+  "arms": [
+   {"arm_name": "Arm C (Sunitinib)", "designation": "control", "evidence": "Nivolumab plus Cabozantinib versus Sunitinib for Advanced Renal-Cell Carcinoma"},
+   {"arm_name": "Arm B (Nivolumab + Ipilimumab + Cabozantinib)", "designation": "unresolved", "evidence": ""},
+   {"arm_name": "Arm A (Nivolumab + Cabozantinib)", "designation": "intervention", "evidence": "The efficacy and safety of nivolumab plus cabozantinib as compared with those of sunitinib"}
+  ],
+  "abstract_states_roles": true
+ }
+]

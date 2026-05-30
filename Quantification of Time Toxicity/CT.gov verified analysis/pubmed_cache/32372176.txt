@@ -1,0 +1,58 @@
+10. Support Care Cancer. 2021 Jan;29(1):387-396. doi: 10.1007/s00520-020-05473-2.
+ Epub 2020 May 6.
+
+A randomized, double-blind, placebo-controlled trial of testosterone for 
+treatment of postmenopausal women with aromatase inhibitor-induced arthralgias: 
+Alliance study A221102.
+
+Cathcart-Rake E(1), Novotny P(2), Leon-Ferre R(1), Le-Rademacher J(2), Storrick 
+EM(2), Adjei AA(1), Terstriep S(3), Glaser R(4), Giuliano A(5), Mitchell WR(6), 
+Page S(7), Austin C(8), Deming RL(9), Ferreira MA(8), Lafky JM(1), Birrell 
+SN(10), Loprinzi CL(11)(12).
+
+Author information:
+(1)Mayo Clinic, Rochester, MN, USA.
+(2)Alliance Statistics and Data Center, Mayo Clinic, Rochester, MN, USA.
+(3)Sanford NCORP of the North Central Plains, Sioux Falls, SD, USA.
+(4)Wright State University Boonshoft School of Medicine, Dayton, OH, USA.
+(5)Cedars-Sinai Medical Center, Los Angeles, CA, USA.
+(6)Southeast Clinical Oncology Research Consortium NCORP, Winston-Salem, NC, 
+USA.
+(7)Wichita NCI Community Oncology Research Program, Wichita, KS, USA.
+(8)Northside Hospital, Atlanta, GA, USA.
+(9)Mercy Medical Center, Des Moines, IA, USA.
+(10)The Breast and Endocrine Centre, Toorak Gardens, South Australia, Australia.
+(11)Mayo Clinic, Rochester, MN, USA. cloprinzi@mayo.edu.
+(12)Department of Medical Oncology, Mayo Clinic, 200 First St SW, Rochester, MN, 
+USA. cloprinzi@mayo.edu.
+
+PURPOSE: To evaluate the efficacy of testosterone supplementation for improving 
+aromatase inhibitor musculoskeletal symptoms (AIMSS).
+METHODS: Postmenopausal women experiencing moderate-to-severe arthralgias while 
+taking adjuvant aromatase inhibitors for breast cancer were enrolled in this 
+trial. Initially, patients were randomly allocated to receive either a 
+subcutaneous testosterone pellet versus a placebo pellet. Due to slow accrual, 
+the protocol was modified such that additional participants were randomized to 
+receive either a topical testosterone gel or a placebo gel. Changes in 
+patient-reported joint pain were compared between patients receiving 
+testosterone and those receiving placebo using a two-sample t test. Changes in 
+hot flashes and other vasomotor symptoms were also analyzed. Further analyses 
+were conducted to evaluate whether 27 single nucleotide polymorphisms (SNPs) in 
+14 genes previously associated with AIMSS were associated with testosterone 
+supplementation benefit.
+RESULTS: While 64% of patients reported an improvement in joint pain at 
+3 months, there were no significant differences in average pain or joint 
+stiffness at 3 or 6 months between testosterone and placebo arms. Patients 
+receiving testosterone did report improvements in strength, lack of energy, 
+urinary frequency, and stress incontinence (p < 0.05). The subset of patients 
+receiving subcutaneous testosterone also experienced improvements in hot flashes 
+and mood swings. An inherited variant (rs7984870 CC genotype) in TNFSF11 was 
+more likely to be associated with improvements in hot flashes in patients 
+receiving testosterone.
+CONCLUSION: The doses of testosterone supplementation used in this study did not 
+significantly improve AIMSS.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01573442.
+
+DOI: 10.1007/s00520-020-05473-2
+PMCID: PMC7644633
+PMID: 32372176 [Indexed for MEDLINE]

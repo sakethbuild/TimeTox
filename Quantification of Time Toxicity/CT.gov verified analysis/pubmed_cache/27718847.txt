@@ -1,0 +1,90 @@
+1. N Engl J Med. 2016 Nov 10;375(19):1823-1833. doi: 10.1056/NEJMoa1606774. Epub 
+2016 Oct 8.
+
+Pembrolizumab versus Chemotherapy for PD-L1-Positive Non-Small-Cell Lung Cancer.
+
+Reck M(1), Rodríguez-Abreu D(1), Robinson AG(1), Hui R(1), Csőszi T(1), Fülöp 
+A(1), Gottfried M(1), Peled N(1), Tafreshi A(1), Cuffe S(1), O'Brien M(1), Rao 
+S(1), Hotta K(1), Leiby MA(1), Lubiniecki GM(1), Shentu Y(1), Rangwala R(1), 
+Brahmer JR(1); KEYNOTE-024 Investigators.
+
+Collaborators: Kannourakis G, Steer C, Ganju V, O’Byrne K, Tafreshi A, Hui R, 
+Burghuber O, Germonpre P, Lambrechts M, Robinson A, Smylie M, Hirsh V, Gervais 
+R, Perol M, Bennouna J, Pouessel D, Reck M, Kopp G, Brossart P, Wehler TC, 
+Spaeth-Schwalbe E, Molnar L, Balint B, Papai-Szekely Z, Csoszi T, Fulop A, Soter 
+S, Szalai Z, Tehenes S, O’Reilly S, Coate L, Cuffe S, Gottfried M, Peled N, 
+Wollner M, Bar Y, Ariad S, Merimsky O, Carteni G, Bidoli P, Gridelli C, 
+Marchetti P, Tiseo M, Chiara Garassino M, Bonanno L, Grossi F, De Marinis F, 
+Ardizzoni A, Horiike A, Satouchi M, Katakami N, Sekine A, Torii Y, Nakagawa K, 
+Okamoto I, Maemondo M, Umemura S, Nosaki K, Saka H, Aoe K, Hotta K, Sakai H, 
+Sugawara S, Takahashi T, Kishi K, Yamamoto N, de Langen J, Sullivan R, Garcia 
+Campelo MG, Vidal OJ, Bernabe Caro R, Rubio Viqueira B, Domine Gomez M, 
+Rodriguez-Abreu D, Felip E, Nicolson M, Lal R, Fennel DA, Potter V, Middleton G, 
+O’Brien ME, Ottensmeir C, Califano R, Gandhi J, Tahsildar HI, Guarino MJ, Patel 
+R, Dragnev K, Giaccone G, Rao S, Avery E, Sanborn R, Lawler WE, Konduri K, 
+Robert F, Riess J, Garon EB, Leal TB, Morgensztern D, Ahuja H, Vanderwalde AM, 
+Reichert SE, Bun PA Jr, Pirker R, Shih W.
+
+Author information:
+(1)From Lung Clinic Grosshansdorf, Airway Research Center North, German Center 
+of Lung Research, Grosshansdorf, Germany (M.R.); Hospital Universitario Insular 
+de Gran Canaria, Las Palmas, Spain (D.R.-A.); Cancer Centre of Southeastern 
+Ontario at Kingston General Hospital, Kingston, ON, Canada (A.G.R.); Westmead 
+Hospital and the University of Sydney, Sydney (R.H.), and Southern Medical Day 
+Care Centre, Wollongong, NSW (A.T.) - both in Australia; Jász-Nagykun-Szolnok 
+County Hospital, Szolnok (T.C.), and Országos Korányi TBC és Pulmonológiai 
+Intézet, Budapest (A.F.) - both in Hungary; Meir Medical Center, Kfar-Saba 
+(M.G.), and Davidoff Cancer Center, Tel Aviv University, Petah Tikva (N.P.) - 
+both in Israel; St. James's Hospital and Cancer Trials Ireland, Dublin (S.C.); 
+the Royal Marsden Hospital, Sutton, Surrey, United Kingdom (M.O.); MedStar 
+Franklin Square Hospital (S.R.) and Sidney Kimmel Comprehensive Cancer Center at 
+Johns Hopkins (J.R.B.) - both in Baltimore; Okayama University Hospital, 
+Okayama, Japan (K.H.); and Merck, Kenilworth, NJ (M.A.L., G.M.L., Y.S., R.R.).
+
+Comment in
+    N Engl J Med. 2016 Nov 10;375(19):1892-1893. doi: 10.1056/NEJMe1611003.
+    Expert Rev Anticancer Ther. 2017 Mar;17(3):199-201. doi: 
+10.1080/14737140.2017.1286986.
+    N Engl J Med. ;376(10):996-7. doi: 10.1056/NEJMc1615559.
+    Ann Transl Med. 2017 Apr;5(7):166. doi: 10.21037/atm.2017.03.55.
+    J Thorac Dis. 2017 Apr;9(4):E384-E386. doi: 10.21037/jtd.2017.03.118.
+    J Thorac Dis. 2017 May;9(5):E519-E521. doi: 10.21037/jtd.2017.03.155.
+    Am J Respir Crit Care Med. 2018 Sep 1;198(5):667-669. doi: 
+10.1164/rccm.201801-0107RR.
+    Transl Cancer Res. 2017 Feb;6(Suppl 1):S151-S157. doi: 
+10.21037/tcr.2017.02.28.
+
+BACKGROUND: Pembrolizumab is a humanized monoclonal antibody against programmed 
+death 1 (PD-1) that has antitumor activity in advanced non-small-cell lung 
+cancer (NSCLC), with increased activity in tumors that express programmed death 
+ligand 1 (PD-L1).
+METHODS: In this open-label, phase 3 trial, we randomly assigned 305 patients 
+who had previously untreated advanced NSCLC with PD-L1 expression on at least 
+50% of tumor cells and no sensitizing mutation of the epidermal growth factor 
+receptor gene or translocation of the anaplastic lymphoma kinase gene to receive 
+either pembrolizumab (at a fixed dose of 200 mg every 3 weeks) or the 
+investigator's choice of platinum-based chemotherapy. Crossover from the 
+chemotherapy group to the pembrolizumab group was permitted in the event of 
+disease progression. The primary end point, progression-free survival, was 
+assessed by means of blinded, independent, central radiologic review. Secondary 
+end points were overall survival, objective response rate, and safety.
+RESULTS: Median progression-free survival was 10.3 months (95% confidence 
+interval [CI], 6.7 to not reached) in the pembrolizumab group versus 6.0 months 
+(95% CI, 4.2 to 6.2) in the chemotherapy group (hazard ratio for disease 
+progression or death, 0.50; 95% CI, 0.37 to 0.68; P<0.001). The estimated rate 
+of overall survival at 6 months was 80.2% in the pembrolizumab group versus 
+72.4% in the chemotherapy group (hazard ratio for death, 0.60; 95% CI, 0.41 to 
+0.89; P=0.005). The response rate was higher in the pembrolizumab group than in 
+the chemotherapy group (44.8% vs. 27.8%), the median duration of response was 
+longer (not reached [range, 1.9+ to 14.5+ months] vs. 6.3 months [range, 2.1+ to 
+12.6+]), and treatment-related adverse events of any grade were less frequent 
+(occurring in 73.4% vs. 90.0% of patients), as were grade 3, 4, or 5 
+treatment-related adverse events (26.6% vs. 53.3%).
+CONCLUSIONS: In patients with advanced NSCLC and PD-L1 expression on at least 
+50% of tumor cells, pembrolizumab was associated with significantly longer 
+progression-free and overall survival and with fewer adverse events than was 
+platinum-based chemotherapy. (Funded by Merck; KEYNOTE-024 ClinicalTrials.gov 
+number, NCT02142738 .).
+
+DOI: 10.1056/NEJMoa1606774
+PMID: 27718847 [Indexed for MEDLINE]

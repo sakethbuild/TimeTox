@@ -1,0 +1,48 @@
+12. Leuk Lymphoma. 2019 Sep;60(9):2122-2133. doi: 10.1080/10428194.2019.1579322. 
+Epub 2019 Feb 19.
+
+Phase 3 study of subcutaneous bortezomib, thalidomide, and prednisolone 
+consolidation after subcutaneous bortezomib-based induction and autologous stem 
+cell transplantation in patients with previously untreated multiple myeloma: the 
+VCAT study.
+
+Horvath N(1), Spencer A(2), Kenealy M(3), Joshua D(4), Campbell PJ(5), Lee 
+JJ(6), Hou J(7), Qiu L(8), Kalff A(2), Khong T(2), Londhe A(9), Siggins S(10), 
+van Kooten Losio M(10), Eisbacher M(10), Prince HM(3)(11).
+
+Author information:
+(1)Department of Haematology, Royal Adelaide Hospital , Adelaide , Australia.
+(2)Department of Clinical Haematology, Alfred Health-Monash University , 
+Melbourne , Australia.
+(3)Cabrini Health, Australia and Monash University , Melbourne , Australia.
+(4)Department of Haematology, Royal Prince Alfred Hospital , Camperdown , 
+Australia, and Sydney University, Sydney, Australia.
+(5)Department of Haematology, Andrew Love Cancer Centre , Geelong , Australia.
+(6)Department of Hematology-Oncology, Chonnam National University Hwasun 
+Hospital , Hwasun , Republic of Korea.
+(7)Department of Hematology, Shanghai Changzheng Hospital , Shanghai , China.
+(8)Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical 
+Sciences and Peking Union Medical College , Tianjin , China.
+(9)Janssen Research & Development LLC , Titusville , NJ , USA.
+(10)Janssen Cilag , Sydney , Australia.
+(11)Sir Peter MacCallum Department of Oncology, University of Melbourne , 
+Melbourne , Australia.
+
+Efficacy and safety of bortezomib-based consolidation following ASCT were 
+investigated in newly diagnosed multiple myeloma patients from Australia, Korea, 
+and China. Patients received three cycles of 
+bortezomib-cyclophosphamide-dexamethasone induction followed by high-dose 
+therapy/ASCT, then were randomized (1:1) to consolidation with TP (thalidomide 
+100 mg/d for ≤12 months/until disease progression; prednisolone 50 mg on 
+alternate days indefinitely/until disease progression; n = 100) or VTP 
+(subcutaneous bortezomib 1.3 mg/m2 every 2 weeks for 32 weeks, plus TP; 
+n = 103). The hypothesized difference in CR + VGPR rate (after ≤12 months 
+consolidation therapy) was not met. The rate of CR + VGPR was numerically higher 
+with VTP versus TP; however, this was not statistically significant (85.7% 
+versus 77.1%; rate difference 8.6%; 95% confidence interval -2.3%-19.5%; 
+p = .122). Secondary efficacy outcomes were similar between treatment arms. 
+Addition of bortezomib to TP consolidation was associated with limited 
+additional toxicity but did not significantly improve efficacy versus TP.
+
+DOI: 10.1080/10428194.2019.1579322
+PMID: 30777794 [Indexed for MEDLINE]

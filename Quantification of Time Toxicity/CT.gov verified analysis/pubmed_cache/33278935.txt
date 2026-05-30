@@ -1,0 +1,137 @@
+9. Lancet. 2020 Dec 5;396(10265):1817-1828. doi: 10.1016/S0140-6736(20)32531-9.
+
+Pembrolizumab plus chemotherapy versus placebo plus chemotherapy for previously 
+untreated locally recurrent inoperable or metastatic triple-negative breast 
+cancer (KEYNOTE-355): a randomised, placebo-controlled, double-blind, phase 3 
+clinical trial.
+
+Cortes J(1), Cescon DW(2), Rugo HS(3), Nowecki Z(4), Im SA(5), Yusof MM(6), 
+Gallardo C(7), Lipatov O(8), Barrios CH(9), Holgado E(10), Iwata H(11), Masuda 
+N(12), Otero MT(13), Gokmen E(14), Loi S(15), Guo Z(16), Zhao J(16), Aktan 
+G(16), Karantza V(16), Schmid P(17); KEYNOTE-355 Investigators.
+
+Collaborators: Luis F, Gonzalo GA, Diego K, Ruben K, Matias M, Mirta V, Sally 
+BH, Stephen B, Philip C, Sherene L, Dhanusha S, Andrea G, Donatienne T, Carlos 
+B, Leandro B, Fabiano C, Ruffo FJ, Roberto H, Domicio Carvalho L, Fernando Cezar 
+Toniazzi L, Roberto Odebrecht R, Antonio Orlando SN, Felipe S, David C, Danielle 
+C, Cristiano F, Xinni S, Joanne Y, Alejandro A, Carlos G, Claudio S, Cesar S, 
+Eduardo Y, Alvaro GD, Jesus S, Petra H, Zdenek K, Bohuslav M, Katarina P, Jana 
+P, Vesna G, Erik J, Jeanette J, Soren L, Tamas L, Herve B, Isabelle D, Anthony 
+G, Anne-Claire HB, Luis T, Jens-Uwe B, Peter F, Dirk F, Nadia H, Jens H, Anna 
+KFS, Christian K, Sibylle L, Diana L, Tjoung-Won PS, Raquel Von S, Pauline W, 
+Louis C, Ava K, Kai Cheong Roger N, Peter A, Tibor C, Zsuzsanna K, Laszlo L, 
+Karoly M, Gabor R, John C, Catherine K, Seamus O, Saverio C, Antonietta D, 
+Enrico R, Tomoyuki A, Takaaki F, Kenichi I, Takashi I, Yoshinori I, Tsutomu I, 
+Hiroji I, Yoshimasa K, Koji M, Yasuo M, Hirofumi M, Seigo N, Naoki N, Shoichiro 
+O, Akihiko O, Yasuaki S, Eiji S, Masato T, Yuko T, Kenji T, Koichiro T, 
+Junichiro W, Naohito Y, Yutaka Y, Teruo Y, Anita B, Mastura MY, Angel GV, 
+Alejandro JR, Jorge MR, Flavia MV, Jessica RC, Karin B, Vivianne TH, David P, 
+Ewa C, Ewa NZ, Zbigniew N, Barbara R, Joanna S, Cezary S, Rafal T, Bogdan Z, 
+Alexander A, Natalia F, Oleg L, Andrey M, Vladimir M, Guzel M, Jin Hee A, 
+Seock-Ah I, Keun Seok L, Kwong Hwa P, Yeon Hee P, Begona BLH, Javier C, Josefina 
+CJ, Luis CM, Jose GS, Maria G, Esther H, Esther ZA, Chien-Ting L, Mei-Ching L, 
+Chiun-Sheng H, Chao-Jung T, Ling-Ming T, Cagatay A, Gul B, Irfan C, Erhan G, 
+Seyda G, Nil MM, Mustafa O, Ozgur O, Sinan Y, Steve C, Janine G, Iain M, Peter 
+S, Nicholas T, Mark T, Christopher T, Duncan W, Hryhoriy A, Oleksandr B, Igor B, 
+Oleksii K, Olena K, Hanna K, Anna K, Iurii L, Alla N, Natalya O, Olga P, Andrii 
+R, Sergii S, Yaroslav S, Dmytro T, Grygorii U, Ihor V, Sibel B, Madhu C, Michael 
+C, Patrick C, Scott C, Jennifer D, Keerthi G, Jeffrey H, Kent H, William I, 
+Randa L, Janice L, Raul M, Susan M, Rita N, Ira O, Coral O, Timothy P, Amit P, 
+Brian P, Hope R, Irina R, Michael S, Robert S, Michael S, Laura S, Bradley S, 
+Michaela T, Frances VA.
+
+Author information:
+(1)International Breast Cancer Center, Quiron Group, Madrid and Barcelona, 
+Spain; Vall d'Hebron Institute of Oncology, Barcelona, Spain. Electronic 
+address: jacortes@vhio.net.
+(2)Princess Margaret Cancer Centre, Toronto, ON, Canada.
+(3)University of California San Francisco Comprehensive Cancer Center, San 
+Francisco, CA, USA.
+(4)Maria Sklodowska-Curie Memorial Cancer Centre and Institute of Oncology, 
+Warsaw, Poland.
+(5)Seoul National University Hospital, Cancer Research Institute, Seoul National 
+University College of Medicine, Seoul, Korea.
+(6)Pantai Hospital, Kuala Lumpur, Malaysia.
+(7)Arturo Lopez Perez Foundation, Santiago, Chile.
+(8)Republican Clinical Oncology Dispensary, Republic of Bashkortostan, Russia.
+(9)Oncology Research Unit, Hospital São Lucas, Pontifical Catholic University of 
+Rio Grande do Sul, Porto Alegre, Brazil.
+(10)International Breast Cancer Center, Quiron Group, Madrid and Barcelona, 
+Spain; Vall d'Hebron Institute of Oncology, Barcelona, Spain.
+(11)Aichi Cancer Center Hospital, Nagoya, Japan.
+(12)National Hospital Organization, Osaka National Hospital, Osaka, Japan.
+(13)Oncomedica, Monteria, Colombia.
+(14)Ege University Medical Faculty, Izmir, Turkey.
+(15)Peter McCallum Cancer Centre, Melbourne, VIC, Australia.
+(16)Merck, Kenilworth, NJ, USA.
+(17)Barts Cancer Institute, Centre for Experimental Cancer Medicine and Queen 
+Mary University of London, London, UK.
+
+Comment in
+    Lancet. 2021 Jul 3;398(10294):24. doi: 10.1016/S0140-6736(21)00380-9.
+
+BACKGROUND: Pembrolizumab monotherapy showed durable antitumour activity and 
+manageable safety in patients with metastatic triple-negative breast cancer. We 
+aimed to examine whether the addition of pembrolizumab would enhance the 
+antitumour activity of chemotherapy in patients with metastatic triple-negative 
+breast cancer.
+METHODS: In this randomised, placebo-controlled, double-blind, phase 3 trial, 
+done in 209 sites in 29 countries, we randomly assigned patients 2:1 with 
+untreated locally recurrent inoperable or metastatic triple-negative breast 
+cancer using a block method (block size of six) and an interactive 
+voice-response system with integrated web-response to pembrolizumab (200 mg) 
+every 3 weeks plus chemotherapy (nab-paclitaxel; paclitaxel; or gemcitabine plus 
+carboplatin) or placebo plus chemotherapy. Randomisation was stratified by type 
+of on-study chemotherapy (taxane or gemcitabine-carboplatin), PD-L1 expression 
+at baseline (combined positive score [CPS] ≥1 or <1), and previous treatment 
+with the same class of chemotherapy in the neoadjuvant or adjuvant setting (yes 
+or no). Eligibility criteria included age at least 18 years, centrally confirmed 
+triple-negative breast cancer; at least one measurable lesion; provision of a 
+newly obtained tumour sample for determination of triple-negative breast cancer 
+status and PD-L1 status by immunohistochemistry at a central laboratory; an 
+Eastern Cooperative Oncology Group performance status score 0 or 1; and adequate 
+organ function. The sponsor, investigators, other study site staff (except for 
+the unmasked pharmacist), and patients were masked to pembrolizumab versus 
+saline placebo administration. In addition, the sponsor, the investigators, 
+other study site staff, and patients were masked to patient-level tumour PD-L1 
+biomarker results. Dual primary efficacy endpoints were progression-free 
+survival and overall survival assessed in the PD-L1 CPS of 10 or more, CPS of 1 
+or more, and intention-to-treat populations. The definitive assessment of 
+progression-free survival was done at this interim analysis; follow-up to assess 
+overall survival is continuing. For progression-free survival, a hierarchical 
+testing strategy was used, such that testing was done first in patients with CPS 
+of 10 or more (prespecified statistical criterion was α=0·00411 at this interim 
+analysis), then in patients with CPS of 1 or more (α=0·00111 at this interim 
+analysis, with partial alpha from progression-free survival in patients with CPS 
+of 10 or more passed over), and finally in the intention-to-treat population 
+(α=0·00111 at this interim analysis). This study is registered with 
+ClinicalTrials.gov, NCT02819518, and is ongoing.
+FINDINGS: Between Jan 9, 2017, and June 12, 2018, of 1372 patients screened, 847 
+were randomly assigned to treatment, with 566 patients in the 
+pembrolizumab-chemotherapy group and 281 patients in the placebo-chemotherapy 
+group. At the second interim analysis (data cutoff, Dec 11, 2019), median 
+follow-up was 25·9 months (IQR 22·8-29·9) in the pembrolizumab-chemotherapy 
+group and 26·3 months (22·7-29·7) in the placebo-chemotherapy group. Among 
+patients with CPS of 10 or more, median progression-free survival was 9·7 months 
+with pembrolizumab-chemotherapy and 5·6 months with placebo-chemotherapy (hazard 
+ratio [HR] for progression or death, 0·65, 95% CI 0·49-0·86; one-sided p=0·0012 
+[primary objective met]). Median progression-free survival was 7·6 and 5·6 
+months (HR, 0·74, 0·61-0·90; one-sided p=0·0014 [not significant]) among 
+patients with CPS of 1 or more and 7·5 and 5·6 months (HR, 0·82, 0·69-0·97 [not 
+tested]) among the intention-to-treat population. The pembrolizumab treatment 
+effect increased with PD-L1 enrichment. Grade 3-5 treatment-related adverse 
+event rates were 68% in the pembrolizumab-chemotherapy group and 67% in the 
+placebo-chemotherapy group, including death in <1% in the 
+pembrolizumab-chemotherapy group and 0% in the placebo-chemotherapy group.
+INTERPRETATION: Pembrolizumab-chemotherapy showed a significant and clinically 
+meaningful improvement in progression-free survival versus placebo-chemotherapy 
+among patients with metastatic triple-negative breast cancer with CPS of 10 or 
+more. These findings suggest a role for the addition of pembrolizumab to 
+standard chemotherapy for the first-line treatment of metastatic triple-negative 
+breast cancer.
+FUNDING: Merck Sharp & Dohme Corp, a subsidiary of Merck & Co, Inc.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(20)32531-9
+PMID: 33278935 [Indexed for MEDLINE]

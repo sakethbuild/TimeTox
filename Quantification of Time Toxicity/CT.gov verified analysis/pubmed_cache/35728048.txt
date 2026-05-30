@@ -1,0 +1,68 @@
+5. Blood Adv. 2022 Sep 13;6(17):5132-5145. doi: 10.1182/bloodadvances.2022007334.
+
+Pevonedistat plus azacitidine vs azacitidine alone in higher-risk MDS/chronic 
+myelomonocytic leukemia or low-blast-percentage AML.
+
+Adès L(1), Girshova L(2), Doronin VA(3), Díez-Campelo M(4), Valcárcel D(5), 
+Kambhampati S(6), Viniou NA(7), Woszczyk D(8), De Paz Arias R(9), Symeonidis 
+A(10), Anagnostopoulos A(11), Munhoz EC(12), Platzbecker U(13), Santini V(14), 
+Fram RJ(15), Yuan Y(15), Friedlander S(15), Faller DV(15), Sekeres MA(16).
+
+Author information:
+(1)INSERM U944, Assistance Publique-Hôpitaux de Paris (AP-HP), Hôpital Saint 
+Louis and University of Paris, Paris, France.
+(2)Federal Almazov North-West Medical Research Centre, Saint-Petersburg, Russia.
+(3)City Clinical Hospital 40, Moscow, Russia.
+(4)Institute for Biomedical Research of Salamanca (IBSAL), University Hospital 
+of Salamanca, Salamanca, Spain.
+(5)Hematology Department, Vall Hebron Institute of Oncology (VHIO), Vall 
+d'Hebron, University Hospital, Barcelona, Spain.
+(6)Sarah Cannon at Research Medical Center, Kansas City, MO.
+(7)Hematology Unit, First, Department of Internal Medicine, Laikon General 
+Hospital, National and Kapodistrian University of Athens, Athens, Greece.
+(8)University of Opole, Provincial Hospital, Opole, Poland.
+(9)Hematology, Hospital Universitario La Paz-IDIPaz, Madrid, Spain.
+(10)Hematology Division, Department of Internal Medicine, University Hospital 
+Patras, Patras, Greece.
+(11)Hematology Department, General Hospital "George Papanikolaou," Thessaloniki, 
+Greece.
+(12)Hematology and Oncology Clinic, Erasto Gaertner Hospital, Curitiba, Brazil.
+(13)Department of Hematology and Cellular Therapy, Leipzig University Hospital, 
+Leipzig, Germany.
+(14)MDS (Myelodysplastic Syndrome) Unit, Hematology, Azienda 
+Ospedaliero-Universitaria (AOU) Careggi, University of Florence, Florence, 
+Italy.
+(15)Takeda Development Center Americas, Inc (TDCA), Lexington, MA; and.
+(16)Division of Hematology, Sylvester Comprehensive Cancer Center, University of 
+Miami, Miami, FL.
+
+PANTHER is a global, randomized phase 3 trial of pevonedistat+azacitidine (n = 
+227) vs azacitidine monotherapy (n = 227) in patients with newly diagnosed 
+higher-risk myelodysplastic syndromes (MDS; n = 324), higher-risk chronic 
+myelomonocytic leukemia (n = 27), or acute myeloid leukemia (AML) with 20% to 
+30% blasts (n = 103). The primary end point was event-free survival (EFS). In 
+the intent-to-treat population, the median EFS was 17.7 months with 
+pevonedistat+azacitidine vs 15.7 months with azacitidine (hazard ratio [HR], 
+0.968; 95% confidence interval [CI], 0.757-1.238; P = .557) and in the 
+higher-risk MDS cohort, median EFS was 19.2 vs 15.6 months (HR, 0.887; 95% CI, 
+0.659-1.193; P = .431). Median overall survival (OS) in the higher-risk MDS 
+cohort was 21.6 vs 17.5 months (HR, 0.785; P = .092), and in patients with AML 
+with 20% to 30% blasts was 14.5 vs 14.7 months (HR, 1.107; P = .664). In a post 
+hoc analysis, median OS in the higher-risk MDS cohort for patients receiving >3 
+cycles was 23.8 vs 20.6 months (P = .021) and for >6 cycles was 27.1 vs 22.5 
+months (P = .008). No new safety signals were identified, and the azacitidine 
+dose intensity was maintained. Common hematologic grade ≥3 treatment emergent 
+adverse events were anemia (33% vs 34%), neutropenia (31% vs 33%), and 
+thrombocytopenia (30% vs 30%). These results underscore the importance of large, 
+randomized controlled trials in these heterogeneous myeloid diseases and the 
+value of continuing therapy for >3 cycles. The trial was registered on 
+clinicaltrials.gov as #NCT03268954.
+
+© 2022 by The American Society of Hematology. Licensed under Creative Commons 
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), 
+permitting only noncommercial, nonderivative use with attribution. All other 
+rights reserved.
+
+DOI: 10.1182/bloodadvances.2022007334
+PMCID: PMC9631625
+PMID: 35728048 [Indexed for MEDLINE]

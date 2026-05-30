@@ -1,0 +1,213 @@
+19. Lancet Oncol. 2021 Jul;22(7):931-945. doi: 10.1016/S1470-2045(21)00152-2.
+Epub  2021 May 26.
+
+Pembrolizumab alone or combined with chemotherapy versus chemotherapy as 
+first-line therapy for advanced urothelial carcinoma (KEYNOTE-361): a 
+randomised, open-label, phase 3 trial.
+
+Powles T(1), Csőszi T(2), Özgüroğlu M(3), Matsubara N(4), Géczi L(5), Cheng 
+SY(6), Fradet Y(7), Oudard S(8), Vulsteke C(9), Morales Barrera R(10), Fléchon 
+A(11), Gunduz S(12), Loriot Y(13), Rodriguez-Vida A(14), Mamtani R(15), Yu 
+EY(16), Nam K(17), Imai K(17), Homet Moreno B(17), Alva A(18); KEYNOTE-361 
+Investigators.
+
+Collaborators: Cascallar DV, Varela M, Lazzaro MF, Kaen DL, Gatica G, Flores DH, 
+Falco A, Molina M, Van Aelst F, Vulsteke C, Sautois B, Machiels JP, Schallier D, 
+Brust L, Rapatoni L, Azevedo SJ, Marinho G, Soares JPH, Dzik C, Almeida Silva J, 
+Fay AP, Gingerich J, Fradet Y, Ferrario C, Potvin K, Vanhuyse M, Abdelsalam M, 
+Cheng S, Caglevic C, Reyes F, Leal JL, Francisco F, Ibanez C, Joly F, Laguerre 
+B, Ladoire S, Flechon A, Topart D, Huillard O, Oudard S, Gross-Goupil M, Culine 
+S, Loriot Y, Gravis G, Reichardt P, Retz M, Herden J, Pfister D, Ohlman C, 
+Stoeckle M, Wirth M, Lorch A, Niegisch G, Goebell PJ, Boegemann M, Merseburger 
+A, Gakis G, Bedke J, Neisius A, Thomas C, Hoefner T, Telekes A, Kosa JE, Revesz 
+J, Bodoky G, Csoszi T, Csejtei A, Geczi L, Ruzsa A, Kolonics Z, Erfan J, 
+McDermott R, Bambury R, Sella A, Frank SJ, Kejzman D, Goldman O, Rosenbaum E, 
+Peer A, Berger R, Rouvinov K, Sarid D, Fukasawa S, Arai G, Yamaguchi A, Yokomizo 
+A, Takayama T, Kinoshita H, Kikuchi E, Mizuno R, Fujii Y, Sassa N, Matsukawa Y, 
+Fujimoto K, Matsubara N, Tanikawa T, Tomita Y, Nishimura K, Tsujihata M, Oyama 
+M, Masumori N, Kanayama H, Takano T, Miura Y, Miyazaki J, Joraku A, Kimura T, 
+Yamamoto Y, Kobayashi K, De Wit R, Aarts M, Gerritsen W, Los M, Beerepoot L, 
+Izmailov A, Gorelov SI, Alekseev BY, Semenov A, Kostorov VA, Alekseev SM, 
+Zyryanov A, Oschepkov VN, Shidin VA, Vladimirov VI, Gafanov RA, Karlov PA, 
+Anderson DB, Shepherd L, Cohen GL, Rapoport BL, Ruff P, Lee N, Bae WK, Lee HJ, 
+Herranz UA, Rodriguez-Vida A, Morales Barrera R, Grande E, Alonso Gordoa T, Guma 
+Padro J, Gauna DC, Arranz JA, Munoz Langa J, Sarrio RG, Montesa Pino A, Juan 
+Fita MJ, Su YL, Lin YC, Su WP, Shen YC, Chang YH, Huang YH, Sriuranpong V, 
+Chansriwong P, Srimuninnimit V, Danchaivijitr P, Abali H, Yavuz S, Ozyilkan O, 
+Sendur MAN, Ekenel M, Ozguroglu M, Arslan C, Gunduz S, Ozdogan M, Birtle A, 
+Powles T, Huddart R, de Santis M, Zarkar A, Evans L, Hussain S, DiSimone C, 
+Muina AF, Schlegel P, Jhangiani HS, Harrison M, Slater DE, Wright D, Percent IJ, 
+Lin J, Hwang C, Mamtani R, Gupta S, Bajaj M, Galamaga R, Eklund J, Wallace J, 
+Shtivelband M, Suh JJ, Burhani N, Eadens M, Gunturu K, Burgess E, Wong J, 
+Chaudhry A, Van Veldhuizen P, Graff S, Thomas CA, Schnadig ID, Carneiro B, 
+Hussain M, Morgans A, Fitzharris JT, Oliff IA, Vuky J, Hauke R, Baron A, Joshi 
+M, Bolemon BH, Jiang P, Mega AE, Markus M, Pfanzelter N, Lawler WE, Cobb PW, 
+Courtright JG, Jain S, Doshi G, Gunuganti VK, Sartor OA, Cole SW, Babiker H, 
+Uchio EM, Drakaki A, Mannuel HD, Alva A, Guancial E, Fung C, Charles A, Amato 
+RJ, Arriaga Y, Bowman I, Ades S, Dreicer R, Yu E, Quinn DI, Fleming M.
+
+Author information:
+(1)Barts Cancer Centre, St Bartholomew's Hospital, London, UK; Barts Cancer 
+Institute, Barts Health NHS Trust, Queen Mary University of London, London, UK. 
+Electronic address: thomas.powles1@nhs.net.
+(2)County Oncology Centre, Hetényi Géza Hospital, Szolnok, Hungary.
+(3)Cerrahpaşa School of Medicine, Istanbul University-Cerrahpaşa, Istanbul, 
+Turkey.
+(4)National Cancer Center Hospital East, Chiba, Japan.
+(5)National Institute of Oncology, Budapest, Hungary.
+(6)Sunnybrook Odette Cancer Centre, Toronto, ON, Canada.
+(7)CHU de Québec-Université Laval, Quebec, QC, Canada.
+(8)Georges Pompidou European Hospital, University of Paris, Paris, France.
+(9)Center for Oncological Research (CORE), Antwerp University, Antwerp, Belgium; 
+Integrated Cancer Center, Ghent, Belgium.
+(10)Vall d'Hebron Institute of Oncology, Vall d' Hebron University Hospital, 
+Universitat Autònoma de Barcelona, Barcelona, Spain.
+(11)Centre Léon Bérard, Lyon, France.
+(12)Memorial Antalya Hospital, Antalya, Turkey; Minimally Invasive Therapeutics 
+Laboratory, Mayo Clinic, AZ, USA.
+(13)Institut Gustave Roussy, Université Paris-Saclay, Villejuif, Val-de-Marne, 
+France.
+(14)Hospital del Mar, Barcelona, Spain.
+(15)Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA.
+(16)University of Washington, Seattle, WA, USA; Fred Hutchinson Cancer Research 
+Center, Seattle, WA, USA.
+(17)Merck, Kenilworth, NJ, USA.
+(18)University of Michigan Health System, Ann Arbor, MI, USA.
+
+Comment in
+    Lancet Oncol. 2021 Jul;22(7):894-896. doi: 10.1016/S1470-2045(21)00284-9.
+    Nat Rev Urol. 2021 Oct;18(10):577-578. doi: 10.1038/s41585-021-00499-5.
+    Eur Urol Oncol. 2021 Oct;4(5):854. doi: 10.1016/j.euo.2021.06.008.
+
+BACKGROUND: PD-1 and PD-L1 inhibitors are active in metastatic urothelial 
+carcinoma, but positive randomised data supporting their use as a first-line 
+treatment are lacking. In this study we assessed outcomes with first-line 
+pembrolizumab alone or combined with chemotherapy versus chemotherapy for 
+patients with previously untreated advanced urothelial carcinoma.
+METHODS: KEYNOTE-361 is a randomised, open-label, phase 3 trial of patients aged 
+at least 18 years, with untreated, locally advanced, unresectable, or metastatic 
+urothelial carcinoma, with an Eastern Cooperative Oncology Group performance 
+status of up to 2. Eligible patients were enrolled from 201 medical centres in 
+21 countries and randomly allocated (1:1:1) via an interactive voice-web 
+response system to intravenous pembrolizumab 200 mg every 3 weeks for a maximum 
+of 35 cycles plus intravenous chemotherapy (gemcitabine [1000 mg/m2] on days 1 
+and 8 and investigator's choice of cisplatin [70 mg/m2] or carboplatin [area 
+under the curve 5] on day 1 of every 3-week cycle) for a maximum of six cycles, 
+pembrolizumab alone, or chemotherapy alone, stratified by choice of platinum 
+therapy and PD-L1 combined positive score (CPS). Neither patients nor 
+investigators were masked to the treatment assignment or CPS. At 
+protocol-specified final analysis, sequential hypothesis testing began with 
+superiority of pembrolizumab plus chemotherapy versus chemotherapy alone in the 
+total population (all patients randomly allocated to a treatment) for the dual 
+primary endpoints of progression-free survival (p value boundary 0·0019), 
+assessed by masked, independent central review, and overall survival (p value 
+boundary 0·0142), followed by non-inferiority and superiority of overall 
+survival for pembrolizumab versus chemotherapy in the patient population with 
+CPS of at least 10 and in the total population (also a primary endpoint). Safety 
+was assessed in the as-treated population (all patients who received at least 
+one dose of study treatment). This study is completed and is no longer enrolling 
+patients, and is registered at ClinicalTrials.gov, number NCT02853305.
+FINDINGS: Between Oct 19, 2016 and June 29, 2018, 1010 patients were enrolled 
+and allocated to receive pembrolizumab plus chemotherapy (n=351), pembrolizumab 
+monotherapy (n=307), or chemotherapy alone (n=352). Median follow-up was 31·7 
+months (IQR 27·7-36·0). Pembrolizumab plus chemotherapy versus chemotherapy did 
+not significantly improve progression-free survival, with a median 
+progression-free survival of 8·3 months (95% CI 7·5-8·5) in the pembrolizumab 
+plus chemotherapy group versus 7·1 months (6·4-7·9) in the chemotherapy group 
+(hazard ratio [HR] 0·78, 95% CI 0·65-0·93; p=0·0033), or overall survival, with 
+a median overall survival of 17·0 months (14·5-19·5) in the pembrolizumab plus 
+chemotherapy group versus 14·3 months (12·3-16·7) in the chemotherapy group 
+(0·86, 0·72-1·02; p=0·0407). No further formal statistical hypothesis testing 
+was done. In analyses of overall survival with pembrolizumab versus chemotherapy 
+(now exploratory based on hierarchical statistical testing), overall survival 
+was similar between these treatment groups, both in the total population (15·6 
+months [95% CI 12·1-17·9] with pembrolizumab vs 14·3 months [12·3-16·7] with 
+chemotherapy; HR 0·92, 95% CI 0·77-1·11) and the population with CPS of at least 
+10 (16·1 months [13·6-19·9] with pembrolizumab vs 15·2 months [11·6-23·3] with 
+chemotherapy; 1·01, 0·77-1·32). The most common grade 3 or 4 adverse event 
+attributed to study treatment was anaemia with pembrolizumab plus chemotherapy 
+(104 [30%] of 349 patients) or chemotherapy alone (112 [33%] of 342 patients), 
+and diarrhoea, fatigue, and hyponatraemia (each affecting four [1%] of 302 
+patients) with pembrolizumab alone. Six (1%) of 1010 patients died due to an 
+adverse event attributed to study treatment; two patients in each treatment 
+group. One each occurred due to cardiac arrest and device-related sepsis in the 
+pembrolizumab plus chemotherapy group, one each due to cardiac failure and 
+malignant neoplasm progression in the pembrolizumab group, and one each due to 
+myocardial infarction and ischaemic colitis in the chemotherapy group.
+INTERPRETATION: The addition of pembrolizumab to first-line platinum-based 
+chemotherapy did not significantly improve efficacy and should not be widely 
+adopted for treatment of advanced urothelial carcinoma.
+FUNDING: Merck Sharp and Dohme, a subsidiary of Merck, Kenilworth, NJ, USA.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(21)00152-2
+PMID: 34051178 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests TP reports honoraria 
+and research funding from Merck Sharp and Dohme (a subsidiary of Merck, 
+Kenilworth, NJ, USA), AstraZeneca, and Roche; honoraria from BMS, Seattle 
+Genetics, Ipsen, Merck Sharp and Dohme, Novartis, and Pfizer; fees for a 
+consultant or advisory role for AstraZeneca, BMS, Exelexis, Incyte, Ipsen, Merck 
+Sharp and Dohme, Novartis, Pfizer, and Seattle Genetics; and travel expenses and 
+accommodations from AstraZeneca and Roche. TC reports research funding from 
+Merck Sharp and Dohme. MO reports research funding from Merck Sharp and Dohme; 
+personal honoraria from Roche, Sanofi Aventis, and Astellas; institutional 
+honoraria from Janssen; fees for a consultant or advisory role for Janssen, 
+Sanofi Aventis, and Astellas; speaker bureau or expert testimony role for 
+AstraZeneca; and travel expenses and accommodations from BMS, Janssen, and 
+AstraZeneca. NM reports research funding from Merck Sharp and Dohme, Astellas, 
+Chugai, Eli Lilly, Janssen, Pfizer, and Taiho; and fees for a consultant or 
+advisory role for Chugai, Janssen, Merck Sharp and Dohme, and Sanofi Aventis. LG 
+reports research funding from Merck Sharp and Dohme; fees for a consultant or 
+advisory role for Janssen, Merck Sharp and Dohme, and Pfizer; and travel 
+expenses and accommodations from Janssen, and Pfizer. SY-SC reports research 
+funding from Merck Sharp and Dohme; and fees for a consultant or advisory role 
+for AstraZeneca, BMS, and Merck Sharp and Dohme. YF reports research funding 
+from Merck Sharp and Dohme, Tersera, Janssen, Astellas, and IMV; fees for a 
+consultant or advisory role for AstraZeneca, Merck Sharp and Dohme, Sanofi 
+Aventis, and Tersera; and fees for travel for Sanofi Aventis, and Tersera. SO 
+reports research funding from Merck Sharp and Dohme, BMS, Sanofi Aventis, 
+Pfizer, Novartis, Bayer, and Ipsen; personal honoraria from BMS, Merck, Sanofi 
+Aventis, Pfizer, Novartis, Janssen, Astellas, Bayer, and Ipsen; institutional 
+honoraria from Bayer and Pfizer; and travel expenses and accommodations from 
+BMS, Merck, Sanofi Aventis, Pfizer, Novartis, Janssen, Astellas, Bayer, and 
+Ipsen. CV reports research funding from Merck Sharp and Dohme, and Leo Pharma; 
+fees for a consultant or advisory role for AstraZeneca, Merck Sharp and Dohme, 
+GSK, Astellas, Ipsen, Roche, and BMS; and travel expenses and accommodations 
+from Roche. RMB reports research funding from Merck Sharp and Dohme; honoraria 
+from Sanofi Aventis, Roche, and Merck Sharp and Dohme; fees for a consultant or 
+advisory role for Sanofi Aventis, Bayer, Janssen, AstraZeneca, Merck Sharp and 
+Dohme, Roche, and Asofarma; and travel expenses and accommodations from Roche, 
+Sanofi Aventis, Astellas, Janssen, Merck Sharp and Dohme, Bayer, Pharmacyclics, 
+Clovis, and Eli Lilly. AF reports research funding from Merck Sharp and Dohme; 
+honoraria from Merck Sharp and Dohme, AstraZeneca, Pfizer, and Seattle Genetics; 
+and travel expenses and accommodations from Merck Sharp and Dohme, AstraZeneca, 
+Pfizer, and Seattle Genetics. SG reports research funding from Merck Sharp and 
+Dohme, and travel expenses and accommodations from Roche. YL reports research 
+funding from Merck Sharp and Dohme, Sanofi Aventis, and Janssen; personal 
+honoraria from Roche, Astellas, Janssen, Seattle Genetics, AstraZeneca, BMS, 
+Merck Sharp and Dohme, Pfizer, Sanofi Aventis, and Ipsen; institutional 
+honoraria from Janssen and Pfizer; and travel expenses and accommodations from 
+Roche, Janssen, AstraZeneca, Merck Sharp and Dohme, and Sanofi Aventis. AR-V 
+reports research funding from Merck Sharp and Dohme, Pfizer, and Takeda; 
+honoraria from Astellas, AstraZeneca, Bayer, BMS, Janssen, Merck Sharp and 
+Dohme, Pfizer, Roche, Ipsen, and Sanofi Aventis; fees for a consultant or 
+advisory role for Astellas, Bayer, BMS, Janssen, Merck Sharp and Dohme, Pfizer, 
+Ipsen, Clovis, and Roche; and travel expenses and accommodations from Astellas, 
+AstraZeneca, Bayer, BMS, Janssen, Merck Sharp and Dohme, Pfizer, Roche, Ipsen, 
+and Sanofi Aventis. RM reports research funding from Merck Sharp and Dohme; 
+honoraria from MedLearning and Flatiron; and fees for a consultant or advisory 
+role for Roche, Seattle Genetics, and Astellas. EYY reports research funding 
+from Merck Sharp and Dohme, Bayer, Blue Earth, Daiichi-Sankyo, Dendreon, 
+Pharmacyclics, Seattle Genetics, and Taiho; and fees for a consultant or 
+advisory role for Abbvie, Advanced Accelerator Applications, Bayer, Clovis, 
+Janssen, Merck Sharp and Dohme, and Sanofi Aventis. KN, KI, and BHM are 
+employees of Merck Sharp and Dohme and report stock ownership. AA reports 
+research funding from Merck Sharp and Dohme, Clovis, BMS, AstraZeneca, Bayer, 
+Progenics, Janssen, Genentech, Esanik, Ionis, Arcus Biosciences, and Prometheus; 
+honoraria from Merck Sharp and Dohme, BMS, and AstraZeneca; fees for a 
+consultant or advisory role for Merck Sharp and Dohme, BMS, AstraZeneca, Pfizer, 
+and Merck Serono; speaker bureau or expert testimony role for AstraZeneca; and 
+travel expenses and accommodations from Merck Sharp and Dohme, BMS, and 
+AstraZeneca.

@@ -1,0 +1,58 @@
+12. J Clin Oncol. 2014 Mar 10;32(8):760-7. doi: 10.1200/JCO.2013.50.3961. Epub
+2013  Dec 2.
+
+Randomized phase III trial of temsirolimus versus sorafenib as second-line 
+therapy after sunitinib in patients with metastatic renal cell carcinoma.
+
+Hutson TE(1), Escudier B, Esteban E, Bjarnason GA, Lim HY, Pittman KB, Senico P, 
+Niethammer A, Lu DR, Hariharan S, Motzer RJ.
+
+Author information:
+(1)Thomas E. Hutson, Charles A. Sammons Cancer Center, Baylor University Medical 
+Center, Dallas, TX; Bernard Escudier, Institut Gustave Roussy, Villejuif, 
+France; Emilio Esteban, Hospital Universitario Central de Asturias, Oviedo, 
+Asturias, Spain; Georg A. Bjarnason, Sunnybrook Odette Cancer Centre, Toronto, 
+Ontario, Canada; Ho Yeong Lim, Samsung Medical Center, Seoul, Korea; Kenneth B. 
+Pittman, The Queen Elizabeth Hospital, Woodville South, Adelaide, Australia; 
+Peggy Senico, Pfizer, Collegeville, PA; Andreas Niethammer and Dongrui Ray Lu 
+Pfizer, La Jolla, CA; Subramanian Hariharan, Pfizer; and Robert J. Motzer, 
+Memorial Sloan-Kettering Cancer Center, New York, NY.
+
+Comment in
+    Nat Rev Clin Oncol. 2014 Feb;11(2):64. doi: 10.1038/nrclinonc.2013.238.
+    Nat Rev Urol. 2014 Jan;11(1):2. doi: 10.1038/nrurol.2013.308.
+    J Clin Oncol. 2014 Mar 10;32(8):722-4. doi: 10.1200/JCO.2013.54.1748.
+
+PURPOSE: This international phase III trial (Investigating Torisel As 
+Second-Line Therapy [INTORSECT]) compared the efficacy of temsirolimus 
+(mammalian target of rapamycin inhibitor) and sorafenib (vascular endothelial 
+growth factor receptor [VEGFR] tyrosine kinase inhibitor) as second-line therapy 
+in patients with metastatic renal cell carcinoma (mRCC) after disease 
+progression on sunitinib.
+PATIENTS AND METHODS: In total, 512 patients were randomly assigned 1:1 to 
+receive intravenous temsirolimus 25 mg once weekly (n = 259) or oral sorafenib 
+400 mg twice per day (n = 253), with stratification according to duration of 
+prior sunitinib therapy (≤ or > 180 days), prognostic risk, histology (clear 
+cell or non-clear cell), and nephrectomy status. The primary end point was 
+progression-free survival (PFS) by independent review committee assessment. 
+Safety, objective response rate (ORR), and overall survival (OS) were secondary 
+end points.
+RESULTS: Primary analysis revealed no significant difference between treatment 
+arms for PFS (stratified hazard ratio [HR], 0.87; 95% CI, 0.71 to 1.07; 
+two-sided P = .19) or ORR. Median PFS in the temsirolimus and sorafenib arms 
+were 4.3 and 3.9 months, respectively. There was a significant OS difference in 
+favor of sorafenib (stratified HR, 1.31; 95% CI, 1.05 to 1.63; two-sided P = 
+.01). Median OS in the temsirolimus and sorafenib arms was 12.3 and 16.6 months, 
+respectively. Safety profiles of both agents were consistent with previous 
+studies.
+CONCLUSION: In patients with mRCC and progression on sunitinib, second-line 
+temsirolimus did not demonstrate a PFS advantage compared with sorafenib. The 
+longer OS observed with sorafenib suggests sequenced VEGFR inhibition may 
+benefit patients with mRCC.
+
+DOI: 10.1200/JCO.2013.50.3961
+PMCID: PMC5569683
+PMID: 24297950 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

@@ -1,0 +1,67 @@
+19. J Clin Oncol. 2018 Sep 1;36(25):2621-2629. doi: 10.1200/JCO.2018.79.2028.
+Epub  2018 Jul 24.
+
+Double-Blind Phase III Trial of Adjuvant Chemotherapy With and Without 
+Bevacizumab in Patients With Lymph Node-Positive and High-Risk Lymph 
+Node-Negative Breast Cancer (E5103).
+
+Miller KD(1), O'Neill A(1), Gradishar W(1), Hobday TJ(1), Goldstein LJ(1), Mayer 
+IA(1), Bloom S(1), Brufsky AM(1), Tevaarwerk AJ(1), Sparano JA(1), 
+Le-Lindqwister NA(1), Hendricks CB(1), Northfelt DW(1), Dang CT(1), Sledge GW 
+Jr(1).
+
+Author information:
+(1)Kathy D. Miller, Indiana University Melvin and Bren Simon Cancer Center, 
+Indianapolis, IN; Anne O'Neill, Dana-Farber Cancer Institute, Boston, MA; 
+William Gradishar, Northwestern University, Chicago; Nguyet Anh Le-Lindqwister, 
+Heartland Cancer Research National Cancer Institute Community Oncology Research 
+Program, Peoria, IL; Timothy J. Hobday, Mayo Clinic, Rochester; Stuart Bloom, 
+Abbott Northwestern Hospital, Minneapolis, MN; Lori J. Goldstein, Fox Chase 
+Cancer Center, Philadelphia; Adam M. Brufsky, University of Pittsburgh, 
+Pittsburgh, PA; Ingrid A. Mayer, Vanderbilt University, Nashville, TN; Amye J. 
+Tevaarwerk, University of Wisconsin, Madison, WI; Joseph A. Sparano, Montefiore 
+Hospital and Medical Center, Bronx; Chau T. Dang, Memorial Sloan Kettering 
+Cancer Center, New York, NY; Carolyn B. Hendricks, Association Community 
+Clinical Oncology Program, Bethesda, MD; Donald W. Northfelt, Mayo Clinic, 
+Scottsdale, AZ; and George W. Sledge JR, Stanford University, Stanford, CA.
+
+Comment in
+    Transl Cancer Res. 2019 Mar;8(Suppl 2):S94-S96. doi: 
+10.21037/tcr.2018.10.17.
+
+Purpose Bevacizumab improves progression-free survival but not overall survival 
+in patients with metastatic breast cancer. E5103 tested the effect of 
+bevacizumab in the adjuvant setting in patients with human epidermal growth 
+factor receptor 2-negative disease. Patients and Methods Patients were assigned 
+1:2:2 to receive placebo with doxorubicin and cyclophosphamide (AC) followed by 
+weekly paclitaxel (arm A), bevacizumab only during AC and paclitaxel (arm B), or 
+bevacizumab during AC and paclitaxel followed by bevacizumab monotherapy for 10 
+cycles (arm C). Random assignment was stratified and bevacizumab dose adjusted 
+for choice of AC schedule. Radiation and hormonal therapy were administered 
+concurrently with bevacizumab in arm C. The primary end point was invasive 
+disease-free survival (IDFS). Results Four thousand nine hundred ninety-four 
+patients were enrolled. Median age was 52 years; 64% of patients were estrogen 
+receptor positive, 27% were lymph node negative, and 78% received dose-dense AC. 
+Chemotherapy-associated adverse events including myelosuppression and neuropathy 
+were similar across all arms. Grade ≥ 3 hypertension was more common in 
+bevacizumab-treated patients, but thrombosis, proteinuria, and hemorrhage were 
+not. The cumulative incidence of clinical congestive heart failure at 15 months 
+was 1.0%, 1.9%, and 3.0% in arms A, B, and C, respectively. Bevacizumab exposure 
+was less than anticipated, with approximately 24% of patients in arm B and 
+approximately 55% of patients in arm C discontinuing bevacizumab before 
+completing planned therapy. Five-year IDFS was 77% (95% CI, 71% to 81%) in arm 
+A, 76% (95% CI, 72% to 80%) in arm B, and 80% (95% CI, 77% to 83%) in arm C. 
+Conclusion Incorporation of bevacizumab into sequential anthracycline- and 
+taxane-containing adjuvant therapy does not improve IDFS or overall survival in 
+patients with high-risk human epidermal growth factor receptor 2-negative breast 
+cancer. Longer duration bevacizumab therapy is unlikely to be feasible given the 
+high rate of early discontinuation.
+
+DOI: 10.1200/JCO.2018.79.2028
+PMCID: PMC6118403
+PMID: 30040523 [Indexed for MEDLINE]
+
+Conflict of interest statement: The content is solely the responsibility of the 
+authors and does not necessarily represent the official views of the National 
+Institutes of Health, nor does mention of trade names, commercial products, or 
+organizations imply endorsement by the US government.

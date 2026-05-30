@@ -1,0 +1,78 @@
+17. JAMA. 2019 Apr 16;321(15):1481-1490. doi: 10.1001/jama.2019.3504.
+
+Effect of Doxepin Mouthwash or Diphenhydramine-Lidocaine-Antacid Mouthwash vs 
+Placebo on Radiotherapy-Related Oral Mucositis Pain: The Alliance A221304 
+Randomized Clinical Trial.
+
+Sio TT(1), Le-Rademacher JG(2), Leenstra JL(3), Loprinzi CL(4), Rine G(5), 
+Curtis A(6), Singh AK(7), Martenson JA Jr(3), Novotny PJ(2), Tan AD(2), Qin 
+R(2), Ko SJ(8), Reiter PL(9), Miller RC(8)(10).
+
+Author information:
+(1)Department of Radiation Oncology, Mayo Clinic Hospital, Phoenix, Arizona.
+(2)Alliance Statistics and Data Center, Mayo Clinic, Rochester, Minnesota.
+(3)Department of Radiation Oncology, Mayo Clinic, Rochester, Minnesota.
+(4)Division of Medical Oncology, Mayo Clinic, Rochester, Minnesota.
+(5)Wichita National Cancer Institute Community Oncology Research Program, 
+Wichita, Kansas.
+(6)Southeast Clinical Oncology Research Consortium National Cancer Institute 
+Community Oncology Research Program, Spartanburg, South Carolina.
+(7)Roswell Park Cancer Institute, Buffalo, New York.
+(8)Department of Radiation Oncology, Mayo Clinic, Jacksonville, Florida.
+(9)Ohio State University Medical Center, Columbus.
+(10)Now with the University of Maryland School of Medicine, Baltimore.
+
+Comment in
+    JAMA. 2019 Apr 16;321(15):1459-1461. doi: 10.1001/jama.2019.3269.
+
+IMPORTANCE: Oral mucositis causes substantial morbidity during head and neck 
+radiotherapy. In a randomized study, doxepin mouthwash was shown to reduce oral 
+mucositis-related pain. A common mouthwash comprising 
+diphenhydramine-lidocaine-antacid is also widely used.
+OBJECTIVE: To evaluate the effect of doxepin mouthwash or 
+diphenhydramine-lidocaine-antacid mouthwash for the treatment of oral 
+mucositis-related pain.
+DESIGN, SETTING, AND PARTICIPANTS: A phase 3 randomized trial was conducted from 
+November 1, 2014, to May 16, 2016, at 30 US institutions and included 275 
+patients who underwent definitive head and neck radiotherapy, had an oral 
+mucositis pain score of 4 points or greater (scale, 0-10), and were followed up 
+for a maximum of 28 days.
+INTERVENTIONS: Ninety-two patients were randomized to doxepin mouthwash (25 mg/5 
+mL water); 91 patients to diphenhydramine-lidocaine-antacid; and 92 patients to 
+placebo.
+MAIN OUTCOME AND MEASURES: The primary end point was total oral mucositis pain 
+reduction (defined by the area under the curve and adjusted for baseline pain 
+score) during the 4 hours after a single dose of doxepin mouthwash or 
+diphenhydramine-lidocaine-antacid mouthwash compared with a single dose of 
+placebo. The minimal clinically important difference was a 3.5-point change. The 
+secondary end points included drowsiness, unpleasant taste, and stinging or 
+burning. All scales ranged from 0 (best) to 10 (worst).
+RESULTS: Among the 275 patients randomized (median age, 61 years; 58 [21%] 
+women), 227 (83%) completed treatment per protocol. Mucositis pain during the 
+first 4 hours decreased by 11.6 points in the doxepin mouthwash group, by 11.7 
+points in the diphenhydramine-lidocaine-antacid mouthwash group, and by 8.7 
+points in the placebo group. The between-group difference was 2.9 points (95% 
+CI, 0.2-6.0; P = .02) for doxepin mouthwash vs placebo and 3.0 points (95% CI, 
+0.1-5.9; P = .004) for diphenhydramine-lidocaine-antacid mouthwash vs placebo. 
+More drowsiness was reported with doxepin mouthwash vs placebo (by 1.5 points 
+[95% CI, 0-4.0]; P = .03), unpleasant taste (by 1.5 points [95% CI, 0-3.0]; 
+P = .002), and stinging or burning (by 4.0 points [95% CI, 2.5-5.0]; P < .001). 
+Maximum grade 3 adverse events for the doxepin mouthwash occurred in 3 patients 
+(4%); diphenhydramine-lidocaine-antacid mouthwash, 3 (4%); and placebo, 2 (2%). 
+Fatigue was reported by 5 patients (6%) in the doxepin mouthwash group and no 
+patients in the diphenhydramine-lidocaine-antacid mouthwash group.
+CONCLUSIONS AND RELEVANCE: Among patients undergoing head and neck radiotherapy, 
+the use of doxepin mouthwash or diphenhydramine-lidocaine-antacid mouthwash vs 
+placebo significantly reduced oral mucositis pain during the first 4 hours after 
+administration; however, the effect size was less than the minimal clinically 
+important difference. Further research is needed to assess longer-term efficacy 
+and safety for both mouthwashes.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02229539.
+
+DOI: 10.1001/jama.2019.3504
+PMCID: PMC6484809
+PMID: 30990550 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Miller 
+reported receiving nonfinancial support from CutisPharma. No other disclosures 
+were reported.

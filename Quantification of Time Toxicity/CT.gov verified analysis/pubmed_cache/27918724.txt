@@ -1,0 +1,56 @@
+14. J Clin Oncol. 2017 Jan;35(1):14-23. doi: 10.1200/JCO.2016.69.2780. Epub 2016
+Oct  28.
+
+Telotristat Ethyl, a Tryptophan Hydroxylase Inhibitor for the Treatment of 
+Carcinoid Syndrome.
+
+Kulke MH(1), Hörsch D(1), Caplin ME(1), Anthony LB(1), Bergsland E(1), Öberg 
+K(1), Welin S(1), Warner RR(1), Lombard-Bohas C(1), Kunz PL(1), Grande E(1), 
+Valle JW(1), Fleming D(1), Lapuerta P(1), Banks P(1), Jackson S(1), Zambrowicz 
+B(1), Sands AT(1), Pavel M(1).
+
+Author information:
+(1)Matthew H. Kulke, Dana-Farber Cancer Institute, Boston; Douglas Fleming, 
+Ipsen Bioscience, Cambridge, MA; Dieter Hörsch, Zentralklinik Bad Berka, Bad 
+Berka; Marianne Pavel, Charité-Universitätsmedizin, Berlin, Germany; Martyn E. 
+Caplin, Royal Free Hospital, London; Juan W. Valle, The University of 
+Manchester-The Christie National Health Service Foundation Trust, Manchester, 
+United Kingdom; Lowell B. Anthony, University of Kentucky, Lexington, KY; Emily 
+Bergsland, University of California at San Francisco Helen Diller Family 
+Comprehensive Cancer Center, San Francisco; Pamela L. Kunz, Stanford University, 
+Palo Alto, CA; Kjell Öberg and Staffan Welin, Uppsala University, Uppsala, 
+Sweden; Richard R.P. Warner, Icahn School of Medicine at Mount Sinai, New York, 
+NY; Catherine Lombard-Bohas, Hôpital Edouard Herriot, Hospices Civils de Lyon, 
+Lyon, France; Pablo Lapuerta, Phillip Banks, Shanna Jackson, Brian Zambrowicz, 
+and Arthur T. Sands, Lexicon Pharmaceuticals, The Woodlands, TX; and Enrique 
+Grande, Hospital Universitario Ramón y Cajal, Madrid, Spain.
+
+Purpose Preliminary studies suggested that telotristat ethyl, a tryptophan 
+hydroxylase inhibitor, reduces bowel movement (BM) frequency in patients with 
+carcinoid syndrome. This placebo-controlled phase III study evaluated 
+telotristat ethyl in this setting. Patients and Methods Patients (N = 135) 
+experiencing four or more BMs per day despite stable-dose somatostatin analog 
+therapy received (1:1:1) placebo, telotristat ethyl 250 mg, or telotristat ethyl 
+500 mg three times per day orally during a 12-week double-blind treatment 
+period. The primary end point was change from baseline in BM frequency. In an 
+open-label extension, 115 patients subsequently received telotristat ethyl 500 
+mg. Results Estimated differences in BM frequency per day versus placebo 
+averaged over 12 weeks were -0.81 for telotristat ethyl 250 mg ( P < .001) and 
+‒0.69 for telotristat ethyl 500 mg ( P < .001). At week 12, mean BM frequency 
+reductions per day for placebo, telotristat ethyl 250 mg, and telotristat ethyl 
+500 mg were -0.9, -1.7, and -2.1, respectively. Responses, predefined as a BM 
+frequency reduction ≥ 30% from baseline for ≥ 50% of the double-blind treatment 
+period, were observed in 20%, 44%, and 42% of patients given placebo, 
+telotristat ethyl 250 mg, and telotristat ethyl 500 mg, respectively. Both 
+telotristat ethyl dosages significantly reduced mean urinary 5-hydroxyindole 
+acetic acid versus placebo at week 12 ( P < .001). Mild nausea and asymptomatic 
+increases in gamma-glutamyl transferase were observed in some patients receiving 
+telotristat ethyl. Follow-up of patients during the open-label extension 
+revealed no new safety signals and suggested sustained BM responses to 
+treatment. Conclusion Among patients with carcinoid syndrome not adequately 
+controlled by somatostatin analogs, treatment with telotristat ethyl was 
+generally safe and well tolerated and resulted in significant reductions in BM 
+frequency and urinary 5-hydroxyindole acetic acid.
+
+DOI: 10.1200/JCO.2016.69.2780
+PMID: 27918724 [Indexed for MEDLINE]

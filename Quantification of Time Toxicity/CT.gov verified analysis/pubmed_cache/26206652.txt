@@ -1,0 +1,61 @@
+1. J Am Coll Surg. 2015 Aug;221(2):591-601. doi:
+10.1016/j.jamcollsurg.2015.03.050.  Epub 2015 Apr 7.
+
+Goal-Directed Fluid Therapy Using Stroke Volume Variation for Resuscitation 
+after Low Central Venous Pressure-Assisted Liver Resection: A Randomized 
+Clinical Trial.
+
+Correa-Gallego C(1), Tan KS(2), Arslan-Carlon V(3), Gonen M(2), Denis SC(1), 
+Langdon-Embry L(1), Grant F(3), Kingham TP(1), DeMatteo RP(1), Allen PJ(1), 
+D'Angelica MI(1), Jarnagin WR(1), Fischer M(4).
+
+Author information:
+(1)Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY.
+(2)Department of Biostatistics, Memorial Sloan Kettering Cancer Center, New 
+York, NY.
+(3)Department of Anesthesiology and Critical Care Medicine, Memorial Sloan 
+Kettering Cancer Center, New York, NY.
+(4)Department of Anesthesiology and Critical Care Medicine, Memorial Sloan 
+Kettering Cancer Center, New York, NY. Electronic address: fischerm@mskcc.org.
+
+Comment in
+    J Am Coll Surg. 2016 Jan;222(1):97. doi: 10.1016/j.jamcollsurg.2015.09.017.
+    J Am Coll Surg. 2016 Jan;222(1):97-8. doi: 
+10.1016/j.jamcollsurg.2015.09.018.
+
+BACKGROUND: The optimal perioperative fluid resuscitation strategy for liver 
+resections remains undefined. Goal-directed therapy (GDT) embodies a number of 
+physiologic strategies to achieve an ideal fluid balance and avoid the 
+consequences of over- or under-resuscitation.
+STUDY DESIGN: In a prospective randomized trial, patients undergoing liver 
+resection were randomized to GDT using stroke volume variation as an end point 
+or to standard perioperative resuscitation. Primary outcomes measure was 30-day 
+morbidity.
+RESULTS: Between 2012 and 2014, one hundred and thirty-five patients were 
+randomized (GDT: n = 69; standard perioperative resuscitation: n = 66). Median 
+age was 57 years and 56% were male. Metastatic disease comprised 81% of 
+patients. Overall (35% GDT vs 36% standard perioperative resuscitation; p = 
+0.86) and grade 3 morbidity (28% GDT vs 18% standard perioperative 
+resuscitation; p = 0.22) were equivalent. Patients in the GDT arm received less 
+intraoperative fluid (mean 2.0 L GDT vs 2.9 L standard perioperative 
+resuscitation; p < 0.001). Perioperative transfusions were required in 4% (6% 
+GDT vs 2% standard perioperative resuscitation; p = 0.37) and boluses in the 
+postanesthesia care unit were administered to 24% (29% GDT vs 20% standard 
+perioperative resuscitation; p = 0.23). Mortality rate was 1% (2 of 135 
+patients; both in GDT). On multivariable analysis, male sex, age, combined 
+procedures, higher intraoperative fluid volume, and fluid boluses in the 
+postanesthesia care unit were associated with higher 30-day morbidity.
+CONCLUSIONS: Stroke volume variation-guided GDT is safe in patients undergoing 
+liver resection and led to less intraoperative fluid. Although the incidence of 
+postoperative complications was similar in both arms, lower intraoperative 
+resuscitation volume was independently associated with decreased postoperative 
+morbidity in the entire cohort. Future studies should target extensive 
+resections and identify patients receiving large resuscitation volumes, as this 
+population is more likely to benefit from this technique.
+
+Copyright © 2015 American College of Surgeons. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.jamcollsurg.2015.03.050
+PMCID: PMC4926263
+PMID: 26206652 [Indexed for MEDLINE]

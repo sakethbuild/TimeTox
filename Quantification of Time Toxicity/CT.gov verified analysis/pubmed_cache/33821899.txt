@@ -1,0 +1,154 @@
+18. JAMA. 2021 Apr 6;325(13):1277-1286. doi: 10.1001/jama.2021.2454.
+
+Effect of Celecoxib vs Placebo Added to Standard Adjuvant Therapy on 
+Disease-Free Survival Among Patients With Stage III Colon Cancer: The CALGB/SWOG 
+80702 (Alliance) Randomized Clinical Trial.
+
+Meyerhardt JA(1), Shi Q(2), Fuchs CS(3), Meyer J(2), Niedzwiecki D(4), Zemla 
+T(2), Kumthekar P(5), Guthrie KA(6), Couture F(7), Kuebler P(8), Bendell JC(9), 
+Kumar P(10), Lewis D(11), Tan B(12), Bertagnolli M(13), Grothey A(14), Hochster 
+HS(15), Goldberg RM(16), Venook A(17), Blanke C(18), O'Reilly EM(19), Shields 
+AF(20).
+
+Author information:
+(1)Department of Medical Oncology, Dana-Farber/Partners CancerCare, Boston, 
+Massachusetts.
+(2)Alliance Statistics and Data Management Center, Mayo Clinic, Rochester, 
+Minnesota.
+(3)Yale Cancer Center, Yale School of Medicine, Smilow Cancer Hospital, New 
+Haven, Connecticut.
+(4)Department of Biostatistics and Bioinformatics, Duke University Medical 
+Center, Durham, North Carolina.
+(5)Feinberg School of Medicine, Northwestern Medicine, Chicago, Illinois.
+(6)SWOG Statistics and Data Management Center, Fred Hutchinson Cancer Research 
+Center, Seattle, Washington.
+(7)Hôtel-Dieu de Québec, Quebec, Canada.
+(8)Columbus NCI Community Oncology Research Program, Columbus, Ohio.
+(9)Sarah Cannon Research Institute/Tennessee Oncology, Nashville.
+(10)Illinois CancerCare PC, Peoria, Illinois.
+(11)Cone Health Medical Group, Asheboro, North Carolina.
+(12)Siteman Cancer Center, Washington University School of Medicine in St Louis, 
+St Louis, Missouri.
+(13)Office of the Alliance Group Chair, Brigham and Women's Hospital, Boston, 
+Massachusetts.
+(14)West Cancer Center & Research Institute, Germantown, Tennessee.
+(15)Rutgers Cancer Institute, New Brunswick, New Jersey.
+(16)West Virginia University Cancer Institute, Morgantown.
+(17)University of California, San Francisco.
+(18)SWOG Cancer Research Network Group Chair's Office, Oregon Health and Science 
+University Knight Cancer Institute.
+(19)Memorial Sloan Kettering Cancer Center, Weill Cornell Medical Center, New 
+York, New York.
+(20)Department of Oncology, Karmanos Cancer Institute, Wayne State University, 
+Detroit, Michigan.
+
+Comment in
+    JAMA. 2021 Apr 6;325(13):1257-1258. doi: 10.1001/jama.2021.2651.
+
+IMPORTANCE: Aspirin and cyclooxygenase 2 (COX-2) inhibitors have been associated 
+with a reduced risk of colorectal polyps and cancer in observational and 
+randomized studies. The effect of celecoxib, a COX-2 inhibitor, as treatment for 
+nonmetastatic colon cancer is unknown.
+OBJECTIVE: To determine if the addition of celecoxib to adjuvant chemotherapy 
+with fluorouracil, leucovorin, and oxaliplatin (FOLFOX) improves disease-free 
+survival in patients with stage III colon cancer.
+DESIGN, SETTING, AND PARTICIPANTS: Cancer and Leukemia Group B 
+(Alliance)/Southwest Oncology Group 80702 was a 2 × 2 factorial design, phase 3 
+trial conducted at 654 community and academic centers throughout the United 
+States and Canada. A total of 2526 patients with stage III colon cancer were 
+enrolled between June 2010 and November 2015 and were followed up through August 
+10, 2020.
+INTERVENTIONS: Patients were randomized to receive adjuvant FOLFOX (every 2 
+weeks) for 3 vs 6 months with or without 3 years of celecoxib (400 mg orally 
+daily; n = 1263) vs placebo (n = 1261). This report focuses on the results of 
+the celecoxib randomization.
+MAIN OUTCOMES AND MEASURES: The primary end point was disease-free survival, 
+measured from the time of randomization until documented recurrence or death 
+from any cause. Secondary end points included overall survival, adverse events, 
+and cardiovascular-specific events.
+RESULTS: Of the 2526 patients who were randomized (mean [SD] age, 61.0 years [11 
+years]; 1134 women [44.9%]), 2524 were included in the primary analysis. 
+Adherence with protocol treatment, defined as receiving celecoxib or placebo for 
+more than 2.75 years or continuing treatment until recurrence, death, or 
+unacceptable adverse events, was 70.8% for patients treated with celecoxib and 
+69.9% for patients treated with placebo. A total of 337 patients randomized to 
+celecoxib and 363 to placebo experienced disease recurrence or died, and with 6 
+years' median follow-up, the 3-year disease-free survival was 76.3% for 
+celecoxib-treated patients vs 73.4% for placebo-treated patients (hazard ratio 
+[HR] for disease recurrence or death, 0.89; 95% CI, 0.76-1.03; P = .12). The 
+effect of celecoxib treatment on disease-free survival did not vary 
+significantly according to assigned duration of adjuvant chemotherapy (P for 
+interaction = .61). Five-year overall survival was 84.3% for celecoxib vs 81.6% 
+for placebo (HR for death, 0.86; 95% CI, 0.72-1.04; P = .13). Hypertension (any 
+grade) occurred while treated with FOLFOX in 14.6% of patients in the celecoxib 
+group vs 10.9% of patients in the placebo group, and a grade 2 or higher 
+increase in creatinine levels occurred after completion of FOLFOX in 1.7% vs 
+0.5% of patients, respectively.
+CONCLUSIONS AND RELEVANCE: Among patients with stage III colon cancer, the 
+addition of celecoxib for 3 years, compared with placebo, to standard adjuvant 
+chemotherapy did not significantly improve disease-free survival.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01150045.
+
+DOI: 10.1001/jama.2021.2454
+PMCID: PMC8025124
+PMID: 33821899 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Meyerhardt 
+reported receiving personal fees from Taiho for grant review for the National 
+Comprehensive Cancer Network, fees for serving on the advisory boards of COTA 
+Healthcare and Ignyta Single, and institutional support from Boston Biomedical 
+for a clinical trial outside the submitted work. Dr Shi reported receiving 
+institutional grant support from Celgen–Bristol Myers Squibb and Roche/Genetech; 
+serving as a consultant to Yiviva Inc and Boehringer Ingelheim Pharmaceuticals; 
+and owning stock in Johnson & Johnson, Merck, and Amgen. Dr Fuchs reported 
+receiving personal fees from Agios, Amylin Pharma, Bain Capital, CytomX 
+Therapeutics, Daiichi-Sankyo, Eli Lilly, Entrinsic Health, Evolveimmune 
+Therapeutics, Genentech, Merck, Taiho, Unum Therapeutics, and Astra-Zeneca; 
+serving as a director for CytomX Therapeutics; owning unexercised stock options 
+for CytomX and Entrinsic Health; being a cofounder of Evolveimmune Therapeutics; 
+and serving as an expert witness for Amylin Pharmaceuticals and Eli Lilly. Dr 
+Kumthekar reported receiving grants from Genentech and Novocure; serving as a 
+consultant for Biocept and Angiochem, being on the advisory board of Orbus 
+Therapeutics; and became an employee of Genetech after the trial’s conclusion. 
+Dr Guthrie reported receiving grants from the National Cancer Institute. Dr 
+Kuebler reported receiving grants from the Columbus National Community Oncology 
+Research Program and the National Institutes of Cancer. Dr Bendell reported 
+receiving institutional grants from Gilead, Genentech/Roche, Bristol Myers 
+Squibb, Five Prime, Lilly Payment, Merck, MedImmune, Celgene, EMD Serono, Taiho, 
+MacroGenics, GlaxoSmithKline, Novartis, OncoMed, LEAP, TG Therapeutics, 
+AstraZeneca, Boehringer Ingelheim, Daiichi Sankyo, Bayer, Incyte, Apexigen, 
+Koltan, SynDevRx, Forty Seven, AbbVie, Array, Onyx, Sanofi, Takeda, Eisai, 
+Celldex, Agios, CytomX, Nektar, ARMO BioSciences, Boston Biomedical, Ipsen, 
+Merrimack, Tarveda Therapeutics, Tyrogenex, OncoGenex, MEI Pharma, Pieris, 
+Mersana, Cailthera Biosciences, Blueprint, Evelo, Forma Therapeutics, Merus, 
+Jacobio, eFFECTOR, NovoCare, Arrys, Tracon, Sierra, Innate, ArchOncology, 
+Prelude Theapeutics, Unum Therapeutics, Vyriad, Harpoon, ADC Therapeutics, 
+Amgen, Pfizer, Millennium, Imclome, Acerta Pharma, Rgenix, Bellicum, Gossamer 
+Bio, Arcus Bio, Seattle Genetics, Tempest Tx, Shattuck Labs, Synthorx Inc, 
+Revolution Medicines, Bicycle Therapeutics, Zymeworks, Relay Therapeutics, 
+AtlasMedx, Scholar Rock, NGM Biopharmaceuticals, Treadwell Therapeutics, IGM 
+Biosciences, MabSpace, Repare Therapeutics, and NeolmmuneTech and other 
+institutional support from Gilead, Genentech/Roche, Bristol Myers Squibb, Five 
+Prime, Lilly, Merck, MedImmune, Celgene, Taiho, MacroGenics, GlaxoSmithKline, 
+Novartis, OncoMed, LEAP, TG Therapeutics, AstraZenca, Boehringer Ingelheim, 
+Daiichi Sankyo, Bayer, Incyte, Apexigen, Array, Sanofi, Agios, ARMO BioSciences, 
+Ispen, OncoGenex, Merrimack, Evelo, Forma Therapeutics, Innate, ArchOncology, 
+Prelude Therapeutics, Amgen, Pfizer, Seattle Genentics, Bicycle Therapeutics, 
+Relay Therapeutics, Phoenix Bio, Cyteir, Molecular Partners, Torque, Tizona, 
+Janssen, Translational Drug Development, Moderna Therapeutics, Tanabe Research 
+Laboratories, Beigene, Continuum Clinical, Piper Biotech, Samsung Bioepios, and 
+Fusion Therapeutics. Dr Bertagnolli reported receiving institutional funding 
+from Pfizer. Dr Goldberg reported receiving grants from the National Cancer 
+Institute to Alliance for the National Clinical Trials Network; travel fees from 
+Amgen; and consulting fees from Taiho, Astra Zeneca, Merck, Novartis, and 
+Genentech. Dr Venook reported receiving grants from the National Institutes of 
+Health. Dr Blanke reported receiving grants from the National Cancer Institute 
+during the conduct of the study. Dr O'Reilly reported receiving institutional 
+grants from Genentech/Roche, Celgene/Bristol Myers Squibb, BioNTech, 
+AstraZeneca, and Arcus; receiving personal fees from CytomX Therapeutics, Rafael 
+Therapeutics, Sobi Consulting, and Synthorx Inc; nonfinancial support from 
+Silenseed Consulting, consulting fees from Boehringer Ingelheim, BioNTech, 
+Ipsen, and Merck; and his spouse receives consulting fees from Bayer, 
+Genentech/Roche, Celgene/Bristol Myers Squibb, Eisai, and Polaris; and personal 
+fees from Molecular Templates Consulting. Dr Shields reported receiving grants 
+from National Cancer Institute. No other disclosures were reported.

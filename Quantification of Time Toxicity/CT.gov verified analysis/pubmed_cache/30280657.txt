@@ -1,0 +1,83 @@
+3. N Engl J Med. 2018 Nov 22;379(21):2027-2039. doi: 10.1056/NEJMoa1810171. Epub 
+2018 Sep 25.
+
+Brigatinib versus Crizotinib in ALK-Positive Non-Small-Cell Lung Cancer.
+
+Camidge DR(1), Kim HR(1), Ahn MJ(1), Yang JC(1), Han JY(1), Lee JS(1), Hochmair 
+MJ(1), Li JY(1), Chang GC(1), Lee KH(1), Gridelli C(1), Delmonte A(1), Garcia 
+Campelo R(1), Kim DW(1), Bearz A(1), Griesinger F(1), Morabito A(1), Felip E(1), 
+Califano R(1), Ghosh S(1), Spira A(1), Gettinger SN(1), Tiseo M(1), Gupta N(1), 
+Haney J(1), Kerstein D(1), Popat S(1).
+
+Author information:
+(1)From the University of Colorado Cancer Center, Aurora (D.R.C.); Division of 
+Medical Oncology, Department of Internal Medicine, Yonsei Cancer Center, Yonsei 
+University College of Medicine (H.R.K.), Samsung Medical Center (M.-J.A.), and 
+Seoul National University Hospital (D.-W.K.), Seoul, National Cancer Center, 
+Goyang (J.-Y.H.), Seoul National University Bundang Hospital, Seongnam 
+(J.-S.L.), and Chungbuk National University Hospital, Chungbuk National 
+University College of Medicine, Cheongju (K.H.L.) - all in South Korea; National 
+Taiwan University Hospital (J.C.-H.Y.) and the Faculty of Medicine, School of 
+Medicine, National Yang-Ming University (G.-C.C.), Taipei, and the Division of 
+Chest Medicine, Department of Internal Medicine, Taichung Veterans General 
+Hospital, Taichung (G.-C.C.) - all in Taiwan; the Ludwig Boltzmann Institute for 
+COPD and Respiratory Epidemiology, Department of Respiratory and Critical Care 
+Medicine, Otto Wagner Hospital, Vienna (M.J.H.); Queen Elizabeth Hospital, 
+Kowloon, Hong Kong (J.Y.-C.L.); Azienda Ospedaliera S. Giuseppe Moscati, 
+Avellino (C.G.), the Scientific Institute of Romagna for the Study and Treatment 
+of Cancer, Meldola (A.D.), Centro di Riferimento Oncologico, Istituto Nazionale 
+Tumori, IRCCS Struttura Operativa Complessa Oncologia Medica A, Aviano (A.B.), 
+Thoracic Medical Oncology, Istituto Nazionale Tumori, IRCCS Fondazione G. 
+Pascale, Naples (A.M.), and the Medical Oncology Unit, University Hospital of 
+Parma, Parma (M.T.) - all in Italy; Complejo Hospitalario Universitario de A 
+Coruña, Coruña (R.G.C.), and Vall d'Hebron University Hospital, Barcelona (E.F.) 
+- both in Spain; the Department of Hematology and Oncology, University 
+Department of Internal Medicine-Oncology, Pius-Hospital Medical Campus, 
+University of Oldenburg, Oldenburg, Germany (F.G.); the Department of Medical 
+Oncology, Christie NHS Foundation Trust, and Division of Cancer Sciences, 
+University of Manchester, Manchester (R.C.), and Guy's and St. Thomas' NHS 
+Foundation Trust (S.G.) and Royal Marsden Hospital and the National Heart and 
+Lung Institute, Imperial College London (S.P.), London - all in the United 
+Kingdom; Virginia Cancer Specialists Research Institute and US Oncology 
+Research, The Woodlands, TX (A.S.); Yale Cancer Center, New Haven, CT (S.N.G.); 
+and Millennium Pharmaceuticals, Cambridge, MA (N.G., J.H., D.K.).
+
+Comment in
+    Nat Rev Clin Oncol. 2018 Dec;15(12):725. doi: 10.1038/s41571-018-0109-9.
+    Transl Lung Cancer Res. 2019 Dec;8(Suppl 4):S378-S382. doi: 
+10.21037/tlcr.2019.04.15.
+
+BACKGROUND: Brigatinib, a next-generation anaplastic lymphoma kinase (ALK) 
+inhibitor, has robust efficacy in patients with ALK-positive non-small-cell lung 
+cancer (NSCLC) that is refractory to crizotinib. The efficacy of brigatinib, as 
+compared with crizotinib, in patients with advanced ALK-positive NSCLC who have 
+not previously received an ALK inhibitor is unclear.
+METHODS: In an open-label, phase 3 trial, we randomly assigned, in a 1:1 ratio, 
+patients with advanced ALK-positive NSCLC who had not previously received ALK 
+inhibitors to receive brigatinib at a dose of 180 mg once daily (with a 7-day 
+lead-in period at 90 mg) or crizotinib at a dose of 250 mg twice daily. The 
+primary end point was progression-free survival as assessed by blinded 
+independent central review. Secondary end points included the objective response 
+rate and intracranial response. The first interim analysis was planned when 
+approximately 50% of 198 expected events of disease progression or death had 
+occurred.
+RESULTS: A total of 275 patients underwent randomization; 137 were assigned to 
+brigatinib and 138 to crizotinib. At the first interim analysis (99 events), the 
+median follow-up was 11.0 months in the brigatinib group and 9.3 months in the 
+crizotinib group. The rate of progression-free survival was higher with 
+brigatinib than with crizotinib (estimated 12-month progression-free survival, 
+67% [95% confidence interval {CI}, 56 to 75] vs. 43% [95% CI, 32 to 53]; hazard 
+ratio for disease progression or death, 0.49 [95% CI, 0.33 to 0.74]; P<0.001 by 
+the log-rank test). The confirmed objective response rate was 71% (95% CI, 62 to 
+78) with brigatinib and 60% (95% CI, 51 to 68) with crizotinib; the confirmed 
+rate of intracranial response among patients with measurable lesions was 78% 
+(95% CI, 52 to 94) and 29% (95% CI, 11 to 52), respectively. No new safety 
+concerns were noted.
+CONCLUSIONS: Among patients with ALK-positive NSCLC who had not previously 
+received an ALK inhibitor, progression-free survival was significantly longer 
+among patients who received brigatinib than among those who received crizotinib. 
+(Funded by Ariad Pharmaceuticals; ALTA-1L ClinicalTrials.gov number, NCT02737501 
+.).
+
+DOI: 10.1056/NEJMoa1810171
+PMID: 30280657 [Indexed for MEDLINE]

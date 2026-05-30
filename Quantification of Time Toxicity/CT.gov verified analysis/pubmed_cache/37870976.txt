@@ -1,0 +1,106 @@
+5. N Engl J Med. 2023 Nov 30;389(22):2039-2051. doi: 10.1056/NEJMoa2306441. Epub 
+2023 Oct 21.
+
+Amivantamab plus Chemotherapy in NSCLC with EGFR Exon 20 Insertions.
+
+Zhou C(1), Tang KJ(1), Cho BC(1), Liu B(1), Paz-Ares L(1), Cheng S(1), Kitazono 
+S(1), Thiagarajan M(1), Goldman JW(1), Sabari JK(1), Sanborn RE(1), Mansfield 
+AS(1), Hung JY(1), Boyer M(1), Popat S(1), Mourão Dias J(1), Felip E(1), Majem 
+M(1), Gumus M(1), Kim SW(1), Ono A(1), Xie J(1), Bhattacharya A(1), Agrawal 
+T(1), Shreeve SM(1), Knoblauch RE(1), Park K(1), Girard N(1); PAPILLON 
+Investigators.
+
+Collaborators: Aguilar A, Alatorre JA, Alip A, Ardizzoni A, Arrieta OG, Azevedo 
+I, Azuma K, Baldotto C, Barroso A, Batra U, Bernabe Caro R, Bilici A, Biswas B, 
+Bowyer S, Boyer M, Bozorgmehr F, Bria E, Carcereny Costa E, Chang GC, Chen Y, 
+Chen J, Cheng S, Cho BC, Cicin I, Cil T, Cortot A, Oliveira SCS, Danchaivijitr 
+P, De Castro J, De Castro Junior G, Delmonte A, Dooms C, Duruisseaux M, 
+Dziadziuszko R, Fang Y, Felip E, Fernández Sanmamed M, Fujimoto D, Del Rosario 
+Garcia Campelo M, Garrido P, Gelatti AC, Girard N, Goldman J, Goldschmidt J, 
+Griesinger F, Gumus M, Guo Z, Hang X, Hataji O, Hayashi H, Hu Y, Hung JY, Isla 
+D, Jain M, Kawamura T, Kendall SD, Kim C, Kim YJ, Kim SW, Kislov N, Kitazono S, 
+Kowalski D, Lee KY, Lee SH, Lee YJ, Lee YG, Li W, Lim CS, Liu Z, Liu C, Liu B, 
+Lu S, Lv D, Mohan MVTK, Majem M, Matsumoto S, Merimsky O, Mourao Dias J, 
+Nagarkar R, Nagasaka M, Nagashima H, Nechushtan H, Noronha V, Ocak S, Ogliari F, 
+Oki M, Ono A, Ostoros G, Owen S, Ozyilkan O, Paz-Ares Rodriguez L, Peled N, 
+Ponomarenko D, Popat S, Powell S, Prasongsook N, Proto C, Ramos Garcia I, 
+Richardson G, Sabari J, Santos V, Sato Y, Sendur MAN, Shen H, Shu C, Silva Melo 
+Cruz FJ, Hoo HFS, Soto Parra HJ, Spira A, Stewart D, Stroyakovskiy D, Sun P, 
+Tanaka H, Tang KJ, Teixeira E, Thiagarajan M, Veillon R, Wang H, Wang D, 
+Watanabe N, Wu L, Xu Y, Yao Y, Yazici O, Yokoyama T, Yoshioka H, Zhao Y, Zhao J, 
+Zhou C, Zhou J, Zurawski B.
+
+Author information:
+(1)From Shanghai Pulmonary Hospital, Tongji University School of Medicine, 
+Shanghai (C.Z.), the Division of Pulmonary and Critical Care Medicine, First 
+Affiliated Hospital of Sun Yat-sen University, Guangzhou (K.-J.T.), and Harbin 
+Medical University Cancer Hospital, Harbin (B.L.) - all in China; the Division 
+of Medical Oncology, Yonsei Cancer Center, Yonsei University College of Medicine 
+(B.C.C.), Asan Medical Center, University of Ulsan College of Medicine (S. Kim), 
+and Samsung Medical Center, Sungkyunkwan University School of Medicine (K.P.) - 
+all in Seoul, South Korea; Hospital Universitario 12 de Octubre, Madrid 
+(L.P.-A.), and Vall d'Hebron University Hospital and Vall d'Hebron Institute of 
+Oncology (E.F.) and Hospital de la Santa Creu I Sant Pau (M.M.), Barcelona - all 
+in Spain; Sunnybrook Odette Cancer Centre, Toronto (S.C.); Cancer Institute 
+Hospital, Japanese Foundation for Cancer Research, Tokyo (S. Kitazono), and 
+Shizuoka Cancer Center, Shizuoka (A.O.) - both in Japan; General Hospital Kuala 
+Lumpur, Kuala Lumpur, Malaysia (M.T.); David Geffen School of Medicine, 
+University of California, Los Angeles, Los Angeles (J.W.G.), and Janssen 
+Research and Development, San Diego (S.M.S.) - both in California; NYU Langone 
+Health, New York (J.K.S.); Earle A. Chiles Research Institute, Providence Cancer 
+Institute of Oregon, Portland (R.E.S.); Mayo Clinic, Rochester, MN (A.S.M.); the 
+Department of Internal Medicine, Kaohsiung Medical University Hospital, 
+Kaohsiung Medical University, Kaohsiung, Taiwan (J.-Y.H.); Chris O'Brien 
+Lifehouse, Camperdown, NSW, Australia (M.B.); Royal Marsden Hospital NHS 
+Foundation Trust and the Institute of Cancer Research, London (S.P.), and 
+Janssen Research and Development, High Wycombe (A.B.) - both in the United 
+Kingdom; Barretos Cancer Hospital, Barretos, Brazil (J.M.D.); Istanbul Medeniyet 
+University, Prof. Dr. Suleyman Yalcin City Hospital, Istanbul, Turkey (M.G.); 
+Janssen Research and Development, Raritan, NJ (J.X.); Janssen Research and 
+Development, Spring House, PA (T.A., R.E.K.); and Institut Curie, Institut du 
+Thorax Curie-Montsouris, Paris, and Paris Saclay University, Université de 
+Versailles Saint-Quentin-en-Yvelines, Versailles - both in France (N.G.).
+
+Comment in
+    Cancer Discov. 2023 Dec 12;13(12):OF9. doi: 
+10.1158/2159-8290.CD-ND2023-0012.
+    N Engl J Med. 2024 Feb 8;390(6):578-579. doi: 10.1056/NEJMc2314937.
+    N Engl J Med. 2024 Feb 8;390(6):579-580. doi: 10.1056/NEJMc2314937.
+
+BACKGROUND: Amivantamab has been approved for the treatment of patients with 
+advanced non-small-cell lung cancer (NSCLC) with epidermal growth factor 
+receptor (EGFR) exon 20 insertions who have had disease progression during or 
+after platinum-based chemotherapy. Phase 1 data showed the safety and antitumor 
+activity of amivantamab plus carboplatin-pemetrexed (chemotherapy). Additional 
+data on this combination therapy are needed.
+METHODS: In this phase 3, international, randomized trial, we assigned in a 1:1 
+ratio patients with advanced NSCLC with EGFR exon 20 insertions who had not 
+received previous systemic therapy to receive intravenous amivantamab plus 
+chemotherapy (amivantamab-chemotherapy) or chemotherapy alone. The primary 
+outcome was progression-free survival according to blinded independent central 
+review. Patients in the chemotherapy group who had disease progression were 
+allowed to cross over to receive amivantamab monotherapy.
+RESULTS: A total of 308 patients underwent randomization (153 to receive 
+amivantamab-chemotherapy and 155 to receive chemotherapy alone). 
+Progression-free survival was significantly longer in the 
+amivantamab-chemotherapy group than in the chemotherapy group (median, 11.4 
+months and 6.7 months, respectively; hazard ratio for disease progression or 
+death, 0.40; 95% confidence interval [CI], 0.30 to 0.53; P<0.001). At 18 months, 
+progression-free survival was reported in 31% of the patients in the 
+amivantamab-chemotherapy group and in 3% in the chemotherapy group; a complete 
+or partial response at data cutoff was reported in 73% and 47%, respectively 
+(rate ratio, 1.50; 95% CI, 1.32 to 1.68; P<0.001). In the interim overall 
+survival analysis (33% maturity), the hazard ratio for death for 
+amivantamab-chemotherapy as compared with chemotherapy was 0.67 (95% CI, 0.42 to 
+1.09; P = 0.11). The predominant adverse events associated with 
+amivantamab-chemotherapy were reversible hematologic and EGFR-related toxic 
+effects; 7% of patients discontinued amivantamab owing to adverse reactions.
+CONCLUSIONS: The use of amivantamab-chemotherapy resulted in superior efficacy 
+as compared with chemotherapy alone as first-line treatment of patients with 
+advanced NSCLC with EGFR exon 20 insertions. (Funded by Janssen Research and 
+Development; PAPILLON ClinicalTrials.gov number, NCT04538664.).
+
+Copyright © 2023 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2306441
+PMID: 37870976 [Indexed for MEDLINE]

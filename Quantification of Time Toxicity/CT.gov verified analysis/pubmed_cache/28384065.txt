@@ -1,0 +1,53 @@
+19. J Clin Oncol. 2017 May 20;35(15):1695-1703. doi: 10.1200/JCO.2016.70.4072.
+Epub  2017 Apr 6.
+
+Phase III Prospective Randomized Comparison Trial of Depot Octreotide Plus 
+Interferon Alfa-2b Versus Depot Octreotide Plus Bevacizumab in Patients With 
+Advanced Carcinoid Tumors: SWOG S0518.
+
+Yao JC(1), Guthrie KA(1), Moran C(1), Strosberg JR(1), Kulke MH(1), Chan JA(1), 
+LoConte N(1), McWilliams RR(1), Wolin EM(1), Mattar B(1), McDonough S(1), Chen 
+H(1), Blanke CD(1), Hochster HS(1).
+
+Author information:
+(1)James C. Yao and Cesar Moran, MD Anderson Cancer Center, Houston, TX; 
+Katherine A. Guthrie and Shannon McDonough, Fred Hutchinson Cancer Research 
+Center, Seattle, WA; Jonathan R. Strosberg, H. Lee Moffitt Cancer Center, Tampa, 
+FL; Matthew H. Kulke and Jennifer A. Chan, Dana Farber Cancer Institute, Boston, 
+MA; Noelle LoConte, University of Wisconsin, Carbone Cancer Center, Madison, WI; 
+Robert R. McWilliams, Mayo Clinic College of Medicine, Rochester, MN; Edward M. 
+Wolin, University of Kentucky, Lexington, KY; Edward M. Wolin, Montifiore 
+Einstein Cancer Center, New York, NY; Bassam Mattar, Wichita NCORP/Cancer Center 
+of Kansas, Wichita, KS; Helen Chen, NCI Cancer Therapy Evaluation Program, 
+Bethesda, MD; Charles D. Blanke, Oregon Health & Science University, Portland, 
+OR; and Howard S. Hochster, Yale Cancer Center, New Haven, CT.
+
+Purpose Treatment options for neuroendocrine tumors (NETs) remain limited. This 
+trial assessed the progression-free survival (PFS) of bevacizumab or interferon 
+alfa-2b (IFN-α-2b) added to octreotide among patients with advanced NETs. 
+Patients and Methods Southwest Oncology Group (SWOG) S0518, a phase III study 
+conducted in a US cooperative group system, enrolled patients with advanced 
+grades 1 and 2 NETs with progressive disease or other poor prognostic features. 
+Patients were randomly assigned to treatment with octreotide LAR 20 mg every 21 
+days with either bevacizumab 15 mg/kg every 21 days or 5 million units of 
+IFN-α-2b three times per week. The primary end point was centrally assessed PFS. 
+This trial is registered with ClinicalTrials.gov as NCT00569127. Results A total 
+of 427 patients was enrolled, of whom 214 were allocated to bevacizumab and 213 
+to IFN-α-2b. The median PFS by central review was 16.6 months (95% CI, 12.9 to 
+19.6 months) in the bevacizumab arm and was 15.4 months (95% CI, 9.6 to 18.6 
+months) in the IFN arm (hazard ratio [HR], 0.93; 95% CI, 0.73 to 1.18; P = .55). 
+By site review, the median PFS times were 15.4 months (95% CI, 12.6 to 17.2 
+months) for bevacizumab and 10.6 months (95% CI, 8.5 to 14.4 months) for 
+interferon (HR, 0.90; 95% CI, 0.72 to 1.12; P = .33). Time to treatment failure 
+was longer with bevacizumab than with IFN (HR, 0.72; 95% CI, 0.58 to 0.89; P = 
+.003). Confirmed radiologic response rates were 12% (95% CI, 8% to 18%) for 
+bevacizumab and 4% (95% CI, 2% to 8%) for IFN. Common adverse events with 
+bevacizumab and octreotide included hypertension (32%), proteinuria (9%), and 
+fatigue (7%); with IFN and octreotide, they included fatigue (27%), neutropenia 
+(12%), and nausea (6%). Conclusion No significant differences in PFS were 
+observed between the bevacizumab and IFN arms, which suggests that these agents 
+have similar antitumor activity among patients with advanced NETs.
+
+DOI: 10.1200/JCO.2016.70.4072
+PMCID: PMC5455764
+PMID: 28384065 [Indexed for MEDLINE]

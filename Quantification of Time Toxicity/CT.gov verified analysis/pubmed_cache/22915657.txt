@@ -1,0 +1,48 @@
+19. J Clin Oncol. 2012 Sep 20;30(27):3389-95. doi: 10.1200/JCO.2011.39.8123. Epub
+ 2012 Aug 20.
+
+Prevention of delayed nausea: a University of Rochester Cancer Center Community 
+Clinical Oncology Program study of patients receiving chemotherapy.
+
+Roscoe JA(1), Heckler CE, Morrow GR, Mohile SG, Dakhil SR, Wade JL, Kuebler JP.
+
+Author information:
+(1)University of Rochester Cancer Center Community Clinical Oncology Program 
+Research Base, University of Rochester Medical Center, Rochester, NY 14642, USA. 
+Joseph_Roscoe@urmc.rochester.edu
+
+Comment in
+    J Clin Oncol. 2013 Apr 1;31(10):1377-8. doi: 10.1200/JCO.2012.47.2951.
+    J Clin Oncol. 2013 Apr 1;31(10):1376-7. doi: 10.1200/JCO.2012.47.2209.
+    J Clin Oncol. 2013 Apr 1;31(10):1378-9. doi: 10.1200/JCO.2012.47.7216.
+
+PURPOSE: We conducted a double-blind randomized clinical trial of the following 
+four regimens for controlling delayed nausea (DN): group 1: palonosetron + 
+dexamethasone on day 1 with prochlorperazine on days 2 and 3; group 2: 
+granisetron + dexamethasone on day 1 with prochlorperazine on days 2 and 3; 
+group 3: aprepitant + palonosetron + dexamethasone on day 1 with aprepitant + 
+dexamethasone on days 2 and 3; and group 4: palonosetron + dexamethasone on day 
+1 with prochlorperazine + dexamethasone on days 2 and 3.
+PATIENTS AND METHODS: Chemotherapy-naive patients received doxorubicin, 
+epirubicin, cisplatin, carboplatin, or oxaliplatin. The primary end point was 
+average nausea assessed four times daily on days 2 and 3. Primary analyses were 
+whether nausea control would be improved by using palonosetron versus 
+granisetron on day 1 (group 1 v group 2); by adding dexamethasone on days 2 and 
+3 (group 1 v group 4); and by using aprepitant versus prochlorperazine (group 3 
+v group 4). Statistical significance was set at P = .017.
+RESULTS: Two hundred thirty-four, 234, 241, and 235 evaluable patients were 
+accrued to groups 1, 2, 3, and 4, respectively. Adjusted mean differences for 
+the three planned analyses were as follows: palonosetron versus granisetron: 
+-0.01 (95% CI, -0.23 to 0.20; P = .72); adding dexamethasone on days 2 and 3: 
+0.20 (95% CI, -0.02 to 0.41; P = .01); and using aprepitant versus 
+prochlorperazine: -0.03 (95% CI, -0.24 to 0.19; P = .56).
+CONCLUSION: The addition of dexamethasone on days 2 and 3 reduced DN. 
+Palonosetron and granisetron have similar effects on DN. The beneficial effect 
+of adding aprepitant for control of DN was the same as adding prochlorperazine.
+
+DOI: 10.1200/JCO.2011.39.8123
+PMCID: PMC3438235
+PMID: 22915657 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

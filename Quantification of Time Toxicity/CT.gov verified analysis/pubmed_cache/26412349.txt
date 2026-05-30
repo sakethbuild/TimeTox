@@ -1,0 +1,85 @@
+3. N Engl J Med. 2015 Nov 19;373(21):2005-14. doi: 10.1056/NEJMoa1510764. Epub
+2015  Sep 27.
+
+Prospective Validation of a 21-Gene Expression Assay in Breast Cancer.
+
+Sparano JA(1), Gray RJ, Makower DF, Pritchard KI, Albain KS, Hayes DF, Geyer CE 
+Jr, Dees EC, Perez EA, Olson JA Jr, Zujewski J, Lively T, Badve SS, Saphner TJ, 
+Wagner LI, Whelan TJ, Ellis MJ, Paik S, Wood WC, Ravdin P, Keane MM, Gomez 
+Moreno HL, Reddy PS, Goggins TF, Mayer IA, Brufsky AM, Toppmeyer DL, Kaklamani 
+VG, Atkins JN, Berenberg JL, Sledge GW.
+
+Author information:
+(1)From the Montefiore Medical Center, Albert Einstein College of Medicine, 
+Bronx, NY (J.A.S., D.F.M.); Dana-Farber Cancer Institute, Boston (R.J.G.); 
+Sunnybrook Research Institute, Toronto (K.I.P.) and Juravinski Cancer Center, 
+Hamilton, ON (T.J.W.) - both in Canada; Loyola University Medical Center, 
+Maywood (K.S.A.), and Northwestern University, Chicago (L.I.W., V.G.K.) - both 
+in Illinois; University of Michigan, Ann Arbor (D.F.H.); Virginia Commonwealth 
+University School of Medicine and the Massey Cancer Center, Richmond (C.E.G.); 
+University of North Carolina, Chapel Hill (E.C.D.), Duke University Medical 
+Center, Durham (J.A.O.), Wake Forest University Health Service, Winston-Salem 
+(L.I.W.), and Southeast Clinical Oncology Research Consortium, Goldsboro 
+(J.N.A.) - all in North Carolina; Mayo Clinic, Jacksonville, FL (E.A.P.); 
+University of Maryland School of Medicine, Baltimore (J.A.O.), and National 
+Institutes of Health, Bethesda (J.Z., T.L.) - both in Maryland; Indiana 
+University School of Medicine (S.S.B.) and Indiana University Hospital (G.W.S.) 
+- both in Indianapolis; Vince Lombardi Cancer Clinic, Two Rivers (T.J.S.), and 
+Fox Valley Hematology and Oncology, Appleton (T.F.G.) - both in Wisconsin; 
+Baylor College of Medicine, Houston (M.J.E.), and University of Texas, San 
+Antonio (P.R.) - both in Texas; Washington University, St. Louis (M.J.E.); 
+Allegheny General Hospital (S.P.) and University of Pittsburgh (A.M.B.) - both 
+in Pittsburgh; the Department of Medical Oncology and Breast Center, Yonsei 
+University College of Medicine, Seoul, South Korea (S.P.); Emory University, 
+Atlanta (W.C.W.); Irish Clinical Oncology Research Group, Dublin (M.M.K.); 
+Instituto Nacional de Enfermedades Neoplásicas, Lima, Peru (H.L.G.M.); Cancer 
+Center of Kansas, Wichita (P.S.R.); Vanderbilt University, Nashville (I.A.M.); 
+Rutgers Cancer Institute of New Jersey, New Brunswick (D.L.T.); University of 
+Hawaii Cancer Center, Honolulu (J.L.B.); and Stanford University, Stanford, CA 
+(G.W.S.)
+
+Comment in
+    N Engl J Med. 2015 Nov 19;373(21):2079-80. doi: 10.1056/NEJMe1512092.
+    N Engl J Med. 2016 Apr 7;374(14):1387. doi: 10.1056/NEJMc1515988.
+    N Engl J Med. 2016 Apr 7;374(14):1385-6. doi: 10.1056/NEJMc1515988.
+    N Engl J Med. 2016 Apr 7;374(14):1386-7. doi: 10.1056/NEJMc1515988.
+
+BACKGROUND: Prior studies with the use of a prospective-retrospective design 
+including archival tumor samples have shown that gene-expression assays provide 
+clinically useful prognostic information. However, a prospectively conducted 
+study in a uniformly treated population provides the highest level of evidence 
+supporting the clinical validity and usefulness of a biomarker.
+METHODS: We performed a prospective trial involving women with 
+hormone-receptor-positive, human epidermal growth factor receptor type 2 
+(HER2)-negative, axillary node-negative breast cancer with tumors of 1.1 to 5.0 
+cm in the greatest dimension (or 0.6 to 1.0 cm in the greatest dimension and 
+intermediate or high tumor grade) who met established guidelines for the 
+consideration of adjuvant chemotherapy on the basis of clinicopathologic 
+features. A reverse-transcriptase-polymerase-chain-reaction assay of 21 genes 
+was performed on the paraffin-embedded tumor tissue, and the results were used 
+to calculate a score indicating the risk of breast-cancer recurrence; patients 
+were assigned to receive endocrine therapy without chemotherapy if they had a 
+recurrence score of 0 to 10, indicating a very low risk of recurrence (on a 
+scale of 0 to 100, with higher scores indicating a greater risk of recurrence).
+RESULTS: Of the 10,253 eligible women enrolled, 1626 women (15.9%) who had a 
+recurrence score of 0 to 10 were assigned to receive endocrine therapy alone 
+without chemotherapy. At 5 years, in this patient population, the rate of 
+invasive disease-free survival was 93.8% (95% confidence interval [CI], 92.4 to 
+94.9), the rate of freedom from recurrence of breast cancer at a distant site 
+was 99.3% (95% CI, 98.7 to 99.6), the rate of freedom from recurrence of breast 
+cancer at a distant or local-regional site was 98.7% (95% CI, 97.9 to 99.2), and 
+the rate of overall survival was 98.0% (95% CI, 97.1 to 98.6).
+CONCLUSIONS: Among patients with hormone-receptor-positive, HER2-negative, 
+axillary node-negative breast cancer who met established guidelines for the 
+recommendation of adjuvant chemotherapy on the basis of clinicopathologic 
+features, those with tumors that had a favorable gene-expression profile had 
+very low rates of recurrence at 5 years with endocrine therapy alone. (Funded by 
+the National Cancer Institute and others; ClinicalTrials.gov number, 
+NCT00310180.).
+
+DOI: 10.1056/NEJMoa1510764
+PMCID: PMC4701034
+PMID: 26412349 [Indexed for MEDLINE]
+
+Conflict of interest statement: No other potential conflict of interest relevant 
+to this article was reported.

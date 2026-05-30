@@ -1,0 +1,64 @@
+16. N Engl J Med. 2014 Feb 20;370(8):734-43. doi: 10.1056/NEJMoa1309748.
+
+Improved survival with bevacizumab in advanced cervical cancer.
+
+Tewari KS(1), Sill MW, Long HJ 3rd, Penson RT, Huang H, Ramondetta LM, Landrum 
+LM, Oaknin A, Reid TJ, Leitao MM, Michael HE, Monk BJ.
+
+Author information:
+(1)From the University of California, Irvine, Medical Center, Orange (K.S.T.); 
+Roswell Park Cancer Institute, State University of New York at Buffalo, Buffalo 
+(M.W.S., H.H.); Mayo Clinic, Rochester, MN (H.J.L.); Massachusetts General 
+Hospital, Boston (R.T.P.); M.D. Anderson Cancer Center, Houston (L.M.R.); 
+University of Oklahoma, Oklahoma City (L.M.L.); Vall d'Hebron University 
+Hospital, Barcelona (A.O.); University of Cincinnati College of Medicine-Women's 
+Cancer Center at Kettering, Kettering, OH (T.J.R.); Memorial Sloan-Kettering 
+Cancer Center, New York (M.M.L.); Indiana University School of Medicine, 
+Indianapolis (H.E.M.); and the University of Arizona Cancer Center and Creighton 
+University at St. Joseph's Hospital and Medical Center, Phoenix (B.J.M.).
+
+Erratum in
+    N Engl J Med. 2017 Aug 17;377(7):702. doi: 10.1056/NEJMx170002.
+
+Comment in
+    Nat Rev Clin Oncol. 2014 May;11(5):243-4. doi: 10.1038/nrclinonc.2014.61.
+    Cancer Biol Ther. 2015;16(2):187-8. doi: 10.1080/15384047.2014.1002368.
+
+BACKGROUND: Vascular endothelial growth factor (VEGF) promotes angiogenesis, a 
+mediator of disease progression in cervical cancer. Bevacizumab, a humanized 
+anti-VEGF monoclonal antibody, has single-agent activity in previously treated, 
+recurrent disease. Most patients in whom recurrent cervical cancer develops have 
+previously received cisplatin with radiation therapy, which reduces the 
+effectiveness of cisplatin at the time of recurrence. We evaluated the 
+effectiveness of bevacizumab and nonplatinum combination chemotherapy in 
+patients with recurrent, persistent, or metastatic cervical cancer.
+METHODS: Using a 2-by-2 factorial design, we randomly assigned 452 patients to 
+chemotherapy with or without bevacizumab at a dose of 15 mg per kilogram of body 
+weight. Chemotherapy consisted of cisplatin at a dose of 50 mg per square meter 
+of body-surface area, plus paclitaxel at a dose of 135 or 175 mg per square 
+meter or topotecan at a dose of 0.75 mg per square meter on days 1 to 3, plus 
+paclitaxel at a dose of 175 mg per square meter on day 1. Cycles were repeated 
+every 21 days until disease progression, the development of unacceptable toxic 
+effects, or a complete response was documented. The primary end point was 
+overall survival; a reduction of 30% in the hazard ratio for death was 
+considered clinically important.
+RESULTS: Groups were well balanced with respect to age, histologic findings, 
+performance status, previous use or nonuse of a radiosensitizing platinum agent, 
+and disease status. Topotecan-paclitaxel was not superior to 
+cisplatin-paclitaxel (hazard ratio for death, 1.20). With the data for the two 
+chemotherapy regimens combined, the addition of bevacizumab to chemotherapy was 
+associated with increased overall survival (17.0 months vs. 13.3 months; hazard 
+ratio for death, 0.71; 98% confidence interval, 0.54 to 0.95; P=0.004 in a 
+one-sided test) and higher response rates (48% vs. 36%, P=0.008). Bevacizumab, 
+as compared with chemotherapy alone, was associated with an increased incidence 
+of hypertension of grade 2 or higher (25% vs. 2%), thromboembolic events of 
+grade 3 or higher (8% vs. 1%), and gastrointestinal fistulas of grade 3 or 
+higher (3% vs. 0%).
+CONCLUSIONS: The addition of bevacizumab to combination chemotherapy in patients 
+with recurrent, persistent, or metastatic cervical cancer was associated with an 
+improvement of 3.7 months in median overall survival. (Funded by the National 
+Cancer Institute; GOG 240 ClinicalTrials.gov number, NCT00803062.).
+
+DOI: 10.1056/NEJMoa1309748
+PMCID: PMC4010094
+PMID: 24552320 [Indexed for MEDLINE]

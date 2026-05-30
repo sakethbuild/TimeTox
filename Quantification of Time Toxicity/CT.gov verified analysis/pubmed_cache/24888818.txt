@@ -1,0 +1,72 @@
+19. J Clin Oncol. 2014 Nov 1;32(31):3483-9. doi: 10.1200/JCO.2014.56.2561. Epub
+2014  Jun 2.
+
+Circulating tumor cells and response to chemotherapy in metastatic breast 
+cancer: SWOG S0500.
+
+Smerage JB(1), Barlow WE(1), Hortobagyi GN(1), Winer EP(1), Leyland-Jones B(1), 
+Srkalovic G(1), Tejwani S(1), Schott AF(1), O'Rourke MA(1), Lew DL(1), Doyle 
+GV(1), Gralow JR(1), Livingston RB(1), Hayes DF(2).
+
+Author information:
+(1)Jeffrey B. Smerage, Anne F. Schott, and Daniel F. Hayes, University of 
+Michigan Comprehensive Cancer Center, Ann Arbor; Gordan Srkalovic, Sparrow 
+Regional Cancer Center, Lansing; Sheela Tejwani, Henry Ford Hospital, Detroit, 
+MI; William E. Barlow and Danika L. Lew, SWOG Statistical Center; Julie R. 
+Gralow, Seattle Cancer Care Alliance, Seattle, WA; Gabriel N. Hortobagyi, 
+University of Texas MD Anderson Cancer Center, Houston, TX; Eric P. Winer, 
+Dana-Farber Cancer Institute, Boston, MA; Brian Leyland-Jones, Avera Cancer 
+Institute, Sioux Falls, SD; Mark A. O'Rourke, Greenville Health System Cancer 
+Institute/Greenville Community Clinical Oncology Program, Greenville, SC; Gerald 
+V. Doyle, Immunicon, Huntingdon Valley, PA; and Robert B. Livingston, University 
+of Arizona Cancer Center, Tucson, AZ.
+(2)Jeffrey B. Smerage, Anne F. Schott, and Daniel F. Hayes, University of 
+Michigan Comprehensive Cancer Center, Ann Arbor; Gordan Srkalovic, Sparrow 
+Regional Cancer Center, Lansing; Sheela Tejwani, Henry Ford Hospital, Detroit, 
+MI; William E. Barlow and Danika L. Lew, SWOG Statistical Center; Julie R. 
+Gralow, Seattle Cancer Care Alliance, Seattle, WA; Gabriel N. Hortobagyi, 
+University of Texas MD Anderson Cancer Center, Houston, TX; Eric P. Winer, 
+Dana-Farber Cancer Institute, Boston, MA; Brian Leyland-Jones, Avera Cancer 
+Institute, Sioux Falls, SD; Mark A. O'Rourke, Greenville Health System Cancer 
+Institute/Greenville Community Clinical Oncology Program, Greenville, SC; Gerald 
+V. Doyle, Immunicon, Huntingdon Valley, PA; and Robert B. Livingston, University 
+of Arizona Cancer Center, Tucson, AZ. hayesdf@umich.edu.
+
+Comment in
+    J Clin Oncol. 2014 Nov 1;32(31):3470-1. doi: 10.1200/JCO.2014.57.1505.
+    J Clin Oncol. 2015 May 10;33(14):1623. doi: 10.1200/JCO.2014.60.5519.
+    J Clin Oncol. 2015 May 10;33(14):1622. doi: 10.1200/JCO.2014.57.9714.
+
+PURPOSE: Increased circulating tumor cells (CTCs; five or more CTCs per 7.5 mL 
+of whole blood) are associated with poor prognosis in metastatic breast cancer 
+(MBC). A randomized trial of patients with persistent increase in CTCs tested 
+whether changing chemotherapy after one cycle of first-line chemotherapy would 
+improve the primary outcome of overall survival (OS).
+PATIENTS AND METHODS: Patients with MBC who did not have increased CTCs at 
+baseline remained on initial therapy until progression (arm A). Patients with 
+initially increased CTCs that decreased after 21 days of therapy remained on 
+initial therapy (arm B). Patients with persistently increased CTCs after 21 days 
+of therapy were randomly assigned to continue initial therapy (arm C1) or change 
+to an alternative chemotherapy (arm C2).
+RESULTS: Of 595 eligible and evaluable patients, 276 (46%) did not have 
+increased CTCs (arm A). Of those with initially increased CTCs, 31 (10%) were 
+not retested, 165 were assigned to arm B, and 123 were randomly assigned to arm 
+C1 or C2. No difference in median OS was observed between arm C1 and C2 (10.7 
+and 12.5 months, respectively; P = .98). CTCs were strongly prognostic. Median 
+OS for arms A, B, and C (C1 and C2 combined) were 35 months, 23 months, and 13 
+months, respectively (P < .001).
+CONCLUSION: This study confirms the prognostic significance of CTCs in patients 
+with MBC receiving first-line chemotherapy. For patients with persistently 
+increased CTCs after 21 days of first-line chemotherapy, early switching to an 
+alternate cytotoxic therapy was not effective in prolonging OS. For this 
+population, there is a need for more effective treatment than standard 
+chemotherapy.
+
+© 2014 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2014.56.2561
+PMCID: PMC4209100
+PMID: 24888818 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

@@ -1,0 +1,73 @@
+7. N Engl J Med. 2018 Dec 27;379(26):2517-2528. doi: 10.1056/NEJMoa1812836. Epub 
+2018 Dec 1.
+
+Ibrutinib Regimens versus Chemoimmunotherapy in Older Patients with Untreated 
+CLL.
+
+Woyach JA(1), Ruppert AS(1), Heerema NA(1), Zhao W(1), Booth AM(1), Ding W(1), 
+Bartlett NL(1), Brander DM(1), Barr PM(1), Rogers KA(1), Parikh SA(1), Coutre 
+S(1), Hurria A(1), Brown JR(1), Lozanski G(1), Blachly JS(1), Ozer HG(1), 
+Major-Elechi B(1), Fruth B(1), Nattam S(1), Larson RA(1), Erba H(1), Litzow 
+M(1), Owen C(1), Kuzma C(1), Abramson JS(1), Little RF(1), Smith SE(1), Stone 
+RM(1), Mandrekar SJ(1), Byrd JC(1).
+
+Author information:
+(1)From Ohio State University Comprehensive Cancer Center, Columbus (J.A.W., 
+A.S.R., N.A.H., W.Z., K.A.R., G.L., J.S.B., H.G.O., J.C.B.); the Alliance 
+Statistics and Data Center (A.S.R., A.M.B., B.M.-E., B.F., S.J.M.), Mayo Clinic 
+(W.D., S.A.P., M.L.), Rochester, MN; Washington University School of Medicine, 
+St. Louis (N.L.B.); Duke Cancer Institute, Duke University Medical Center, 
+Durham (D.M.B., H.E.), and First Health of the Carolinas Cancer Center, 
+Pinehurst (C.K.) - both in North Carolina; the University of Rochester Medical 
+Center, Rochester, NY (P.M.B.); Stanford University School of Medicine, Stanford 
+(S.C.), and the City of Hope Comprehensive Cancer Center, Duarte (A.H.) - both 
+in California; Dana-Farber Partners CancerCare (J.R.B., R.M.S.) and the 
+Massachusetts General Hospital Cancer Center (J.S.A.) - both in Boston; Fort 
+Wayne Medical Oncology and Hematology, Fort Wayne, IN (S.N.); University of 
+Chicago Comprehensive Cancer Center (R.A.L.) and Loyola University Chicago 
+(S.E.S.) - both in Chicago; the University of Calgary, Tom Baker Cancer Centre, 
+Calgary, AB, Canada (C.O.); and the Division of Cancer Treatment and Diagnosis, 
+National Cancer Institute, Bethesda, MD (R.F.L.).
+
+Comment in
+    N Engl J Med. 2019 Apr 25;380(17):1679. doi: 10.1056/NEJMc1901284.
+    N Engl J Med. 2019 Apr 25;380(17):1679. doi: 10.1056/NEJMc1901284.
+    N Engl J Med. 2019 Apr 25;380(17):1679-1681. doi: 10.1056/NEJMc1901284.
+
+BACKGROUND: Ibrutinib has been approved by the Food and Drug Administration for 
+the treatment of patients with untreated chronic lymphocytic leukemia (CLL) 
+since 2016 but has not been compared with chemoimmunotherapy. We conducted a 
+phase 3 trial to evaluate the efficacy of ibrutinib, either alone or in 
+combination with rituximab, relative to chemoimmunotherapy.
+METHODS: Patients 65 years of age or older who had untreated CLL were randomly 
+assigned to receive bendamustine plus rituximab, ibrutinib, or ibrutinib plus 
+rituximab. The primary end point was progression-free survival. The Alliance 
+Data and Safety Monitoring Board made the decision to release the data after the 
+protocol-specified efficacy threshold had been met.
+RESULTS: A total of 183 patients were assigned to receive bendamustine plus 
+rituximab, 182 to receive ibrutinib, and 182 to receive ibrutinib plus 
+rituximab. Median progression-free survival was reached only with bendamustine 
+plus rituximab. The estimated percentage of patients with progression-free 
+survival at 2 years was 74% with bendamustine plus rituximab and was higher with 
+ibrutinib alone (87%; hazard ratio for disease progression or death, 0.39; 95% 
+confidence interval [CI], 0.26 to 0.58; P<0.001) and with ibrutinib plus 
+rituximab (88%; hazard ratio, 0.38; 95% CI, 0.25 to 0.59; P<0.001). There was no 
+significant difference between the ibrutinib-plus-rituximab group and the 
+ibrutinib group with regard to progression-free survival (hazard ratio, 1.00; 
+95% CI, 0.62 to 1.62; P=0.49). With a median follow-up of 38 months, there was 
+no significant difference among the three treatment groups with regard to 
+overall survival. The rate of grade 3, 4, or 5 hematologic adverse events was 
+higher with bendamustine plus rituximab (61%) than with ibrutinib or ibrutinib 
+plus rituximab (41% and 39%, respectively), whereas the rate of grade 3, 4, or 5 
+nonhematologic adverse events was lower with bendamustine plus rituximab (63%) 
+than with the ibrutinib-containing regimens (74% with each regimen).
+CONCLUSIONS: Among older patients with untreated CLL, treatment with ibrutinib 
+was superior to treatment with bendamustine plus rituximab with regard to 
+progression-free survival. There was no significant difference between ibrutinib 
+and ibrutinib plus rituximab with regard to progression-free survival. (Funded 
+by the National Cancer Institute and Pharmacyclics; ClinicalTrials.gov number, 
+NCT01886872 .).
+
+DOI: 10.1056/NEJMoa1812836
+PMCID: PMC6325637
+PMID: 30501481 [Indexed for MEDLINE]

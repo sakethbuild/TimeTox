@@ -1,0 +1,43 @@
+2. J Clin Oncol. 2013 Feb 10;31(5):523-9. doi: 10.1200/JCO.2012.41.7634. Epub
+2013  Jan 7.
+
+Prostate cancer diagnosis among men with isolated high-grade intraepithelial 
+neoplasia enrolled onto a 3-year prospective phase III clinical trial of oral 
+toremifene.
+
+Taneja SS(1), Morton R, Barnette G, Sieber P, Hancock ML, Steiner M.
+
+Author information:
+(1)Division of Urologic Oncology, 150 East 32nd St, Ste 200, New York, NY 10016, 
+USA. samir.taneja@nyumc.org
+
+Comment in
+    J Clin Oncol. 2013 Feb 10;31(5):515-6. doi: 10.1200/JCO.2012.46.6151.
+    J Urol. 2013 Aug;190(2):536. doi: 10.1016/j.juro.2013.04.117.
+
+PURPOSE: Prostate cancer (PCa) prevention remains an appealing strategy for the 
+reduction of overtreatment and secondary adverse effects. We evaluated the 
+efficacy of toremifene citrate 20 mg in PCa prevention among men with isolated 
+high-grade prostatic intraepithelial neoplasia (HGPIN) on biopsy.
+PATIENTS AND METHODS: One thousand five hundred ninety men with HGPIN, or HGPIN 
+and atypia, and no PCa on prostate biopsy were randomly assigned 1:1 to receive 
+toremifene citrate 20 mg or placebo in a 3-year phase III, double-blind, 
+multicenter trial. Men underwent annual biopsy until cancer detection or study 
+end. Efficacy analysis was performed in 1,467 men who underwent at least one 
+on-study biopsy. Baseline risk factors were evaluated to determine influence on 
+cancer detection.
+RESULTS: Cancer was detected in 34.7% and 32.3% of men in the placebo and 
+treatment groups, respectively, with no observed difference (P = .39, log-rank 
+test) in PCa-free survival. The 3-year Kaplan-Meier PCa-free survival estimate 
+was 54.9% (99% CI, 43.3% to 66.5%) in the placebo group and 59.5% (99% CI, 48.1% 
+to 70.9%) in the treatment group. Exploration of baseline risk factors 
+demonstrated no subset in which a risk reduction was observed. In the placebo 
+group, 17.9%, 12.9%, and 13.6% of men at risk at the beginning of years 1, 2, 
+and 3, respectively, were diagnosed with PCa.
+CONCLUSION: Although toremifene 20 mg did not lower the PCa detection rate, men 
+with isolated HGPIN have a high likelihood of eventual PCa diagnosis, 
+demonstrating they are ideal candidates for inclusion in chemoprevention trials 
+and require surveillance by periodic prostate biopsy.
+
+DOI: 10.1200/JCO.2012.41.7634
+PMID: 23295793 [Indexed for MEDLINE]

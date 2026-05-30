@@ -1,0 +1,223 @@
+18. Lancet. 2015 Aug 1;386(9992):433-43. doi: 10.1016/S0140-6736(15)60995-3. Epub
+ 2015 May 31.
+
+Adjuvant denosumab in breast cancer (ABCSG-18): a multicentre, randomised, 
+double-blind, placebo-controlled trial.
+
+Gnant M(1), Pfeiler G(2), Dubsky PC(3), Hubalek M(4), Greil R(5), Jakesz R(3), 
+Wette V(6), Balic M(7), Haslbauer F(8), Melbinger E(9), Bjelic-Radisic V(10), 
+Artner-Matuschek S(11), Fitzal F(12), Marth C(4), Sevelda P(13), Mlineritsch 
+B(14), Steger GG(15), Manfreda D(16), Exner R(3), Egle D(4), Bergh J(17), 
+Kainberger F(18), Talbot S(19), Warner D(20), Fesl C(21), Singer CF(2); Austrian 
+Breast and Colorectal Cancer Study Group.
+
+Collaborators: Gnant M, Altorjai G, Bartsch R, Blaha P, Devyatko Y, Dubsky P, 
+Exner R, Fitzal F, Korkmaz B, Kandioler D, Panhofer TP, Pluschnig U, Schoppmann 
+S, Schuetz M, Sporn P, Steger G, Strobl S, Wenzel C, Frank N, Poglitsch A, Rothe 
+S, Urak M, Ludwig HP, Keck AV, Leitgeb C, Sagaster KP, Slavicek G, 
+Strasser-Weippl K, Weissmann A, Ludwig HP, Autzinger EM, Barancova L, Birovljev 
+Z, Fleischhacker A, Gratzer C, Jungbauer S, Kosecka-Stehle E, Lackner K, Medla 
+S, Oswald R, Ruhsam M, Schiermayr C, Schreidl S, Wittmann C, Bardy J, Bicker B, 
+Grafl C, Wächter V, Renner K, Baumhauer D, Grünbeck M, Hofmann M, Kovanyi-Holzer 
+B, Swoboda U, Hofbauer F, Lang M, Kindler T, Mladensich M, Arth N, Kranz A, 
+Horvath W, Bugnyar A, Fandl G, Luisser I, Wagner S, Hammerl G, Kalmann M, 
+Melbinger-Zeinitzer E, Prentner F, Baumgartner G, Rutrecht D, Vallant D, 
+Keckstein J, Hudelist G, Janschek E, Koren C, Leeb K, Montoneri C, Pasterk C, 
+Tuttlies F, Wagner M, Forsthuber EP, Gutschi M, Urbania A, Wagner W, Marcher E, 
+Ofner S, Unterrieder K, Rabitsch A, Kwasny W, Haider K, Payrits T, Kristandl E, 
+Fridrik M, Greul R, Hackl J, Hengstschläger A, Hochreiner G, Lenger D, Mayr D, 
+Voskova D, Wahl G, Höflinger N, Kapun M, Morbitzer E, Pfleger B, Steinmaurer G, 
+Urbaniak A, Kopf C, Haberfellner H, Hruschka C, Kastlunger M, Moser F, Prötsch 
+P, Haslbauer F, Wilthoner K, Frim G, Bjelic-Radisic V, Luschin-Ebengreuth G, 
+Bader A, Benedicic C, Czihak J, Gramm S, Lerch J, Pittler P, Pristauz-Telsnigg 
+G, Pusch E, Schest E, Schneuber S, Ekardt E, Großschädl F, Hajdinyak A, Lehner 
+P, Schreiner N, Boandl A, Gstir J, Bermoser K, Kommes G, Markl A, Wild S, 
+Adamski-Kondert E, Altenburg N, Knebelreiter M, Rapp E, Alicke S, Steinmaßl D, 
+Felgel-Farnholz C, Gleirscher M, Winter R, Anderl P, Kepplinger R, Laffer K, 
+Mitterdorfer B, Volgger B, Hubalek M, Taucher S, Abdel-Azim S, Angerer-Dengg M, 
+Baumgartner E, Beneder C, Brantner C, Braun S, Brunner C, Ciresa-König A, Egle 
+D, Engleder N, Faltner B, Fessler S, Grubinger E, Gufler G, Hofstetter G, Huemer 
+D, Krause HP, Lutterotti E, Marth C, Matthä K, Mayr S, Miglar S, Moser T, Nehoda 
+R, Net N, Porto V, Ramoni A, Reimer D, Ritter M, Rotter M, Schaffenrath H, 
+Schneitter A, Specht C, Strobl EM, Tiechl J, Tomovski C, Tran H, Wagener A, 
+Weger C, Windbichler G, Zeimet A, Albertini C, Angerer J, Eder J, Ennemoser V, 
+Feichter C, Gabl A, Galitz C, Happ C, Kluckner A, Niederkircher M, Popovic D, 
+Radosavljevic Z, Riegler C, Singer G, Ulmer J, Wieser A, Wipplinger C, Hohenegg 
+I, Holzner P, Insam T, Obleitner I, Riml B, Wagner E, Neunteufel W, Bergmeister 
+M, Buzinkay B, Hagen S, Hager C, Poyßl C, Reinstadler E, Wieder E, 
+Wilhelmi-Schwab I, Amann H, Hasenburger H, Moll A, Pollner-Bereuter R, Heck D, 
+Pöstlberger S, Angerschmid S, Bodingbauer G, Burgstaller T, Dinböck B, Doneus K, 
+Fitzal F, Ganhör-Schimböck J, Hackl D, Haselsteiner K, Helfgott R, Hinterreitner 
+M, Kaltenböck R, Knauer M, Köhler G, Kreiner N, Lugstein E, Mandee H, Matthä E, 
+Mörth S, Noitz S, Obermüller S, Oßberger A, Pfeifer J, Pressl G, Pürmayer G, 
+Rohregger K, Rohrer K, Schlagnitweit P, Schnepf S, Schwaiger C, Sheu H, Son J, 
+Stadler J, Weizendorfer M, Wundsam H, Obermüller A, Fuchs S, Gunesch A, 
+Kapsammer A, Pennov P, Strobl A, Arnusch I, Etzelstorfer H, Felgenhauer E, Fritz 
+B, Fuchs-Rehberger M, Glatz U, Hager G, Hochenburger M, Kirschova D, Kurz B, 
+Lehner R, Lindlbauer B, Milas B, Pichler M, Steininger G, Wielflingseder B, Wolf 
+C, Leitgeb M, Tögel K, Edhofer-Rössler N, Pecherstorfer M, Lechner C, 
+Schmoranzer G, Trapl H, Vedadinejad M, Weibel R, Krenn P, Liszt N, Peintinger F, 
+Bauernhofer T, Miller-Pittler P, Schlagbauer GM, Schmölzer L, Tamegger A, Kainz 
+H, Brandstätter J, Rabl H, Fürschuss F, Herz W, Kastner U, Niernberger T, Themel 
+M, Ackerl J, Eberhard N, Heinrich K, Maderdonner M, Doumitsas P, Függer R, 
+Adelsgruber P, Girschikofsky M, Havlicek W, Hofer W, Huber M, König J, Roth N, 
+Schandl M, Weltermann A, Goder K, Hamberger N, Hauer D, Höfler S, Metz S, 
+Streicher K, Andel J, Gruber S, Hauser H, Rossmann D, Schmidhuber K, Zeilner A, 
+Neuhauser R, Brandstötter R, Meran J, Beke D, Grünberger B, Küenburg E, Puntus 
+T, Stoll M, Weidinger J, Wimmer B, Klikovich J, Pexa M, Schemel M, Sinn K, Ebner 
+B, Incegül D, Holzberger P, Mittendorfer H, Jank M, Lux E, Reingruber-Platzer M, 
+Stummer B, Hoffmann B, Schleifer M, Koo P, Penzinger M, Wolfram G, 
+Melbinger-Zeinitzer E, Klinar D, Kratzwald B, Pirker A, Singer C, Kubista E, 
+Fink-Retter A, Gschwantler-Kaulich D, Pfeiler G, Sader A, Blümel E, Brandl I, 
+Glatz E, Jakober W, Kivioja P, Weinmeyer S, Jakesz R, Jakesz B, Jakesz M, 
+Odehnal G, Schrempf B, Manfreda D, Urbania A, Sabitzer W, Wette V, Grabuschnig 
+S, Thiel I, Zehetleitner G, Haar R, Neuhold R, Medl M, Lippert H, Medl A, Pober 
+M, Bachner M, Pichler P, Edelbacher G, Artner-Matuschek S, Stierer M, Baumann 
+JL, Galid A, Lynch-Dallinger S, Maier B, Matzinger H, Riegler V, Selim U, Bader 
+G, Hüller V, Komarek I, Neuberg S, Huber G, Tschmelitsch J, Reichenauer AC, 
+Fuchs N, Heiss I, Riepl B, Dirnberger E, Roitner F, Wimmer S, Gerzer K, 
+Rosenhammer W, Baldinger C, Bogner G, Bruckenberger P, Burgstaller S, Hell J, 
+Jennewein S, Koch B, Koplmüller R, Kühr T, Mayrbäurl B, Murauer B, Ott N, 
+Pillichshammer S, Piringer G, Reisenberger K, Stadlhuber-Treffner I, Trommet V, 
+Wimmer L, Xu F, Zebuhr A, Thaler J, Buchbauer B, Märzendorfer M, Pühringer I, 
+Oegger G, Reder C, Zauner D, Balcz-Huber B, Bijuklic K, Eder S, Erl M, Farmini 
+A, Gampenrieder SP, Grundbichler M, Hohla F, Huemer F, Kappacher A, Krause B, 
+Magnes T, Mayer P, Melchardt T, Mlineritsch B, Moik M, Monzo Fuentes C, 
+Namberger K, Pircher M, Ressler S, Rinnerthaler G, Romeder F, Rosenlechner S, 
+Schönlieb C, Stiller B, Troch M, Webersberger M, Weiss L, Greil R, Aichinger G, 
+Brennsteiner-Fahrner S, Dallinger C, Kristen E, Langanger M, Liedtke IL, Luft P, 
+Pöckl M, Schachner M, Schumy S, Sgonc S, Spitzlinger K, Töpfer S, Bamschabl B, 
+Gringinger H, Junger B, Knauseder D, Leobacher M, Matuschka-Gablenz A, Menzel C, 
+Mertin E, Reitsamer E, Ruderstaller G, Tschinder T, Absenger G, Balic M, 
+Bauernhofer T, Eisner F, Gerger A, Halm M, Hegenbarth K, Hofmann G, Kampl RC, 
+Kasparek AK, Kraxner P, Osprian I, Peinsith H, Pichler M, Ploner F, Rossmann C, 
+Schaberl-Moser R, Schippinger W, Stöger H, Stotz M, Suppan C, Szkandera J, 
+Truschnig-Wilders M, Samonigg H, Arth NM, Groller K, Gusel S, Jaritz L, Kranz A, 
+Pirsch S, Schmölzer C, Souri S, Wolfsgruber M, Beer S, Haid A, Hartmann B, 
+Knauer M, Köberle-Wührer R, Kohler B, Moosmann P, Sandholzer M, Simma K, Taraben 
+A, Tschann C, Tschann P, Zech A, Lang A, Lercher-Lueger M, Purkart E, Studer M, 
+Wallner S, Blatt-Gunegger M, Hämmerle C, Hasibeter M, Hölzel S, Reisenhofer M, 
+Grabner O, Gunegger D, Gangl G, Angel U, Biricz K, Elhenicky M, Lehmden K, 
+Natter C, Rahhal-Schupp J, Schneider F, Schönau K, Schmidbauer U, Fitzthum E, 
+Schlemmer K, Freitas A, Lechner M, Vyhnalik M, Balcke P, Kretschmer A, Glück S, 
+Reitsamer R, Semmler D, Reiner G, Garzarolli B, Papadi H, Schmid M, Hartreil K, 
+Tausch C, Reifmüller-Grillberger C, Arver B, Asbrink S, Bjöhle J, Fernebro J, 
+Foukakis T, Fuentes S, Hedayati E, Jansson T, Karlsson J, Karlsson Y, 
+Lagercrantz S, Lidbrink E, Linder Stragliotto C, Öberg Wrangsjö A, Petersson A, 
+Sofiadis A, Tibell L, Wallberg B, Xie H, Bergh J, Hatschek T, Dinwiddie AK, 
+Lindeberg A, Lundin I, Nässen B, Olsson M, Roman C, Svensson G, Blom-Goldman U, 
+Elinder E, Fornander T, Iiristo M, Lundin J, Margolin S, Szeps M, Thoren L, Von 
+Wachenfeld A, Wendt C, Winblad G, Kalén ML, Sellerstam G, Sventelius M, Broberg 
+M, Glaessgen D, Jalsenius M, Karumo AM, Lekberg T, Lindfors E, Martenhed GJ, 
+Rotstein S, Rutherford-Löfstad S, Sandell E, Stillström AT, Johansson AL, 
+LØfgren L, Norenstedt S, Fernstad R, Gränström M, Thingvall K, Berg J, 
+Rafnsoóttir S, Holmberg S, Olofsson R, Håkansson J, Hultman A, Markström A, Adde 
+M, Andersson M, Cederblad L, Gullbo J, Khan T, Koliadi A, Kullinger B, Maleka A, 
+Nilsson G, Tsakonas G, Tsiaprazis S, Yachnin JR, Lindman H, Klint C, Abrahamsson 
+F, Dahg P, Gertz G, Hedlund A, Johansson A, Kvitz M, Larsson M, Ljung L, Wall M, 
+Edlund P, Kovacs K, Ahlgren J, del Val Munoz O, Asenlund U, Persson L, Elhenicky 
+M, Freitas A, Lechner M, Killander F.
+
+Author information:
+(1)Department of Surgery, Medical University of Vienna, Vienna, Austria; 
+Comprehensive Cancer Center, Medical University of Vienna, Vienna, Austria. 
+Electronic address: michael.gnant@meduniwien.ac.at.
+(2)Comprehensive Cancer Center, Medical University of Vienna, Vienna, Austria; 
+Department of Gynecology and Obstetrics, Medical University of Vienna, Vienna, 
+Austria.
+(3)Department of Surgery, Medical University of Vienna, Vienna, Austria; 
+Comprehensive Cancer Center, Medical University of Vienna, Vienna, Austria.
+(4)Department of Gynecology, Medical University Innsbruck, Innsbruck, Austria.
+(5)Department of Internal Medicine III, Paracelsus Medical University Salzburg, 
+Salzburg, Austria; Salzburg Cancer Research Institute, Salzburg, Austria.
+(6)Doctor's Office Wette, Breast Center, St Veit an der Glan, Austria.
+(7)Department of Oncology, Medical University of Graz, Graz, Austria.
+(8)Department of Internal Medicine, Hospital Vöcklabruck, Vöcklabruck, Austria.
+(9)Department of Surgery, Hospital Wolfsberg, Wolfsberg, Austria.
+(10)Department of Gynecology, Medical University of Graz, Graz, Austria.
+(11)Department of Surgery, Breast Center Hospital Hanusch Vienna, Vienna, 
+Austria.
+(12)Department of Surgery, Medical University of Vienna, Vienna, Austria; 
+Comprehensive Cancer Center, Medical University of Vienna, Vienna, Austria; 
+Breast Health Center, Hospital of Sisters of Mercy Linz, Linz, Austria.
+(13)Department of Gynecology, Hospital Hietzing, Vienna, Austria.
+(14)Department of Internal Medicine III, Paracelsus Medical University Salzburg, 
+Salzburg, Austria.
+(15)Department of Internal Medicine I, Medical University of Vienna, Vienna, 
+Austria.
+(16)Doctor's Office Manfreda, Klagenfurt, Austria.
+(17)Department of Oncology/Radiumhemmet, Karolinska Oncology, Karolinska 
+Institutet and University Hospital, Stockholm, Sweden.
+(18)Department of Biomedical Imaging and Image-Guided Therapy, Medical 
+University of Vienna, Vienna, Austria.
+(19)Amgen Ltd, Uxbridge, UK.
+(20)Amgen Inc, Thousand Oaks, CA, USA.
+(21)Department of Statistics, Austrian Breast & Colorectal Cancer Study Group, 
+Vienna, Austria.
+
+Comment in
+    Lancet. 2015 Aug 1;386(9992):409-10. doi: 10.1016/S0140-6736(15)61032-7.
+    Ann Intern Med. 2015 Sep 15;163(6):JC11. doi: 10.7326/ACPJC-2015-163-6-011.
+    Cell Death Dis. 2015 Nov 19;6:e1982. doi: 10.1038/cddis.2015.332.
+    Lancet. 2015 Nov 21;386(10008):2056-2057. doi: 
+10.1016/S0140-6736(15)00973-3.
+    Lancet. 2015 Nov 21;386(10008):2057. doi: 10.1016/S0140-6736(15)00974-5.
+    Lancet. 2015 Nov 21;386(10008):2057-2058. doi: 
+10.1016/S0140-6736(15)00975-7.
+
+BACKGROUND: Adjuvant endocrine therapy compromises bone health in patients with 
+breast cancer, causing osteopenia, osteoporosis, and fractures. Antiresorptive 
+treatments such as bisphosphonates prevent and counteract these side-effects. In 
+this trial, we aimed to investigate the effects of the anti-RANK ligand antibody 
+denosumab in postmenopausal, aromatase inhibitor-treated patients with 
+early-stage hormone receptor-positive breast cancer.
+METHODS: In this prospective, double-blind, placebo-controlled, phase 3 trial, 
+postmenopausal patients with early hormone receptor-positive breast cancer 
+receiving treatment with aromatase inhibitors were randomly assigned in a 1:1 
+ratio to receive either denosumab 60 mg or placebo administered subcutaneously 
+every 6 months in 58 trial centres in Austria and Sweden. Patients were assigned 
+by an interactive voice response system. The randomisation schedule used a 
+randomly permuted block design with block sizes 2 and 4, stratified by type of 
+hospital regarding Hologic device for DXA scans, previous aromatase inhibitor 
+use, and baseline bone mineral density. Patients, treating physicians, 
+investigators, data managers, and all study personnel were masked to treatment 
+allocation. The primary endpoint was time from randomisation to first clinical 
+fracture, analysed by intention to treat. As an additional sensitivity analysis, 
+we also analysed the primary endpoint on the per-protocol population. Patients 
+were treated until the prespecified number of 247 first clinical fractures was 
+reached. This trial is ongoing (patients are in follow-up) and is registered 
+with the European Clinical Trials Database, number 2005-005275-15, and with 
+ClinicalTrials.gov, number NCT00556374.
+FINDINGS: Between Dec 18, 2006, and July 22, 2013, 3425 eligible patients were 
+enrolled into the trial, of whom 3420 were randomly assigned to receive 
+denosumab 60 mg (n=1711) or placebo (n=1709) subcutaneously every 6 months. 
+Compared with the placebo group, patients in the denosumab group had a 
+significantly delayed time to first clinical fracture (hazard ratio [HR] 0·50 
+[95% CI 0·39-0·65], p<0·0001). The overall lower number of fractures in the 
+denosumab group (92) than in the placebo group (176) was similar in all patient 
+subgroups, including in patients with a bone mineral density T-score of -1 or 
+higher at baseline (n=1872, HR 0·44 [95% CI 0·31-0·64], p<0·0001) and in those 
+with a bone mineral density T-score of less than -1 already at baseline (n=1548, 
+HR 0·57 [95% CI 0·40-0·82], p=0·002). The patient incidence of adverse events in 
+the safety analysis set (all patients who received at least one dose of study 
+drug) did not differ between the denosumab group (1366 events, 80%) and the 
+placebo group (1334 events, 79%), nor did the numbers of serious adverse events 
+(521 vs 511 [30% in each group]). The main adverse events were arthralgia and 
+other aromatase-inhibitor related symptoms; no additional toxicity from the 
+study drug was reported. Despite proactive adjudication of every potential 
+osteonecrosis of the jaw by an international expert panel, no cases of 
+osteonecrosis of the jaw were reported. 93 patients (3% of the full analysis 
+set) died during the study, of which one death (in the denosumab group) was 
+thought to be related to the study drug.
+INTERPRETATION: Adjuvant denosumab 60 mg twice per year reduces the risk of 
+clinical fractures in postmenopausal women with breast cancer receiving 
+aromatase inhibitors, and can be administered without added toxicity. Since a 
+main side-effect of adjuvant breast cancer treatment can be substantially 
+reduced by the addition of denosumab, this treatment should be considered for 
+clinical practice.
+FUNDING: Amgen.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(15)60995-3
+PMID: 26040499 [Indexed for MEDLINE]

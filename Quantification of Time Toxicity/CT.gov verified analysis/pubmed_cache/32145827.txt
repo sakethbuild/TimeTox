@@ -1,0 +1,105 @@
+5. Lancet. 2020 Apr 11;395(10231):1195-1207. doi: 10.1016/S0140-6736(19)33222-2. 
+Epub 2020 Mar 5.
+
+Treatment of advanced AIDS-associated Kaposi sarcoma in resource-limited 
+settings: a three-arm, open-label, randomised, non-inferiority trial.
+
+Krown SE(1), Moser CB(2), MacPhail P(3), Matining RM(2), Godfrey C(4), Caruso 
+SR(5), Hosseinipour MC(6), Samaneka W(7), Nyirenda M(8), Busakhala NW(9), Okuku 
+FM(10), Kosgei J(11), Hoagland B(12), Mwelase N(3), Oliver VO(13), Burger H(14), 
+Mngqibisa R(15), Nokta M(16), Campbell TB(17), Borok MZ(18); A5263/AMC066 
+protocol team.
+
+Collaborators: Moses A, Kanyama C, Mukwekwerere P, Gudza I, Chauwa F, Ulaya G, 
+Kutto I, Cheruiyot P, Okello C, Nakaganda A, Koskei G, Keter W, Netto J, Baião 
+T, Govender I, O'Connell-Maritz J, Cain K, Okanda J, Cornelissen L, Van 
+Schalkwyk M, Sikhosana R, Ngcobo M, Lee JY, Harrison T, Wachsman W, Shin K, 
+Evans S, Rothenberg J, Hosey L, McCarthy S, Martinez-Maza O, Rinaldo C, Dittmer 
+D, Rinaldo C, Fletcher C, Rudek M, Asmelash A, Hughes V, Schouten J, Shugarts D, 
+Kujinga T, Zadzilka A, Kerui F, Robertson D, Rooney J, Sewal K, Gottshall B.
+
+Author information:
+(1)AIDS Malignancy Consortium, New York, NY, USA. Electronic address: 
+krowns@mskcc.org.
+(2)Center for Biostatistics in AIDS Research, Harvard T H Chan School of Public 
+Health, Boston, MA, USA.
+(3)Clinical HIV Research Unit, Department of Internal Medicine, University of 
+the Witwatersrand, Johannesburg, South Africa.
+(4)Division of AIDS, National Institute of Allergy and Infectious Diseases, 
+National Institutes of Health, Bethesda, MD, USA.
+(5)Frontier Science Foundation, Amherst, NY, USA.
+(6)UNC Project-Malawi, Lilongwe, Malawi; Department of Medicine, University of 
+North Carolina at Chapel Hill School of Medicine, Division of Infectious 
+Diseases, Chapel Hill, NC, USA.
+(7)Parirenyatwa Clinical Research Site, Harare, Zimbabwe.
+(8)Johns Hopkins Research Project, University of Malawi College of Medicine, 
+Blantyre, Malawi.
+(9)Moi University School of Medicine, Eldoret, Kenya.
+(10)Uganda Cancer Institute, Kampala, Uganda.
+(11)Kenya Medical Research Institute, USA Medical Directorate for Africa/Kenya, 
+Kericho, Kenya.
+(12)Oswaldo Cruz Foundation, Evandro Chagas National Institute of Infectious 
+Diseases, Rio de Janeiro, Brazil.
+(13)Kenya Medical Research Institute, Centre for Global Health Research, Centers 
+for Disease Control and Prevention, Kisumu CRS, HIV-Research Branch, Kisumu, 
+Kenya.
+(14)Family Clinical Research Unit CRS, Stellenbosch University and Tygerberg 
+Hospital, Cape Town, South Africa; Division of Radiation Oncology, Stellenbosch 
+University and Tygerberg Hospital, Cape Town, South Africa.
+(15)Durban International Clinical Research Site, Enhancing Care Foundation, 
+Durban, South Africa.
+(16)Office of HIV and AIDS Malignancy, National Cancer Institute, National 
+Institutes of Health, Bethesda, MD, USA.
+(17)Division of Infectious Diseases, Department of Medicine, University of 
+Colorado School of Medicine, Aurora, CO, USA.
+(18)Department of Medicine, University of Zimbabwe College of Health Sciences, 
+Harare, Zimbabwe.
+
+Comment in
+    Lancet. 2020 Apr 11;395(10231):1169-1170. doi: 
+10.1016/S0140-6736(20)30473-6.
+
+BACKGROUND: Optimal treatment regimens for AIDS-associated Kaposi sarcoma, a 
+frequent contributor to morbidity and mortality among people with HIV, have not 
+been systematically evaluated in low-income and middle-income countries, where 
+the disease is most common. In this study, we aimed to investigate optimal 
+treatment strategies for advanced stage disease in areas of high prevalence and 
+limited resources.
+METHODS: In this open-label, non-inferiority trial, we enrolled people with HIV 
+and advanced stage AIDS-associated Kaposi sarcoma attending 11 AIDS Clinical 
+Trials Group sites in Brazil, Kenya, Malawi, South Africa, Uganda, and Zimbabwe. 
+Eligible participants were randomly assigned (1:1:1) with a centralised computer 
+system to receive either intravenous bleomycin and vincristine or oral etoposide 
+(the investigational arms), or intravenous paclitaxel (the control arm), 
+together with antiretroviral therapy (ART; combined efavirenz, tenofovir 
+disoproxil fumarate, and emtricitabine). The primary outcome was 
+progression-free survival (PFS) at week 48, using a 15% non-inferiority margin 
+to compare the investigational groups against the active control group. Safety 
+was assessed in all eligible treated study participants. The study was 
+registered with ClinicalTrials.gov, NCT01435018.
+FINDINGS: 334 participants were enrolled between Oct 1, 2013, and March 8, 2018, 
+when the study was closed early due to inferiority of the bleomycin and 
+vincristine plus ART arm, as per the recommendations of the Data and Safety 
+Monitoring Board (DSMB). The etoposide plus ART arm also closed due to 
+inferiority in March, 2016, following a DSMB recommendation. Week-48 PFS rates 
+were higher in the paclitaxel plus ART arm than in both investigational arms. 
+The absolute differences in PFS were -30% (95% CI -52 to -8) for the comparison 
+of paclitaxel plus ART (week 48 PFS 50%, 32 to 67; n=59) and etoposide plus ART 
+(20%, 6 to 33; n=59), and -20% (-33% to -7%) for the comparison of paclitaxel 
+plus ART (64%, 55 to 73; n=138) and bleomycin and vincristine plus ART (44%, 35 
+to 53; n=132). Both CIs overlapped the non-inferiority margin. The most common 
+adverse events, in 329 eligible participants who began treatment, were 
+neutropenia (48 [15%]), low serum albumin (33 [10%]), weight loss (29 [9%]), and 
+anaemia (28 [9%]), occurring at similar frequency across treatment arms.
+INTERPRETATION: Non-inferiority of either investigational intervention was not 
+shown, with paclitaxel plus ART showing superiority to both oral etoposide plus 
+ART and bleomycin and vincristine plus ART, supporting its use in treating 
+advanced AIDS-associated Kaposi sarcoma in resource-limited settings.
+FUNDING: US National Institute of Allergy and Infectious Diseases and National 
+Cancer Institute, National Institutes of Health.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(19)33222-2
+PMCID: PMC7236082
+PMID: 32145827 [Indexed for MEDLINE]

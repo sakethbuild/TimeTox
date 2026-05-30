@@ -1,0 +1,88 @@
+3. N Engl J Med. 2019 Jun 6;380(23):2225-2236. doi: 10.1056/NEJMoa1815281. Epub 
+2019 Jun 4.
+
+Venetoclax and Obinutuzumab in Patients with CLL and Coexisting Conditions.
+
+Fischer K(1), Al-Sawaf O(1), Bahlo J(1), Fink AM(1), Tandon M(1), Dixon M(1), 
+Robrecht S(1), Warburton S(1), Humphrey K(1), Samoylova O(1), Liberati AM(1), 
+Pinilla-Ibarz J(1), Opat S(1), Sivcheva L(1), Le Dû K(1), Fogliatto LM(1), 
+Niemann CU(1), Weinkove R(1), Robinson S(1), Kipps TJ(1), Boettcher S(1), Tausch 
+E(1), Humerickhouse R(1), Eichhorst B(1), Wendtner CM(1), Langerak AW(1), 
+Kreuzer KA(1), Ritgen M(1), Goede V(1), Stilgenbauer S(1), Mobasher M(1), Hallek 
+M(1).
+
+Author information:
+(1)From Department I of Internal Medicine, Center for Integrated Oncology 
+Aachen-Bonn-Cologne-Duesseldorf, University Hospital Cologne and University of 
+Cologne (K.F., O.A.-S., J.B., A.-M.F., S. Robrecht, B.E., K.-A.K., M.H.), the 
+Oncogeriatric Unit, Department of Geriatric Medicine, St. Marien Hospital 
+(V.G.), CECAD (Center of Excellence on Cellular Stress Responses in 
+Aging-Associated Diseases) (M.H.), Center for Molecular Medicine Cologne (M.H.), 
+Cologne, Department III of Internal Medicine, University Hospital Rostock, 
+Rostock (S.B.), Department III of Internal Medicine, Ulm University, Ulm (E.T., 
+S.S.), the Departments of Hematology, Oncology, Immunology, Palliative Care, 
+Infectious Diseases, and Tropical Medicine, Klinikum Schwabing, Munich 
+(C.-M.W.), Department II of Internal Medicine, Campus Kiel, University of 
+Schleswig-Holstein, Kiel (M.R.), and the Department of Hematology, Oncology, and 
+Rheumatology, Saarland University Medical School, Homburg (S.S.) - all in 
+Germany; Roche Products, Welwyn Garden City, United Kingdom (M.T., M.D., S.W., 
+K.H.); Regional Clinical Hospital N.A. Semashko, Nizhny Novgorod, Russia (O.S.); 
+the Division of Onco-Hematology, Santa Maria Terni Hospital, University of 
+Perugia, Perugia, Italy (A.M.L.); the Department of Malignant Hematology, H. Lee 
+Moffitt Cancer Center and Research Institute, Tampa, FL (J.P.-I.); the 
+Haematology Department, School of Clinical Sciences at Monash Health, Monash 
+University, Clayton, VIC, Australia (S.O.); First Internal Department, 
+Multiprofile Hospital for Active Treatment Hristo Botev, Vratsa, Bulgaria 
+(L.S.); the Hematology Department, Clinique Victor Hugo, Le Mans, France 
+(K.L.D.); Hospital de Clínicas de Porto Alegre, Porto Alegre, Brazil (L.M.F.); 
+the Department of Hematology, Rigshospitalet, Copenhagen University Hospital, 
+Copenhagen (C.U.N.); Wellington Blood and Cancer Centre, Capital and Coast 
+District Health Board, and Malaghan Institute of Medical Research, Wellington, 
+New Zealand (R.W.); Queen Elizabeth II Health Sciences Centre, Halifax, NS, 
+Canada (S. Robinson); Moores Cancer Center, University of California San Diego, 
+San Diego (T.J.K.), and Genentech, South San Francisco (M.M.) - both in 
+California; AbbVie, North Chicago, IL (R.H.); and the Department of Immunology, 
+Laboratory Medical Immunology, Erasmus MC, Rotterdam, the Netherlands (A.W.L.).
+
+Comment in
+    Nat Rev Clin Oncol. 2019 Sep;16(9):526-527. doi: 10.1038/s41571-019-0243-z.
+    Internist (Berl). 2020 Jan;61(1):110-112. doi: 10.1007/s00108-019-00706-x.
+
+BACKGROUND: The BCL2 inhibitor venetoclax has shown activity in patients with 
+chronic lymphocytic leukemia (CLL), but its efficacy in combination with other 
+agents in patients with CLL and coexisting conditions is not known.
+METHODS: In this open-label, phase 3 trial, we investigated fixed-duration 
+treatment with venetoclax and obinutuzumab in patients with previously untreated 
+CLL and coexisting conditions. Patients with a score of greater than 6 on the 
+Cumulative Illness Rating Scale (scores range from 0 to 56, with higher scores 
+indicating more impaired function of organ systems) or a calculated creatinine 
+clearance of less than 70 ml per minute were randomly assigned to receive 
+venetoclax-obinutuzumab or chlorambucil-obinutuzumab. The primary end point was 
+investigator-assessed progression-free survival. The safety of each regimen was 
+also evaluated.
+RESULTS: In total, 432 patients (median age, 72 years; median Cumulative Illness 
+Rating Scale score, 8; median creatinine clearance, 66.4 ml per minute) 
+underwent randomization, with 216 assigned to each group. After a median 
+follow-up of 28.1 months, 30 primary end-point events (disease progression or 
+death) had occurred in the venetoclax-obinutuzumab group and 77 had occurred in 
+the chlorambucil-obinutuzumab group (hazard ratio, 0.35; 95% confidence interval 
+[CI], 0.23 to 0.53; P<0.001). The Kaplan-Meier estimate of the percentage of 
+patients with progression-free survival at 24 months was significantly higher in 
+the venetoclax-obinutuzumab group than in the chlorambucil-obinutuzumab group: 
+88.2% (95% CI, 83.7 to 92.6) as compared with 64.1% (95% CI, 57.4 to 70.8). This 
+benefit was also observed in patients with TP53 deletion, mutation, or both and 
+in patients with unmutated immunoglobulin heavy-chain genes. Grade 3 or 4 
+neutropenia occurred in 52.8% of patients in the venetoclax-obinutuzumab group 
+and in 48.1% of patients in the chlorambucil-obinutuzumab group, and grade 3 or 
+4 infections occurred in 17.5% and 15.0%, respectively. All-cause mortality was 
+9.3% in the venetoclax-obinutuzumab group and 7.9% in the 
+chlorambucil-obinutuzumab group. These differences were not significant.
+CONCLUSIONS: Among patients with untreated CLL and coexisting conditions, 
+venetoclax-obinutuzumab was associated with longer progression-free survival 
+than chlorambucil-obinutuzumab. (Funded by F. Hoffmann-La Roche and AbbVie; 
+ClinicalTrials.gov number, NCT02242942.).
+
+Copyright © 2019 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa1815281
+PMID: 31166681 [Indexed for MEDLINE]

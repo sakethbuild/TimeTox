@@ -1,0 +1,99 @@
+10. JAMA. 2019 Aug 27;322(8):746-755. doi: 10.1001/jama.2019.11642.
+
+Effect of Tandem Autologous Stem Cell Transplant vs Single Transplant on 
+Event-Free Survival in Patients With High-Risk Neuroblastoma: A Randomized 
+Clinical Trial.
+
+Park JR(1)(2), Kreissman SG(3), London WB(4), Naranjo A(5), Cohn SL(6), Hogarty 
+MD(7), Tenney SC(5), Haas-Kogan D(8), Shaw PJ(9), Kraveka JM(10), Roberts 
+SS(11), Geiger JD(12), Doski JJ(13), Voss SD(14), Maris JM(7), Grupp SA(7), 
+Diller L(4).
+
+Author information:
+(1)Department of Pediatrics, Seattle Children's Hospital, Seattle, Washington.
+(2)University of Washington, Seattle.
+(3)Department of Pediatrics, Duke University School of Medicine, Durham, North 
+Carolina.
+(4)Department of Pediatrics, Dana-Farber/Boston Children's Cancer and Blood 
+Disorders Center, Harvard Medical School, Boston, Massachusetts.
+(5)Department of Biostatistics, University of Florida, Children's Oncology Group 
+Statistics and Data Center, Gainesville.
+(6)Department of Pediatrics, University of Chicago, Chicago, Illinois.
+(7)Department of Pediatrics Children's Hospital of Philadelphia, Perelman School 
+of Medicine at the University of Pennsylvania, Philadelphia.
+(8)Department of Radiation Oncology, Dana Farber/Brigham and Women's Cancer 
+Center and Harvard Medical School, Boston, Massachusetts.
+(9)Bone Marrow Transplant, Children's Hospital at Westmead, Sydney, Australia.
+(10)Department of Pediatrics, Medical University of South Carolina, Charleston.
+(11)Department of Pediatrics, Memorial Sloan Kettering Cancer Center, Manhattan, 
+New York.
+(12)Section of Pediatric Surgery, CS Mott Children's Hospital, Michigan 
+Medicine, Ann Arbor.
+(13)Departments of Surgery and Pediatrics, UT Health San Antonio, San Antonio, 
+Texas.
+(14)Department of Radiology, Boston Children's Hospital, Harvard Medical School, 
+Boston, Massachusetts.
+
+Comment in
+    JAMA. 2019 Aug 27;322(8):729-731. doi: 10.1001/jama.2019.11641.
+
+IMPORTANCE: Induction chemotherapy followed by high-dose therapy with autologous 
+stem cell transplant and subsequent antidisialoganglioside antibody 
+immunotherapy is standard of care for patients with high-risk neuroblastoma, but 
+survival rate among these patients remains low.
+OBJECTIVE: To determine if tandem autologous transplant improves event-free 
+survival (EFS) compared with single transplant.
+DESIGN, SETTING, AND PARTICIPANTS: Patients were enrolled in this randomized 
+clinical trial from November 2007 to February 2012 at 142 Children's Oncology 
+Group centers in the United States, Canada, Switzerland, Australia, and New 
+Zealand. A total of 652 eligible patients aged 30 years or younger with 
+protocol-defined high-risk neuroblastoma were enrolled and 355 were randomized. 
+The final date of follow-up was June 29, 2017, and the data analyses cut-off 
+date was June 30, 2017.
+INTERVENTIONS: Patients were randomized to receive tandem transplant with 
+thiotepa/cyclophosphamide followed by dose-reduced 
+carboplatin/etoposide/melphalan (n = 176) or single transplant with 
+carboplatin/etoposide/melphalan (n = 179).
+MAIN OUTCOMES AND MEASURES: The primary outcome was EFS from randomization to 
+the occurrence of the first event (relapse, progression, secondary malignancy, 
+or death from any cause). The study was designed to test the 1-sided hypothesis 
+of superiority of tandem transplant compared with single transplant.
+RESULTS: Among the 652 eligible patients enrolled, 297 did not undergo 
+randomization because they were nonrandomly assigned (n = 27), ineligible for 
+randomization (n = 62), had no therapy (n = 1), or because of physician/parent 
+preference (n = 207). Among 355 patients randomized (median diagnosis age, 36.1 
+months; 152 [42.8%] female), 297 patients (83.7%) completed the study and 21 
+(5.9%) were lost to follow-up after completing protocol therapy. Three-year EFS 
+from the time of randomization was 61.6% (95% CI, 54.3%-68.9%) in the tandem 
+transplant group and 48.4% (95% CI, 41.0%-55.7%) in the single transplant group 
+(1-sided log-rank P=.006). The median (range) duration of follow-up after 
+randomization for 181 patients without an event was 5.6 (0.6-8.9) years. The 
+most common significant toxicities following tandem vs single transplant were 
+mucosal (11.7% vs 15.4%) and infectious (17.9% vs 18.3%).
+CONCLUSIONS AND RELEVANCE: Among patients aged 30 years or younger with 
+high-risk neuroblastoma, tandem transplant resulted in a significantly better 
+EFS than single transplant. However, because of the low randomization rate, the 
+findings may not be representative of all patients with high-risk neuroblastoma.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT00567567.
+
+DOI: 10.1001/jama.2019.11642
+PMCID: PMC6714031
+PMID: 31454045 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Cohn 
+reported receiving grants from the National Cancer Institute (NCI) during the 
+conduct of the study and equity ownership in United Therapeutics outside the 
+submitted work. Dr Geiger reported being a founder of FlexDex Inc, a medical 
+device company, outside the submitted work. Dr London reported receiving grants 
+from the National Institutes of Health (NIH)/NCI/Cancer Therapy Evaluation 
+Program during the conduct of the study; personal fees from United Therapeutics 
+Corp, and personal fees from American Association for Cancer Research outside 
+the submitted work. Dr Naranjo reported receiving grants from NIH/NCI 
+(Children's Oncology Group Statistics & Data Center Grants U10 CA180899 and U10 
+CA98413) during the conduct of the study and personal fees from Novartis outside 
+the submitted work. Dr Park reported receiving grants from the Children's 
+Oncology Group during the conduct of the study and serving on an advisory 
+committee for Bristol Myers Squibb outside the submitted work. Dr Tenney 
+reported receiving grants from the NIH/NCI (Children's Oncology Group Statistics 
+& Data Center grants U10 CA180899 and U10 CA98413) during the conduct of the 
+study. No other disclosures were reported.

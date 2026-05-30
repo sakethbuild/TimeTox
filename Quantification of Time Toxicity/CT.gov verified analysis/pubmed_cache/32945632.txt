@@ -1,0 +1,85 @@
+1. N Engl J Med. 2020 Sep 24;383(13):1218-1230. doi: 10.1056/NEJMoa2002788. Epub 
+2020 Sep 18.
+
+Avelumab Maintenance Therapy for Advanced or Metastatic Urothelial Carcinoma.
+
+Powles T(1), Park SH(1), Voog E(1), Caserta C(1), Valderrama BP(1), Gurney H(1), 
+Kalofonos H(1), Radulović S(1), Demey W(1), Ullén A(1), Loriot Y(1), Sridhar 
+SS(1), Tsuchiya N(1), Kopyltsov E(1), Sternberg CN(1), Bellmunt J(1), 
+Aragon-Ching JB(1), Petrylak DP(1), Laliberte R(1), Wang J(1), Huang B(1), Davis 
+C(1), Fowst C(1), Costa N(1), Blake-Haskins JA(1), di Pietro A(1), Grivas P(1).
+
+Author information:
+(1)From Barts Cancer Institute, Experimental Cancer Medicine Centre, Queen Mary 
+University of London, St. Bartholomew's Hospital, London (T.P.); Sungkyunkwan 
+University Samsung Medical Center, Seoul, South Korea (S.H.P.); Centre Jean 
+Bernard Clinique Victor Hugo, Le Mans (E.V.), and Gustave Roussy, INSERM Unité 
+981, Université Paris-Saclay, Villejuif (Y.L.) - both in France; the Medical 
+Oncology Unit, Azienda Ospedaliera S. Maria, Terni (C.C.), and Pfizer, Milan 
+(C.F., A.P.) - both in Italy; the Department of Medical Oncology, Hospital 
+Universitario Virgen del Rocío, Seville, Spain (B.P.V.); the Department of 
+Clinical Medicine, Macquarie University, Sydney (H.G.); the Division of 
+Oncology, Department of Medicine, University General Hospital of Patras, Patras, 
+Greece (H.K.); the Institute for Oncology and Radiology of Serbia, Belgrade 
+(S.R.); the Department of Medical Oncology, Algemeen Ziekenhuis Klina, 
+Brasschaat, Belgium (W.D.); Patient Area Pelvic Cancer, Theme Cancer, Karolinska 
+University Hospital, and the Department of Oncology-Pathology, Karolinska 
+Institute, Solna, Sweden (A.U.); Princess Margaret Cancer Centre, University 
+Health Network, Toronto (S.S.S.); the Department of Urology, Yamagata University 
+Faculty of Medicine, Yamagata, Japan (N.T.); the State Institution of Healthcare 
+Regional Clinical Oncology Dispensary, Omsk, Russia (E.K.); the Division of 
+Hematology and Medical Oncology, Weill Cornell Medicine, New York (C.N.S.); the 
+Department of Medical Oncology, Beth Israel Deaconess Medical Center, Harvard 
+Medical School, Boston (J.B.), and Pfizer, Cambridge (R.L., J.W.) - both in 
+Massachusetts; Inova Schar Cancer Institute, Fairfax, VA (J.B.A.-C.); Yale 
+Cancer Center, New Haven (D.P.P.), and Pfizer, Groton (B.H.) - both in 
+Connecticut; Pfizer, La Jolla, CA (C.D., J.A.B.-H.); Pfizer, Porto Salvo, 
+Portugal (N.C.); and the Department of Medicine, Division of Oncology, 
+University of Washington, and the Clinical Research Division, Fred Hutchinson 
+Cancer Research Center, Seattle Cancer Care Alliance, Seattle (P.G.).
+
+Comment in
+    Eur Urol. 2021 Mar;79(3):429-430. doi: 10.1016/j.eururo.2020.10.015.
+    N Engl J Med. 2020 Dec 17;383(25):2482. doi: 10.1056/NEJMc2032018.
+    N Engl J Med. 2020 Dec 17;383(25):2482-2483. doi: 10.1056/NEJMc2032018.
+    Eur Urol. 2021 May;79(5):702. doi: 10.1016/j.eururo.2020.12.026.
+    J Urol. 2021 Sep;206(3):769-772. doi: 10.1097/JU.0000000000001908.
+    Future Oncol. 2022 Jun;18(19):2361-2371. doi: 10.2217/fon-2021-1631.
+
+BACKGROUND: Platinum-based chemotherapy is standard-of-care first-line treatment 
+for advanced urothelial carcinoma. However, progression-free survival and 
+overall survival are limited by chemotherapy resistance.
+METHODS: In a phase 3 trial, we randomly assigned patients with unresectable 
+locally advanced or metastatic urothelial cancer who did not have disease 
+progression with first-line chemotherapy (four to six cycles of gemcitabine plus 
+cisplatin or carboplatin) to receive best supportive care with or without 
+maintenance avelumab. The primary end point was overall survival, assessed among 
+all patients who underwent randomization (overall population) and among those 
+with tumors positive for programmed cell death ligand 1 (PD-L1). Secondary end 
+points included progression-free survival and safety.
+RESULTS: Among all 700 patients who underwent randomization, the addition of 
+maintenance avelumab to best supportive care significantly prolonged overall 
+survival as compared with best supportive care alone (control). Overall survival 
+at 1 year was 71.3% in the avelumab group and 58.4% in the control group (median 
+overall survival, 21.4 months vs. 14.3 months; hazard ratio for death, 0.69; 95% 
+confidence interval [CI], 0.56 to 0.86; P = 0.001). Avelumab also significantly 
+prolonged overall survival in the PD-L1-positive population; overall survival at 
+1 year was 79.1% in the avelumab group and 60.4% in the control group (hazard 
+ratio, 0.56; 95% CI, 0.40 to 0.79; P<0.001). The median progression-free 
+survival was 3.7 months in the avelumab group and 2.0 months in the control 
+group in the overall population (hazard ratio for disease progression or death, 
+0.62; 95% CI, 0.52 to 0.75) and 5.7 months and 2.1 months, respectively, in the 
+PD-L1-positive population (hazard ratio, 0.56; 95% CI, 0.43 to 0.73). The 
+incidence of adverse events from any cause was 98.0% in the avelumab group and 
+77.7% in the control group; the incidence of adverse events of grade 3 or higher 
+was 47.4% and 25.2%, respectively.
+CONCLUSIONS: Maintenance avelumab plus best supportive care significantly 
+prolonged overall survival, as compared with best supportive care alone, among 
+patients with urothelial cancer who had disease that had not progressed with 
+first-line chemotherapy. (Funded by Pfizer and Merck [Darmstadt, Germany]; 
+JAVELIN Bladder 100 ClinicalTrials.gov number, NCT02603432.).
+
+Copyright © 2020 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2002788
+PMID: 32945632 [Indexed for MEDLINE]

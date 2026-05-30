@@ -1,0 +1,102 @@
+20. Lancet Oncol. 2019 Jun;20(6):849-861. doi: 10.1016/S1470-2045(19)30027-0.
+Epub  2019 Apr 16.
+
+Atezolizumab with or without cobimetinib versus regorafenib in previously 
+treated metastatic colorectal cancer (IMblaze370): a multicentre, open-label, 
+phase 3, randomised, controlled trial.
+
+Eng C(1), Kim TW(2), Bendell J(3), Argilés G(4), Tebbutt NC(5), Di Bartolomeo 
+M(6), Falcone A(7), Fakih M(8), Kozloff M(9), Segal NH(10), Sobrero A(11), Yan 
+Y(12), Chang I(12), Uyei A(12), Roberts L(12), Ciardiello F(13); IMblaze370 
+Investigators.
+
+Collaborators: Ahn JB, Asselah J, Badarinath S, Baijal S, Begbie S, Berry S, 
+Canon JL, Carbone RG, Cervantes A, Cha YJ, Chang K, Chaudhry A, Chmielowska E, 
+Cho SH, Chu D, Couture F, Cultrera J, Cunningham D, Van Cutsem E, Cuyle PJ, 
+Davies J, Dowden S, Dvorkin M, Ganju V, Garcia RV, Kerr R, Kim TY, King K, 
+Kortmansky J, Kozloff M, Lam KO, Lee J, Lee AS, Lesperance B, Luppi G, Ma B, 
+Maiello E, Mandanas R, Marshall J, Marx G, Mullamitha S, Nechaeva M, Park JO, 
+Pavlakis N, Ponce CG, Potemski P, Raouf S, Reeves J, Segal N, Siena S, Smolin A, 
+Streb JO, Strickland A, Szutowicz-Zielinska E, Tabernero JM, Tan B, Valera JS, 
+Van den Eynde M, Vergauwe P, Vickers M, Womack M, Wroblewska M, Young R.
+
+Author information:
+(1)MD Anderson Cancer Center, Houston, TX, USA.
+(2)Asan Medical Center, University of Ulsan, Seoul, Korea.
+(3)Sarah Cannon Research Institute/Tennessee Oncology, Nashville, TN, USA.
+(4)Vall d'Hebrón Institute of Oncology, Vall d'Hebrón University Hospital, 
+Universitat Autònoma de Barcelona, Barcelona, Spain.
+(5)Medical Oncology, Austin Health, Heidelberg, VIC, Australia.
+(6)Fondazione Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) 
+Istituto Nazionale Tumori, Milan, Italy.
+(7)University Hospital of Pisa, Pisa, Italy.
+(8)City of Hope, Duarte, CA, USA.
+(9)University of Chicago, Chicago, IL, USA.
+(10)Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+(11)IRCCS Ospedale San Martino IST, Genova, Italy.
+(12)Genentech Inc, South San Francisco, CA, USA.
+(13)Department of Precision Medicine, Università degli Studi della Campania 
+Luigi Vanvitelli, Naples, Italy. Electronic address: 
+fortunato.ciardiello@unicampania.it.
+
+Erratum in
+    Lancet Oncol. 2019 Jun;20(6):e293. doi: 10.1016/S1470-2045(19)30283-9.
+
+Comment in
+    Lancet Oncol. 2019 Jun;20(6):752-753. doi: 10.1016/S1470-2045(19)30076-2.
+    Ann Transl Med. 2019 Nov;7(21):602. doi: 10.21037/atm.2019.08.119.
+
+BACKGROUND: Microsatellite-stable metastatic colorectal cancer is typically 
+unresponsive to immunotherapy. This phase 3 study was designed to assess 
+atezolizumab plus cobimetinib in metastatic colorectal cancer. Here, we report 
+the comparison of atezolizumab plus cobimetinib or atezolizumab monotherapy 
+versus regorafenib in the third-line setting.
+METHODS: IMblaze 370 is a multicentre, open-label, phase 3, randomised, 
+controlled trial, done at 73 academic medical centres and community oncology 
+practices in 11 countries. Patients aged at least 18 years with unresectable 
+locally advanced or metastatic colorectal cancer, baseline Eastern Cooperative 
+Oncology Group performance status of 0-1, and disease progression on or 
+intolerance to at least two previous systemic chemotherapy regimens were 
+enrolled. We used permuted-block randomisation (block size four) to assign 
+patients (2:1:1) via an interactive voice and web response system to 
+atezolizumab (840 mg intravenously every 2 weeks) plus cobimetinib (60 mg orally 
+once daily for days 1-21 of a 28-day cycle), atezolizumab monotherapy (1200 mg 
+intravenously every 3 weeks), or regorafenib (160 mg orally once daily for days 
+1-21 of a 28-day cycle). Stratification factors were extended RAS status 
+(wild-type vs mutant) and time since diagnosis of first metastasis (<18 months 
+vs ≥18 months). Recruitment of patients with high microsatellite instability was 
+capped at 5%. The primary endpoint was overall survival in the 
+intention-to-treat population. Safety was assessed in the population of patients 
+who received at least one dose of their assigned treatment. IMblaze370 is 
+ongoing and is registered with ClinicalTrials.gov, number NCT02788279.
+FINDINGS: Between July 27, 2016, and Jan 19, 2017, 363 patients were enrolled 
+(183 patients in the atezolizumab plus cobimetinib group, 90 in the atezolizumab 
+group, and 90 in the regorafenib group). At data cutoff (March 9, 2018), median 
+follow-up was 7·3 months (IQR 3·7-13·6). Median overall survival was 8·87 months 
+(95% CI 7·00-10·61) with atezolizumab plus cobimetinib, 7·10 months (6·05-10·05) 
+with atezolizumab, and 8·51 months (6·41-10·71) with regorafenib; the hazard 
+ratio was 1·00 (95% CI 0·73-1·38; p=0·99) for the combination versus regorafenib 
+and 1·19 (0·83-1·71; p=0·34) for atezolizumab versus regorafenib. Grade 3-4 
+adverse events were reported in 109 (61%) of 179 patients in the atezolizumab 
+plus cobimetinib group, 28 (31%) of 90 in the atezolizumab group, and 46 (58%) 
+of 80 in the regorafenib group. The most common all-cause grade 3-4 adverse 
+events in the combination group were diarrhoea (20 [11%] of 179), anaemia (ten 
+[6%]), increased blood creatine phosphokinase (12 [7%]), and fatigue (eight 
+[4%]). Serious adverse events were reported in 71 (40%) of 179 patients in the 
+combination group, 15 (17%) of 90 in the atezolizumab group, and 18 (23%) of 80 
+in the regorafenib group. Two treatment-related deaths occurred in the 
+combination group (sepsis) and one in the regorafenib group (intestinal 
+perforation).
+INTERPRETATION: IMblaze370 did not meet its primary endpoint of improved overall 
+survival with atezolizumab plus cobimetinib or atezolizumab versus regorafenib. 
+The safety of atezolizumab plus cobimetinib was consistent with those of the 
+individual drugs. These results underscore the challenge of expanding the 
+benefit of immunotherapy to patients whose tumours have lower baseline levels of 
+immune inflammation, such as those with microsatellite-stable metastatic 
+colorectal cancer.
+FUNDING: F Hoffmann-La Roche Ltd/Genentech Inc.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(19)30027-0
+PMID: 31003911 [Indexed for MEDLINE]

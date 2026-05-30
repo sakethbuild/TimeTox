@@ -1,0 +1,85 @@
+4. J Clin Oncol. 2020 Apr 1;38(10):1019-1029. doi: 10.1200/JCO.19.02767. Epub
+2020  Feb 14.
+
+Hippocampal Avoidance During Whole-Brain Radiotherapy Plus Memantine for 
+Patients With Brain Metastases: Phase III Trial NRG Oncology CC001.
+
+Brown PD(1), Gondi V(2), Pugh S(3), Tome WA(4), Wefel JS(5), Armstrong TS(6), 
+Bovi JA(7), Robinson C(8), Konski A(9), Khuntia D(10), Grosshans D(5), Benzinger 
+TLS(8), Bruner D(11), Gilbert MR(6), Roberge D(12), Kundapur V(13), Devisetty 
+K(14), Shah S(15), Usuki K(16), Anderson BM(17), Stea B(18), Yoon H(19), Li 
+J(5), Laack NN(1), Kruser TJ(20), Chmura SJ(21), Shi W(22), Deshmukh S(3), Mehta 
+MP(23), Kachnic LA(24); for NRG Oncology.
+
+Author information:
+(1)Mayo Clinic, Rochester, MN.
+(2)Northwestern Medicine Cancer Center Warrenville and Northwestern Medicine 
+Proton Center, Warrenville, IL.
+(3)NRG Oncology Statistics and Data Management Center, Philadelphia, PA.
+(4)Montefiore Medical Center, Albert Einstein College of Medicine, The Bronx, 
+NY.
+(5)The University of Texas MD Anderson Cancer Center, Houston, TX.
+(6)National Cancer Institute Center for Cancer Research, Bethesda, MD.
+(7)Froedtert & the Medical College of Wisconsin, Milwaukee, WI.
+(8)Washington University in St Louis, St Louis, MO.
+(9)Chester County Hospital, West Chester, PA.
+(10)East Bay Radiation Oncology Center, Eden Medical Center, Castro Valley, CA.
+(11)Winship Cancer Institute of Emory University, Atlanta, GA.
+(12)CHUM-Hôtel-Dieu de Montréal, Montreal, Quebec, Canada.
+(13)Saskatoon Cancer Center, Saskatoon, Saskatchewan, Canada.
+(14)Wayne State University, Karmanos Cancer Institute, Detroit, MI.
+(15)ChristianaCare National Cancer Institute Community Oncology Research 
+Program, Newark, DE.
+(16)University of Rochester, Rochester, NY.
+(17)University of Wisconsin Hospitals and Clinics, Madison, WI.
+(18)University of Arizona Medical Center-University Campus, Tucson, AZ.
+(19)Heartland Cancer Research National Cancer Institute Community Oncology 
+Research Program, Decatur, IL.
+(20)Northwestern Memorial Hospital, Chicago, IL.
+(21)The University of Chicago Comprehensive Cancer Center, Chicago, IL.
+(22)Thomas Jefferson University Hospital, Philadelphia, PA.
+(23)Miami Cancer Institute, Miami, FL.
+(24)Vanderbilt University Medical Center, Ingram Cancer Center, Nashville, TN.
+
+Comment in
+    J Clin Oncol. 2020 Apr 1;38(10):1003-1005. doi: 10.1200/JCO.19.03359.
+    Strahlenther Onkol. 2020 Sep;196(9):844-846. doi: 
+10.1007/s00066-020-01642-8.
+    J Clin Oncol. 2020 Oct 10;38(29):3453-3454. doi: 10.1200/JCO.20.00548.
+    J Clin Oncol. 2020 Oct 10;38(29):3454-3455. doi: 10.1200/JCO.20.00747.
+    J Clin Oncol. 2020 Oct 10;38(29):3452. doi: 10.1200/JCO.20.00486.
+    J Clin Oncol. 2020 Oct 10;38(29):3455-3457. doi: 10.1200/JCO.20.01167.
+    Int J Radiat Oncol Biol Phys. 2021 Apr 1;109(5):1131-1136. doi: 
+10.1016/j.ijrobp.2021.01.001.
+
+PURPOSE: Radiation dose to the neuroregenerative zone of the hippocampus has 
+been found to be associated with cognitive toxicity. Hippocampal avoidance (HA) 
+using intensity-modulated radiotherapy during whole-brain radiotherapy (WBRT) is 
+hypothesized to preserve cognition.
+METHODS: This phase III trial enrolled adult patients with brain metastases to 
+HA-WBRT plus memantine or WBRT plus memantine. The primary end point was time to 
+cognitive function failure, defined as decline using the reliable change index 
+on at least one of the cognitive tests. Secondary end points included overall 
+survival (OS), intracranial progression-free survival (PFS), toxicity, and 
+patient-reported symptom burden.
+RESULTS: Between July 2015 and March 2018, 518 patients were randomly assigned. 
+Median follow-up for alive patients was 7.9 months. Risk of cognitive failure 
+was significantly lower after HA-WBRT plus memantine versus WBRT plus memantine 
+(adjusted hazard ratio, 0.74; 95% CI, 0.58 to 0.95; P = .02). This difference 
+was attributable to less deterioration in executive function at 4 months (23.3% 
+v 40.4%; P = .01) and learning and memory at 6 months (11.5% v 24.7% [P = .049] 
+and 16.4% v 33.3% [P = .02], respectively). Treatment arms did not differ 
+significantly in OS, intracranial PFS, or toxicity. At 6 months, using all data, 
+patients who received HA-WBRT plus memantine reported less fatigue (P = .04), 
+less difficulty with remembering things (P = .01), and less difficulty with 
+speaking (P = .049) and using imputed data, less interference of neurologic 
+symptoms in daily activities (P = .008) and fewer cognitive symptoms (P = .01).
+CONCLUSION: HA-WBRT plus memantine better preserves cognitive function and 
+patient-reported symptoms, with no difference in intracranial PFS and OS, and 
+should be considered a standard of care for patients with good performance 
+status who plan to receive WBRT for brain metastases with no metastases in the 
+HA region.
+
+DOI: 10.1200/JCO.19.02767
+PMCID: PMC7106984
+PMID: 32058845 [Indexed for MEDLINE]

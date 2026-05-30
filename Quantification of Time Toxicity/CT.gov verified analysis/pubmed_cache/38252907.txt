@@ -1,0 +1,90 @@
+9. J Clin Oncol. 2024 Apr 10;42(11):1252-1264. doi: 10.1200/JCO.23.01017. Epub
+2024  Jan 22.
+
+Nivolumab Plus Chemotherapy in Epidermal Growth Factor Receptor-Mutated 
+Metastatic Non-Small-Cell Lung Cancer After Disease Progression on Epidermal 
+Growth Factor Receptor Tyrosine Kinase Inhibitors: Final Results of CheckMate 
+722.
+
+Mok T(1), Nakagawa K(2), Park K(3)(4), Ohe Y(5), Girard N(6), Kim HR(7), Wu 
+YL(8), Gainor J(9), Lee SH(3), Chiu CH(10)(11), Kim SW(12), Yang CT(13), Wu 
+CL(14), Wu L(15), Lin MC(16), Samol J(17)(18), Ichikado K(19), Wang M(20), Zhang 
+X(21), Sylvester J(21), Li S(21), Forslund A(21), Yang JC(22).
+
+Author information:
+(1)State Laboratory of Translational Oncology, The Chinese University of Hong 
+Kong, Hong Kong, China.
+(2)Kindai University Faculty of Medicine, Osaka, Japan.
+(3)Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, 
+Korea.
+(4)University of Texas MD Anderson Cancer Center, Houston, TX.
+(5)National Cancer Center Hospital, Tokyo, Japan.
+(6)Institut du Thorax Curie-Montsouris, Institut Curie, Paris, France.
+(7)Division of Medical Oncology, Department of Internal Medicine, Yonsei Cancer 
+Center, Yonsei University College of Medicine, Seoul, Korea.
+(8)Guangdong Lung Cancer Institute, Guangdong Province People's Hospital 
+(Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 
+China.
+(9)Massachusetts General Hospital, Harvard Medical School, Boston, MA.
+(10)Taipei Veterans General Hospital, Taipei City, Taiwan.
+(11)Taipei Cancer Center, Taipei Medical University Hospital, Taipei Medical 
+University, Taipei City, Taiwan.
+(12)Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea.
+(13)Chang Gung Memorial Hospital, College of Medicine, Chang Gung University, 
+Taoyuan, Taiwan.
+(14)Mackay Memorial Hospital, Taipei, Taiwan.
+(15)Hunan Cancer Hospital, Changsha, China.
+(16)Kaohsiung Chang Gung Memorial Hospital, Chang Gung University, Kaohsiung 
+City, Taiwan.
+(17)Tan Tock Seng Hospital, Lee Kong Chian School of Medicine, Singapore, 
+Singapore.
+(18)Johns Hopkins University, Baltimore, MD.
+(19)Saiseikai Kumamoto Hospital, Kumamoto, Japan.
+(20)Peking Union Medical College Hospital, Beijing, China.
+(21)Bristol Myers Squibb, Princeton, NJ.
+(22)National Taiwan University Cancer Center, National Taiwan University 
+Hospital, Taipei City, Taiwan.
+
+PURPOSE: The phase III CheckMate 722 trial (ClinicalTrials.gov identifier: 
+NCT02864251) evaluated nivolumab plus chemotherapy versus chemotherapy in 
+patients with epidermal growth factor receptor (EGFR)-mutated metastatic 
+non-small-cell lung cancer (NSCLC) after disease progression on EGFR tyrosine 
+kinase inhibitors (TKIs).
+METHODS: Patients with disease progression after first- or second-generation 
+EGFR TKI therapy (without EGFR T790M mutation) or osimertinib (with/without 
+T790M mutation) were randomly assigned 1:1 to nivolumab (360 mg once every 3 
+weeks) plus platinum-doublet chemotherapy (once every 3 weeks) or 
+platinum-doublet chemotherapy alone (once every 3 weeks) for four cycles. 
+Primary end point was progression-free survival (PFS). Secondary end points 
+included 9- and 12-month PFS rates, overall survival (OS), objective response 
+rate (ORR), and duration of response (DOR).
+RESULTS: Overall, 294 patients were randomly assigned. At final analysis (median 
+follow-up, 38.1 months), PFS was not significantly improved with nivolumab plus 
+chemotherapy versus chemotherapy (median, 5.6 v 5.4 months; hazard ratio [HR], 
+0.75 [95% CI, 0.56 to 1.00]; P = .0528), with 9- and 12-month PFS rates of 25.9% 
+versus 19.8%, and 21.2% versus 15.9%, respectively. Post hoc PFS subgroup 
+analyses showed a trend favoring nivolumab plus chemotherapy in patients with 
+tumors harboring sensitizing EGFR mutations (HR, 0.72 [95% CI, 0.54 to 0.97]), 
+one line of previous EGFR TKI (0.72 [95% CI, 0.54 to 0.97]), or both (0.64 [95% 
+CI, 0.47 to 0.88]). Median OS was 19.4 months with nivolumab plus chemotherapy 
+versus 15.9 months with chemotherapy, while ORR was 31.3% versus 26.7%, and 
+median DOR was 6.7 versus 5.6 months, respectively. Grade 3/4 treatment-related 
+adverse events occurred in 44.7% and 29.4% of patients treated with nivolumab 
+plus chemotherapy and chemotherapy alone, respectively.
+CONCLUSION: Nivolumab plus chemotherapy did not significantly improve PFS versus 
+chemotherapy in patients with EGFR-mutated metastatic NSCLC previously treated 
+with EGFR TKIs. No new safety signals were identified.
+
+DOI: 10.1200/JCO.23.01017
+PMCID: PMC11095864
+PMID: 38252907 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/jco/authors/author-center. Open Payments is a public database 
+containing information reported by companies about payments made to US-licensed 
+physicians (Open Payments).

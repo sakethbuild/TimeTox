@@ -1,0 +1,69 @@
+6. N Engl J Med. 2016 Feb 25;374(8):738-48. doi: 10.1056/NEJMoa1505067.
+
+Weekly vs. Every-3-Week Paclitaxel and Carboplatin for Ovarian Cancer.
+
+Chan JK(1), Brady MF(1), Penson RT(1), Huang H(1), Birrer MJ(1), Walker JL(1), 
+DiSilvestro PA(1), Rubin SC(1), Martin LP(1), Davidson SA(1), Huh WK(1), 
+O'Malley DM(1), Boente MP(1), Michael H(1), Monk BJ(1).
+
+Author information:
+(1)From the California Pacific-Palo Alto Medical Foundation, Sutter Cancer 
+Research Institute, San Francisco (J.K.C.); NRG Oncology-Gynecologic Oncology 
+Group Statistics and Data Center, Roswell Park Cancer Institute, Buffalo, NY 
+(M.F.B., H.H.); Massachusetts General Hospital, Boston (R.T.P., M.J.B.); 
+University of Oklahoma, Oklahoma City (J.L.W.); Women and Infants Hospital, 
+Providence, RI (P.A.D.S.); University of Pennsylvania (S.C.R.) and Fox Chase 
+Cancer Center (L.P.M.) - both in Philadelphia; University of Colorado Cancer 
+Center, Aurora (S.A.D.); University of Alabama at Birmingham, Birmingham 
+(W.K.H.); James Cancer Center, Ohio State University, Columbus (D.M.O.); 
+Minnesota Oncology/Hematology-Oncology Service, Edina (M.P.B.); Indiana 
+University School of Medicine, Carmel (H.M.); and University of Arizona Cancer 
+Center, Creighton University School of Medicine, and St. Joseph's Hospital and 
+Medical Center (B.J.M.) - all in Phoenix.
+
+Comment in
+    N Engl J Med. 2016 Jun 30;374(26):2603-4. doi: 10.1056/NEJMc1603849.
+    N Engl J Med. 2016 Jun 30;374(26):2602. doi: 10.1056/NEJMc1603849.
+    N Engl J Med. 2016 Jun 30;374(26):2602-3. doi: 10.1056/NEJMc1603849.
+
+BACKGROUND: A dose-dense weekly schedule of paclitaxel (resulting in a greater 
+frequency of drug delivery) plus carboplatin every 3 weeks or the addition of 
+bevacizumab to paclitaxel and carboplatin administered every 3 weeks has shown 
+efficacy in ovarian cancer. We proposed to determine whether dose-dense weekly 
+paclitaxel and carboplatin would prolong progression-free survival as compared 
+with paclitaxel and carboplatin administered every 3 weeks among patients 
+receiving and those not receiving bevacizumab.
+METHODS: We prospectively stratified patients according to whether they elected 
+to receive bevacizumab and then randomly assigned them to receive either 
+paclitaxel, administered intravenously at a dose of 175 mg per square meter of 
+body-surface area every 3 weeks, plus carboplatin (dose equivalent to an area 
+under the curve [AUC] of 6) for six cycles or paclitaxel, administered weekly at 
+a dose of 80 mg per square meter, plus carboplatin (AUC, 6) for six cycles. The 
+primary end point was progression-free survival.
+RESULTS: A total of 692 patients were enrolled, 84% of whom opted to receive 
+bevacizumab. In the intention-to-treat analysis, weekly paclitaxel was not 
+associated with longer progression-free survival than paclitaxel administered 
+every 3 weeks (14.7 months and 14.0 months, respectively; hazard ratio for 
+disease progression or death, 0.89; 95% confidence interval [CI], 0.74 to 1.06; 
+P=0.18). Among patients who did not receive bevacizumab, weekly paclitaxel was 
+associated with progression-free survival that was 3.9 months longer than that 
+observed with paclitaxel administered every 3 weeks (14.2 vs. 10.3 months; 
+hazard ratio, 0.62; 95% CI, 0.40 to 0.95; P=0.03). However, among patients who 
+received bevacizumab, weekly paclitaxel did not significantly prolong 
+progression-free survival, as compared with paclitaxel administered every 3 
+weeks (14.9 months and 14.7 months, respectively; hazard ratio, 0.99; 95% CI, 
+0.83 to 1.20; P=0.60). A test for interaction that assessed homogeneity of the 
+treatment effect showed a significant difference between treatment with 
+bevacizumab and without bevacizumab (P=0.047). Patients who received weekly 
+paclitaxel had a higher rate of grade 3 or 4 anemia than did those who received 
+paclitaxel every 3 weeks (36% vs. 16%), as well as a higher rate of grade 2 to 4 
+sensory neuropathy (26% vs. 18%); however, they had a lower rate of grade 3 or 4 
+neutropenia (72% vs. 83%).
+CONCLUSIONS: Overall, weekly paclitaxel, as compared with paclitaxel 
+administered every 3 weeks, did not prolong progression-free survival among 
+patients with ovarian cancer. (Funded by the National Cancer Institute and 
+Genentech; GOG-0262 ClinicalTrials.gov number, NCT01167712.).
+
+DOI: 10.1056/NEJMoa1505067
+PMCID: PMC5081077
+PMID: 26933849 [Indexed for MEDLINE]

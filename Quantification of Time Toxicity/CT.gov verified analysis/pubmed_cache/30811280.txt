@@ -1,0 +1,70 @@
+14. J Clin Oncol. 2019 Apr 10;37(11):867-875. doi: 10.1200/JCO.18.01998. Epub
+2019  Feb 27.
+
+Evaluation of Two Dosing Regimens for Nivolumab in Combination With Ipilimumab 
+in Patients With Advanced Melanoma: Results From the Phase IIIb/IV CheckMate 511 
+Trial.
+
+Lebbé C(1), Meyer N(2), Mortier L(3), Marquez-Rodas I(4), Robert C(5), Rutkowski 
+P(6), Menzies AM(7), Eigentler T(8), Ascierto PA(9), Smylie M(10), Schadendorf 
+D(11)(12), Ajaz M(13), Svane IM(14), Gonzalez R(15), Rollin L(16), Lord-Bessen 
+J(16), Saci A(16), Grigoryeva E(16), Pigozzo J(17).
+
+Author information:
+(1)1 Saint-Louis Hospital, Institut National de la Santé et de la Recherche 
+Médicale U976, Université Paris Diderot, Paris, France.
+(2)2 Université Paul Sabatier-Toulouse III, Institut National de la Santé et de 
+la Recherche Médicale Unité Mixte de Recherche 1037-CRCT, Toulouse, France.
+(3)3 Université de Lille, Institut National de la Santé et de la Recherche 
+Médicale U1189, Lille, France.
+(4)4 Hospital General Universitario Gregorio Marañón, Madrid, Spain.
+(5)5 Gustave Roussy, Institut National de la Santé et de la Recherche Médicale 
+U981, Paris, France.
+(6)6 Maria Skłodowska-Curie Institute-Oncology Center, Warsaw, Poland.
+(7)7 Melanoma Institute Australia, University of Sydney, and Royal North Shore 
+and Mater Hospitals, Sydney, New South Wales, Australia.
+(8)8 University Hospital Tübingen, Tübingen, Germany.
+(9)9 Istituto Nazionale Tumori-Istituto di Ricovero e Cura a Carattere 
+Scientifico Fondazione G. Pascale, Naples, Italy.
+(10)10 Cross Cancer Institute, Edmonton, Alberta, Canada.
+(11)11 University Hospital, Essen, Germany.
+(12)12 German Cancer Consortium, Heidelberg, Germany.
+(13)13 St George's University Hospitals National Health Service Foundation 
+Trust, Tooting, London, United Kingdom.
+(14)14 Herlev Hospital, University of Copenhagen, Herlev, Denmark.
+(15)15 University of Colorado, Denver, CO.
+(16)16 Bristol-Myers Squibb, Princeton, NJ.
+(17)17 Veneto Institute of Oncology-Istituto di Ricovero e Cura a Carattere 
+Scientifico, Padua, Italy.
+
+PURPOSE: Nivolumab 1 mg/kg plus ipilimumab 3 mg/kg (NIVO1+IPI3) is approved for 
+first-line treatment of patients with advanced melanoma in several countries. We 
+conducted a phase IIIb/IV study (CheckMate 511) to determine if nivolumab 3 
+mg/kg plus ipilimumab 1 mg/kg (NIVO3+IPI1) improves the safety profile of the 
+combination.
+PATIENTS AND METHODS: Patients (N = 360) age 18 years or older with previously 
+untreated, unresectable stage III or IV melanoma were randomly assigned 1:1 to 
+NIVO3+IPI1 or NIVO1+IPI3 once every 3 weeks for four doses. After 6 weeks, all 
+patients received NIVO 480 mg once every 4 weeks until disease progression or 
+unacceptable toxicity. The primary end point was a comparison of the incidence 
+of treatment-related grade 3 to 5 adverse events (AEs) between groups. Secondary 
+end points included descriptive analyses of objective response rate, 
+progression-free survival, and overall survival. The study was not designed to 
+formally demonstrate noninferiority of NIVO3+IPI1 to NIVO1+IPI3 for efficacy end 
+points.
+RESULTS: At a minimum follow-up of 12 months, incidence of treatment-related 
+grade 3 to 5 AEs was 34% with NIVO3+IPI1 versus 48% with NIVO1+IPI3 ( P = .006). 
+In descriptive analyses, objective response rate was 45.6% in the NIVO3+IPI1 
+group and 50.6% in the NIVO1+IPI3 group, with complete responses in 15.0% and 
+13.5% of patients, respectively. Median progression-free survival was 9.9 months 
+in the NIVO3+IPI1 group and 8.9 months in the NIVO1+IPI3 group. Median overall 
+survival was not reached in either group.
+CONCLUSION: The CheckMate 511 study met its primary end point, demonstrating a 
+significantly lower incidence of treatment-related grade 3-5 AEs with NIVO3+IPI1 
+versus NIVO1+IPI3. Descriptive analyses showed that there were no meaningful 
+differences between the groups for any efficacy end point, although longer 
+follow up may help to better characterize efficacy outcomes.
+
+DOI: 10.1200/JCO.18.01998
+PMCID: PMC6455714
+PMID: 30811280 [Indexed for MEDLINE]

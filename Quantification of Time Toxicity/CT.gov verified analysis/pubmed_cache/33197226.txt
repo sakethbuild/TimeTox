@@ -1,0 +1,81 @@
+8. J Clin Oncol. 2021 Mar 20;39(9):966-977. doi: 10.1200/JCO.20.00892. Epub 2020 
+Nov 16.
+
+Phase III Trial of Avelumab Maintenance After First-Line Induction Chemotherapy 
+Versus Continuation of Chemotherapy in Patients With Gastric Cancers: Results 
+From JAVELIN Gastric 100.
+
+Moehler M(1), Dvorkin M(2), Boku N(3), Özgüroğlu M(4), Ryu MH(5), Muntean AS(6), 
+Lonardi S(7), Nechaeva M(8), Bragagnoli AC(9), Coşkun HS(10), Cubillo Gracian 
+A(11)(12), Takano T(13), Wong R(14), Safran H(15), Vaccaro GM(16), Wainberg 
+ZA(17), Silver MR(18), Xiong H(18), Hong J(18), Taieb J(19), Bang YJ(20).
+
+Author information:
+(1)Department of Internal Medicine, Johannes-Gutenberg University, Mainz, 
+Germany.
+(2)Department of Oncology, Budgetary Healthcare Institution of Omsk Region 
+Clinical Oncology Dispensary, Omsk, Russian Federation.
+(3)National Cancer Center Hospital, Tokyo, Japan.
+(4)Clinical Trial Unit, Division of Medical Oncology, Department of Internal 
+Medicine, Cerrahpaşa Medical Faculty, Istanbul University-Cerrahpaşa, Istanbul, 
+Turkey.
+(5)Department of Oncology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Republic of Korea.
+(6)Department of Research, Oncology Institute Prof Dr Ion Chiricuţă, Cluj 
+Napoca, Romania.
+(7)Dipartimento di Oncologia Clinica e Sperimentale, Istituto Oncologico Veneto, 
+Istituto di Ricovero e Cura a Carattere Scientifico, Padova, Italy.
+(8)Arkhangelsk Clinical Oncological Dispensary, State Budgetary Healthcare 
+Institution of Arkhangelsk Region, Arkhangelsk, Russian Federation.
+(9)Hospital de Câncer de Barretos-Fundação Pio XII, São Paulo, Brazil.
+(10)Department of Medical Oncology, Akdeniz University Medical Faculty, Antalya, 
+Turkey.
+(11)Hospital Universitario HM Sanchinarro, Madrid, Spain.
+(12)CEU Universidad San Pablo, Madrid, Spain.
+(13)Toranomon Hospital, Tokyo, Japan.
+(14)Eastern Health, Box Hill Hospital, Monash University, Melbourne, Victoria, 
+Australia.
+(15)Rhode Island Hospital, Brown University, Providence, RI.
+(16)Oregon Health & Science University, Portland, OR.
+(17)Ronald Reagan University of California Los Angeles Medical Center, Santa 
+Monica, CA.
+(18)EMD Serono Research & Development Institute, Inc, Billerica, MA; an 
+affiliate of Merck KGaA, Darmstadt, Germany.
+(19)Department of Gastroenterology and Digestive Oncology, Georges-Pompidou 
+European Hospital, Assistance Publique-Hôpitaux de Paris, Université de Paris, 
+Paris, France.
+(20)Seoul National University Hospital, Seoul, Republic of Korea.
+
+PURPOSE: The role of maintenance therapy for gastric (GC) or gastroesophageal 
+junction cancer (GEJC) is unclear. We investigated avelumab (anti-programmed 
+death ligand-1 [PD-L1]) maintenance after first-line induction chemotherapy for 
+GC/GEJC.
+PATIENTS AND METHODS: JAVELIN Gastric 100 was a global, open-label, phase III 
+trial. Eligible patients had untreated, unresectable, human epidermal growth 
+factor receptor 2-negative, locally advanced or metastatic GC or GEJC. Patients 
+without progressive disease after 12 weeks of first-line chemotherapy with 
+oxaliplatin plus a fluoropyrimidine were randomly assigned 1:1 to avelumab 10 
+mg/kg every 2 weeks or continued chemotherapy, stratified by region (Asia v 
+non-Asia). The primary end point was overall survival (OS) after induction 
+chemotherapy in all randomly assigned patients or the PD-L1-positive randomly 
+assigned population (≥ 1% of tumor cells; 73-10 assay).
+RESULTS: A total of 805 patients received induction; 499 were randomly assigned 
+to avelumab (n = 249) or continued chemotherapy (n = 250). Median OS was 10.4 
+months (95% CI, 9.1 to 12.0 months) versus 10.9 months (95% CI, 9.6 to 12.4 
+months) and 24-month OS rate was 22.1% versus 15.5% with avelumab versus 
+chemotherapy, respectively (hazard ratio [HR], 0.91; 95% CI, 0.74 to 1.11; P = 
+.1779). In the PD-L1-positive population (n = 54), the HR for OS was 1.13 (95% 
+CI, 0.57 to 2.23; P = .6352). In an exploratory analysis of the PD-L1-positive 
+population, defined as combined positive score ≥ 1 (22C3 assay; n = 137), median 
+OS was 14.9 months (95% CI, 8.7 to 17.3 months) with avelumab versus 11.6 months 
+(95% CI, 8.4 to 12.6 months) with chemotherapy (unstratified HR, 0.72; 95% CI, 
+0.49 to 1.05). With avelumab and chemotherapy, treatment-related adverse events 
+(TRAEs) occurred in 149 (61.3%) and 184 (77.3%) patients, including grade ≥ 3 
+TRAEs in 31 (12.8%) and 78 (32.8%) patients, respectively.
+CONCLUSION: JAVELIN Gastric 100 did not demonstrate superior OS with avelumab 
+maintenance versus continued chemotherapy in patients with advanced GC or GEJC 
+overall or in a prespecified PD-L1-positive population.
+
+DOI: 10.1200/JCO.20.00892
+PMCID: PMC8078426
+PMID: 33197226 [Indexed for MEDLINE]

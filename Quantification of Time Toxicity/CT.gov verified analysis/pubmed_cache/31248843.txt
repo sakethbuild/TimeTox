@@ -1,0 +1,125 @@
+5. Lancet Haematol. 2019 Aug;6(8):e409-e418. doi: 10.1016/S2352-3026(19)30088-2. 
+Epub 2019 Jun 24.
+
+Addition of sirolimus to standard cyclosporine plus mycophenolate mofetil-based 
+graft-versus-host disease prophylaxis for patients after unrelated 
+non-myeloablative haemopoietic stem cell transplantation: a multicentre, 
+randomised, phase 3 trial.
+
+Sandmaier BM(1), Kornblit B(2), Storer BE(3), Olesen G(4), Maris MB(5), Langston 
+AA(6), Gutman JA(7), Petersen SL(8), Chauncey TR(9), Bethge WA(10), Pulsipher 
+MA(11), Woolfrey AE(12), Mielcarek M(12), Martin PJ(12), Appelbaum FR(12), 
+Flowers MED(12), Maloney DG(12), Storb R(12).
+
+Author information:
+(1)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA; Division of Medical Oncology, Department of Medicine, University of 
+Washington, Seattle, WA, USA. Electronic address: bsandmai@fredhutch.org.
+(2)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA; Department of Haematology, Rigshospitalet, Copenhagen, Denmark.
+(3)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA.
+(4)Department of Hematology and Department of Clinical Medicine, Aarhus 
+Hospital, Aarhus, Denmark.
+(5)Colorado Blood Cancer Institute, Denver, CO, USA.
+(6)Hematology and Medical Oncology, Winship Cancer Institute, Emory University 
+School of Medicine, Atlanta, GA, USA.
+(7)Division of Hematology, University of Colorado School of Medicine, Aurora, 
+CO, USA.
+(8)Department of Haematology, Rigshospitalet, Copenhagen, Denmark.
+(9)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA; Division of Medical Oncology, Department of Medicine, University of 
+Washington, Seattle, WA, USA; Marrow Transplant Unit, VA Puget Sound Health Care 
+System, Seattle, WA, USA.
+(10)Department of Internal Medicine II - Hematology and Oncology, University 
+Hospital of Eberhard Karls University, Tuebingen, Germany.
+(11)Division of Hematology, Oncology and Blood and Marrow Transplantation, 
+Children's Hospital Los Angeles, Keck School of Medicine of USC, Los Angeles, 
+CA, USA.
+(12)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA; Division of Medical Oncology, Department of Medicine, University of 
+Washington, Seattle, WA, USA.
+
+Comment in
+    Lancet Haematol. 2019 Aug;6(8):e387-e388. doi: 
+10.1016/S2352-3026(19)30108-5.
+
+BACKGROUND: Acute graft-versus-host-disease (GVHD) after non-myeloablative human 
+leucocyte antigen (HLA)-matched, unrelated donor, allogeneic haemopoietic stem 
+cell transplantation (HSCT) is associated with considerable morbidity and 
+mortality. This trial aimed to evaluate the efficacy of adding sirolimus to the 
+standard cyclosporine and mycophenolate mofetil prophylaxis therapy for 
+preventing acute GVHD in this setting.
+METHODS: This multicentre, randomised, phase 3 trial took place at nine HSCT 
+centres based in the USA, Denmark, and Germany. Eligible patients were diagnosed 
+with advanced haematological malignancies treatable by allogeneic HSCT, had a 
+Karnofsky score greater than or equal to 60, were aged older than 50 years, or 
+if they were aged 50 years or younger, were considered at high risk of 
+regimen-related toxicity associated with a high-dose pre-transplantation 
+conditioning regimen. Patients were randomly allocated by an adaptive 
+randomisation scheme stratified by transplantation centre to receive either the 
+standard GVHD prophylaxis regimen (cyclosporine and mycophenolate mofetil) or 
+the triple-drug combination regimen (cyclosporine, mycophenolate mofetil, and 
+sirolimus). Patients and physicians were not masked to treatment. All patients 
+were prepared for HSCT with fludarabine (30 mg/m2 per day) 4, 3, and 2 days 
+before receiving 2 or 3 Gy total body irradiation on the day of HSCT (day 0). In 
+both study groups, 5·0 mg/kg of cyclosporine was administered orally twice daily 
+starting 3 days before HSCT, and (in the absence of GVHD) tapered from day 96 
+through to day 150. In the standard GVHD prophylaxis group, 15 mg/kg of 
+mycophenolate mofetil was given orally three times daily from day 0 until day 
+30, then twice daily until day 150, and (in the absence of GVHD) tapered off by 
+day 180. In the triple-drug group, mycophenolate mofetil doses were the same as 
+in the standard group, but the drug was discontinued on day 40. Sirolimus was 
+started 3 days before HSCT, taken orally at 2 mg once daily and adjusted to 
+maintain trough concentrations between 3-12 ng/mL through to day 150, and (in 
+the absence of GVHD) tapered off by day 180. The primary endpoint was the 
+cumulative incidence of grade 2-4 acute GVHD at day 100 post-transplantation. 
+Secondary endpoints were non-relapse mortality, overall survival, 
+progression-free survival, cumulative incidence of grade 3-4 acute GVHD, and 
+cumulative incidence of chronic GVHD. Efficacy and safety analyses were per 
+protocol, including all patients who received conditioning treatment and 
+underwent transplantation. Toxic effects were measured according to the Common 
+Terminology Criteria for Adverse Events (CTCAE). The current study was closed 
+prematurely by recommendation of the Data and Safety Monitoring Board on July 
+27, 2016, after 168 patients received the allocated intervention, based on the 
+results of a prespecified interim analysis for futility. This study is 
+registered with ClinicalTrials.gov, number NCT01231412.
+FINDINGS: Participants were recruited between Nov 1, 2010, and July 27, 2016. Of 
+180 patients enrolled in the study, 167 received the complete study intervention 
+and were included in safety and efficacy analyses: 77 patients in the standard 
+GVHD prophylaxis group and 90 in the triple-drug group. At the time of analysis, 
+median follow-up was 48 months (IQR 31-60). The cumulative incidence of grade 
+2-4 acute GVHD at day 100 was lower in the triple-drug group compared with the 
+standard GVHD prophylaxis group (26% [95% CI 17-35] in the triple-drug group vs 
+52% [41-63] in the standard group; HR 0·45 [95% CI 0·28-0·73]; p=0·0013). After 
+1 and 4 years, non-relapse mortality increased to 4% (95% CI 0-9) and 16% (8-24) 
+in the triple-drug group and 16% (8-24) and 32% (21-43) in the standard group 
+(HR 0·48 [0·26-0·90]; p=0·021). Overall survival at 1 year was 86% (95% CI 
+78-93) in the triple-drug group and 70% in the standard group (60-80) and at 4 
+years it was 64% in the triple-drug group (54-75) and 46% in the standard group 
+(34-57%; HR 0·62 [0·40-0·97]; p=0·035). Progression-free survival at 1 year was 
+77% (95% CI 68-85) in the triple-drug group and 64% (53-74) in the standard drug 
+group, and at 4 years it was 59% in the triple-drug group (49-70) and 41% in the 
+standard group (30-53%; HR 0·64 [0·42-0·99]; p=0·045). We observed no difference 
+in the cumulative incidence of grade 3-4 acute GVHD (2% [0-5] in the triple-drug 
+group vs 8% [2-14] in the standard group; HR 0·55 [0·16-1·96]; p=0·36) and 
+chronic GVHD (49% [39-59] in triple-drug group vs 50% [39-61] in the standard 
+group; HR 0·94 [0·62-1·40]; p=0·74). In both groups the most common CTCAE grade 
+4 or higher toxic effects were pulmonary.
+INTERPRETATION: Adding sirolimus to cyclosporine and mycophenolate mofetil 
+resulted in a significantly lower proportion of patients developing acute GVHD 
+compared with patients treated with cyclosporine and mycophenolate mofetil 
+alone. Based on these results, the combination of cyclosporine, mycophenolate 
+mofetil, and sirolimus has become the new standard GVHD prophylaxis regimen for 
+patients treated with non-myeloablative conditioning and HLA-matched unrelated 
+HSCT at the Fred Hutchinson Cancer Research Center.
+FUNDING: National Institutes of Health.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2352-3026(19)30088-2
+PMCID: PMC6686903
+PMID: 31248843 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors have no 
+conflicts of interest to declare.

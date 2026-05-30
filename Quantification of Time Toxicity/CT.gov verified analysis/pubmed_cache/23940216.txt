@@ -1,0 +1,62 @@
+7. J Clin Oncol. 2013 Sep 10;31(26):3212-8. doi: 10.1200/JCO.2012.47.2464. Epub 
+2013 Aug 12.
+
+Phase III randomized trial comparing the efficacy of cediranib as monotherapy, 
+and in combination with lomustine, versus lomustine alone in patients with 
+recurrent glioblastoma.
+
+Batchelor TT(1), Mulholland P, Neyns B, Nabors LB, Campone M, Wick A, Mason W, 
+Mikkelsen T, Phuphanich S, Ashby LS, Degroot J, Gattamaneni R, Cher L, Rosenthal 
+M, Payer F, Jürgensmeier JM, Jain RK, Sorensen AG, Xu J, Liu Q, van den Bent M.
+
+Author information:
+(1)Tracy T. Batchelor, Rakesh K. Jain, and Gregory Sorensen, Massachusetts 
+General Hospital, Boston, MA; Paul Mulholland, University College London, 
+London; Rao Gattamaneni, the Christie Foundation Trust Hospital, Manchester, 
+United Kingdom; Bart Neyns, Universitair Ziekenhuis Brussel, Brussels, Belgium; 
+L. Burt Nabors, University of Alabama at Birmingham, Birmingham, AL; Mario 
+Campone, Centre Rene Gauducheau, Saint-Herblain, France; Antje Wick, University 
+of Heidelberg, Heidelberg, Germany; Warren Mason, Princess Margaret Hospital, 
+Toronto, Ontario, Canada; Tom Mikkelsen, Henry Ford Hospital, Detroit, MI; 
+Surasak Phuphanich, Cedars-Sinai Medical Center, Los Angeles, CA; Lynn S. Ashby, 
+Barrow Neurological Institute, Phoenix, AZ; John DeGroot, MD Anderson Cancer 
+Center, Houston, TX; Lawrence Cher, Austin Health Cancer Services; Mark 
+Rosenthal, Royal Melbourne Hospital, Melbourne, Australia; Franz Payer, Medical 
+University, Graz, Austria; Juliane M. Jürgensmeier, John Xu, and Qi Liu, 
+AstraZeneca, Wilmington, DE; and Martin van den Bent, Erasmus University Medical 
+Center-Daniel den Hoed Cancer Center, Rotterdam, the Netherlands.
+
+Comment in
+    J Clin Oncol. 2014 Jul 20;32(21):2273-4. doi: 10.1200/JCO.2013.54.2878.
+    J Clin Oncol. 2014 Jul 20;32(21):2272. doi: 10.1200/JCO.2013.54.0088.
+
+PURPOSE: A randomized, phase III, placebo-controlled, partially blinded clinical 
+trial (REGAL [Recent in in Glioblastoma Alone and With Lomustine]) was conducted 
+to determine the efficacy of cediranib, an oral pan-vascular endothelial growth 
+factor (VEGF) receptor tyrosine kinase inhibitor, either as monotherapy or in 
+combination with lomustine versus lomustine in patients with recurrent 
+glioblastoma.
+PATIENTS AND METHODS: Patients (N = 325) with recurrent glioblastoma who 
+previously received radiation and temozolomide were randomly assigned 2:2:1 to 
+receive (1) cediranib (30 mg) monotherapy; (2) cediranib (20 mg) plus lomustine 
+(110 mg/m(2)); (3) lomustine (110 mg/m(2)) plus a placebo. The primary end point 
+was progression-free survival based on blinded, independent radiographic 
+assessment of postcontrast T1-weighted and noncontrast T2-weighted magnetic 
+resonance imaging (MRI) brain scans.
+RESULTS: The primary end point of progression-free survival (PFS) was not 
+significantly different for either cediranib alone (hazard ratio [HR] = 1.05; 
+95% CI, 0.74 to 1.50; two-sided P = .90) or cediranib in combination with 
+lomustine (HR = 0.76; 95% CI, 0.53 to 1.08; two-sided P = .16) versus lomustine 
+based on independent or local review of postcontrast T1-weighted MRI.
+CONCLUSION: This study did not meet its primary end point of PFS prolongation 
+with cediranib either as monotherapy or in combination with lomustine versus 
+lomustine in patients with recurrent glioblastoma, although cediranib showed 
+evidence of clinical activity on some secondary end points including time to 
+deterioration in neurologic status and corticosteroid-sparing effects.
+
+DOI: 10.1200/JCO.2012.47.2464
+PMCID: PMC4021043
+PMID: 23940216 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

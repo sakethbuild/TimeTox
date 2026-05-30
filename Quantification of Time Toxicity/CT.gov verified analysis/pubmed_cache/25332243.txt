@@ -1,0 +1,71 @@
+5. J Clin Oncol. 2014 Nov 20;32(33):3771-8. doi: 10.1200/JCO.2013.53.1590. Epub 
+2014 Oct 20.
+
+Southwest Oncology Group S0008: a phase III trial of high-dose interferon 
+Alfa-2b versus cisplatin, vinblastine, and dacarbazine, plus interleukin-2 and 
+interferon in patients with high-risk melanoma--an intergroup study of cancer 
+and leukemia Group B, Children's Oncology Group, Eastern Cooperative Oncology 
+Group, and Southwest Oncology Group.
+
+Flaherty LE(1), Othus M(2), Atkins MB(2), Tuthill RJ(2), Thompson JA(2), Vetto 
+JT(2), Haluska FG(2), Pappo AS(2), Sosman JA(2), Redman BG(2), Moon J(2), Ribas 
+A(2), Kirkwood JM(2), Sondak VK(2).
+
+Author information:
+(1)Lawrence E. Flaherty, Wayne State University, Detroit; Bruce G. Redman, 
+University of Michigan, Ann Arbor, MI; Megan Othus, James Moon, Southwest 
+Oncology Group Statistical Center; John A. Thompson, Seattle Cancer Care 
+Alliance, Seattle, WA; Michael B. Atkins, Georgetown University Hospital, 
+Washington DC; Ralph J. Tuthill, Cleveland Clinic Foundation, Cleveland, OH; 
+John T. Vetto, Oregon Health & Science University/Knight Cancer Institute, 
+Portland, OR; Frank G. Haluska, Tufts-New England Medical Center, Boston, MA; 
+Alberto S. Pappo, Texas Children's Cancer Center, Houston, TX; Jeffrey A. 
+Sosman, Vanderbilt University School of Medicine Nashville, TN; Antoni Ribas, 
+University of California Los Angeles, Los Angeles, CA; John M. Kirkwood, 
+University of Pittsburgh Medical Center, Pittsburgh, PA; Vernon K. Sondak, H. 
+Lee Moffitt Cancer Center, Tampa, FL. flaherty@karmanos.org.
+(2)Lawrence E. Flaherty, Wayne State University, Detroit; Bruce G. Redman, 
+University of Michigan, Ann Arbor, MI; Megan Othus, James Moon, Southwest 
+Oncology Group Statistical Center; John A. Thompson, Seattle Cancer Care 
+Alliance, Seattle, WA; Michael B. Atkins, Georgetown University Hospital, 
+Washington DC; Ralph J. Tuthill, Cleveland Clinic Foundation, Cleveland, OH; 
+John T. Vetto, Oregon Health & Science University/Knight Cancer Institute, 
+Portland, OR; Frank G. Haluska, Tufts-New England Medical Center, Boston, MA; 
+Alberto S. Pappo, Texas Children's Cancer Center, Houston, TX; Jeffrey A. 
+Sosman, Vanderbilt University School of Medicine Nashville, TN; Antoni Ribas, 
+University of California Los Angeles, Los Angeles, CA; John M. Kirkwood, 
+University of Pittsburgh Medical Center, Pittsburgh, PA; Vernon K. Sondak, H. 
+Lee Moffitt Cancer Center, Tampa, FL.
+
+PURPOSE: High-dose interferon (IFN) for 1 year (HDI) is the US Food and Drug 
+Administration-approved adjuvant therapy for patients with high-risk melanoma. 
+Efforts to modify IFN dose and schedule have not improved efficacy. We sought to 
+determine whether a shorter course of biochemotherapy would be more effective.
+PATIENTS AND METHODS: S0008 (S0008: Chemotherapy Plus Biological Therapy in 
+Treating Patients With Melanoma) was an Intergroup phase III trial that enrolled 
+high-risk patients (stage IIIA-N2a through IIIC-N3), randomly assigning them to 
+receive either HDI or biochemotherapy consisting of dacarbazine, cisplatin, 
+vinblastine, interleukin-2, IFN alfa-2b (IFN-α-2b) and granulocyte 
+colony-stimulating factor given every 21 days for three cycles. Coprimary end 
+points were relapse-free survival (RFS) and overall survival (OS).
+RESULTS: In all, 432 patients were enrolled. Grade 3 and 4 adverse events 
+occurred in 57% and 7% of HDI patients and 36% and 40% of biochemotherapy 
+patients, respectively. At a median follow-up of 7.2 years, biochemotherapy 
+improved RFS (hazard ratio [HR], 0.75; 95% CI, 0.58 to 0.97; P = .015), with a 
+median RFS of 4.0 years (95% CI, 1.9 years to not reached [NR]) versus 1.9 years 
+for HDI (95% CI, 1.2 to 2.8 years) and a 5-year RFS of 48% versus 39%. Median OS 
+was not different (HR, 0.98; 95% CI, 0.74 to 1.31; P = .55), with a median OS of 
+9.9 years (95% CI, 4.62 years to NR) for biochemotherapy versus 6.7 years (95% 
+CI, 4.5 years to NR) for HDI and a 5-year OS of 56% for both arms.
+CONCLUSION: Biochemotherapy is a shorter, alternative adjuvant treatment for 
+patients with high-risk melanoma that provides statistically significant 
+improvement in RFS but no difference in OS and more toxicity compared with HDI.
+
+© 2014 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2013.53.1590
+PMCID: PMC4226807
+PMID: 25332243 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

@@ -1,0 +1,115 @@
+8. N Engl J Med. 2011 Oct 6;365(14):1273-83. doi: 10.1056/NEJMoa0910383.
+
+Adjuvant trastuzumab in HER2-positive breast cancer.
+
+Slamon D(1), Eiermann W, Robert N, Pienkowski T, Martin M, Press M, Mackey J, 
+Glaspy J, Chan A, Pawlicki M, Pinter T, Valero V, Liu MC, Sauter G, von 
+Minckwitz G, Visco F, Bee V, Buyse M, Bendahmane B, Tabah-Fisch I, Lindsay MA, 
+Riva A, Crown J; Breast Cancer International Research Group.
+
+Collaborators: Cassanello G, Fein L, Giacomi N, Korbenfeld E, Justina M, 
+Mickievicz E, Abdi Toowoomba E, Bayliss E, Begbie S, Beith J, Chan A, Van Hazel 
+G, Chirgwin J, Claringbold P, Clingan P, Craft P, Dalley D, De Boer R, Dewar J, 
+Ganju V, Gauden S, Green M, Grimes D, Kannourakis G, Koczwara B, Kotasek D, 
+Lewis C, Links M, Mccarthy N, Ransom D, Richardson G, Schwarz M, Selva-Nayagan 
+S, Olver I, Stewart J, Sullivan A, White M, Woodward N, Young R, Dittrich C, 
+Sevelda P, Cocquyt V, Demol J, Dirix L, Mebis J, Verhoeven D, Vermorken J, 
+Beslija S, Ferrari BL, Lago S, Sanches SM, Anelli A, Schwartsmann G, Timcheva K, 
+Tzekova V, Dorreen M, Dufresne J, Klimo P, Latreille J, Lopez P, Mackinnon J, 
+Zibdawi L, Potvin C, Provencher L, Roy J, Sehdev S, Smylie M, Wilson J, Jimenez 
+A, Rodolpho Gomez L, Sanchez O, Vargas Baéz C, Grgic M, Markulin-Grgic L, 
+Mrsic-Krmpotic Z, Vrdoljak E, Kakouri E, Petruzelka L, Stefanek I, Vodvarka P, 
+Vyzula R, Azim H, el-Khodary A, Padrik P, Valvere V, Bonneterre J, Vanlemmens L, 
+Bressac C, Cals L, Campone M, Carola E, Colin P, Dalivoust P, Dutel J, Ferrero 
+J, Namer M, Gligorov J, Guastalla J, Jaubert D, Khayat D, Levy E, Priou F, Roché 
+H, Schaeffer F, Tournigand C, Valenza B, Vannetzel J, Baumann K, Breitbach GP, 
+Brunnert K, Camara O, Carstensen M, Christensen B, Clemens M, Conrad B, Du Bois 
+A, Eiermann W, Feltz-Süssenbach J, Hempel D, Henschen S, Herbstreit C, Hilfrich 
+J, Jonat W, Keil E, Morack G, Kettner E, Kiesel L, Klare P, Kretzschmar A, 
+Kristen P, Kunz S, Kullmer U, Kurzeja J, Souchon R, Lichtenegger W, Lürmann K, 
+Meinerz W, Müller T, Zippel, Nestle-Krämling C, Dall P, Prell W, Reimer T, 
+Gerber B, Scharl A, Schmidt W, Schneeweiss A, Bastert J, Schweppe K, Tessen H, 
+Tome O, Meerpohl MG, Von Minckwitz G, Kaufman B, Wiest W, Winzer K, Wolf H, 
+Zedelius M, Efremidis A, Georgoulias V, Kwong A, Chow L, Boer K, Baki M, Dank M, 
+Pinter T, Szanto M, Advani S, Doval D, Gupta S, Julka P, Ranade A, Crown J, 
+Grogan L, Janku F, Keane M, Kennedy J, Mc Caffrey J, O'Reilly S, Breathnach O, 
+Barak F, Efrat N, Fried G, Goldberg H, Geffen D, Isacson R, Kaufman B, Rizel S, 
+Safra T, Steiner M, Barone C, Bonetti A, Gamucci T, Gasparini G, Iaffaioli R, 
+Marangolo M, Massacesi C, Moscietti L, Nardi M, Panetta A, Geminiani ML, 
+Ravaioli A, Abi Gerges D, Chahine GY, Ghosn M, Saghir N, Chan C, Silva A, Valle 
+A, Harvey V, Isaacs R, Jameson M, Czerepinska A, Karnicka-Mlodkowska H, 
+Pienkowski T, Rolski J, Pawlicki M, Wojtukievicz M, Zaluski J, Badulescu F, 
+Ghilezan N, Roman L, Stanculeanu D, Gutulescu N, Garin A, Gorbunova V, 
+Semiglazov V, Koza I, Korec S, Spanik S, Matos E, Cufer T, Takac I, Beltchev E, 
+De Bruyne R, Maart K, Jacobs CR, Moodley S, Pienaar R, Rapoport B, Slabber C, 
+Ahn J, Kim MW, Bang Y, Choi J, Ho-Yeong L, Im Y, Sil Ro J, Adrover E, Alba E, 
+Albiol Rodríguez S, Ales Martinez J, Alonso Romero J, Alvarez Lopez I, Aranda E, 
+Arcusa Lanza A, Baena Canada J, Calvo Martinez L, Crespo Massieu C, Dominguez S, 
+Florian Gerico J, Jara Sanchez C, Lobo F, Margeli Vila M, Martin M, Mel Lorenzo 
+J, Oltra Ferrando A, Pelegri A, Fornander T, Aapro M, Chao T, Liu MC, Frikha M, 
+Mezlini A, Aydiner A, Ozisik Y, Baltali E, Chan S, Carmichael J, Sherwin L, 
+Wardley A, Krygier G, Rodriguez Lemes R, Abubakr Y, Adler M, Ansari R, Arena F, 
+Beall C, Beattie J, Pluard T, Berdeaux D, Bianco A, Brufsky A, Burris H, Carroll 
+RR, Chakrabarti A, Chitneni S, Chap L, Chowhan N, Cobb P, Diaz-Lacayo M, Hussein 
+A, Dreisbach P, Fain J, Kerr R, Falkson C, Fesen M, Gluck S, Tang SC, Gonzalez 
+A, Goodman J, Greenwald D, Hajdenberg J, Hoffman S, Holmes F, Hurvitz S, 
+Jhangiani H, Jones M, Justice G, Juturi J, Kalman L, Kennedy P, Kincaid W, Klein 
+L, Koneru K, Lange M, Laufman L, Lemon R, Limentani S, Link J, Forsthoff C, 
+Lower E, Malamud S, Mcandrew P, Mccroskey R, Mckeen EA, Mena R, Mills K, Modiano 
+M, Moore T, Moroose R, Moss R, Nair B, Neel J, Olopade O, Orlowski R, Page R, 
+Patel D, Patton A, Perez A, Perkins C, Petruska P, Philip J, Polikoff J, Posada 
+J, Young RR, Rahman Z, Rangineni R, Reich E, Reiling R, Foulke R, Rinaldi D, 
+Robert N, Robertson P, Osborn D, Rodriguez G, Rubin P, Russell C, Saleh M, Savin 
+M, Schleider M, Schwartzberg L, Shaffer D, Shiftan T, Silverman P, Overmoyer B, 
+Slamon D, Smith J, Solky A, Boros L, Sparano J, Sylvester L, Tansino G, 
+Tchekmedyian S, Tezcan H, Ulrich N, Valero V, Vargas-Cuba R, Campbell L, Vaughn 
+C, Vogel C, Waintraub S, Wallmark J, Wierman A, Torotouglou N, Yunus F, Yost K, 
+Zaren H, De Jongh C, Vera Gimon R.
+
+Author information:
+(1)Jonsson Comprehensive Cancer Center, University of California–Los Angeles, 
+Los Angeles, CA 90095-1678, USA. dslamon@mednet.ucla.edu
+
+Comment in
+    N Engl J Med. 2011 Oct 6;365(14):1336-8. doi: 10.1056/NEJMe1101326.
+    N Engl J Med. 2012 Feb 16;366(7):663; author reply 664-6. doi: 
+10.1056/NEJMc1112823.
+    N Engl J Med. 2012 Feb 16;366(7):663-4; author reply 664-6. doi: 
+10.1056/NEJMc1112823.
+    N Engl J Med. 2012 Feb 16;366(7):664; author reply 664-6. doi: 
+10.1056/NEJMc1112823.
+    N Engl J Med. 2012 Feb 16;366(7):664; author reply 664-6. doi: 
+10.1056/NEJMc1112823.
+
+BACKGROUND: Trastuzumab improves survival in the adjuvant treatment of 
+HER-positive breast cancer, although combined therapy with anthracycline-based 
+regimens has been associated with cardiac toxicity. We wanted to evaluate the 
+efficacy and safety of a new nonanthracycline regimen with trastuzumab.
+METHODS: We randomly assigned 3222 women with HER2-positive early-stage breast 
+cancer to receive doxorubicin and cyclophosphamide followed by docetaxel every 3 
+weeks (AC-T), the same regimen plus 52 weeks of trastuzumab (AC-T plus 
+trastuzumab), or docetaxel and carboplatin plus 52 weeks of trastuzumab (TCH). 
+The primary study end point was disease-free survival. Secondary end points were 
+overall survival and safety.
+RESULTS: At a median follow-up of 65 months, 656 events triggered this 
+protocol-specified analysis. The estimated disease-free survival rates at 5 
+years were 75% among patients receiving AC-T, 84% among those receiving AC-T 
+plus trastuzumab, and 81% among those receiving TCH. Estimated rates of overall 
+survival were 87%, 92%, and 91%, respectively. No significant differences in 
+efficacy (disease-free or overall survival) were found between the two 
+trastuzumab regimens, whereas both were superior to AC-T. The rates of 
+congestive heart failure and cardiac dysfunction were significantly higher in 
+the group receiving AC-T plus trastuzumab than in the TCH group (P<0.001). Eight 
+cases of acute leukemia were reported: seven in the groups receiving the 
+anthracycline-based regimens and one in the TCH group subsequent to receiving an 
+anthracycline outside the study.
+CONCLUSIONS: The addition of 1 year of adjuvant trastuzumab significantly 
+improved disease-free and overall survival among women with HER2-positive breast 
+cancer. The risk-benefit ratio favored the nonanthracycline TCH regimen over 
+AC-T plus trastuzumab, given its similar efficacy, fewer acute toxic effects, 
+and lower risks of cardiotoxicity and leukemia. (Funded by Sanofi-Aventis and 
+Genentech; BCIRG-006 ClinicalTrials.gov number, NCT00021255.).
+
+DOI: 10.1056/NEJMoa0910383
+PMCID: PMC3268553
+PMID: 21991949 [Indexed for MEDLINE]

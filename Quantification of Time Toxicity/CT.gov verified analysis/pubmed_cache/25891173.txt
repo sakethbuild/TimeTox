@@ -1,0 +1,60 @@
+15. N Engl J Med. 2015 Jun 25;372(26):2521-32. doi: 10.1056/NEJMoa1503093. Epub
+2015  Apr 19.
+
+Pembrolizumab versus Ipilimumab in Advanced Melanoma.
+
+Robert C(1), Schachter J, Long GV, Arance A, Grob JJ, Mortier L, Daud A, Carlino 
+MS, McNeil C, Lotem M, Larkin J, Lorigan P, Neyns B, Blank CU, Hamid O, Mateus 
+C, Shapira-Frommer R, Kosh M, Zhou H, Ibrahim N, Ebbinghaus S, Ribas A; 
+KEYNOTE-006 investigators.
+
+Collaborators: Carlino MS, Cebon J, Hersey P, Long G, McNeil C, Millward M, 
+Walpole E, Höller C, Kehrer H, Richtig E, Schmuth M, Baurain JF, Neyns B, Wolter 
+P, Butler M, McWhirter E, Miller W, Petrella T, Acevedo A, Caglevic C, Morales 
+L, Sanchez J, Yepes A, Zambrano AR, Avril MF, Dutriaux C, Grob JJ, Guilot B, 
+Lacour JP, Leccia MT, Legoupil D, Lebbe C, Machet L, Mortier L, Robert C, 
+Berking C, Loquai C, Mohr P, Schadendorf D, Utikal J, Bar-Sela G, Lotem M, 
+Schachter J, Blank C, Barrow C, Fitzharris B, Kersten C, Nyakas M, Straume O, 
+Arance A, Berrocal A, Cortes J, Espinosa E, Lopez-Martin J, Martin-Algarra S, 
+Masucci G, Papworth K, Ullenhag G, Brown E, Chao D, Evans T, Larkin J, Lorigan 
+P, Middleton M, Skaria S, Steven N, Agarwala S, Bhatia S, Daud A, Gangadhar T, 
+Gonzalez R, Hamid O, Kumar P, Kuzel T, Lutzky J, O'Day S, Perry D, Pecora A, 
+Puzanov I, Ribas A, Slezak K, Sznol M, Tarhini A, Weiss G.
+
+Author information:
+(1)The authors' affiliations are listed in the Appendix.
+
+Comment in
+    Nat Rev Clin Oncol. 2015 Jul;12(7):371. doi: 10.1038/nrclinonc.2015.85.
+
+BACKGROUND: The immune checkpoint inhibitor ipilimumab is the standard-of-care 
+treatment for patients with advanced melanoma. Pembrolizumab inhibits the 
+programmed cell death 1 (PD-1) immune checkpoint and has antitumor activity in 
+patients with advanced melanoma.
+METHODS: In this randomized, controlled, phase 3 study, we assigned 834 patients 
+with advanced melanoma in a 1:1:1 ratio to receive pembrolizumab (at a dose of 
+10 mg per kilogram of body weight) every 2 weeks or every 3 weeks or four doses 
+of ipilimumab (at 3 mg per kilogram) every 3 weeks. Primary end points were 
+progression-free and overall survival.
+RESULTS: The estimated 6-month progression-free-survival rates were 47.3% for 
+pembrolizumab every 2 weeks, 46.4% for pembrolizumab every 3 weeks, and 26.5% 
+for ipilimumab (hazard ratio for disease progression, 0.58; P<0.001 for both 
+pembrolizumab regimens versus ipilimumab; 95% confidence intervals [CIs], 0.46 
+to 0.72 and 0.47 to 0.72, respectively). Estimated 12-month survival rates were 
+74.1%, 68.4%, and 58.2%, respectively (hazard ratio for death for pembrolizumab 
+every 2 weeks, 0.63; 95% CI, 0.47 to 0.83; P=0.0005; hazard ratio for 
+pembrolizumab every 3 weeks, 0.69; 95% CI, 0.52 to 0.90; P=0.0036). The response 
+rate was improved with pembrolizumab administered every 2 weeks (33.7%) and 
+every 3 weeks (32.9%), as compared with ipilimumab (11.9%) (P<0.001 for both 
+comparisons). Responses were ongoing in 89.4%, 96.7%, and 87.9% of patients, 
+respectively, after a median follow-up of 7.9 months. Efficacy was similar in 
+the two pembrolizumab groups. Rates of treatment-related adverse events of grade 
+3 to 5 severity were lower in the pembrolizumab groups (13.3% and 10.1%) than in 
+the ipilimumab group (19.9%).
+CONCLUSIONS: The anti-PD-1 antibody pembrolizumab prolonged progression-free 
+survival and overall survival and had less high-grade toxicity than did 
+ipilimumab in patients with advanced melanoma. (Funded by Merck Sharp & Dohme; 
+KEYNOTE-006 ClinicalTrials.gov number, NCT01866319.).
+
+DOI: 10.1056/NEJMoa1503093
+PMID: 25891173 [Indexed for MEDLINE]

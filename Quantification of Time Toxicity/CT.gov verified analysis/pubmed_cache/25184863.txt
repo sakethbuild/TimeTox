@@ -1,0 +1,83 @@
+2. N Engl J Med. 2014 Sep 4;371(10):906-17. doi: 10.1056/NEJMoa1402551.
+
+Lenalidomide and dexamethasone in transplant-ineligible patients with myeloma.
+
+Benboubker L(1), Dimopoulos MA, Dispenzieri A, Catalano J, Belch AR, Cavo M, 
+Pinto A, Weisel K, Ludwig H, Bahlis N, Banos A, Tiab M, Delforge M, Cavenagh J, 
+Geraldes C, Lee JJ, Chen C, Oriol A, de la Rubia J, Qiu L, White DJ, Binder D, 
+Anderson K, Fermand JP, Moreau P, Attal M, Knight R, Chen G, Van Oostendorp J, 
+Jacques C, Ervin-Haynes A, Avet-Loiseau H, Hulin C, Facon T; FIRST Trial Team.
+
+Collaborators: Forsyth C, Presgrave P, Szer J, Durrant S, Campbell P, Mollee P, 
+Coghlan D, Wellwood J, Cannell P, Prince M, Eek R, Horvath N, Harrison S, 
+Renwick W, Thaler J, Petzer A, Kasparu H, Bauernhofer T, Meran J, Fridrik M, 
+Balcke P, Gisslinger H, Greil R, Doyen C, Meuleman N, Pierre P, Vekemans M, 
+Demuynck H, Wu K, Van Droogenbroeck J, Schots R, Offner F, Van de Velde A, 
+Leblanc R, Tosikyan A, Shustik C, Song K, Lemieux B, Minuk L, Lalancette M, 
+Cheung M, Noble M, Vanderjagt R, Desjardins P, Aucoin N, Dueck G, Yee A, Reiman 
+A, Kouroukis T, Assouline S, Al-Tourah A, Lu J, Chen W, Liu T, Shen Z, Alexis M, 
+Assouline D, Audhuy B, Azais I, Belhadj K, Benramdane R, Tempescul A, Boue F, 
+Rose C, Bourhis J, Bouscary D, Caillot D, Casassus P, De Renzis B, Genet P, De 
+Revel T, Dib M, Dorvaux V, Etienne G, Gabriel E, Eisenmann J, Fitoussi O, 
+Garderet L, Gaspard M, Sebban C, Glaisner S, Griffoul I, Decaux O, Herbrecht R, 
+Jaccard A, Jardel H, Kaphan R, Kolb B, Barbe M, Laribi K, Lenain P, Macro M, 
+Maisonneuve H, Pavy S, Marit G, Michallet M, Allangbam O, Mosser L, Pegourie B, 
+Rigaudeau S, Rodon P, Rossi J, Royer B, Eschard J, Stoppa A, Suc E, Thyss A, 
+Salles G, Vilque J, Voillat L, Voog E, Wetterwald M, Zarnitsky C, Junghanss C, 
+Dührsen U, Fenk R, Rummel M, Derigs HG, Zeis M, Mügge L, Ottmann O, Ostermann H, 
+Kropff M, Niederwieser D, Langer C, Röllig C, Panagiotidis P, Corso A, Di Renzo 
+N, Foa R, Fragasso A, Canepa L, Martinelli G, Gamberi B, Musso M, Petrini M, 
+Pisani F, Quarta G, Sacchi S, Tassone P, Lazzaro A, Ciceri F, Browett P, Romeril 
+K, Butler A, Parreira J, Martins A, Herlander M, Gonçalves C, Lee JH, Yoon S, 
+Eom H, Jo D, Kwak J, Ryoo H, Lee J, Kim SJ, Min CK, Suh C, Kim K, Lee W, Mun Y, 
+Kim HJ, Lahuerta-Palacios JJ, Lleonart J, Gonzalez MS, Bermudez-Rodriguez A, de 
+la Fuente F, Mateo-Morales M, Gonzalez-Montes Y, Hernandez-Maraver D, Clapés V, 
+Prosper-Cardoso F, Ramírez G, Casasus A, Granell M, Giraldo-Castellano P, 
+Echeveste-Gutierrez A, Palomera-Bernal L, Nahi H, Gruber A, Sjöö F, Leyvraz S, 
+Pabst T, Heim D, Bargetzi M, Cathomas R, Huang S, Yeh S, Chiou T, Ezaydi Y, 
+Littlewood T, Knechtli C, McQuaker G, Fegan C, Mehta A, Bird J, Ashcroft J, 
+Kazmi M, Hunter H, Cook M, Crawley C, Basu S, Hall R, Seale J, Bensinger W, 
+Coutre S, Priego V, Martin T, Kaplan H, Tirumali N, Dakhil S, Gupta M, Jacobson 
+R, Vogl D, Moezi M, Gravenor D, Yunus F, Guthrie T, Reu F, Catchatourian R, 
+Gabrail N, Nieva J, De la Puerta M, Ryan H.
+
+Author information:
+(1)The authors' affiliations are listed in the Appendix.
+
+Comment in
+    N Engl J Med. 2014 Sep 4;371(10):961-2. doi: 10.1056/NEJMe1407442.
+
+BACKGROUND: The combination melphalan-prednisone-thalidomide (MPT) is considered 
+a standard therapy for patients with myeloma who are ineligible for stem-cell 
+transplantation. However, emerging data on the use of lenalidomide and low-dose 
+dexamethasone warrant a prospective comparison of the two approaches.
+METHODS: We randomly assigned 1623 patients to lenalidomide and dexamethasone in 
+28-day cycles until disease progression (535 patients), to the same combination 
+for 72 weeks (18 cycles; 541 patients), or to MPT for 72 weeks (547 patients). 
+The primary end point was progression-free survival with continuous 
+lenalidomide-dexamethasone versus MPT.
+RESULTS: The median progression-free survival was 25.5 months with continuous 
+lenalidomide-dexamethasone, 20.7 months with 18 cycles of 
+lenalidomide-dexamethasone, and 21.2 months with MPT (hazard ratio for the risk 
+of progression or death, 0.72 for continuous lenalidomide-dexamethasone vs. MPT 
+and 0.70 for continuous lenalidomide-dexamethasone vs. 18 cycles of 
+lenalidomide-dexamethasone; P<0.001 for both comparisons). Continuous 
+lenalidomide-dexamethasone was superior to MPT for all secondary efficacy end 
+points, including overall survival (at the interim analysis). Overall survival 
+at 4 years was 59% with continuous lenalidomide-dexamethasone, 56% with 18 
+cycles of lenalidomide-dexamethasone, and 51% with MPT. Grade 3 or 4 adverse 
+events were somewhat less frequent with continuous lenalidomide-dexamethasone 
+than with MPT (70% vs. 78%). As compared with MPT, continuous 
+lenalidomide-dexamethasone was associated with fewer hematologic and neurologic 
+toxic events, a moderate increase in infections, and fewer second primary 
+hematologic cancers.
+CONCLUSIONS: As compared with MPT, continuous lenalidomide-dexamethasone given 
+until disease progression was associated with a significant improvement in 
+progression-free survival, with an overall survival benefit at the interim 
+analysis, among patients with newly diagnosed multiple myeloma who were 
+ineligible for stem-cell transplantation. (Funded by Intergroupe, Francophone du 
+Myélome and Celgene; FIRST ClinicalTrials.gov number, NCT00689936; European 
+Union Drug Regulating Authorities Clinical Trials number, 2007-004823-39.).
+
+DOI: 10.1056/NEJMoa1402551
+PMID: 25184863 [Indexed for MEDLINE]

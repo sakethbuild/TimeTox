@@ -1,0 +1,129 @@
+20. J Clin Oncol. 2021 Aug 10;39(23):2539-2551. doi: 10.1200/JCO.21.00976. Epub
+2021  Jun 6.
+
+Randomized Phase III Postoperative Trial of Platinum-Based Chemotherapy Versus 
+Capecitabine in Patients With Residual Triple-Negative Breast Cancer Following 
+Neoadjuvant Chemotherapy: ECOG-ACRIN EA1131.
+
+Mayer IA(1), Zhao F(2), Arteaga CL(3), Symmans WF(4), Park BH(1), Burnette 
+BL(5), Tevaarwerk AJ(6), Garcia SF(7), Smith KL(8), Makower DF(9), Block M(10), 
+Morley KA(11), Jani CR(12), Mescher C(13), Dewani SJ(14), Tawfik B(15), Flaum 
+LE(7), Mayer EL(16), Sikov WM(17), Rodler ET(18), Wagner LI(19), DeMichele 
+AM(20), Sparano JA(9), Wolff AC(8), Miller KD(21).
+
+Author information:
+(1)Vanderbilt University Medical Center, Vanderbilt-Ingram Cancer Center, 
+Nashville, TN.
+(2)Dana-Farber Cancer Institute, ECOG-ACRIN Biostatistics Center, Boston, MA.
+(3)UT Southwestern Simmons Cancer Center, Dallas, TX.
+(4)MD Anderson Cancer Center, Houston, TX.
+(5)Cancer Research of Wisconsin and Northern Michigan (CROWN) NCORP, Green Bay, 
+WI.
+(6)University of Wisconsin Carbone Cancer Center, Madison, WI.
+(7)Northwestern University, Evanston, IL.
+(8)Johns Hopkins University, Sidney Kimmel Cancer Center, Baltimore, MD.
+(9)Montefiore Medical Center, Bronx, NY.
+(10)Alegent Health Bergan Mercy Medical Center, Omaha, NE.
+(11)Saint Joseph Mercy Hospital, Ann Arbor, MI.
+(12)Phoebe Putney Memorial Hospital, Albany, GA.
+(13)Metro-Minnesota Community Oncology Research Consortium, St Louis Park, MN.
+(14)Columbus Oncology and Hematology Associates Inc, Columbus, OH.
+(15)University of New Mexico Cancer Center, Albuquerque, NM.
+(16)Dana-Farber Cancer Institute, Boston, MA.
+(17)Women and Infants Hospital of Rhode Island, Providence, RI.
+(18)University of California, Davis, Davis, CA.
+(19)Wake Forest University Health Sciences, Winston-Salem, NC.
+(20)University of Pennsylvania/Abramson Cancer Center, Philadelphia, PA.
+(21)Indiana University Melvin and Bren Simon Comprehensive Cancer Center, 
+Indianapolis, IN.
+
+Comment in
+    J Clin Oncol. 2021 Nov 1;39(31):3519-3521. doi: 10.1200/JCO.21.01537.
+    J Clin Oncol. 2021 Nov 1;39(31):3522-3524. doi: 10.1200/JCO.21.01905.
+    J Clin Oncol. 2021 Nov 1;39(31):3521-3522. doi: 10.1200/JCO.21.01757.
+
+PURPOSE: Patients with triple-negative breast cancer (TNBC) and residual 
+invasive disease (RD) after completion of neoadjuvant chemotherapy (NAC) have a 
+high-risk for recurrence, which is reduced by adjuvant capecitabine. Preclinical 
+models support the use of platinum agents in the TNBC basal subtype. The EA1131 
+trial hypothesized that invasive disease-free survival (iDFS) would not be 
+inferior but improved in patients with basal subtype TNBC treated with adjuvant 
+platinum compared with capecitabine.
+PATIENTS AND METHODS: Patients with clinical stage II or III TNBC with ≥ 1 cm RD 
+in the breast post-NAC were randomly assigned to receive platinum (carboplatin 
+or cisplatin) once every 3 weeks for four cycles or capecitabine 14 out of 21 
+days every 3 weeks for six cycles. TNBC subtype (basal v nonbasal) was 
+determined by PAM50 in the residual disease. A noninferiority design with 
+superiority alternative was chosen, assuming a 4-year iDFS of 67% with 
+capecitabine.
+RESULTS: Four hundred ten of planned 775 participants were randomly assigned to 
+platinum or capecitabine between 2015 and 2021. After median follow-up of 20 
+months and 120 iDFS events (61% of full information) in the 308 (78%) patients 
+with basal subtype TNBC, the 3-year iDFS for platinum was 42% (95% CI, 30 to 53) 
+versus 49% (95% CI, 39 to 59) for capecitabine. Grade 3 and 4 toxicities were 
+more common with platinum agents. The Data and Safety Monitoring Committee 
+recommended stopping the trial as it was unlikely that further follow-up would 
+show noninferiority or superiority of platinum.
+CONCLUSION: Platinum agents do not improve outcomes in patients with basal 
+subtype TNBC RD post-NAC and are associated with more severe toxicity when 
+compared with capecitabine. Participants had a lower than expected 3-year iDFS 
+regardless of study treatment, highlighting the need for better therapies in 
+this high-risk population.
+
+DOI: 10.1200/JCO.21.00976
+PMCID: PMC8577688
+PMID: 34092112 [Indexed for MEDLINE]
+
+Conflict of interest statement: Ingrid A. MayerConsulting or Advisory Role: 
+Novartis, AstraZeneca, Lilly, Genentech, GlaxoSmithKline, Immunomedics, 
+Macrogenics, Pfizer, AbbVie, Seattle Genetics, Puma Biotechnology, Cyclacel, 
+Blueprint MedicinesResearch Funding: Novartis, Pfizer, Genentech Carlos L. 
+ArteagaLeadership: American Association for Cancer ResearchStock and Other 
+Ownership Interests: Provista Diagnostics, Y-Trap IncConsulting or Advisory 
+Role: Novartis, Lilly, Sanofi, Radius Health, Taiho Pharmaceutical, Puma 
+Biotechnology, Merck, H3 Biomedicine, Symphogen, Origimed, Petra Pharma, Third 
+Rock Ventures, Immunomedics, Daiichi Sankyo, Athenex, G1 Therapeutics, Clovis 
+OncologyResearch Funding: Puma Biotechnology, Pfizer, Lilly, Radius Health, 
+Takeda, BayerOther Relationship: Susan G. Komen for the Cure William F. 
+SymmansStock and Other Ownership Interests: ISIS Pharmaceuticals, Nuvera 
+Biosciences, Delphi Diagnostics, Eiger BioPharmaceuticalsConsulting or Advisory 
+Role: Merck, Almac DiagnosticsPatents, Royalties, Other Intellectual Property: 
+Intellectual Property, Intellectual Property (expired)Travel, Accommodations, 
+Expenses: Luminex, MerckUncompensated Relationships: Delphi Diagnostics Ben H. 
+ParkLeadership: LoxoStock and Other Ownership Interests: Loxo, 
+CelcuityHonoraria: AstraZenecaConsulting or Advisory Role: Horizon Discovery, 
+Foundation Medicine, Loxo, Casdin Capital, H3 Biomedicine, Jackson Laboratory 
+for Genomic Medicine, Lilly, Celcuity, Sermonix Pharmaceuticals, 
+PathovaxResearch Funding: AbbVie, Pfizer, GE Healthcare, LillyPatents, 
+Royalties, Other Intellectual Property: Royalties paid through inventions at 
+Johns Hopkins University by Horizon Discovery LtdTravel, Accommodations, 
+Expenses: Lilly, LoxoUncompensated Relationships: Tempus Amye J. TevaarwerkOther 
+Relationship: Epic Systems Karen L. SmithStock and Other Ownership Interests: 
+AbbVie, Abbott LaboratoriesHonoraria: ASiM CMEResearch Funding: Pfizer Margaret 
+BlockConsulting or Advisory Role: Theranostics Health Bernard TawfikOther 
+Relationship: Ipsen Lisa E. FlaumConsulting or Advisory Role: Seattle Genetics, 
+NovartisSpeakers' Bureau: Seattle Genetics, Novartis, AstraZeneca Erica L. 
+MayerConsulting or Advisory Role: Lilly, Novartis, Sanofi, Eisai, 
+AstraZenecaResearch Funding: Pfizer William M. SikovHonoraria: UpToDateSpeakers' 
+Bureau: Lilly, Daiichi Sankyo, Eisai, Seagen Lynne I. WagnerStock and Other 
+Ownership Interests: Johnson & Johnson, Lilly, Gilead SciencesConsulting or 
+Advisory Role: Celgene, AthenexTravel, Accommodations, Expenses: Celgene Angela 
+M. DeMicheleResearch Funding: Pfizer, Genentech, Calithera Biosciences, Novartis 
+Joseph A. SparanoStock and Other Ownership Interests: MetastatConsulting or 
+Advisory Role: Genentech/Roche, Novartis, AstraZeneca, Celgene, Lilly, Celldex, 
+Pfizer, Prescient Therapeutics, Juno Therapeutics, Merrimack, Adgero 
+Biopharmaceuticals, Cardinal Health, GlaxoSmithKline, CStone Pharmaceuticals, 
+Epic Sciences, Daiichi Sankyo, BMSiSpeakers' Bureau: Eisai, CertaraResearch 
+Funding: Prescient Therapeutics, Deciphera, Genentech/Roche, Merck, Novartis, 
+Merrimack, Radius Health, Olema PharmaceuticalsTravel, Accommodations, Expenses: 
+Menarini Silicon Biosystems, Roche/Genentech, Adgero Biopharmaceuticals, Myriad 
+Genetics, Pfizer, AstraZeneca, Rhenium Medical Antonio C. WolffConsulting or 
+Advisory Role: Ionis PharmaceuticalsPatents, Royalties, Other Intellectual 
+Property: Antonio Wolff has been named as inventor on one or more issued patents 
+or pending patent applications relating to methylation in breast cancer, and has 
+assigned his rights to JHU, and participates in a royalty sharing agreement with 
+JHUOpen Payments Link: https://openpaymentsdata.cms.gov/physician/357301/summary 
+Kathy D. MillerConsulting or Advisory Role: Merck, Genentech/Roche, Athenex, 
+AstraZeneca, Bristol Myers Squibb/CelgeneResearch Funding: Taiho Pharmaceutical, 
+Novartis, Seattle Genetics, Pfizer, Astex Pharmaceuticals, British Biotech, 
+CytomX TherapeuticsNo other potential conflicts of interest were reported.

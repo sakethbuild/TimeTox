@@ -1,0 +1,70 @@
+8. N Engl J Med. 2016 Jul 21;375(3):209-19. doi: 10.1056/NEJMoa1604700. Epub 2016
+ Jun 5.
+
+Extending Aromatase-Inhibitor Adjuvant Therapy to 10 Years.
+
+Goss PE(1), Ingle JN(1), Pritchard KI(1), Robert NJ(1), Muss H(1), Gralow J(1), 
+Gelmon K(1), Whelan T(1), Strasser-Weippl K(1), Rubin S(1), Sturtz K(1), Wolff 
+AC(1), Winer E(1), Hudis C(1), Stopeck A(1), Beck JT(1), Kaur JS(1), Whelan 
+K(1), Tu D(1), Parulekar WR(1).
+
+Author information:
+(1)From the Massachusetts General Hospital Cancer Center, Avon International 
+Breast Cancer Research Program (P.E.G.), Harvard Medical School (P.E.G., E.W.), 
+and Dana-Farber Cancer Institute (E.W.), Boston; the Department of Oncology, 
+Mayo Clinic, Rochester, MN (J.N.I., J.S.K.); Sunnybrook Odette Cancer Centre, 
+Toronto (K.I.P.), British Columbia Cancer Agency, Vancouver (K.G.), Canadian 
+Cancer Trials Group, Queen's University, Kingston, ON (K.W., D.T., W.R.P.), 
+Department of Oncology, McMaster University, Hamilton, ON (T.W.), and Dalhousie 
+University Faculty of Medicine, Moncton Hospital, Moncton, NB (S.R.) - all in 
+Canada; Virginia Cancer Specialists-US Oncology Network, Fairfax (N.J.R.); 
+University of North Carolina-Lineberger Comprehensive Cancer Center, Chapel Hill 
+(H.M.); University of Washington School of Medicine, Seattle (J.G.); Center of 
+Oncology and Hematology, Wilheminen Hospital, Vienna (K.S.-W.); Colorado Cancer 
+Research Program, Denver (K.S.); Johns Hopkins Kimmel Cancer Center, Baltimore 
+(A.C.W.); Memorial Sloan Kettering Cancer Center, New York (C.H.); University of 
+Arizona, Tucson (A.S.); and Highlands Oncology Group, Fayetteville, AR (J.T.B.).
+
+Comment in
+    N Engl J Med. 2016 Jul 21;375(3):274-5. doi: 10.1056/NEJMe1606031.
+    BMJ. 2016 Jun 05;353:i3153. doi: 10.1136/bmj.i3153.
+    N Engl J Med. 2016 Oct 20;375(16):1591. doi: 10.1056/NEJMc1610719.
+    N Engl J Med. 2016 Oct 20;375(16):1590. doi: 10.1056/NEJMc1610719.
+    N Engl J Med. ;375(16):1590-1. doi: 10.1056/NEJMc1610719.
+
+BACKGROUND: Treatment with an aromatase inhibitor for 5 years as up-front 
+monotherapy or after tamoxifen therapy is the treatment of choice for 
+hormone-receptor-positive early breast cancer in postmenopausal women. Extending 
+treatment with an aromatase inhibitor to 10 years may further reduce the risk of 
+breast-cancer recurrence.
+METHODS: We conducted a double-blind, placebo-controlled trial to assess the 
+effect of the extended use of letrozole for an additional 5 years. Our primary 
+end point was disease-free survival.
+RESULTS: We enrolled 1918 women. After a median follow-up of 6.3 years, there 
+were 165 events involving disease recurrence or the occurrence of contralateral 
+breast cancer (67 with letrozole and 98 with placebo) and 200 deaths (100 in 
+each group). The 5-year disease-free survival rate was 95% (95% confidence 
+interval [CI], 93 to 96) with letrozole and 91% (95% CI; 89 to 93) with placebo 
+(hazard ratio for disease recurrence or the occurrence of contralateral breast 
+cancer, 0.66; P=0.01 by a two-sided log-rank test stratified according to nodal 
+status, prior adjuvant chemotherapy, the interval from the last dose of 
+aromatase-inhibitor therapy, and the duration of treatment with tamoxifen). The 
+rate of 5-year overall survival was 93% (95% CI, 92 to 95) with letrozole and 
+94% (95% CI, 92 to 95) with placebo (hazard ratio, 0.97; P=0.83). The annual 
+incidence rate of contralateral breast cancer in the letrozole group was 0.21% 
+(95% CI, 0.10 to 0.32), and the rate in the placebo group was 0.49% (95% CI, 
+0.32 to 0.67) (hazard ratio, 0.42; P=0.007). Bone-related toxic effects occurred 
+more frequently among patients receiving letrozole than among those receiving 
+placebo, including a higher incidence of bone pain, bone fractures, and 
+new-onset osteoporosis. No significant differences between letrozole and placebo 
+were observed in scores on most subscales measuring quality of life.
+CONCLUSIONS: The extension of treatment with an adjuvant aromatase inhibitor to 
+10 years resulted in significantly higher rates of disease-free survival and a 
+lower incidence of contralateral breast cancer than those with placebo, but the 
+rate of overall survival was not higher with the aromatase inhibitor than with 
+placebo. (Funded by the Canadian Cancer Society and others; ClinicalTrials.gov 
+numbers, NCT00003140 and NCT00754845.).
+
+DOI: 10.1056/NEJMoa1604700
+PMCID: PMC5024713
+PMID: 27264120 [Indexed for MEDLINE]

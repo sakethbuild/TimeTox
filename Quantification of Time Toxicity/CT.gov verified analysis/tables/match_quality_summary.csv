@@ -1,0 +1,20 @@
+metric,value
+Total trials,644
+Total arm records,1466
+Arm-level: confidently matched arms,1071
+Arm-level: label flips (confident),110
+Arm-level discrepancy %,10.27
+Arm-level discrepancy 95% CI,8.6-12.2%
+Verifiable trials (denom for trial rates),644
+Trial-level label-flip count,150
+Trial-level label-flip %,23.29
+Trial-level label-flip 95% CI,20.2-26.7%
+HEADLINE-IMPACT: delta12 changed count,120
+HEADLINE-IMPACT %,18.63
+HEADLINE-IMPACT 95% CI,15.8-21.8%
+Count-mismatch trials,89
+Uncertain-match trials,54
+Unverifiable trials (404/no NCT),0
+CT.gov no-armgroups trials,0
+Trials w/ NO intervention arm after correction,21
+Trials w/ NO control arm after correction,76

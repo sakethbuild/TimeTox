@@ -1,0 +1,177 @@
+10. Lancet Oncol. 2016 Oct;17(10):1396-1408. doi: 10.1016/S1470-2045(16)30214-5. 
+Epub 2016 Aug 25.
+
+Comparison of MAPIE versus MAP in patients with a poor response to preoperative 
+chemotherapy for newly diagnosed high-grade osteosarcoma (EURAMOS-1): an 
+open-label, international, randomised controlled trial.
+
+Marina NM(1), Smeland S(2), Bielack SS(3), Bernstein M(4), Jovic G(5), Krailo 
+MD(6), Hook JM(7), Arndt C(8), van den Berg H(9), Brennan B(10), Brichard B(11), 
+Brown KLB(12), Butterfass-Bahloul T(13), Calaminus G(14), Daldrup-Link HE(15), 
+Eriksson M(16), Gebhardt MC(17), Gelderblom H(18), Gerss J(19), Goldsby R(20), 
+Goorin A(21), Gorlick R(22), Grier HE(21), Hale JP(23), Hall KS(24), Hardes 
+J(25), Hawkins DS(26), Helmke K(27), Hogendoorn PCW(18), Isakoff MS(28), Janeway 
+KA(21), Jürgens H(29), Kager L(30), Kühne T(31), Lau CC(32), Leavey PJ(33), 
+Lessnick SL(34), Mascarenhas L(35), Meyers PA(36), Mottl H(37), Nathrath M(38), 
+Papai Z(39), Randall RL(40), Reichardt P(41), Renard M(42), Safwat AA(43), 
+Schwartz CL(44), Stevens MCG(45), Strauss SJ(46), Teot L(47), Werner M(48), 
+Sydes MR(49), Whelan JS(46).
+
+Author information:
+(1)Stanford University School of Medicine and Lucile Packard Children's 
+Hospital, Palo Alto, CA, USA.
+(2)Oslo University Hospital, Division of Cancer Medicine and Scandinavian 
+Sarcoma Group, University of Oslo, Norway; Institute for Clinical Medicine, 
+University of Oslo, Norway.
+(3)Klinikum Stuttgart-Olgahospital, Cooperative Osteosarcoma Study Group (COSS), 
+Stuttgart, Germany.
+(4)IWK Health Center, Dalhousie University, Halifax, NS, Canada.
+(5)Medical Research Council Clinical Trials Unit at University College London, 
+London, UK.
+(6)Department of Preventive Medicine, Keck Medical Canter at the University of 
+Southern California, Los Angeles CA, USA; Children's Oncology Group, Arcadia, 
+CA, USA.
+(7)Medical Research Council Clinical Trials Unit at University College London, 
+London, UK; Clinical Trials Research Unit, Institute of Clinical Trials 
+Research, University of Leeds, Leeds, UK; St James' Institute of Oncology, 
+Leeds, UK.
+(8)Division of Pediatric and Adolescent Medicine, Mayo Clinic, Rochester, MN, 
+USA.
+(9)Emma Children Hospital/Academic Medical Centre, Amsterdam, Netherlands.
+(10)Royal Manchester Children's Hospital, Manchester, UK.
+(11)Department of Pediatric Hematology/Oncology, Cliniques Universitaires 
+Saint-Luc, Université Catholique de Louvain, Brussels, Belgium.
+(12)Department of Orthopaedics, University of British Columbia, Vancouver, BC, 
+Canada.
+(13)Centre for Clinical Trials, University Hospital Muenster, Muenster, Germany.
+(14)Pädiatrische Hämatologie und Onkologie, Universitätsklinikum Bonn, Bonn, 
+Germany.
+(15)Department of Radiology, Stanford University and Lucile Packard Children's 
+Hospital, Palo Alto, CA, USA.
+(16)Skane University Hospital and Lund University, Lund, Sweden.
+(17)Department of Surgery, Dana-Farber Cancer Institute, Boston, MA, USA.
+(18)Leiden University Medical Center, Leiden, Netherlands.
+(19)Institute of Biostatistics and Clinical Research, University of Muenster, 
+Muenster, Germany.
+(20)UCSF Medical Center-Mission Bay, Pediatric Oncology, San Francisco, CA, USA.
+(21)Dana-Farber/Boston Children's Cancer and Blood Disorders Center, Dana-Farber 
+Cancer Institute, Boston, MA, USA.
+(22)Division of Pediatric Hematology-Oncology, The Children's Hospital at 
+Montefiore, Bronx, NY, USA.
+(23)Newcastle upon Tyne Hospitals NHS Trust, Newcastle upon Tyne, UK.
+(24)Department of Oncology, Oslo University Hospital, Norwegian Radium Hospital, 
+Scandinavian Sarcoma Group, Oslo, Norway.
+(25)Klinik für Allgemeine Orthopädie und Tumororthopädie, University of 
+Muenster, Muenster, Germany.
+(26)Seattle Children's Hospital, Fred Hutchinson Cancer Research Center, 
+University of Washington, Seattle, WA, USA.
+(27)Abt Pädiatrische Radiologie, AKK Altonaer Kinderkrankenhaus, Hamburg, 
+Germany.
+(28)Center for Cancer and Blood Disorders, Connecticut Children's Medical 
+Center, Hartford, CT, USA.
+(29)Pädiatrische Hämatologie und Onkologie, University of Muenster, Muenster, 
+Germany.
+(30)Department of Pediatrics, St Anna Children's Hospital, Medical University 
+Vienna, Vienna, Austria.
+(31)University Children's Hospital Basel, Basel, Switzerland.
+(32)Texas Children's Cancer Center, Baylor College of Medicine, Houston, TX, 
+USA.
+(33)Department of Pediatrics, UT Southwestern and Children's Medical Center, 
+Dallas, TX, USA.
+(34)Center for Childhood Cancer and Blood Disorders, Nationwide Children's 
+Hospital and The Ohio State University, Columbus, OH, USA.
+(35)Division of Hematology, Oncology, and Blood and Marrow Transplantation, 
+Department of Pediatrics, Children's Hospital Los Angeles, Los Angeles, CA, USA; 
+Keck School of Medicine, University of Southern California, Los Angeles, CA, 
+USA.
+(36)Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, 
+NY, USA.
+(37)University Hospital Motol, Pediatric Hematology/Oncology, Prague, Czech 
+Republic.
+(38)Clinical Cooperation Group Osteosarcoma, Pediatric Oncology Center, 
+Department of Pediatrics, Technical University Munich, Munich, Germany; 
+Department of Pediatric Oncology, Klinikum Kassel, Kassel, Germany.
+(39)National Medical Center, Oncology Department, Budapest, Hungary.
+(40)Primary Childrens Hospital, The University of Utah, Salt Lake City, UT, USA.
+(41)HELIOS Klinikum Berlin-Buch, Klinik für Interdisziplinäre Onkologie, Berlin, 
+Germany.
+(42)Department of Pediatric Hemato-oncology, University Hospital Leuven, Leuven, 
+Belgium.
+(43)Aarhus University Hospital, Aarhus C, Denmark.
+(44)Division of Pediatrics, The University of Texas M D Anderson Cancer Center, 
+Houston, TX, USA.
+(45)Bristol Royal Hospital for Children, Bristol, UK.
+(46)Department of Oncology, University College Hospital, London, UK.
+(47)Department of Pathology, Boston Children's Hospital, Boston, MA, USA.
+(48)HELIOS Klinikum Emil von Behring GmbH, Orthopädische Pathologie, Berlin, 
+Germany.
+(49)Medical Research Council Clinical Trials Unit at University College London, 
+London, UK. Electronic address: mrcctu.euramos@ucl.ac.uk.
+
+Comment in
+    Lancet Oncol. 2016 Oct;17(10):1340-1342. doi: 10.1016/S1470-2045(16)30270-4.
+
+BACKGROUND: We designed the EURAMOS-1 trial to investigate whether intensified 
+postoperative chemotherapy for patients whose tumour showed a poor response to 
+preoperative chemotherapy (≥10% viable tumour) improved event-free survival in 
+patients with high-grade osteosarcoma.
+METHODS: EURAMOS-1 was an open-label, international, phase 3 randomised, 
+controlled trial. Consenting patients with newly diagnosed, resectable, 
+high-grade osteosarcoma aged 40 years or younger were eligible for 
+randomisation. Patients were randomly assigned (1:1) to receive either 
+postoperative cisplatin, doxorubicin, and methotrexate (MAP) or MAP plus 
+ifosfamide and etoposide (MAPIE) using concealed permuted blocks with three 
+stratification factors: trial group; location of tumour (proximal femur or 
+proximal humerus vs other limb vs axial skeleton); and presence of metastases 
+(no vs yes or possible). The MAP regimen consisted of cisplatin 120 mg/m2, 
+doxorubicin 37·5 mg/m2 per day on days 1 and 2 (on weeks 1 and 6) followed 3 
+weeks later by high-dose methotrexate 12 g/m2 over 4 h. The MAPIE regimen 
+consisted of MAP as a base regimen, with the addition of high-dose ifosfamide 
+(14 g/m2) at 2·8 g/m2 per day with equidose mesna uroprotection, followed by 
+etoposide 100 mg/m2 per day over 1 h on days 1-5. The primary outcome measure 
+was event-free survival measured in the intention-to-treat population. This 
+trial is registered with ClinicalTrials.gov, number NCT00134030.
+FINDINGS: Between April 14, 2005, and June 30, 2011, 2260 patients were 
+registered from 325 sites in 17 countries. 618 patients with poor response were 
+randomly assigned; 310 to receive MAP and 308 to receive MAPIE. Median follow-up 
+was 62·1 months (IQR 46·6-76·6); 62·3 months (IQR 46·9-77·1) for the MAP group 
+and 61·1 months (IQR 46·5-75·3) for the MAPIE group. 307 event-free survival 
+events were reported (153 in the MAP group vs 154 in the MAPIE group). 193 
+deaths were reported (101 in the MAP group vs 92 in the MAPIE group). Event-free 
+survival did not differ between treatment groups (hazard ratio [HR] 0·98 [95% CI 
+0·78-1·23]); hazards were non-proportional (p=0·0003). The most common grade 3-4 
+adverse events were neutropenia (268 [89%] patients in MAP vs 268 [90%] in 
+MAPIE), thrombocytopenia (231 [78% in MAP vs 248 [83%] in MAPIE), and febrile 
+neutropenia without documented infection (149 [50%] in MAP vs 217 [73%] in 
+MAPIE). MAPIE was associated with more frequent grade 4 non-haematological 
+toxicity than MAP (35 [12%] of 301 in the MAP group vs 71 [24%] of 298 in the 
+MAPIE group). Two patients died during postoperative therapy, one from infection 
+(although their absolute neutrophil count was normal), which was definitely 
+related to their MAP treatment (specifically doxorubicin and cisplatin), and one 
+from left ventricular systolic dysfunction, which was probably related to MAPIE 
+treatment (specifically doxorubicin). One suspected unexpected serious adverse 
+reaction was reported in the MAP group: bone marrow infarction due to 
+methotrexate.
+INTERPRETATION: EURAMOS-1 results do not support the addition of ifosfamide and 
+etoposide to postoperative chemotherapy in patients with poorly responding 
+osteosarcoma because its administration was associated with increased toxicity 
+without improving event-free survival. The results define standard of care for 
+this population. New strategies are required to improve outcomes in this 
+setting.
+FUNDING: UK Medical Research Council, National Cancer Institute, European 
+Science Foundation, St Anna Kinderkrebsforschung, Fonds National de la Recherche 
+Scientifique, Fonds voor Wetenschappelijk Onderzoek-Vlaanderen, Parents 
+Organization, Danish Medical Research Council, Academy of Finland, Deutsche 
+Forschungsgemeinschaft, Deutsche Krebshilfe, Federal Ministry of Education and 
+Research, Semmelweis Foundation, ZonMw (Council for Medical Research), Research 
+Council of Norway, Scandinavian Sarcoma Group, Swiss Paediatric Oncology Group, 
+Cancer Research UK, National Institute for Health Research, University College 
+London Hospitals, and Biomedical Research Centre.
+
+Copyright © 2016 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY license. Published by Elsevier Ltd.. All rights 
+reserved.
+
+DOI: 10.1016/S1470-2045(16)30214-5
+PMCID: PMC5052459
+PMID: 27569442 [Indexed for MEDLINE]

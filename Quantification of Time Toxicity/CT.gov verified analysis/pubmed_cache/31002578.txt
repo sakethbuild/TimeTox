@@ -1,0 +1,72 @@
+19. J Clin Oncol. 2019 Jun 1;37(16):1380-1390. doi: 10.1200/JCO.18.01568. Epub
+2019  Apr 19.
+
+Randomized Trial of Intravenous Versus Intraperitoneal Chemotherapy Plus 
+Bevacizumab in Advanced Ovarian Carcinoma: An NRG Oncology/Gynecologic Oncology 
+Group Study.
+
+Walker JL(1), Brady MF(2), Wenzel L(3), Fleming GF(4), Huang HQ(2), DiSilvestro 
+PA(5), Fujiwara K(6), Alberts DS(7), Zheng W(8), Tewari KS(3), Cohn DE(9), 
+Powell MA(10), Van Le L(11), Davidson SA(12), Gray HJ(13), Rose PG(14), 
+Aghajanian C(15), Myers T(16), Alvarez Secord A(17), Rubin SC(18), Mannel RS(1).
+
+Author information:
+(1)1 University of Oklahoma Health Sciences Center, Oklahoma City, OK.
+(2)2 Roswell Park Cancer Institute, Buffalo, NY.
+(3)3 University of California, Irvine, Medical Center, Orange, CA.
+(4)4 The University of Chicago Medicine, Chicago, IL.
+(5)5 Women and Infants Hospital, Providence, RI.
+(6)6 Saitama Medical University International Medical Center, Hidaka-Shi, Japan.
+(7)7 The University of Arizona Cancer Center, Tucson, AZ.
+(8)8 The University of Arizona, Tucson, AZ.
+(9)9 The Ohio State University, Columbus, OH.
+(10)10 Washington University in St Louis, St Louis, MO.
+(11)11 University of North Carolina at Chapel Hill, Chapel Hill, NC.
+(12)12 University of Colorado, Aurora, CO.
+(13)13 University of Washington School of Medicine, Seattle, WA.
+(14)14 Cleveland Clinic Foundation, Cleveland, OH.
+(15)15 Memorial Sloan Kettering Cancer Center, New York, NY.
+(16)16 University of Connecticut, Storrs, CT.
+(17)17 Duke University Health System, Durham, NC.
+(18)18 University of Pennsylvania, Philadelphia, PA.
+
+Erratum in
+    J Clin Oncol. 2019 Sep 1;37(25):2299. doi: 10.1200/JCO.19.01365.
+
+Comment in
+    J Clin Oncol. 2019 Jun 1;37(16):1359-1364. doi: 10.1200/JCO.19.00500.
+    J Clin Oncol. 2019 Nov 20;37(33):3168-3169. doi: 10.1200/JCO.19.01163.
+    J Clin Oncol. 2019 Nov 20;37(33):3170. doi: 10.1200/JCO.19.02091.
+    J Clin Oncol. 2019 Nov 20;37(33):3169-3170. doi: 10.1200/JCO.19.01179.
+
+PURPOSE: To evaluate the impact of two different intraperitoneal (IP) 
+chemotherapy regimens on progression-free survival (PFS) among women with newly 
+diagnosed advanced ovarian carcinoma.
+METHODS: Eligible patients were randomly assigned to six cycles of IV paclitaxel 
+80 mg/m2 once per week with intravenous (IV) carboplatin area under the curve 6 
+(IV carboplatin) versus IV paclitaxel 80 mg/m2 once per week with IP carboplatin 
+area under the curve 6 (IP carboplatin) versus once every 3 weeks IV paclitaxel 
+135 mg/m2 over 3 hours day 1, IP cisplatin 75 mg/m2 day 2, and IP paclitaxel 60 
+mg/m2 day 8 (IP cisplatin). All participants received bevacizumab 15 mg/kg IV 
+every 3 weeks in cycles 2 to 22.
+RESULTS: A total of 1,560 participants were enrolled and had 84.8 months of 
+follow-up. The median PFS duration was 24.9 months in the IV carboplatin arm, 
+27.4 months in the IP carboplatin arm, and 26.2 months in the IP cisplatin arm. 
+For the subgroup of 1,380 patients with stage II/III and residual disease of 1 
+cm or less, median PFS was 26.9 (IV-carboplatin), 28.7 (IP-carboplatin), and 
+27.8 months (IP cisplatin), respectively. Median PFS for patients with stage 
+II/III and no residual disease was 35.9, 38.8, and 35.5 months, respectively. 
+Median overall survival for all enrolled was 75.5, 78.9, and 72.9 months, 
+respectively, and median overall survival for stage II/III with no gross 
+residual disease was 98.8 months, 104.8 months, and not reached. Mean 
+patient-reported Functional Assessment of Cancer Therapy neurotoxicity scores 
+(Gynecologic Oncology Group) were similar for all arms, but the mean Trial 
+Outcome Index of the Functional Assessment of Cancer Therapy-Ovary scores during 
+chemotherapy were statistically worse in the IP cisplatin arm.
+CONCLUSION: Compared with the IV carboplatin reference arm, the duration of PFS 
+was not significantly increased with either IP regimen when combined with 
+bevacizumab and was better tolerated than IP cisplatin.
+
+DOI: 10.1200/JCO.18.01568
+PMCID: PMC6544459
+PMID: 31002578 [Indexed for MEDLINE]

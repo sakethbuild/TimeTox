@@ -1,0 +1,41 @@
+10. J Clin Oncol. 2013 Nov 10;31(32):4092-8. doi: 10.1200/JCO.2012.48.1432. Epub 
+2013 Sep 30.
+
+Randomized trial to assess the impact of venlafaxine and soy protein on hot 
+flashes and quality of life in men with prostate cancer.
+
+Vitolins MZ(1), Griffin L, Tomlinson WV, Vuky J, Adams PT, Moose D, Frizzell B, 
+Lesser GJ, Naughton M, Radford JE Jr, Shaw EG.
+
+Author information:
+(1)Mara Z. Vitolins, Leah Griffin, Bart Frizzel, Glenn J. Lesser, Michelle 
+Naughton, and Edward G. Shaw, Wake Forest School of Medicine; Dawn Moose, Novant 
+Health, Winston-Salem; James E. Radford Jr, Hendersonville Hematology/Oncology, 
+Hendersonville, NC; W. Vic Tomlinson, AnMed Health, Anderson, SC; Jacqueline 
+Vuky, Virginia Mason Medical Center, Seattle, WA; and Paul T. Adams, National 
+Surgical Adjuvant Breast and Bowel Project, Genesys Regional Medical Center, 
+Flint, MI.
+
+PURPOSE: Hot flashes occur in approximately 80% of androgen-deprived men. Few 
+intervention studies have been conducted to relieve hot flashes in men.
+PATIENTS AND METHODS: Eligible androgen-deprived men were randomly assigned to 
+one of four daily regimens (2 × 2 factorial design) for 12 weeks: milk protein 
+powder and placebo pill, venlafaxine and milk protein powder, soy protein powder 
+and placebo pill, or venlafaxine and soy protein powder. The primary end point 
+was hot flash symptom severity score (HFSSS), defined as number of hot flashes 
+times severity. The secondary end point was quality of life (QoL), assessed by 
+using the Functional Assessment of Cancer Therapy-Prostate.
+RESULTS: In all, 120 men age 46 to 91 years participated. Most were white (78%) 
+and overweight or obese (83%). Toxicity was minimal. Neither venlafaxine nor soy 
+protein alone or in combination had a significant effect on HFSSS. Soy protein, 
+but not venlafaxine, improved measures of QoL.
+CONCLUSION: In androgen-deprived men, neither venlafaxine nor soy proved 
+effective in reducing hot flashes. Interventions that appear effective for 
+decreasing hot flashes in women may not always turn out to be effective in men.
+
+DOI: 10.1200/JCO.2012.48.1432
+PMCID: PMC3816959
+PMID: 24081940 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.

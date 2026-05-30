@@ -1,0 +1,30 @@
+\begin{table}[htbp]
+\centering
+\caption{Multivariable Logistic Regression: Predictors of High Time Toxicity}
+\begin{tabular}{lccc}
+\toprule
+Predictor & OR & 95\% CI & p-value \\
+\midrule
+Sponsor: Industry & 1.32 & (0.91-1.92) & 0.1416 \\
+Site: Breast & 0.51 & (0.34-0.76) & 0.0012$^*$ \\
+Site: CNS & 1.86 & (0.68-5.08) & 0.2283 \\
+Site: GI & 0.92 & (0.59-1.43) & 0.7204 \\
+Site: GU & 0.37 & (0.24-0.59) & 0.0000$^*$ \\
+Site: GYN & 1.02 & (0.58-1.80) & 0.9417 \\
+Site: HN & 1.05 & (0.55-2.01) & 0.8744 \\
+Site: Multiple & 0.12 & (0.03-0.58) & 0.0080$^*$ \\
+Site: Other & 0.56 & (0.29-1.08) & 0.0858 \\
+Site: Skin & 0.55 & (0.30-1.02) & 0.0569 \\
+Site: Thor & 0.47 & (0.31-0.71) & 0.0004$^*$ \\
+Treatment: Endocrine & 0.07 & (0.03-0.15) & 0.0000$^*$ \\
+Treatment: Immunotherapy & 0.35 & (0.21-0.58) & 0.0000$^*$ \\
+Treatment: Other & 0.10 & (0.06-0.18) & 0.0000$^*$ \\
+Treatment: Procedure & 0.00 & (0.00-inf) & 0.9994 \\
+Treatment: Radiation & 0.73 & (0.27-2.01) & 0.5465 \\
+Treatment: Targeted Therapy & 0.26 & (0.17-0.40) & 0.0000$^*$ \\
+Arm: intervention & 1.09 & (0.85-1.38) & 0.5009 \\
+Trial Start Year (per year) & 1.00 & (0.97-1.03) & 0.9032 \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize AUC-ROC = 0.715, Hosmer-Lemeshow p = 0.025} \\
+\end{tabular}
+\end{table}

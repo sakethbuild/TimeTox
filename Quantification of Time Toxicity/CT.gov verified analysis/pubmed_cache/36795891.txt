@@ -1,0 +1,109 @@
+15. N Engl J Med. 2023 Feb 23;388(8):719-732. doi: 10.1056/NEJMoa2214676. Epub
+2023  Feb 16.
+
+Rucaparib or Physician's Choice in Metastatic Prostate Cancer.
+
+Fizazi K(1), Piulats JM(1), Reaume MN(1), Ostler P(1), McDermott R(1), Gingerich 
+JR(1), Pintus E(1), Sridhar SS(1), Bambury RM(1), Emmenegger U(1), Lindberg 
+H(1), Morris D(1), Nolè F(1), Staffurth J(1), Redfern C(1), Sáez MI(1), Abida 
+W(1), Daugaard G(1), Heidenreich A(1), Krieger L(1), Sautois B(1), Loehr A(1), 
+Despain D(1), Heyes CA(1), Watkins SP(1), Chowdhury S(1), Ryan CJ(1), Bryce 
+AH(1); TRITON3 Investigators.
+
+Collaborators: Bastick P, Byard I, Campbell D, Chittajallu B, Clay T, Ganju V, 
+Krieger L, Zielinski R, Goeminne JC, Matus G, Sautois B, Schrijvers D, Van 
+Bruwaene S, Alimohammed N, Bedard N, Benjelloun A, Emmenegger U, Ernst S, 
+Gingerich J, Reaume MN, Sridhar S, Zalewski P, Daugaard G, Lindberg H, Madsen C, 
+Mejlholm I, De La Motte Rouge T, Castel-Ajgal Z, Fizazi K, Flechon A, 
+Hardy-Bessard AC, Lemoine N, Ricci F, Spaeth D, Voog E, Zanetta S, Carl S, de 
+Santis M, Feyerabend S, Gleissner J, Grimm MO, Hammerer P, Heinrich B, Hiller K, 
+Merseburger A, Miller K, Niegisch G, Nuhn P, Pfister D, Stenzl A, Steuber T, 
+Wirth M, Bambury R, McCaffrey J, McDermott R, Berger R, Frank S, Keizman D, 
+Kushnir I, Leibowitz-Amit R, Peer A, Rosenbaum E, Sarid D, Caffo O, Carrozza F, 
+Caserta C, De Giorgi U, Hamzaj A, Nole F, Sabbatini R, Sternberg C, 
+Alonso-Gordoa T, Arija JAA, Cassinello J, Castellano D, Duran IJ, Font A, 
+Gallardo E, Juan MJ, Mellado B, Mendez MJ, Pérez Valderrama B, Pinto Marin A, 
+Piulats J, Rodriguez-Vida A, Saez Medina MI, Vazquez S, Villanueva N, Birtle A, 
+Chowdhury S, Fontana E, Graham J, Malik Z, Ostler P, Patrikidou A, Pintus E, 
+Protheroe A, Reid A, Sephton M, Staffurth J, Tanguay J, Abida W, Aggarwal R, 
+Amato R, Antonarakis E, Balar A, Brooks D, Bryce A, Burke J, Carney J, 
+Chakmakjian C, Chatta G, Cheng H, Chu F, Cochran J, Dumbadze I, Freid R, Fung C, 
+Gervasi L, Given R, Goldfischer E, Graff J, Gross M, Hajdenberg J, Haluschak J, 
+Harzstark A, Hauke R, Hellerstedt B, Higano C, Hussain A, Keech J, Klein M, 
+Kochuparambil S, Koletsky A, Koshkin V, Landau D, Lee R, Lee W, Lipsitz D, 
+Matrana M, McNamara M, Misleh J, Montgomery B, Morris D, Nanda M, Narang M, 
+Nordquist L, Partridge S, Petrylak D, Pham A, Pliskin M, Poiesz B, Quevedo F, 
+Ramnath N, Redfern C, Rettig M, Rosner I, Rowe J, Ryan C, Schoborg T, Slim J, 
+Sokolova A, Stanton T, Tagawa S, Tebyani N, Tejwani S, Vogelzang N, Wang S, 
+Whang Y, Yang E.
+
+Author information:
+(1)From Gustave Roussy Institute, Paris-Saclay University, Villejuif, France 
+(K.F.); Institut Català d'Oncologia-Bellvitge Institute for Biomedical 
+Research -CiberOnc, Barcelona (J.M.P.), and the Medical Oncology Intercenter 
+Unit, Regional and Virgen de la Victoria University Hospitals, IBIMA, Málaga 
+(M.I.S.) - both in Spain; the Ottawa Hospital Research Institute, Ottawa 
+(M.N.R.), CancerCare Manitoba, Winnipeg (J.R.G.), and Princess Margaret Cancer 
+Centre (S.S.S.) and Odette Cancer Centre, Sunnybrook Health Sciences Centre 
+(U.E.), Toronto - all in Canada; Mount Vernon Cancer Centre, Northwood (P.O.), 
+Guy's Hospital (E.P.) and Guy's Hospital and Sarah Cannon Research Institute 
+(S.C.), London, Velindre University NHS Trust, Cardiff (J.S.), and Clovis 
+Oncology UK, Cambridge (C.A.H., S.P.W.) - all in the United Kingdom; St. 
+Vincent's University Hospital and Cancer Trials Ireland, Dublin (R.M.), and Cork 
+University Hospital, Wilton (R.M.B.) - both in Ireland; Herlev University 
+Hospital, Herlev (H.L.), and Copenhagen University Hospital, Rigshospitalet, 
+Copenhagen (G.D.) - both in Denmark; Urology Associates, Nashville (D.M.); 
+European Institute of Oncology IRCCS, Milan (F.N.); Sharp HealthCare, San Diego, 
+CA (C.R.); Genitourinary Oncology Service, Memorial Sloan Kettering Cancer 
+Center, New York (W.A.); Universitätsklinikum Köln, Cologne, Germany (A.H.); 
+Medical University of Vienna, Vienna (A.H.); Genesis Care, North Shore, Sydney 
+(L.K.); University Hospital of Liège, CHU Sart-Tilman, Liège, Belgium (B.S.); 
+Clovis Oncology, Boulder, CO (A.L., D.D.); the University of Minnesota, 
+Minneapolis (C.J.R.); and Mayo Clinic, Phoenix, AZ (A.H.B.).
+
+Comment in
+    Nat Rev Urol. 2023 Apr;20(4):199. doi: 10.1038/s41585-023-00760-z.
+    J Urol. 2023 Sep;210(3):565-567. doi: 10.1097/JU.0000000000003587.
+    Transl Cancer Res. 2023 Oct 31;12(10):2448-2453. doi: 10.21037/tcr-23-1279.
+    Transl Cancer Res. 2023 Dec 31;12(12):3233-3240. doi: 10.21037/tcr-23-1515.
+    Transl Cancer Res. 2024 Jan 31;13(1):11-14. doi: 10.21037/tcr-23-1563.
+
+BACKGROUND: In a phase 2 study, rucaparib, an inhibitor of poly(ADP-ribose) 
+polymerase (PARP), showed a high level of activity in patients who had 
+metastatic, castration-resistant prostate cancer associated with a deleterious 
+BRCA alteration. Data are needed to confirm and expand on the findings of the 
+phase 2 study.
+METHODS: In this randomized, controlled, phase 3 trial, we enrolled patients who 
+had metastatic, castration-resistant prostate cancer with a BRCA1, BRCA2, or ATM 
+alteration and who had disease progression after treatment with a 
+second-generation androgen-receptor pathway inhibitor (ARPI). We randomly 
+assigned the patients in a 2:1 ratio to receive oral rucaparib (600 mg twice 
+daily) or a physician's choice control (docetaxel or a second-generation ARPI 
+[abiraterone acetate or enzalutamide]). The primary outcome was the median 
+duration of imaging-based progression-free survival according to independent 
+review.
+RESULTS: Of the 4855 patients who had undergone prescreening or screening, 270 
+were assigned to receive rucaparib and 135 to receive a control medication 
+(intention-to-treat population); in the two groups, 201 patients and 101 
+patients, respectively, had a BRCA alteration. At 62 months, the duration of 
+imaging-based progression-free survival was significantly longer in the 
+rucaparib group than in the control group, both in the BRCA subgroup (median, 
+11.2 months and 6.4 months, respectively; hazard ratio, 0.50; 95% confidence 
+interval [CI], 0.36 to 0.69) and in the intention-to-treat group (median, 10.2 
+months and 6.4 months, respectively; hazard ratio, 0.61; 95% CI, 0.47 to 0.80; 
+P<0.001 for both comparisons). In an exploratory analysis in the ATM subgroup, 
+the median duration of imaging-based progression-free survival was 8.1 months in 
+the rucaparib group and 6.8 months in the control group (hazard ratio, 0.95; 95% 
+CI, 0.59 to 1.52). The most frequent adverse events with rucaparib were fatigue 
+and nausea.
+CONCLUSIONS: The duration of imaging-based progression-free survival was 
+significantly longer with rucaparib than with a control medication among 
+patients who had metastatic, castration-resistant prostate cancer with a BRCA 
+alteration. (Funded by Clovis Oncology; TRITON3 ClinicalTrials.gov number, 
+NCT02975934.).
+
+Copyright © 2023 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2214676
+PMCID: PMC10064172
+PMID: 36795891 [Indexed for MEDLINE]

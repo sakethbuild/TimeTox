@@ -1,0 +1,177 @@
+7. Lancet Oncol. 2018 Jan;19(1):127-138. doi: 10.1016/S1470-2045(17)30715-5. Epub
+ 2017 Nov 17.
+
+Extended adjuvant intermittent letrozole versus continuous letrozole in 
+postmenopausal women with breast cancer (SOLE): a multicentre, open-label, 
+randomised, phase 3 trial.
+
+Colleoni M(1), Luo W(2), Karlsson P(3), Chirgwin J(4), Aebi S(5), Jerusalem 
+G(6), Neven P(7), Hitre E(8), Graas MP(9), Simoncini E(10), Kamby C(11), 
+Thompson A(12), Loibl S(13), Gavilá J(14), Kuroi K(15), Marth C(16), Müller 
+B(17), O'Reilly S(18), Di Lauro V(19), Gombos A(20), Ruhstaller T(21), Burstein 
+H(22), Ribi K(23), Bernhard J(24), Viale G(25), Maibach R(23), Rabaglio-Poretti 
+M(26), Gelber RD(27), Coates AS(28), Di Leo A(29), Regan MM(30), Goldhirsch 
+A(31); SOLE Investigators.
+
+Collaborators: Vandebroek A, Berliere M, Mitine C, Vuylsteke P, Borms M, D'Hondt 
+R, Glorieux P, Mebis J, Verhoeven D, Coibion M, Forget F, Duck L, Verhoeven D, 
+Wyendaele W, Barbeaux A, Salmon JP, Berteloot P, Vermeij J, Richard V, Cinieri 
+S, Gianni L, Clerico M, Pinotti G, Bernardo A, Biganzoli L, Gennari A, Graiff C, 
+Amadori D, Passalacqua R, Forbes J, Francis P, Foo S, Boyle F, Redfern A, van 
+der Westhuizen A, Lewis C, Sharma S, Beale P, Byard I, Begbie S, Sardelic F, 
+Abdi E, Clark D, Chindewere A, Della-Fiorentina S, Asghari R, Islam M, Na Teo L, 
+White S, Gilbert L, Gardner K, Uhlmann C, Rauch D, Mannhart M, Buser K, Dedes K, 
+Mueller A, Rageth C, Von Orelli S, Senn HJ, Pagani O, Pedrazzini A, Rochlitz C, 
+Bodmer A, Anchisi S, Zaman K, von Moos R, Betticher D, Kralidas E, Popescu R, 
+Fehr M, Nyman P, Jungquist A, Chamalidou C, Foukakis T, Dabrosin C, Valachis A, 
+Lang I, Kahan Z, Retamales J, Torres UR, Fritis M, Sole S, Torres S, Letzkus J, 
+Escobar P, Vigneaux I, Arancibia J, Cardemil JB, Huidobro P, Gomez H, Wetter J, 
+Vorobiof D, McMichael G, Apffelstaedt J, Vorotnikov I, Schwartz J, Openshaw T, 
+Bonnefoi H, Jacquin JP, Bonichon-Lamichhane N, Borstner S, Budrukkar A, Ewertz 
+M, Quispe OZ, Vestlev PM, Danø H, Nielsen D, Jakobsen E, Hoejris I, Bogovic JA, 
+Jensen BB, Aage Møller K, Stenbygaard EL, Sharma R, Bedi C, Bews-Hair M, Neades 
+G, McKirdy M, Barber M, Alhasso A, Ritchie D, Fraser J, Scott L, Yuille F, 
+Lannigan A, Murphy D, Shere M, Jackisch C, Tomé O, Steer S, Augustin D, Lübbe K, 
+Jackisch C, Köcker-Korus H, Deuker JU, Stefek A, Just M, Rhein U, Bechtner C, 
+Baerens DT, Schrader I, Grischke EM, Lorenz R, Dietz W, Thomalla J, Schilling J, 
+Rempen A, Graf H, Doering G, Busch S, Heinrich G, Tesch H, Uleer C, Krabisch P, 
+Rösel S, Kurbacher C, Ostertag H, Josten KM, Hielscher C, Gröll I, Mattner UM, 
+Prechtl A, Lantzsch T, Ciruelos E, Garau I, Bellet M, Climent MA, López R, 
+Virizuela JA, Bermejo B, Janez NM, Amillano K, Márquez R, Dorca J, Godes MJ, 
+Gonzalez S, Ohno S, Aruga T, Yotsumoto D, Yamamoto Y, Aihara T, Morimoto T, 
+Bando H, Masuda N, Toi M, Aogi K, Sato N, Okada M, Takahashi M, Tokunaga E, 
+Iwata H, Fujita T, Fridrik M, Pristauz G, Hackl C, Singer C, Wette V, Gnant M, 
+Thaler J, Greil R, Abendstein B, Heck D, Manfreda D, Sevelda P, Thiel I, 
+Tuttlies F, Stöger H, Neunteufel W, Crown J, Kennedy J, Hill A, McCaffrey J, 
+Murphy C, Coate L, Keane M, Martin M, O'Connor M, Duffy K, Ruepp B, Piccart M, 
+Zardavas D.
+
+Author information:
+(1)International Breast Cancer Study Group, Milan, Italy; Division of Medical 
+Senology, Milan, Italy. Electronic address: marco.colleoni@ieo.it.
+(2)International Breast Cancer Study Group Statistical Center, Boston, MA, USA; 
+Dana-Farber Cancer Institute, Boston, MA, USA.
+(3)International Breast Cancer Study Group and Department of Oncology, Institute 
+of Clinical Sciences, Sahlgrenska Academy, University of Gothenburg, Gothenburg, 
+Sweden.
+(4)International Breast Cancer Study Group, Australia and New Zealand Breast 
+Cancer Trials Group, and Box Hill and Maroondah Hospitals, Monash University, 
+Melbourne, VIC, Australia.
+(5)International Breast Cancer Study Group and Lucerne Canton Hospital, Lucerne, 
+Switzerland.
+(6)International Breast Cancer Study Group, Centre Hospitalier Universitaire de 
+Liège, Liège University, Liège, Belgium.
+(7)International Breast Cancer Study Group and Multidisciplinary Breast Center, 
+University Hospitals, Katholieke Universiteit Leuven, Leuven, Belgium.
+(8)International Breast Cancer Study Group and National Institute of Oncology, 
+Budapest, Hungary.
+(9)International Breast Cancer Study Group and Centre Hospitalier Chrétien 
+Clinique St Joseph, Liège, Belgium.
+(10)International Breast Cancer Study Group and ASST Spedali Civili di Brescia, 
+Brescia, Italy.
+(11)Danish Breast Cancer Group and Rigshospitalet, Copenhagen, Denmark.
+(12)Scottish Cancer Trials Breast Group and The University of Texas MD Anderson 
+Cancer Center, Houston, TX, USA.
+(13)German Breast Group, Neu-Isenburg, Germany.
+(14)SOLTI Group and Fundación Instituto Valenciano de Oncologia, Valencia, 
+Spain.
+(15)Japan Breast Cancer Research Group and Tokyo Metropolitan Cancer and 
+Infectious Diseases Center Komagome Hospital, Tokyo, Japan.
+(16)Austrian Breast & Colorectal Cancer Study Group and Department of Obstetrics 
+and Gynecology, Medical University Innsbruck, Innsbruck, Austria.
+(17)Chilean Cooperative Group for Oncologic Research, Providencia, Santiago, 
+Chile.
+(18)Cancer Trials Ireland and Cork University Hospital, Cork, Ireland.
+(19)International Breast Cancer Study Group and Centro di Riferimento Oncologico 
+di Aviano, Aviano, Italy.
+(20)Medical Oncology Clinic, Institute Jules Bordet, Brussels, Belgium.
+(21)Swiss Group for Clinical Cancer Research, International Breast Cancer Study 
+Group, and Breast Center St Gallen, St Gallen, Switzerland.
+(22)Dana-Farber Cancer Institute, Boston, MA, USA; Harvard Medical School, 
+Boston, MA, USA.
+(23)International Breast Cancer Study Group Coordinating Center, Bern, 
+Switzerland.
+(24)International Breast Cancer Study Group Coordinating Center, Bern, 
+Switzerland; Bern University Hospital, Inselspital, Bern, Switzerland.
+(25)European Institute of Oncology, Milan, Italy; International Breast Cancer 
+Study Group Central Pathology Office and University of Milan, Milan, Italy.
+(26)International Breast Cancer Study Group, Inselspital, Bern, Switzerland; 
+Bern University Hospital, Inselspital, Bern, Switzerland.
+(27)International Breast Cancer Study Group Statistical Center, Boston, MA, USA; 
+Dana-Farber Cancer Institute, Boston, MA, USA; Harvard Medical School, Boston, 
+MA, USA; Harvard T H Chan School of Public Health, Boston, MA, USA; Frontier 
+Science & Technology Research Foundation, Boston, MA, USA.
+(28)International Breast Cancer Study Group and University of Sydney, Sydney, 
+NSW, Australia.
+(29)International Breast Cancer Study Group and Hospital of Prato-AUSL Toscana 
+Centro, Istituto Toscano Tumori, Prato, Italy.
+(30)International Breast Cancer Study Group Statistical Center, Boston, MA, USA; 
+Dana-Farber Cancer Institute, Boston, MA, USA; Harvard Medical School, Boston, 
+MA, USA.
+(31)International Breast Cancer Study Group, Milan, Italy; European Institute of 
+Oncology, Milan, Italy.
+
+Comment in
+    Lancet Oncol. 2018 Jan;19(1):13-15. doi: 10.1016/S1470-2045(17)30854-9.
+    Lancet Oncol. 2018 Feb;19(2):e77. doi: 10.1016/S1470-2045(18)30028-7.
+
+BACKGROUND: In animal models of breast cancer, resistance to continuous use of 
+letrozole can be reversed by withdrawal and reintroduction of letrozole. We 
+therefore hypothesised that extended intermittent use of adjuvant letrozole 
+would improve breast cancer outcome compared with continuous use of letrozole in 
+postmenopausal women.
+METHODS: We did the multicentre, open-label, randomised, parallel, phase 3 SOLE 
+trial in 240 centres (academic, primary, secondary, and tertiary care centres) 
+in 22 countries. We enrolled postmenopausal women of any age with hormone 
+receptor-positive, lymph node-positive, and operable breast cancer for which 
+they had undergone local treatment (surgery with or without radiotherapy) and 
+had completed 4-6 years of adjuvant endocrine therapy. They had to be clinically 
+free of breast cancer at enrolment and without evidence of recurrent disease at 
+any time before randomisation. We randomly assigned women (1:1) to treatment 
+groups of either continuous use of letrozole (2·5 mg/day orally for 5 years) or 
+intermittent use of letrozole (2·5 mg/day orally for 9 months followed by a 
+3-month break in years 1-4 and then 2·5 mg/day during all 12 months of year 5). 
+Randomisation was done by principal investigators or designee at respective 
+centres through the internet-based system of the International Breast Cancer 
+Study Group, was stratified by type of previous endocrine therapy (aromatase 
+inhibitors only vs selective oestrogen receptor modulators only vs both 
+therapies), and used permuted block sizes of four and institutional balancing. 
+No one was masked to treatment assignment. The primary endpoint was disease-free 
+survival, analysed by the intention-to-treat principle using a stratified 
+log-rank test. All patients in the intention-to-treat population who initiated 
+protocol treatment during their period of trial participation were included in 
+the safety analyses. This study is registered with ClinicalTrials.gov, number 
+NCT00553410, and EudraCT, number 2007-001370-88; and long-term follow-up of 
+patients is ongoing.
+FINDINGS: Between Dec 5, 2007, and Oct 8, 2012, 4884 women were enrolled and 
+randomised after exclusion of patients at a non-adherent centre, found to have 
+inadequate documentation of informed consent, immediately withdrew consent, or 
+randomly assigned to intervention groups in error. 4851 women comprised the 
+intention-to-treat population that compared extended intermittent letrozole use 
+(n=2425) with continuous letrozole use (n=2426). After a median follow-up of 60 
+months (IQR 53-72), disease-free survival was 85·8% (95% CI 84·2-87·2) in the 
+intermittent letrozole group compared with 87·5% (86·0-88·8) in the continuous 
+letrozole group (hazard ratio 1·08, 95% CI 0·93-1·26; p=0·31). Adverse events 
+were reported as expected and were similar between the two groups. The most 
+common grade 3-5 adverse events were hypertension (584 [24%] of 2417 in the 
+intermittent letrozole group vs 517 [21%] of 2411 in the continuous letrozole 
+group) and arthralgia (136 [6%] vs 151 [6%]). 54 patients (24 [1%] in the 
+intermittent letrozole group and 30 [1%] in the continuous letrozole group) had 
+grade 3-5 CNS cerebrovascular ischaemia, 16 (nine [<1%] vs seven [<1%]) had 
+grade 3-5 CNS haemorrhage, and 40 (19 [1%] vs 21 [1%]) had grade 3-5 cardiac 
+ischaemia. In total, 23 (<1%) of 4851 patients died while on trial treatment (13 
+[<1%] of 2417 patients in the intermittent letrozole group vs ten [<1%] of 2411 
+in the continuous letrozole group).
+INTERPRETATION: In postmenopausal women with hormone receptor-positive breast 
+cancer, extended use of intermittent letrozole did not improve disease-free 
+survival compared with continuous use of letrozole. An alternative schedule of 
+extended adjuvant endocrine therapy with letrozole, including intermittent 
+administration, might be feasible and the results of the SOLE trial support the 
+safety of temporary treatment breaks in selected patients who might require 
+them.
+FUNDING: Novartis and the International Breast Cancer Study Group.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(17)30715-5
+PMID: 29158011 [Indexed for MEDLINE]

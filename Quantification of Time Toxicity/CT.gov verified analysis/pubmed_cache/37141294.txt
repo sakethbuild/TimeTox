@@ -1,0 +1,73 @@
+20. Int J Cancer. 2023 Aug 1;153(3):623-634. doi: 10.1002/ijc.34532. Epub 2023
+May  4.
+
+KEYNOTE-033: Randomized phase 3 study of pembrolizumab vs docetaxel in 
+previously treated, PD-L1-positive, advanced NSCLC.
+
+Ren S(1), Feng J(2), Ma S(3), Chen H(4), Ma Z(5), Huang C(6), Zhang L(7), He 
+J(8), Wang C(9), Zhou J(10), Danchaivijtr P(11), Wang CC(12), Vynnychenko I(13), 
+Wang K(14), Orlandi F(15), Sriuranpong V(16), Li B(17), Ge J(18), Dang T(19), 
+Zhou C(1).
+
+Author information:
+(1)Department of Medical Oncology, Shanghai Pulmonary Hospital, Tongji 
+University School of Medicine, Shanghai, China.
+(2)Oncology Department, Jiangsu Cancer Hospital, Nanjing, China.
+(3)Department of Thoracic Oncology, Key Laboratory of Clinical Cancer 
+Pharmacology and Toxicology Research of Zhejiang Province, Affiliated Hangzhou 
+First People's Hospital, Zhejiang University School of Medicine, Zhejiang 
+University Cancer Center, Zhejiang, People's Republic of China.
+(4)Guangdong Provincial People's Hospital, Guangdong Lung Cancer Institute, 
+Guangzhou, China.
+(5)Medical Oncology, The Affiliated Cancer Hospital of Zhengzhou 
+University/Henan Cancer Hospital, Zhengzhou, China.
+(6)Department of Pneumology, Fujian Provincial Cancer Hospital, Fuzhou, China.
+(7)Cancer Center, Sun Yat-Sen University, Guangzhou, China.
+(8)Department of Thoracic Surgery, The First Affiliated Hospital of Guangzhou 
+Medical University, Guangzhou, China.
+(9)Department of Biotherapy 17F, Tianjin Medical University Cancer Institute & 
+Hospital, Tianjin, China.
+(10)Department of Respiratory Medicine, The First Affiliated Hospital of 
+Zhejiang University College of Medicine, Hangzhou, China.
+(11)Division of Medical Oncology, Siriraj Hospital, Bangkok, Thailand.
+(12)Chang Gung Medical Foundation, Kaohsiung, Taiwan.
+(13)RMI Sumy Regional Clinical Oncology Dispensary, Sumy State University, Sumy, 
+Ukraine.
+(14)Department of Respiration Medicine, The Second Affiliated Hospital of 
+Zhejiang University College of Medicine, Hangzhou, China.
+(15)Region Metropolitana de Santiago, Orlandi Oncologia, Providencia, Chile.
+(16)Medical Oncology Unit, King Chulalongkorn Memorial Hospital, Bangkok, 
+Thailand.
+(17)MSD China, Beijing, China.
+(18)MSD China, Shanghai, China.
+(19)Merck & Co., Inc., Rahway, NJ, USA.
+
+KEYNOTE-033 (NCT02864394) was a multicountry, open-label, phase 3 study that 
+compared pembrolizumab vs docetaxel in previously treated, programmed 
+death-ligand 1 (PD-L1)-positive, advanced non-small cell lung cancer (NSCLC), 
+with most patients enrolled in mainland China. Eligible patients were randomized 
+(1:1) to pembrolizumab 2 mg/kg or docetaxel 75 mg/m2 every 3 weeks. Primary 
+endpoints were overall survival (OS) and progression-free survival and were 
+evaluated sequentially using stratified log-rank tests, first in patients with 
+PD-L1 tumor proportion score (TPS) ≥50% and then in patients with PD-L1 TPS ≥1% 
+(significance threshold: P < .025, one-sided). A total of 425 patients were 
+randomized to pembrolizumab (N = 213) or docetaxel (N = 212) between 8 September 
+2016 and 17 October 2018. In patients with a PD-L1 TPS ≥50% (n = 227), median OS 
+was 12.3 months with pembrolizumab and 10.9 months with docetaxel; the hazard 
+ratio (HR) was 0.83 (95% confidence interval [CI]: 0.61-1.14; P = .1276). 
+Because the significance threshold was not met, sequential testing of OS and PFS 
+was ceased. In patients with a PD-L1 TPS ≥1%, the HR for OS for pembrolizumab vs 
+docetaxel was 0.75 (95% CI: 0.60-0.95). In patients from mainland China 
+(n = 311) with a PD-L1 TPS ≥1%, HR for OS was 0.68 (95% CI: 0.51-0.89). 
+Incidence of grade 3 to 5 treatment-related AEs was 11.3% with pembrolizumab vs 
+47.5% with docetaxel. In summary, pembrolizumab improved OS vs docetaxel in 
+previously treated, PD-L1-positive NSCLC without unexpected safety signals; 
+although the statistical significance threshold was not reached, the numerical 
+improvement is consistent with that previously observed for pembrolizumab in 
+previously treated, advanced NSCLC.
+
+© 2023 The Authors. International Journal of Cancer published by John Wiley & 
+Sons Ltd on behalf of UICC.
+
+DOI: 10.1002/ijc.34532
+PMID: 37141294 [Indexed for MEDLINE]

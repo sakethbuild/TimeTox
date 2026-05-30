@@ -1,0 +1,65 @@
+7. Cancer Res Commun. 2024 Jan 4;4(1):28-37. doi: 10.1158/2767-9764.CRC-23-0361.
+
+A Randomized Phase III Study of Arfolitixorin versus Leucovorin with 
+5-Fluorouracil, Oxaliplatin, and Bevacizumab for First-Line Treatment of 
+Metastatic Colorectal Cancer: The AGENT Trial.
+
+Tabernero J(1), Yoshino T(2), Stintzing S(3), de Gramont A(4), Gibbs P(5), 
+Jonker DJ(6), Nygren P(7), Papadimitriou C(8), Prager GW(9), Tell R(10), Lenz 
+HJ(11).
+
+Author information:
+(1)Vall d'Hebron Hospital Campus and Institute of Oncology (VHIO), IOB-Quiron, 
+Barcelona, Spain.
+(2)Department of Gastroenterology and Gastrointestinal Oncology, National Cancer 
+Center Hospital East, Kashiwa, Japan.
+(3)Department of Hematology, Oncology and Cancer Immunology, Charité - 
+Universitätsmedizin Berlin, Berlin, Germany.
+(4)Institute Hospitalier Franco-Britannique, Oncologie médicale, 
+Levallois-Perret, France.
+(5)Western Health - Sunshine Hospital, Medical Oncology, St. Albans, Victoria, 
+Australia.
+(6)Ottawa Hospital Research Institute, University of Ottawa, Ottawa, Canada.
+(7)Department of Immunology, Genetics and Pathology, Uppsala University, 
+Uppsala, Sweden.
+(8)Oncology Unit, "Aretaieion" University Hospital, National and Kapodistrian 
+University of Athens, Athens, Greece.
+(9)Medizinische Universität Wien, Vienna, Austria.
+(10)Isofol Medical AB, Gothenburg, Sweden.
+(11)Division of Medical Oncology and Colorectal Cancer, Keck School of Medicine, 
+University of Southern California, Los Angeles, California.
+
+PURPOSE: Suboptimal treatment outcomes with 5-fluorouracil (5-FU)/folate, the 
+standard of care for metastatic colorectal cancer (mCRC), have generated 
+interest in optimizing the folate. Arfolitixorin 
+([6R]-5,10-methylene-tetrahydrofolate) is an immediately active folate and may 
+improve outcomes over the existing standard of care (leucovorin).
+EXPERIMENTAL DESIGN: AGENT was a randomized, phase III study (NCT03750786). 
+Patients with mCRC were randomized to arfolitixorin (120 mg/m2 given as two 
+intravenous bolus doses of 60 mg/m2) or leucovorin (400 mg/m2 given as a single 
+intravenous infusion) plus 5-FU, oxaliplatin, and bevacizumab. Assessments were 
+performed every 8 weeks. The primary endpoint was the superiority of 
+arfolitixorin for overall response rate (ORR).
+RESULTS: Between February 2019 and April 2021, 490 patients were randomized (245 
+to each arm). After a median follow-up of 266 days, the primary endpoint of 
+superiority for ORR was not achieved (48.2% for arfolitixorin vs. 49.4% for 
+leucovorin, Psuperiority = 0.57). Outcomes were not achieved for median 
+progression-free survival (PFS; 12.8 and 11.6 months, P = 0.38), median duration 
+of response (12.2 and 12.9 months, P = 0.40), and median overall survival (23.8 
+and 28.0 months, P = 0.78). The proportion of patients with an adverse event of 
+grade ≥3 severity was similar between arms (68.7% and 67.2%, respectively), as 
+was quality of life. BRAF mutations and MTHFD2 expression were both associated 
+with a lower PFS with arfolitixorin.
+CONCLUSIONS: The study failed to demonstrate clinical benefit of arfolitixorin 
+(120 mg/m2) over leucovorin. However, it provides some useful insights from the 
+first-line treatment setting, including the effect of gene expression on 
+outcomes.
+SIGNIFICANCE: This phase III study compared arfolitixorin, a direct-acting 
+folate, with leucovorin in FOLFOX plus bevacizumab in mCRC. Arfolitixorin (120 
+mg/m2) did not improve the ORR, potentially indicating a suboptimal dose.
+
+© 2024 The Authors; Published by the American Association for Cancer Research.
+
+DOI: 10.1158/2767-9764.CRC-23-0361
+PMCID: PMC10765772
+PMID: 38059497 [Indexed for MEDLINE]

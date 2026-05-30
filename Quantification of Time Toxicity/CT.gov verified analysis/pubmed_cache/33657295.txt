@@ -1,0 +1,123 @@
+14. N Engl J Med. 2021 Mar 4;384(9):829-841. doi: 10.1056/NEJMoa2026982.
+
+Nivolumab plus Cabozantinib versus Sunitinib for Advanced Renal-Cell Carcinoma.
+
+Choueiri TK(1), Powles T(1), Burotto M(1), Escudier B(1), Bourlon MT(1), 
+Zurawski B(1), Oyervides Juárez VM(1), Hsieh JJ(1), Basso U(1), Shah AY(1), 
+Suárez C(1), Hamzaj A(1), Goh JC(1), Barrios C(1), Richardet M(1), Porta C(1), 
+Kowalyszyn R(1), Feregrino JP(1), Żołnierek J(1), Pook D(1), Kessler ER(1), 
+Tomita Y(1), Mizuno R(1), Bedke J(1), Zhang J(1), Maurer MA(1), Simsek B(1), 
+Ejzykowicz F(1), Schwab GM(1), Apolo AB(1), Motzer RJ(1); CheckMate 9ER 
+Investigators.
+
+Collaborators: Hernandez Moran JI, Zarba J, Minatta J, Bella S, Richardet M, 
+Kowalyszyn R, Chacon M, Hill A, Gurney H, Hocking C, Pook D, Goh J, Troon S, 
+Joshua A, Oliveira N, Barrios C, Murad A, Neif J Jr, De Menezes J, Smaletz O, 
+Santos V, Kann A, Franke F, Burotto M, Melichar B, Kopecky J, Retz M, Bedke J, 
+Augustin M, Hauser S, Grimm MO, Bamias A, Papazisis K, Berger R, Goldman O, 
+Neiman V, Peer A, Pedrazzoli P, Del Conte G, Basso U, Hamzaj A, Riccardi F, 
+Porta C, Bracarda S, Numakura K, Mizuno R, Tomita Y, Kimura G, Kondo T, Tamada 
+S, Nishimoto K, Yoneyama T, Abe T, Fujii Y, Obara W, Nozawa M, Eto M, Sakai H, 
+Uemura M, Masumori N, Tsuchiya N, Kishida T, Fukasawa S, Takamoto A, Nakai Y, 
+Nakaigawa N, Miura Y, Murillo Ramirez E, Motola Kuba D, Feregrino Arreola J, 
+Oyervides Juárez VM, Alvarez Avitia MA, Bourlon MT, Pacheco Perez RE, 
+Medina-Soto F, Centkowski P, Wojcik-Tomaszewska J, Zurawski B, Ciuleanu T, 
+Schenker M, Alekseev B, Nosov A, Castellano D, Arranz JA, Caballero C, 
+Pérez-Valderrama B, Suarez C, Duran I, Sendur MAN, Cicin I, Coskun H, Gokoz-Dogu 
+G, Karadurmus N, Urun Y, Ozguroglu M, Pillai M, Powles T, McGrane J, Motzer RJ, 
+Hsieh JJ, Kuzel T, Choueiri TK, George S, Tan A, Ryan C, Shah AY, Hutson T, 
+Meshad M, Yorio J, Taha M, Dakhil S, Dichmann R, Sadiq A, Drakaki A, Vogelzang 
+N, Kessler ER, Bendell J, Van Veldhuizen P, Nikolinakos P, Fleming M, Shaheen M, 
+Patel R, Nair S.
+
+Author information:
+(1)From the Department of Medical Oncology, Lank Center for Genitourinary 
+Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, and 
+Harvard Medical School, Boston (T.K.C.); the Department of Genitourinary 
+Oncology, Barts Cancer Institute, Cancer Research UK Experimental Cancer 
+Medicine Centre, Queen Mary University of London, Royal Free National Health 
+Service Trust, London (T.P.); the Bradford Hill Clinical Research Center, 
+Santiago, Chile (M.B.); the Department of Medical Oncology, Gustave Roussy, 
+Villejuif, France (B.E.); the Department of Hemato-Oncology, Urologic Oncology 
+Clinic, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, 
+Mexico City (M.T.B.), the Department of Medical Oncology, Centro Universitario 
+contra el Cáncer, Hospital Universitario "Dr. José Eleuterio González," 
+Universidad Autónoma de Nuevo León, Nuevo León (V.M.O.J.), and the Department of 
+Medical Oncology, Hospital H+ Querétaro, Querétaro (J.P.F.) - all in Mexico; the 
+Department of Outpatient Chemotherapy, Professor Franciszek Lukaszczyk Oncology 
+Center, Bydgoszcz (B.Z.), and the Department of Clinical Oncology and 
+Hematology, Regional Specialist Hospital, Biała Podlaska (J. Żołnierek) - both 
+in Poland; the Division of Oncology, Department of Medicine, Siteman Cancer 
+Center, Washington University School of Medicine, St. Louis (J.J.H.); Oncology 
+Unit 1, Department of Oncology, Istituto Oncologico Veneto IRCCS, Padua (U.B.), 
+the Department of Medical Oncology, Ospedale San Donato, Istituto Toscano i, 
+Arezzo (A.H.), the Department of Internal Medicine, University of Pavia, Pavia 
+(C.P.), and the University of Bari "A. Moro," Bari (C.P.) - all in Italy; the 
+Department of Genitourinary Medical Oncology, M.D. Anderson Cancer Center, 
+Houston (A.Y.S.); the Department of Medical Oncology, Vall d'Hebron Institute of 
+Oncology, Hospital Universitari Vall d'Hebron, Vall d'Hebron Barcelona Hospital 
+Campus, Barcelona (C.S.); the Department of Medical Oncology, Royal Brisbane and 
+Women's Hospital, Herston, QLD (J.C.G.), and Cabrini Monash University 
+Department of Medical Oncology, Cabrini Health, Malvern, VIC (D.P.) - both in 
+Australia; the Oncology Research Center, Hospital São Lucas, Porto Alegre, 
+Brazil (C.B.); Fundacion Richardet Longo, Instituto Oncologico de Cordoba, 
+Cordoba (M.R.), and Instituto Multidisciplinario de Oncología, Clínica Viedma, 
+Viedma (R.K.) - both in Argentina; the Division of Medical Oncology, Department 
+of Internal Medicine, University of Colorado School of Medicine, Aurora 
+(E.R.K.); the Departments of Urology and Molecular Oncology, Niigata University 
+Graduate School of Medical and Dental Sciences, Niigata (Y.T.), and the 
+Department of Urology, Keio University School of Medicine, Tokyo (R.M.) - both 
+in Japan; the Department of Urology, Eberhard Karls University Tübingen, 
+Tübingen, Germany (J.B.); the Departments of Clinical Research (J. Zhang.), 
+Clinical Oncology (M.A.M.), Biostatistics (B.S.), and Health Economics and 
+Outcomes Research (F.E.), Bristol Myers Squibb, Princeton, NJ; the Department of 
+Clinical Oncology, Exelixis, Alameda, CA (G.M.S.); the Genitourinary 
+Malignancies Branch, Center for Cancer Research, National Cancer Institute, 
+National Institutes of Health, Bethesda, MD (A.B.A.); and the Department of 
+Medicine, Memorial Sloan Kettering Cancer Center, New York (R.J.M.).
+
+Comment in
+    Eur Urol. 2021 Aug;80(2):256-257. doi: 10.1016/j.eururo.2021.04.039.
+    Aktuelle Urol. 2022 Feb;53(1):16-18. doi: 10.1055/a-1559-4893.
+    Eur Urol Oncol. 2023 Jun;6(3):331-338. doi: 10.1016/j.euo.2023.01.011.
+
+BACKGROUND: The efficacy and safety of nivolumab plus cabozantinib as compared 
+with those of sunitinib in the treatment of previously untreated advanced 
+renal-cell carcinoma are not known.
+METHODS: In this phase 3, randomized, open-label trial, we randomly assigned 
+adults with previously untreated clear-cell, advanced renal-cell carcinoma to 
+receive either nivolumab (240 mg every 2 weeks) plus cabozantinib (40 mg once 
+daily) or sunitinib (50 mg once daily for 4 weeks of each 6-week cycle). The 
+primary end point was progression-free survival, as determined by blinded 
+independent central review. Secondary end points included overall survival, 
+objective response as determined by independent review, and safety. 
+Health-related quality of life was an exploratory end point.
+RESULTS: Overall, 651 patients were assigned to receive nivolumab plus 
+cabozantinib (323 patients) or sunitinib (328 patients). At a median follow-up 
+of 18.1 months for overall survival, the median progression-free survival was 
+16.6 months (95% confidence interval [CI], 12.5 to 24.9) with nivolumab plus 
+cabozantinib and 8.3 months (95% CI, 7.0 to 9.7) with sunitinib (hazard ratio 
+for disease progression or death, 0.51; 95% CI, 0.41 to 0.64; P<0.001). The 
+probability of overall survival at 12 months was 85.7% (95% CI, 81.3 to 89.1) 
+with nivolumab plus cabozantinib and 75.6% (95% CI, 70.5 to 80.0) with sunitinib 
+(hazard ratio for death, 0.60; 98.89% CI, 0.40 to 0.89; P = 0.001). An objective 
+response occurred in 55.7% of the patients receiving nivolumab plus cabozantinib 
+and in 27.1% of those receiving sunitinib (P<0.001). Efficacy benefits with 
+nivolumab plus cabozantinib were consistent across subgroups. Adverse events of 
+any cause of grade 3 or higher occurred in 75.3% of the 320 patients receiving 
+nivolumab plus cabozantinib and in 70.6% of the 320 patients receiving 
+sunitinib. Overall, 19.7% of the patients in the combination group discontinued 
+at least one of the trial drugs owing to adverse events, and 5.6% discontinued 
+both. Patients reported better health-related quality of life with nivolumab 
+plus cabozantinib than with sunitinib.
+CONCLUSIONS: Nivolumab plus cabozantinib had significant benefits over sunitinib 
+with respect to progression-free survival, overall survival, and likelihood of 
+response in patients with previously untreated advanced renal-cell carcinoma. 
+(Funded by Bristol Myers Squibb and others; CheckMate 9ER ClinicalTrials.gov 
+number, NCT03141177.).
+
+Copyright © 2021 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2026982
+PMCID: PMC8436591
+PMID: 33657295 [Indexed for MEDLINE]

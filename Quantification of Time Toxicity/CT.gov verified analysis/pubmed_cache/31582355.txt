@@ -1,0 +1,105 @@
+12. Lancet Oncol. 2019 Nov;20(11):1506-1517. doi: 10.1016/S1470-2045(19)30626-6. 
+Epub 2019 Sep 30.
+
+Nivolumab versus chemotherapy in patients with advanced oesophageal squamous 
+cell carcinoma refractory or intolerant to previous chemotherapy (ATTRACTION-3): 
+a multicentre, randomised, open-label, phase 3 trial.
+
+Kato K(1), Cho BC(2), Takahashi M(3), Okada M(4), Lin CY(5), Chin K(6), Kadowaki 
+S(7), Ahn MJ(8), Hamamoto Y(9), Doki Y(10), Yen CC(11), Kubota Y(12), Kim 
+SB(13), Hsu CH(14), Holtved E(15), Xynos I(16), Kodani M(17), Kitagawa Y(18).
+
+Author information:
+(1)Department of Gastrointestinal Medical Oncology, National Cancer Center 
+Hospital, Tokyo, Japan. Electronic address: kenkato@ncc.go.jp.
+(2)Division of Medical Oncology, Yonsei Cancer Center, Yonsei University College 
+of Medicine, Seoul, South Korea.
+(3)Department of Medical Oncology, Tohoku University Hospital, Sendai, Japan.
+(4)Department of Surgical Oncology, Hiroshima University Hospital, Hiroshima, 
+Japan.
+(5)Department of Hematology and Oncology, China Medical University Hospital and 
+School of Pharmacy, China Medical University, Taichung City, Taiwan.
+(6)Gastroenterological Chemotherapy Department, Cancer Institute Hospital of 
+Japanese Foundation for Cancer Research, Tokyo, Japan.
+(7)Department of Clinical Oncology, Aichi Cancer Center Hospital, Nagoya, Japan.
+(8)Department of Hematology-Oncology, Samsung Medical Center, Sungkyunkwan 
+University School of Medicine, Seoul, South Korea.
+(9)Department of Internal Medicine, Keio Cancer Center, School of Medicine, Keio 
+University, Tokyo, Japan.
+(10)Department of Surgery, Osaka University Hospital, Osaka, Japan.
+(11)Division of Medical Oncology, Center for Immuno-oncology, Department of 
+Oncology, Taipei Veterans General Hospital and National Yang-Ming University 
+School of Medicine, Taipei, Taiwan.
+(12)Department of Oncology, Showa University Hospital, Tokyo, Japan.
+(13)Department of Oncology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, South Korea.
+(14)Department of Oncology, National Taiwan University Hospital, Taipei, Taiwan.
+(15)Department of Clinical Oncology, Odense University Hospital, Odense, 
+Denmark.
+(16)Oncology Clinical Development, Bristol-Myers Squibb, Princeton, NJ, USA.
+(17)Department of Oncology, ONO Pharmaceutical Company, Osaka, Japan.
+(18)Department of Surgery, Keio University School of Medicine, Tokyo, Japan.
+
+Erratum in
+    Lancet Oncol. 2019 Nov;20(11):e613. doi: 10.1016/S1470-2045(19)30646-1.
+
+Comment in
+    Lancet Oncol. 2019 Nov;20(11):1468-1469. doi: 10.1016/S1470-2045(19)30621-7.
+    Nat Rev Clin Oncol. 2019 Dec;16(12):723. doi: 10.1038/s41571-019-0289-y.
+
+BACKGROUND: Chemotherapy for patients with advanced oesophageal squamous cell 
+carcinoma offers poor long-term survival prospects. We report the final analysis 
+from our study of the immune checkpoint PD-1 inhibitor nivolumab versus 
+chemotherapy in patients with previously treated advanced oesophageal squamous 
+cell carcinoma.
+METHODS: We did a multicentre, randomised, open-label, phase 3 trial 
+(ATTRACTION-3) at 90 hospitals and cancer centres in Denmark, Germany, Italy, 
+Japan, South Korea, Taiwan, the UK, and the USA. We enrolled patients aged 20 
+years and older with unresectable advanced or recurrent oesophageal squamous 
+cell carcinoma (regardless of PD-L1 expression), at least one measurable or 
+non-measurable lesion per Response Evaluation Criteria in Solid Tumors (RECIST) 
+version 1.1, a baseline Eastern Cooperative Oncology Group performance status of 
+0-1, and who were refractory or intolerant to one previous 
+fluoropyrimidine-based and platinum-based chemotherapy and had a life expectancy 
+of at least 3 months. Patients were randomly assigned (1:1) to either nivolumab 
+(240 mg for 30 min every 2 weeks) or investigator's choice of chemotherapy 
+(paclitaxel 100 mg/m2 for at least 60 min once per week for 6 weeks then 1 week 
+off; or docetaxel 75 mg/m2 for at least 60 min every 3 weeks), all given 
+intravenously. Treatment continued until disease progression assessed by the 
+investigator per RECIST version 1.1 or unacceptable toxicity. Randomisation was 
+done using an interactive web response system with a block size of four and 
+stratified according to geographical region (Japan vs rest of the world), number 
+of organs with metastases, and PD-L1 expression. Patients and investigators were 
+not masked to treatment allocation. The primary endpoint was overall survival, 
+defined as the time from randomisation until death from any cause, in the 
+intention-to-treat population that included all randomly assigned patients. 
+Safety was assessed in all patients who received at least one dose of the 
+assigned treatment. This trial is registered with ClinicalTrials.gov, number 
+NCT02569242, and follow-up for long-term outcomes is ongoing.
+FINDINGS: Between Jan 7, 2016, and May 25, 2017, we assigned 419 patients to 
+treatment: 210 to nivolumab and 209 to chemotherapy. At the time of data cutoff 
+on Nov 12, 2018, median follow-up for overall survival was 10·5 months (IQR 
+4·5-19·0) in the nivolumab group and 8·0 months (4·6-15·2) in the chemotherapy 
+group. At a minimum follow-up time (ie, time from random assignment of the last 
+patient to data cutoff) of 17·6 months, overall survival was significantly 
+improved in the nivolumab group compared with the chemotherapy group (median 
+10·9 months, 95% CI 9·2-13·3 vs 8·4 months, 7·2-9·9; hazard ratio for death 
+0·77, 95% CI 0·62-0·96; p=0·019). 38 (18%) of 209 patients in the nivolumab 
+group had grade 3 or 4 treatment-related adverse events compared with 131 (63%) 
+of 208 patients in the chemotherapy group. The most frequent grade 3 or 4 
+treatment-related adverse events were anaemia (four [2%]) in the nivolumab group 
+and decreased neutrophil count (59 [28%]) in the chemotherapy group. Five deaths 
+were deemed treatment-related: two in the nivolumab group (one each of 
+interstitial lung disease and pneumonitis) and three in the chemotherapy group 
+(one each of pneumonia, spinal cord abscess, and interstitial lung disease).
+INTERPRETATION: Nivolumab was associated with a significant improvement in 
+overall survivaland a favourable safety profile compared with chemotherapy in 
+previously treated patients with advanced oesophageal squamous cell carcinoma, 
+and might represent a new standard second-line treatment option for these 
+patients.
+FUNDING: ONO Pharmaceutical Company and Bristol-Myers Squibb.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(19)30626-6
+PMID: 31582355 [Indexed for MEDLINE]

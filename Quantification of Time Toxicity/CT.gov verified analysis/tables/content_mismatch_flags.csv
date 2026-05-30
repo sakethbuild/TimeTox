@@ -1,0 +1,3 @@
+filename,nct,pipe_drugs,ct_drugs,n_pipe,n_ct,n_overlap,mismatch
+PMID 37276510 CT_Summary_SoE.pdf,NCT02348489,cytarabine,guadecitabine,1,1,0,True
+PMID 38059497 CT_Summary_SoE.pdf,NCT03750786,bevacizumab,leucovorin,1,1,0,True

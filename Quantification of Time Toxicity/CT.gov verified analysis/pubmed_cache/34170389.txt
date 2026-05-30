@@ -1,0 +1,55 @@
+6. Cancer Chemother Pharmacol. 2021 Oct;88(4):655-664. doi: 
+10.1007/s00280-021-04315-0. Epub 2021 Jun 25.
+
+Pharmacodynamics of cerebrospinal fluid asparagine after asparaginase.
+
+Panetta JC(1), Liu Y(1), Bottiglieri T(2), Arning E(2), Cheng C(3), Karol SE(4), 
+Yang JJ(1), Zhou Y(3), Inaba H(4), Pui CH(4), Jeha S(4), Relling MV(5).
+
+Author information:
+(1)Department of Pharmaceutical Sciences, St. Jude Children's Research Hospital, 
+262 Danny Thomas Place, Mail Stop 260, Memphis, TN, 38105, US.
+(2)Center of Metabolomics, Institute of Metabolic Disease, Baylor Scott and 
+White Research Institute, Dallas, TX, US.
+(3)Department of Biostatistics, St. Jude Children's Research Hospital, Memphis, 
+TN, US.
+(4)Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN, 
+US.
+(5)Department of Pharmaceutical Sciences, St. Jude Children's Research Hospital, 
+262 Danny Thomas Place, Mail Stop 260, Memphis, TN, 38105, US. 
+mary.relling@stjude.org.
+
+Comment in
+    Cancer Chemother Pharmacol. 2021 Nov;88(5):919-920. doi: 
+10.1007/s00280-021-04345-8.
+
+PURPOSE: We evaluated effects of asparaginase dosage, schedule, and formulation 
+on CSF asparagine in children with acute lymphoblastic leukemia (ALL).
+METHODS: We evaluated CSF asparagine (2114 samples) and serum asparaginase (5007 
+samples) in 482 children with ALL treated on the Total XVI study (NCT00549848). 
+Patients received one or two 3000 IU/m2 IV pegaspargase doses during induction 
+and were then randomized in continuation to receive 2500 IU/m2 or 3500 IU/m2 IV 
+intermittently (four doses) on the low-risk (LR) or continuously (15 doses) on 
+the standard/high risk (SHR) arms. A pharmacokinetic-pharmacodynamic model was 
+used to estimate the duration of CSF asparagine depletion below 1 uM.
+RESULTS: During induction, CSF asparagine depletion after two doses of 
+pegaspargase was twice as long as one dose (median 30.7 vs 15.3 days, 
+p < 0.001). During continuation, the higher dose increased the CSF asparagine 
+depletion duration by only 9% on the LR and 1% in the SHR arm, consistent with 
+the nonlinear pharmacokinetics of serum asparaginase. Pegaspargase caused a 
+longer CSF asparagine depletion duration (1.3-5.3-fold) compared to those who 
+were switched to erwinase (p < 0.001). The median (quartile range) serum 
+asparaginase activity needed to maintain CSF asparagine below 1 µM was 0.44 
+(0.20, 0.99) IU/mL. Although rare, CNS relapse was higher with decreased CSF 
+asparagine depletion (p = 0.0486); there was no association with relapse at any 
+site (p = 0.3).
+CONCLUSIONS: The number of pegaspargase doses has a stronger influence on CSF 
+asparagine depletion than did dosage, pegaspargase depleted CSF asparagine 
+longer than erwinase, and CSF asparagine depletion may prevent CNS relapses.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00280-021-04315-0
+PMCID: PMC8424750
+PMID: 34170389 [Indexed for MEDLINE]

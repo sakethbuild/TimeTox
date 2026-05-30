@@ -1,0 +1,104 @@
+5. N Engl J Med. 2017 Nov 9;377(19):1824-1835. doi: 10.1056/NEJMoa1709030. Epub 
+2017 Sep 10.
+
+Adjuvant Nivolumab versus Ipilimumab in Resected Stage III or IV Melanoma.
+
+Weber J(1), Mandala M(1), Del Vecchio M(1), Gogas HJ(1), Arance AM(1), Cowey 
+CL(1), Dalle S(1), Schenker M(1), Chiarion-Sileni V(1), Marquez-Rodas I(1), Grob 
+JJ(1), Butler MO(1), Middleton MR(1), Maio M(1), Atkinson V(1), Queirolo P(1), 
+Gonzalez R(1), Kudchadkar RR(1), Smylie M(1), Meyer N(1), Mortier L(1), Atkins 
+MB(1), Long GV(1), Bhatia S(1), Lebbé C(1), Rutkowski P(1), Yokota K(1), 
+Yamazaki N(1), Kim TM(1), de Pril V(1), Sabater J(1), Qureshi A(1), Larkin J(1), 
+Ascierto PA(1); CheckMate 238 Collaborators.
+
+Collaborators: Cinat G, Zarba J, Brown M, Carlino M, Cebon J, Haydon A, Hersey 
+P, Hill A, McNeil C, Millward M, Laimer M, Richtig E, Bauriain JF, Beuselinck B, 
+Kruse V, Neyns B, Claveau J, Miller W, Savage K, Arenberger P, Krajsova I, 
+Kubala E, Vantuchova Y, Hernberg M, Skyttä T, Dreno B, Bafaloukos D, Liszkay G, 
+Donnellan P, Gullo G, McCaffrey J, Cognetti F, Guidoboni M, Queirolo P, Fujimoto 
+M, Ihn H, Inozume T, Koga H, Ozawa K, Takenouchi T, Uchi H, Yoshikawa S, Lee DH, 
+Lee J, Shin SJ, Hospers G, Koornstra R, Van Den Eertwegh A, Vreugdenhil G, 
+Nyakas M, Straume O, Pikiel J, Ziobro M, Ciuleanu T, Cohen G, Jacobs C, McAdam 
+G, Rapoport BL, Vorobiof D, Berrocal A, De La Cruz L, Carneiro A, Ny L, Dummer 
+R, Chen YY, Lin CY, Faust G, Herbert C, Lorigan P, Nathan P, Ottensmeier C, 
+Plummer R, Wagstaff J, Agarwala S, Amatruda T, Amin A, Curti B, Daniels G, Daud 
+A, Fecher L, Gaughan E, Hamid O, Hernandez Aya L, Hutchins L, Infante J, Kendra 
+K, Khushalani N, Kim K, Luke J, Lutzky J, Nair S, Ott PA, Pavlick A, Pecora A, 
+Reuben D, Salama A, Shoushtari A, Silk A, Taylor M, Thomas S, Zaiden R.
+
+Author information:
+(1)From New York University Perlmutter Cancer Center, New York (J.W.); Papa 
+Giovanni XXIII Cancer Center Hospital, Bergamo (M. Mandala), Medical Oncology, 
+National Cancer Institute, Milan (M.D.V.), Oncology Institute of Veneto Istituti 
+di Ricovero e Cura a Carattere Scientifico, Padua (V.C.-S.), Center for 
+Immuno-Oncology, University Hospital of Siena, Istituto Toscano Tumori, Siena 
+(M. Maio), Ospedale Policlinico San Martino, Genoa (P.Q.), and Istituto 
+Nazionale Tumori Fondazione Pascale, Naples (P.A.A.) - all in Italy; National 
+and Kapodistrian University of Athens, Athens (H.J.G.); Hospital Clinic de 
+Barcelona, Barcelona (A.M.A.), and General University Hospital Gregorio Marañón, 
+Madrid (I.M.-R.) - both in Spain; Texas Oncology-Baylor Cancer Center, Dallas 
+(C.L.C.); Hospices Civils de Lyon, Pierre Bénite (S.D.), Aix-Marseille 
+University, Hospital de la Timone, Marseille (J.-J.G.), Institut Universitaire 
+du Cancer de Toulouse and Centre Hospitalier Universitaire (CHU), Toulouse 
+(N.M.), Université Lille, INSERM Unité 1189, CHU Lille, Lille (L.M.), and 
+Assistance Publique-Hôpitaux de Paris, Dermatology and Centres d'Investigation 
+Clinique, INSERM Unité 976, Hôpital Saint Louis, Université Paris Diderot, Paris 
+(C.L.) - all in France; Oncology Center Sf. Nectarie, Craiova, Romania (M. 
+Schenker); Princess Margaret Cancer Centre, University of Toronto, Toronto 
+(M.O.B.), and Cross Cancer Institute, Edmonton, AB (M. Smylie) - both in Canada; 
+the Department of Oncology, University of Oxford, Oxford (M.R.M.), and Royal 
+Marsden NHS Foundation Trust, London (J.L.) - both in the United Kingdom; 
+Gallipoli Medical Research Foundation and University of Queensland, Queensland, 
+VIC (V.A.), and Melanoma Institute Australia, University of Sydney, and Royal 
+North Shore and Mater Hospitals, Sydney (G.V.L.) - all in Australia; University 
+of Colorado, Denver (R.G.); Winship Cancer Institute, Emory University School of 
+Medicine, Atlanta (R.R.K.); Georgetown-Lombardi Comprehensive Cancer Center, 
+Washington DC (M.B.A.); University of Washington, Seattle (S.B.); Maria 
+Sklodowska-Curie Institute-Oncology Center, Warsaw, Poland (P.R.); Nagoya 
+University Graduate School of Medicine, Nagoya (K.Y.), and the National Cancer 
+Center Hospital, Tokyo (N.Y.) - both in Japan; Seoul National University 
+Hospital, Seoul, South Korea (T.M.K.); and Bristol-Myers Squibb, Princeton, NJ 
+(V.P, J.S., A.Q.).
+
+Comment in
+    Nat Rev Clin Oncol. 2017 Nov;14(11):647. doi: 10.1038/nrclinonc.2017.159.
+    N Engl J Med. 2017 Nov 9;377(19):1888-1890. doi: 10.1056/NEJMe1711199.
+    N Engl J Med. 2018 Feb 15;378(7):678-9. doi: 10.1056/NEJMc1716071.
+    N Engl J Med. 2018 Feb 15;378(7):679. doi: 10.1056/NEJMc1716071.
+    Br J Dermatol. 2018 Apr;178(4):817-820. doi: 10.1111/bjd.16347.
+    N Engl J Med. 2019 Apr 4;380(14):1374-1376. doi: 10.1056/NEJMc1902228.
+
+BACKGROUND: Nivolumab and ipilimumab are immune checkpoint inhibitors that have 
+been approved for the treatment of advanced melanoma. In the United States, 
+ipilimumab has also been approved as adjuvant therapy for melanoma on the basis 
+of recurrence-free and overall survival rates that were higher than those with 
+placebo in a phase 3 trial. We wanted to determine the efficacy of nivolumab 
+versus ipilimumab for adjuvant therapy in patients with resected advanced 
+melanoma.
+METHODS: In this randomized, double-blind, phase 3 trial, we randomly assigned 
+906 patients (≥15 years of age) who were undergoing complete resection of stage 
+IIIB, IIIC, or IV melanoma to receive an intravenous infusion of either 
+nivolumab at a dose of 3 mg per kilogram of body weight every 2 weeks (453 
+patients) or ipilimumab at a dose of 10 mg per kilogram every 3 weeks for four 
+doses and then every 12 weeks (453 patients). The patients were treated for a 
+period of up to 1 year or until disease recurrence, a report of unacceptable 
+toxic effects, or withdrawal of consent. The primary end point was 
+recurrence-free survival in the intention-to-treat population.
+RESULTS: At a minimum follow-up of 18 months, the 12-month rate of 
+recurrence-free survival was 70.5% (95% confidence interval [CI], 66.1 to 74.5) 
+in the nivolumab group and 60.8% (95% CI, 56.0 to 65.2) in the ipilimumab group 
+(hazard ratio for disease recurrence or death, 0.65; 97.56% CI, 0.51 to 0.83; 
+P<0.001). Treatment-related grade 3 or 4 adverse events were reported in 14.4% 
+of the patients in the nivolumab group and in 45.9% of those in the ipilimumab 
+group; treatment was discontinued because of any adverse event in 9.7% and 42.6% 
+of the patients, respectively. Two deaths (0.4%) related to toxic effects were 
+reported in the ipilimumab group more than 100 days after treatment.
+CONCLUSIONS: Among patients undergoing resection of stage IIIB, IIIC, or IV 
+melanoma, adjuvant therapy with nivolumab resulted in significantly longer 
+recurrence-free survival and a lower rate of grade 3 or 4 adverse events than 
+adjuvant therapy with ipilimumab. (Funded by Bristol-Myers Squibb and Ono 
+Pharmaceutical; CheckMate 238 ClinicalTrials.gov number, NCT02388906 ; Eudra-CT 
+number, 2014-002351-26 .).
+
+DOI: 10.1056/NEJMoa1709030
+PMID: 28891423 [Indexed for MEDLINE]

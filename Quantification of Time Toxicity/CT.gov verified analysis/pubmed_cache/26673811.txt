@@ -1,0 +1,88 @@
+4. Lancet. 2016 Feb 20;387(10020):770-8. doi: 10.1016/S0140-6736(15)00667-4. Epub
+ 2015 Dec 7.
+
+Ibrutinib versus temsirolimus in patients with relapsed or refractory 
+mantle-cell lymphoma: an international, randomised, open-label, phase 3 study.
+
+Dreyling M(1), Jurczak W(2), Jerkeman M(3), Silva RS(4), Rusconi C(5), Trneny 
+M(6), Offner F(7), Caballero D(8), Joao C(9), Witzens-Harig M(10), Hess G(11), 
+Bence-Bruckler I(12), Cho SG(13), Bothos J(14), Goldberg JD(14), Enny C(14), 
+Traina S(14), Balasubramanian S(15), Bandyopadhyay N(14), Sun S(14), Vermeulen 
+J(16), Rizo A(14), Rule S(17).
+
+Author information:
+(1)Department of Medicine III, Klinikum der Universität München, Campus 
+Grosshadern, Munich, Germany. Electronic address: 
+Martin.Dreyling@med.uni-muenchen.de.
+(2)Department of Hematology, Jagiellonian University, Krakow, Poland.
+(3)Skånes Universitetssjukhus, Lund, Lund, Sweden.
+(4)Instituto De Ensino E Pesquisa São Lucas, São Paulo, Brazil.
+(5)Hematology Division, Hematology and Oncology Department, Niguarda Cancer 
+Center, Niguarda Hospital, Milan, Italy.
+(6)Vseobecna fakultni nemocnice, Interni Klinika-Klinika Hematologie, Urologicka 
+klinika, Prague, Czech Republic.
+(7)UZ Gent-Departement Oncologie, Gent, Belgium.
+(8)Instituto Biosanitario de Salamanca, Hospital Clinico Universitario 
+Salamanca, Salamanca, Spain.
+(9)Champalimaud Centre for the Unknown, Hematology Department, Lisbon, Portugal; 
+Instituto Português de Oncologia, Lisbon, Portugal.
+(10)Klinikum der Ruprechts-Karls-Universität Heidelberg-Med. Klinik u. 
+Poliklinik V, Heidelberg, Germany.
+(11)University Medical School of the Johannes Gutenberg-University, Department 
+of Hematology, Oncology and Pneumology, Mainz, Germany.
+(12)The Ottawa Hospital-General Campus, Ottawa-Hospital General Campus, Ottawa, 
+Canada.
+(13)Seoul St Mary's Hospital, Seocho-gu, Seoul, South Korea.
+(14)Janssen Research & Development, LLC, Raritan, NJ, USA.
+(15)Janssen Research & Development, LLC, Spring House, PA, USA.
+(16)Janssen Research & Development, LLC, Leiden, The Netherlands.
+(17)Derriford Hospital, Plymouth, Devon, UK.
+
+Erratum in
+    Lancet. 2016 Feb 20;387(10020):750.
+
+Comment in
+    Lancet. 2016 Feb 20;387(10020):728-9. doi: 10.1016/S0140-6736(15)01040-5.
+    Nat Rev Clin Oncol. 2016 Feb;13(2):65. doi: 10.1038/nrclinonc.2015.231.
+
+BACKGROUND: Mantle-cell lymphoma is an aggressive B-cell lymphoma with a poor 
+prognosis. Both ibrutinib and temsirolimus have shown single-agent activity in 
+patients with relapsed or refractory mantle-cell lymphoma. We undertook a phase 
+3 study to assess the efficacy and safety of ibrutinib versus temsirolimus in 
+relapsed or refractory mantle-cell lymphoma.
+METHODS: This randomised, open-label, multicentre, phase 3 clinical trial 
+enrolled patients with relapsed or refractory mantle-cell lymphoma confirmed by 
+central pathology in 21 countries who had received one or more 
+rituximab-containing treatments. Patients were stratified by previous therapy 
+and simplified mantle-cell lymphoma international prognostic index score, and 
+were randomly assigned with a computer-generated randomisation schedule to 
+receive daily oral ibrutinib 560 mg or intravenous temsirolimus (175 mg on days 
+1, 8, and 15 of cycle 1; 75 mg on days 1, 8, and 15 of subsequent 21-day 
+cycles). Randomisation was balanced by using randomly permuted blocks. The 
+primary efficacy endpoint was progression-free survival assessed by a masked 
+independent review committee with the primary hypothesis that ibrutinib compared 
+with temsirolimus significantly improves progression-free survival. The analysis 
+followed the intention-to-treat principle. The trial is ongoing and is 
+registered with ClinicalTrials.gov (number NCT01646021) and with the EU Clinical 
+Trials Register, EudraCT (number 2012-000601-74).
+FINDINGS: Between Dec 10, 2012, and Nov 26, 2013, 280 patients were randomised 
+to ibrutinib (n=139) or temsirolimus (n=141). Primary efficacy analysis showed 
+significant improvement in progression-free survival (p<0·0001) for patients 
+treated with ibrutinib versus temsirolimus (hazard ratio 0·43 [95% CI 
+0·32-0·58]; median progression-free survival 14·6 months [95% CI 10·4-not 
+estimable] vs 6·2 months [4·2-7·9], respectively). Ibrutinib was better 
+tolerated than temsirolimus, with grade 3 or higher treatment-emergent adverse 
+events reported for 94 (68%) versus 121 (87%) patients, and fewer 
+discontinuations of study medication due to adverse events for ibrutinib versus 
+temsirolimus (9 [6%] vs 36 [26%]).
+INTERPRETATION: Ibrutinib treatment resulted in significant improvement in 
+progression-free survival and better tolerability versus temsirolimus in 
+patients with relapsed or refractory mantle-cell lymphoma. These data lend 
+further support to the positive benefit-risk ratio for ibrutinib in relapsed or 
+refractory mantle-cell lymphoma.
+FUNDING: Janssen Research & Development, LLC.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(15)00667-4
+PMID: 26673811 [Indexed for MEDLINE]

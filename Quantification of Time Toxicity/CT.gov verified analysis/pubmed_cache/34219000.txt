@@ -1,0 +1,152 @@
+7. Ann Oncol. 2021 Aug;32(8):994-1004. doi: 10.1016/j.annonc.2021.05.801. Epub
+2021  Jul 1.
+
+Primary results from IMpassion131, a double-blind, placebo-controlled, 
+randomised phase III trial of first-line paclitaxel with or without atezolizumab 
+for unresectable locally advanced/metastatic triple-negative breast cancer.
+
+Miles D(1), Gligorov J(2), André F(3), Cameron D(4), Schneeweiss A(5), Barrios 
+C(6), Xu B(7), Wardley A(8), Kaen D(9), Andrade L(10), Semiglazov V(11), 
+Reinisch M(12), Patel S(13), Patre M(14), Morales L(14), Patel SL(15), Kaul 
+M(13), Barata T(16), O'Shaughnessy J(17); IMpassion131 investigators.
+
+Collaborators: Zhang Q, Xu B, Shao Z, Wang X, Geng C, Yan X, Tong Z, Shen K, Yin 
+Y, Sun T, Yang J, Feng J, Yan M, Wang Y, Liu Q, Zhang S, De Laurentiis M, 
+Santoro A, Guarneri V, Colleoni M, Natoli C, Cortesi L, Placido S, Gianni L, 
+Ferrau F, Livi L, Zambelli A, Del Mastro L, Tonini G, Montemurro F, Bianchi G, 
+Pedersini R, Prete S, Allegrini G, Naso G, Vici P, Loirat D, Mailliez A, Priou 
+F, Tredan O, Dalenc F, Perrin C, Gligorov J, Timar David M, Dohollou N, Teixeira 
+L, Brocard F, Arnaud A, Delaloge S, Spano JP, Mansi L, Andrade L, Damian F, 
+Pedrini J, Aleixo S, Hegg R, Junior R, Reinisch M, Schmidt M, Wenzel C, Grischke 
+EM, Schneeweiss A, Just M, Harbeck N, Schumacher C, Peters U, Fischer D, 
+Forstbauer H, Liersch R, Warner E, Bouganim N, Doyle C, Price Hiller J, 
+Vandenberg T, Pavic M, Robinson A, Roldan Urgoiti G, Califaretti N, Alacacioglu 
+A, Gumus M, Yalcin B, Cicin I, Kose F, Uygun K, Kaplan M, Cubukcu E, Wardley A, 
+Harries M, Miles D, Doval D, Gupta S, Mohapatra P, Chatterjee S, Ghadyalpatil N, 
+Singhal M, Nag S, Agarwal A, Wolf I, Gal Yam E, Yerushalmi R, Peretz T, Fried G, 
+Ben Baruch N, Katz D, Hamilton E, Kayali F, Brufsky A, Telli M, Wright G, Oyola 
+R, Rakowski T, Graff S, Tjulandin S, Semiglazov V, Aparicio A, Ruiz Borrego M, 
+Merino L, Guerra Martinez J, Lopez E, Yamashita T, Ohtani S, Inoue K, Ito Y, 
+Niikura N, Nakayama T, Sagara Y, Yanagita Y, Kamada Y, Kaneko K, Kaen D, Nervo 
+A, Eniu A, Schenker M, Priester P, Melichar B, Zimovjanova M, Sormova P, 
+Sufliarsky J, Kakalejcik M, Belbaraka R, Errihani H, Le Than D, Pham D, 
+Aravantinos G, Papadimitriou C, Koumakis G, Papandreou C, Podolski P, Tabane K.
+
+Author information:
+(1)Mount Vernon Cancer Centre, Northwood, UK. Electronic address: 
+David.miles@doctors.org.uk.
+(2)Medical Oncology Department, Institut Universitaire de Cancérologie 
+Assistance Publique-Hôpitaux de Paris-Sorbonne Université, Paris, France.
+(3)Department of Medical Oncology, Gustave Roussy, Université Paris Sud, 
+Villejuif, France.
+(4)University of Edinburgh, Edinburgh, UK.
+(5)Division of Gynecologic Oncology, National Center for Tumor Diseases, 
+University of Heidelberg, Heidelberg, Germany.
+(6)Latin American Cooperative Oncology Group, Porto Alegre RS, Brazil.
+(7)National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences, 
+Beijing, China.
+(8)National Institute for Health Research Manchester Clinical Research Facility 
+at The Christie NHS Foundation Trust, Manchester, UK; Outreach Research & 
+Innovation Group, Manchester, UK.
+(9)Centro Oncológico Riojano Integral and Universidad Nacional de La Rioja, La 
+Rioja, Argentina.
+(10)Clinical Oncology, Santa Casa de Misericórdia da Bahia, Salvador, Brazil.
+(11)NN Petrov Research Institute of Oncology, St. Petersburg, Russia.
+(12)Kliniken Essen-Mitte, Essen, Germany.
+(13)Product Development Oncology, Genentech, Inc., South San Francisco, USA.
+(14)Global Product Development Medical Affairs Oncology, F. Hoffmann-La Roche 
+Ltd, Basel, Switzerland.
+(15)Patient-Centered Outcomes Research, Genentech, Inc., South San Francisco, 
+USA.
+(16)Pharma Development Biostatistics Oncology, F. Hoffmann-La Roche Ltd, Basel, 
+Switzerland.
+(17)Baylor University Medical Center, Texas Oncology, US Oncology, Dallas, USA.
+
+BACKGROUND: In the phase III IMpassion130 trial, combining atezolizumab with 
+first-line nanoparticle albumin-bound-paclitaxel for advanced triple-negative 
+breast cancer (aTNBC) showed a statistically significant progression-free 
+survival (PFS) benefit in the intention-to-treat (ITT) and programmed 
+death-ligand 1 (PD-L1)-positive populations, and a clinically meaningful overall 
+survival (OS) effect in PD-L1-positive aTNBC. The phase III KEYNOTE-355 trial 
+adding pembrolizumab to chemotherapy for aTNBC showed similar PFS effects. 
+IMpassion131 evaluated first-line atezolizumab-paclitaxel in aTNBC.
+PATIENTS AND METHODS: Eligible patients [no prior systemic therapy or ≥12 months 
+since (neo)adjuvant chemotherapy] were randomised 2:1 to atezolizumab 840 mg or 
+placebo (days 1, 15), both with paclitaxel 90 mg/m2 (days 1, 8, 15), every 28 
+days until disease progression or unacceptable toxicity. Stratification factors 
+were tumour PD-L1 status, prior taxane, liver metastases and geographical 
+region. The primary endpoint was investigator-assessed PFS, tested 
+hierarchically first in the PD-L1-positive [immune cell expression ≥1%, VENTANA 
+PD-L1 (SP142) assay] population, and then in the ITT population. OS was a 
+secondary endpoint.
+RESULTS: Of 651 randomised patients, 45% had PD-L1-positive aTNBC. At the 
+primary PFS analysis, adding atezolizumab to paclitaxel did not improve 
+investigator-assessed PFS in the PD-L1-positive population [hazard ratio (HR) 
+0.82, 95% confidence interval (CI) 0.60-1.12; P = 0.20; median PFS 6.0 months 
+with atezolizumab-paclitaxel versus 5.7 months with placebo-paclitaxel]. In the 
+PD-L1-positive population, atezolizumab-paclitaxel was associated with more 
+favourable unconfirmed best overall response rate (63% versus 55% with 
+placebo-paclitaxel) and median duration of response (7.2 versus 5.5 months, 
+respectively). Final OS results showed no difference between arms (HR 1.11, 95% 
+CI 0.76-1.64; median 22.1 months with atezolizumab-paclitaxel versus 28.3 months 
+with placebo-paclitaxel in the PD-L1-positive population). Results in the ITT 
+population were consistent with the PD-L1-positive population. The safety 
+profile was consistent with known effects of each study drug.
+CONCLUSION: Combining atezolizumab with paclitaxel did not improve PFS or OS 
+versus paclitaxel alone. CLINICALTRIALS.GOV: NCT03125902.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.annonc.2021.05.801
+PMID: 34219000 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure DM has received honoraria for 
+advisory boards from Roche/Genentech, Genomic Health and Eisai and has been an 
+invited speaker for Roche/Genentech and Genomic Health. JG has received 
+consulting fees from Daichi, Eisai, Genomic Health, Ipsen, Macrogenics, MSD, 
+Mylan, Novartis, Onxeo, Pfizer and Roche/Genentech; research grants (to 
+institution) from Daichi, Eisai, Genomic Health, Novartis, Pfizer, 
+Roche/Genentech and Immunomedics; and travel/accommodation/expenses from Eisai, 
+Genomic Health, Novartis, Pfizer and Roche/Genentech. FA has received research 
+grants (to institution) from AstraZeneca, Lilly, Novartis, Pfizer and Roche and 
+travel/accommodation/expenses from AstraZeneca, GlaxoSmithKline, Novartis and 
+Roche. DC’s institution has received honoraria for his advisory/consultancy 
+roles with Roche and AstraZeneca. AS has received honoraria for scientific talks 
+from Roche, Celgene, AstraZeneca, Pfizer, MSD, Tesaro, Lilly and Novartis, and 
+for advisory/consultancy roles from Roche and AstraZeneca; research funding (to 
+institution) from Roche, Celgene, AbbVie and Molecular Partner; and travel 
+support from Roche, Pfizer and Celgene. CB has received honoraria for 
+advisory/consultancy roles from Boehringer Ingelheim, GSK, Novartis, Pfizer, 
+Lilly, Roche/Genentech, Eisai, MSD, AstraZeneca and Bayer; research 
+grants/funding (to institution) from AbbVie, Amgen, Astellas Pharma, 
+AstraZeneca, Bristol-Myers Squibb, Celgene, Covance, Lilly, Medivation, Merck 
+Serono, MSD, Novartis, Pfizer, PharmaMar and Roche/Genentech; and 
+travel/accommodation/expenses from Boehringer Ingelheim, GSK, Novartis, Pfizer, 
+Lilly, Roche/Genentech, Eisai, MSD, AstraZeneca and Bayer. BX has received 
+honoraria for consulting/advisory roles from Novartis, Roche and AstraZeneca and 
+research funding (to institution) from Pfizer, Roche, AstraZeneca, Novartis and 
+Daiichi-Sankyo. AW reports personal fees from Roche, NAPP, Amgen, MSD, Novartis, 
+Pfizer, AstraZeneca, Pierre Fabre, ACCORD, Athenex, Gerson Lehmann Group, 
+Coleman Expert Network Group and Guidepoint Global, and also reports personal 
+fees and other from Lilly and Daiichi-Sankyo (all outside the submitted work) 
+and employment with AstraZeneca after completion of this work. DK reports 
+consulting fees from Roche, Boehringer Ingelheim, Pfizer, MSD, BMS, Novartis, 
+AstraZeneca, Raffo-Tecnofarma, Varifarma and Takeda and research funding (to 
+institution) from Roche, Lilly Oncology, Clovis, MSD, AbbVie, Takeda, Novartis, 
+Pfizer and Array BioPharma Inc. LA reports consulting/advisory roles for Zodiac 
+Pharma, Janssen-Cilag and Roche/Genentech; speakers’ bureau for Janssen-Cilag, 
+Zodiac Pharma, Merck Sharp & Dohme, Roche/Genentech and Novartis; research 
+funding (to institution) from Bayer, Roche/Genentech, Janssen-Cilag and 
+Regeneron; and travel/accommodation/expenses from Zodiac Pharma. MR reports 
+consulting fees/advisory roles for Roche Pharma AG, Novartis, MSD, AstraZeneca, 
+Hexal, Lilly, Somatex and Pfizer and travel/accommodation/expenses from Pfizer, 
+Celgene and Novartis. MP, LM and TB are employees of and hold shares in F. 
+Hoffmann-La Roche Ltd. SP, SLP and MK are employees of Genentech, Inc., and hold 
+shares in F. Hoffmann-La Roche Ltd. JO’S has received honoraria for 
+advisory/consultancy from AbbVie Inc., Agendia, Amgen Biotechnology, 
+AstraZeneca, Bristol-Myers Squibb, Celgene Corporation, Eisai, Genentech, 
+Genomic Health, GRAIL, Immunomedics, Heron Therapeutics, Ipsen 
+Biopharmaceuticals, Jounce Therapeutics, Lilly, Merck, Myriad, Novartis, Odonate 
+Therapeutics, Pfizer, Puma Biotechnology, Prime Oncology, Roche, Seattle 
+Genetics, Syndax Pharmaceuticals and Takeda. VS has declared no conflicts of 
+interest.

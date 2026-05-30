@@ -1,0 +1,51 @@
+13. J Clin Oncol. 2014 Apr 1;32(10):997-1005. doi: 10.1200/JCO.2013.52.0536. Epub
+ 2013 Dec 2.
+
+Phase III randomized, placebo-controlled, double-blind study of intravenous 
+calcium and magnesium to prevent oxaliplatin-induced sensory neurotoxicity 
+(N08CB/Alliance).
+
+Loprinzi CL(1), Qin R, Dakhil SR, Fehrenbacher L, Flynn KA, Atherton P, Seisler 
+D, Qamar R, Lewis GC, Grothey A.
+
+Author information:
+(1)Charles L. Loprinzi, Rui Qin, Pamela Atherton, Drew Seisler, and Axel 
+Grothey, Alliance Statistics and Data Center, Mayo Clinic, Rochester, MN; Shaker 
+R. Dakhil, Wichita Community Clinical Oncology Program, Wichita, KS; Louis 
+Fehrenbacher, Kaiser Permanente-Vallejo, Vallejo, CA; Kathleen A. Flynn, 
+Michigan Cancer Research Consortium, Ann Arbor, MI; Rubina Qamar, Aurora Cancer 
+Care-Milwaukee West, Wauwatosa, WI; and Grant C. Lewis, Summit Cancer Care, 
+Savannah, GA.
+
+Comment in
+    J Clin Oncol. 2014 Oct 10;32(29):3341. doi: 10.1200/JCO.2014.55.1846.
+    J Clin Oncol. 2014 Oct 10;32(29):3342-3. doi: 10.1200/JCO.2014.57.2537.
+    J Clin Oncol. 2014 Oct 10;32(29):3341. doi: 10.1200/JCO.2014.56.5424.
+
+PURPOSE: Cumulative neurotoxicity is a prominent toxicity of oxaliplatin-based 
+therapy. Intravenous calcium and magnesium have been extensively used to reduce 
+oxaliplatin-induced neurotoxicity. This trial was designed to definitively test 
+whether calcium/magnesium decreases oxaliplatin-related neurotoxicity.
+PATIENTS AND METHODS: In all, 353 patients with colon cancer undergoing adjuvant 
+therapy with FOLFOX (fluorouracil, leucovorin, and oxaliplatin) were randomly 
+assigned to intravenous calcium/magnesium before and after oxaliplatin, a 
+placebo before and after, or calcium/magnesium before and placebo after. The 
+primary end point was cumulative neurotoxicity measured by the sensory scale of 
+the European Organisation for Research and Treatment of Cancer Quality of Life 
+Questionnaire-Chemotherapy-Induced Peripheral Neuropathy 20 tool.
+RESULTS: There were no statistically significant neuropathy differences among 
+the study arms as measured by the primary end point or additional measures of 
+neuropathy, including clinician-determined measurement of the time to grade 2 
+neuropathy by using the National Cancer Institute Common Terminology Criteria 
+for Adverse Events scale or an oxaliplatin-specific neuropathy scale. In 
+addition, calcium/magnesium did not substantially decrease oxaliplatin-induced 
+acute neuropathy.
+CONCLUSION: This study does not support using calcium/magnesium to protect 
+against oxaliplatin-induced neurotoxicity.
+
+DOI: 10.1200/JCO.2013.52.0536
+PMCID: PMC3965262
+PMID: 24297951 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.
